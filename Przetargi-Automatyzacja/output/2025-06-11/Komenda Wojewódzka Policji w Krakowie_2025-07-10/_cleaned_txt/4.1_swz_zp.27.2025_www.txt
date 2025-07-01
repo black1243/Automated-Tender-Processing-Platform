@@ -1,0 +1,494 @@
+Kraków, 06.06.2025 r.
+SPECYFIKACJA WARUNKÓW ZAMÓWIENIA
+Przedmiot zamówienia publicznego:
+Świadczenie usług wykonywania wydruków i kopii w trybie kolor/czarno-białym na urządzeniach dostarczonych przez Wykonawcę.
+Nr sprawy: ZP.27.2025
+Spis treści
+I.	ZAMAWIAJĄCY	3
+II.	INFORMACJE PODSTAWOWE	3
+III.	UDOSTĘPNIANIE DOKUMENTÓW ZAMÓWIENIA I KOMUNIKACJA	3
+IV.	PRZEDMIOT ZAMÓWIENIA	6
+V.	KWALIFIKACJA WYKONAWCÓW	10
+VI.	WARUNKI ZAMÓWIENIA	17
+VII.	PROJEKTOWANE POSTANOWIENIA UMOWY	19
+VIII.	PROCEDURA	19
+IX.	POZOSTAŁE INFORMACJE	20
+ZAMAWIAJĄCY
+Nazwa oraz adres zamawiającego, numer telefonu, adres poczty elektronicznej oraz strony internetowej prowadzonego postępowania;
+Zamawiającym jest:
+Komenda Wojewódzka Policji w Krakowie, ul. Mogilska 109, 31-571 Kraków,
+Wydział ds. Zamówień Publicznych i Funduszy Pomocowych KWP
+tel. 47-83-54-862, e-mail: zamowienia.fundusze@malopolska.policja.gov.pl
+Strona internetowa prowadzonego postepowania: https://malopolska-policja.ezamawiajacy.pl. Na stronie udostępniane będą zmiany i wyjaśnienia treści SWZ oraz inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia.
+Godziny pracy: od poniedziałku do piątku, 7:30-15:30.
+Wskazanie osób uprawnionych do komunikowania się z wykonawcami;
+Osobami uprawnionymi do komunikowania się z wykonawcami są: Błażej Zadwórny, Lucyna Wcisło.
+INFORMACJE PODSTAWOWE
+Tryb udzielenia zamówienia;
+Postępowanie prowadzone jest  w trybie przetargu nieograniczonego zgodnie z art. 132 Ustawy z dnia 11 września 2019r. Prawo zamówień publicznych (dalej Pzp) na zasadach dotyczących zamówień, których wartość jest równa lub przekraczająca progi unijne, o których mowa w art. 3 Ustawy Pzp oraz niniejszej Specyfikacji Warunków Zamówienia (SWZ).
+W przedmiotowym postępowaniu mają zastosowanie rozporządzenia wykonawcze do Pzp.
+Informacja, czy zamawiający przewiduje wybór najkorzystniejszej oferty z możliwością prowadzenia negocjacji;
+Zamawiający nie przewiduje wyboru najkorzystniejszej oferty z możliwością prowadzenia negocjacji.
+Maksymalną liczbę wykonawców, z którymi zamawiający zawrze umowę ramową, jeżeli zamawiający przewiduje zawarcie umowy ramowej;
+Zamawiający nie prowadzi postępowania w celu zawarcia umowy ramowej.
+Informację o zastrzeżeniu możliwości ubiegania się o udzielenie zamówienia wyłącznie przez wykonawców, o których mowa w art. 94, jeżeli zamawiający przewiduje takie wymagania;
+Zamawiający nie zastrzega możliwości ubiegania się o udzielenie zamówienia wyłącznie przez wykonawców, o których mowa w art. 94 Ustawy Pzp.
+Informacja czy zamówienie albo umowa ramowa dotyczy projektu lub programu współfinansowanego ze środków Unii Europejskiej.
+Nie dotyczy.
+UDOSTĘPNIANIE DOKUMENTÓW ZAMÓWIENIA I KOMUNIKACJA
+Informacje o środkach komunikacji elektronicznej, przy użyciu których zamawiający będzie komunikował się z wykonawcami, oraz informacje o wymaganiach technicznych i organizacyjnych sporządzania, wysyłania i odbierania korespondencji elektronicznej;
+W niniejszym postępowaniu komunikacja zamawiającego z wykonawcami odbywa się za pomocą środków komunikacji elektronicznej.
+Informacje w zakresie wymagań technicznych i organizacyjnych związanych z wykorzystaniem Platformy znajdują się na stronie Platformy (https://malopolska-policja.ezamawiajacy.pl) w zakładce Regulacje |i procedury procesu zakupowego (plik Instrukcja dla Wykonawców).
+Korzystanie z Platformy może się odbywać wyłącznie na zasadach i w zakresie wskazanym
+w Instrukcji dla Wykonawcy.
+Zgłoszenie do postępowania wymaga zalogowania Wykonawcy do Systemu na subdomenie https://malopolska-policja.ezamawiajacy.pl lub https://oneplace.marketplanet.pl.
+Wykonawca po wybraniu opcji „przystąp do postępowania” zostanie przekierowany do strony https://oneplace.marketplanet.pl, gdzie zostanie powiadomiony o możliwości zalogowania się lub do założenia bezpłatnego konta. Wykonawca zakłada konto wykonując kroki procesu rejestracyjnego.
+Rejestracja Wykonawcy trwa maksymalnie do 2 dni roboczych. W związku z tym Zamawiający zaleca Wykonawcom uwzględnienie czasu niezbędnego na rejestrację w procesie złożenia Oferty w postaci elektronicznej.
+Rejestracja konta następuje poprzez: kontakt z numerem telefonu podanym w potwierdzeniu lub jeżeli użytkownik nie skontaktuje się telefonicznie konto zostanie aktywowane w ciągu maksymalnie 6 godzin roboczych.
+Po założeniu konta Wykonawca ma możliwość złożenia Oferty w postępowaniu. Komunikacja między Zamawiającym, a Wykonawcami, w szczególności zawiadomienia oraz informacje, przekazywane są przy użyciu środków komunikacji elektronicznej za pośrednictwem Platformy Zakupowej. Za datę przekazania zaświadczeń oraz informacji przyjmuje się datę ich wysłania poprzez kafelek „Wiadomości” kierujący do modułu korespondencji.
+Zamawiający informuje, iż w przypadku jakichkolwiek wątpliwości związanych z zasadami korzystania
+z Platformy, Wykonawca winien skontaktować się z dostawcą rozwiązania teleinformatycznego Platforma zakupowa tel. +48 22 257 22 23 (dni robocze od 9:00-17:00), e-mail: oneplace@marketplanet.pl.
+Zamawiający określa dopuszczalne formaty przesyłanych danych tj. plików o wielkości do 2 GB (pojedynczy plik): txt , rtf , pdf , xps , odt , ods , odp , doc , xls , ppt , docx , xlsx , pptx , csv , jpg , jpeg , tif , tiff , geotiff , png , svg , wav , mp3 , avi , mpg , mpeg , mp4 , m4a , mpeg4 , ogg , ogv , zip , tar , gz , gzip , 7z , html , xhtml , css , xml , xsd , gml , rng , xsl , xslt , tsl , xmlsig , xades , pades , cades , asic , asics , sig , xmlenc , dxf , ath , prd.
+W zależności od formatu kwalifikowanego podpisu (PAdES, XAdES) i jego typu (zewnętrzny, wewnętrzny) Wykonawca dołącza do Systemu uprzednio podpisane dokumenty wraz z wygenerowanym plikiem podpisu (typ zewnętrzny) lub dokument z wszytym podpisem (typ wewnętrzny). Zamawiający określa dopuszczalny format podpisu elektronicznego jako:
+dokumenty w formacie „pdf" zaleca się podpisywać formatem PAdES,
+dopuszcza się podpisanie dokumentów w formacie innym niż „pdf", wtedy będzie wymagany oddzielny plik z podpisem. W związku z tym Wykonawca będzie zobowiązany załączyć, prócz podpisanego dokumentu, oddzielny plik z podpisem.
+Wszystkie pliki składane do Zamawiającego za pośrednictwem Systemu muszą zostać podpisane właściwym podpisem elektronicznym poza Systemem (na własnym komputerze Wykonawcy), o ile postanowienia SWZ lub przepisów tego wymagają. Złożenie podpisu elektronicznego w ramach potwierdzania składania oferty w Systemie nie stanowi czynności podpisania, któregokolwiek ze składanych przez Wykonawcę plików.
+Zamawiający określa informacje na temat kodowania i czasu odbioru danych tj.:
+Plik załączony przez Wykonawcę na Platformie Zakupowej i zapisany, widoczny jest w Systemie, jako zaszyfrowany – format kodowania UTF8. Możliwość otworzenia pliku dostępna jest dopiero po odszyfrowaniu przez Zamawiającego po upływie terminu otwarcia ofert.
+oznaczenie czasu odbioru danych przez Platformę stanowi datę oraz dokładny czas (hh:mm:ss) generowany wg. czasu lokalnego serwera synchronizowanego z Głównym Urzędem Miar, który udostępnia poprzez Internet usługę umożliwiającą synchronizację czasu w systemach komputerowych z czasem urzędowym obowiązującym w Polsce.
+Sposób sporządzenia dokumentów elektronicznych, oświadczeń lub elektronicznych kopii dokumentów lub oświadczeń musi być zgodny z wymaganiami określonymi w rozporządzeniu Prezesa Rady Ministrów z dnia z dnia 30 grudnia 2020 r. w sprawie sposobu sporządzania i przekazywania informacji oraz wymagań technicznych dla dokumentów elektronicznych oraz środków komunikacji elektronicznej w postępowaniu o udzielenie zamówienia publicznego lub konkursie oraz rozporządzeniu Ministra Rozwoju, Pracy i Technologii z dnia 23 grudnia 2020 r. w sprawie podmiotowych środków dowodowych oraz innych dokumentów lub oświadczeń, jakich może żądać Zamawiający od Wykonawcy.
+Wymagania sprzętowo-aplikacyjne
+Zamawiający określa niezbędne wymagania sprzętowo-aplikacyjne umożliwiające pracę na Platformie Zakupowej tj.:
+Stały dostęp do sieci Internet o gwarantowanej przepustowości nie mniejszej niż 512 kb/s;
+Komputer klasy PC lub MAC spełniający wymagania zainstalowanego systemu operacyjnego oraz wymagania używanej przeglądarki internetowej;
+Zainstalowana dowolna przeglądarka internetowa w wersji wspieranej przez producenta obsługująca TLS 1.2;
+Włączona obsługa JavaScript;
+Zainstalowany program Acrobat Reader lub inny obsługujący pliki w formacie .pdf.
+Informacje o sposobie komunikowania się zamawiającego z wykonawcami w inny sposób niż przy użyciu środków komunikacji elektronicznej w przypadku zaistnienia jednej z sytuacji określonych w art. 65 ust. 1, art. 66 i art. 69;
+art. 65 ust. 1 – nie dotyczy;
+art. 66 – nie dotyczy;
+art. 69 – nie dotyczy.
+Wymóg lub możliwość złożenia ofert w postaci katalogów elektronicznych lub dołączenia katalogów elektronicznych do oferty, w sytuacji określonej w art. 93;
+Zamawiający nie przewiduje złożenia oferty w postaci katalogów elektronicznych.
+Ochrona danych osobowych.
+Zgodnie z art. 13 ust. 1-3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych
+i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1), dalej „RODO” oraz art. 19 ustawy z dnia 11 września 2019 roku Prawo zamówień publicznych (Dz.U. z 2019 roku poz.2019), dalej „Pzp” informuję, że:
+administratorem Pani/Pana danych osobowych jest Komendant Wojewódzki Policji w Krakowie,
+ul. Mogilska 109, 31-571 Kraków;
+dane kontaktowe do inspektora ochrony danych są następujące: podkom. Robert Pasiut, email: iod.kwp@malopolska.policja.gov.pl, adres do korespondencji: ul. Mogilska 109 31-571 Kraków
+Pani/Pana dane osobowe przetwarzane będą na podstawie art. 6 ust. 1 lit. c i e RODO w celu związanym z niniejszym postępowaniem o udzielenie zamówienia;
+odbiorcami Pani/Pana danych osobowych będą wyłącznie osoby lub podmioty uprawnione na podstawie przepisów prawa. Podstawę prawną udostępnienia w szczególności stanowi art. 18 ust. 6 Pzp,
+z zastrzeżeniem wynikającym z treści art. 18 ust.5, oraz art. 74 Pzp, a także regulacje określone
+w ustawie z dnia  6 września 2001r. o dostępie do informacji publicznej (tj. Dz. U. z 2016r. poz.1764);
+Pani/Pana dane osobowe będą przechowywane jedynie przez okres niezbędny do realizacji celów,
+dla których zostały zgromadzone  - zgodnie z art. 78 ust. 1 PZP, przez okres 4 lat od dnia zakończenia postępowania o udzielenie zamówienia, a jeżeli czas trwania umowy przekracza 4 lata, okres przechowywania obejmuje cały czas trwania umowy w sprawie zamówienia publicznego -  a także
+dla celów archiwizacyjnych przez okres nie dłuższy niż wskazany w odnośnych przepisach prawa krajowego oraz przepisach dotyczących działalności archiwalnej jednostek Policji;
+obowiązek podania przez Panią/Pana danych osobowych bezpośrednio Pani/Pana dotyczących jest wymogiem ustawowym określonym w przepisach ustawy Pzp związanym z udziałem w postępowaniu
+o udzielenie zamówienia publicznego; konsekwencje niepodania określonych danych wynikają z ustawy Pzp;
+w odniesieniu do Pani/Pana danych osobowych decyzje nie będą podejmowane w sposób zautomatyzowany i nie będą podlegały profilowaniu, stosowanie do art. 22 RODO;
+posiada Pani/Pan:
+na podstawie art. 15 RODO prawo dostępu do danych osobowych Pani/Pana dotyczących;
+na podstawie art. 16 RODO prawo do sprostowania lub uzupełnienia Pani/Pana danych osobowych, przy czym skorzystanie z tego uprawnienia nie może skutkować zmianą wyniku postępowania
+o udzielenie zamówienia ani zmianą postanowień umowy w sprawie zamówienia publicznego
+w zakresie niezgodnym z ustawą;
+na podstawie art. 18 RODO prawo żądania od administratora ograniczenia przetwarzania danych osobowych, przy czym żądanie nie ogranicza przetwarzania danych osobowych do czasu zakończenia postepowania o udzielenie zamówienia;
+prawo do wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych  na adres Warszawa 00-193, ul. Stawki 2, gdy uzna Pani/Pan, że przetwarzanie danych osobowych Pani/Pana dotyczących narusza przepisy RODO;
+Administrator oświadcza jednocześnie, że stosuje środki techniczne i organizacyjne zapewniające ochronę danych osobowych zabranych w postępowaniu o udzielenie zamówienia w sposób gwarantujący ich zabezpieczenie przed bezprawnym rozpowszechnianiem.
+PRZEDMIOT ZAMÓWIENIA
+Opis przedmiotu zamówienia z CPV;
+Przedmiotem zamówienia jest kompleksowa usługa wykonywania wydruku / kopii w trybie kolor i czarno – białym, w formacie A4 i A3 na 125 sieciowych urządzeniach wielofunkcyjnych.
+Usługa obejmuje dostarczenie przez Wykonawcę urządzeń, ich serwis wraz z wymianą materiałów eksploatacyjnych (nie dotyczy papieru), w tym tonerów.
+Szczegółowy opis przedmiotu zamówienia znajduje się w załączniku nr 2 do SIWZ,
+Wykaz miejsc i ilość wydruków znajdują się w załączniku nr 2 do SIWZ.
+Przewidywane ilości podane w tabeli zawartej w ofercie są wartościami prognozowanymi. Wartości te wskazane są jedynie w celu wyboru oferty najkorzystniejszej przez Zamawiającego oraz nie stanowią zobowiązania Zamawiającego wobec Wykonawcy. Zamawiający gwarantuje wykonanie umowy na poziomie min. 70% kopii określonych w dokumentacji postępowania.
+Zamawiający wymaga, aby realizacja zamówienia obywała się na urządzeniach nie starszych niż 3 lata.
+CPV:	79521000-2 – Usługi fotokopiowania
+Termin wykonania zamówienia;
+Umowa niniejsza zostaję zawarta na okres 36 miesięcy od daty jej zawarcia, lecz nie wcześniej niż od 01.09.2025 r. i nie dłużej niż do wyczerpania kwoty na jaką zostanie zawarta umowa.
+Rodzaj i maksymalna wartość opcji oraz okoliczności skorzystania z opcji.
+Zamawiający nie przewiduje prawa opcji w przedmiotowym postępowaniu
+Opis części zamówienia, jeżeli zamawiający dopuszcza składanie ofert częściowych;
+Zamawiający nie dopuszcza składania ofert częściowych..
+Liczba części zamówienia, na którą wykonawca może złożyć ofertę, lub maksymalną liczbę części, na które zamówienie może zostać udzielone temu samemu wykonawcy, oraz kryteria lub zasady, mające zastosowanie do ustalenia, które części zamówienia zostaną udzielone jednemu wykonawcy, w przypadku wyboru jego oferty w większej niż maksymalna liczbie części;
+Nie dotyczy.
+Informacja na temat uwzględnionych aspektach społecznych, środowiskowych lub etykiet w opisie przedmiotu zamówienia;
+Nie dotyczy.
+Wymagania w zakresie zatrudnienia na podstawie stosunku pracy, w okolicznościach, o których mowa
+w art. 95;
+Zamawiający uznał, iż czynności wykonywane podczas realizacji zamówienia tj;
+oczyszczenie obudowy kserokopiarki oraz podajnika,
+oczyszczenie układu napędowego,  nagrzewnicy, toru prowadzenia papieru (rolek i czujników),
+konserwowanie elementów mechanicznych przewidzianych w dokumentacji producenta,
+wymianę zużytych rolek  oraz  uszkodzonych części,
+sprawdzenie prawidłowości działania oraz wykonanie wydruków próbnych,
+wymagają zatrudnienia na umowę o pracę przez Wykonawcę lub podwykonawcę osób wykonujących
+czynności w trakcie realizacji zamówienia.
+W trakcie realizacji zamówienia Zamawiający uprawniony jest do wykonywania czynności kontrolnych wobec Wykonawcy odnośnie spełniania przez Wykonawcę lub podwykonawcę wymogu zatrudnienia na podstawie umowy o pracę osób wykonujących wskazane w ust. 1 czynności. Zamawiający uprawniony jest w szczególności do:
+żądania oświadczeń i dokumentów w zakresie potwierdzenia spełniania ww. wymogów i dokonywania ich oceny,
+żądania wyjaśnień w przypadku wątpliwości w zakresie potwierdzenia spełniania ww. wymogów,
+przeprowadzania kontroli na miejscu wykonywania świadczenia.
+W trakcie realizacji zamówienia, na każde wezwanie Zamawiającego, w wyznaczonym w tym wezwaniu terminie Wykonawca przedłoży Zamawiającemu wskazane poniżej dowody, w celu potwierdzenia spełnienia wymogu zatrudnienia na podstawie umowy o pracę przez Wykonawcę lub podwykonawcę osób wykonujących wskazane w ust. 1 czynności w trakcie realizacji zamówienia:
+oświadczenie Wykonawcy lub podwykonawcy o zatrudnieniu na podstawie umowy o pracę osób wykonujących czynności, których dotyczy wezwanie Zamawiającego. Oświadczenie to powinno zawierać w szczególności: dokładne określenie podmiotu składającego oświadczenie, datę złożenia oświadczenia, wskazanie, że objęte wezwaniem czynności wykonują osoby zatrudnione na podstawie umowy o pracę wraz ze wskazaniem liczby tych osób, imion i nazwisk tych osób, rodzaju umowy o pracę i wymiaru etatu oraz podpis osoby uprawnionej do złożenia oświadczenia w imieniu Wykonawcy lub podwykonawcy;
+poświadczoną za zgodność z oryginałem odpowiednio przez Wykonawcę lub podwykonawcę kopię umowy/umów o pracę osób wykonujących w trakcie realizacji zamówienia czynności, których dotyczy ww. oświadczenie Wykonawcy lub podwykonawcy (wraz z dokumentem regulującym zakres obowiązków, jeżeli został sporządzony). Kopia umowy/umów powinna zostać zanonimizowana w sposób zapewniający ochronę danych osobowych pracowników zgodnie z obowiązującymi przepisami (tj. w szczególności bez adresów i nr PESEL pracowników). Imię i nazwisko pracownika nie podlega anonimizacji. Informacje takie jak: data zawarcia umowy, rodzaj umowy o pracę i wymiar etatu powinny być możliwe do zidentyfikowania;
+zaświadczenie właściwego oddziału ZUS, potwierdzające opłacanie przez Wykonawcę lub podwykonawcę składek na ubezpieczenia społeczne i zdrowotne z tytułu zatrudnienia na podstawie umów o pracę za ostatni okres rozliczeniowy;
+poświadczoną za zgodność z oryginałem odpowiednio przez Wykonawcę lub podwykonawcę kopię dowodu potwierdzającego zgłoszenie pracownika przez pracodawcę do ubezpieczeń, zanonimizowaną w sposób zapewniający ochronę danych osobowych pracowników. Imię i nazwisko pracownika nie podlega anonimizacji.
+Wymagania w zakresie zatrudnienia osób, o których mowa w art. 96 ust. 2 pkt 2, jeżeli zamawiający przewiduje takie wymagania;
+Zamawiający nie określa dodatkowych wymagań związanych z zatrudnianiem osób, o których mowa w art. 96 ust. 2 pkt 2.
+Informację o obowiązku osobistego wykonania przez wykonawcę kluczowych zadań, jeżeli zamawiający dokonuje takiego zastrzeżenia zgodnie z art. 60 i art. 121;
+Zamawiający nie zastrzega obowiązku osobistego wykonania przez Wykonawcę kluczowych części zamówienia.
+Informacje dotyczące przeprowadzenia przez wykonawcę wizji lokalnej lub sprawdzenia przez niego dokumentów niezbędnych do realizacji zamówienia, o których mowa w art. 131 ust. 2, jeżeli zamawiający przewiduje możliwość albo wymaga złożenia oferty po odbyciu wizji lokalnej lub sprawdzeniu tych dokumentów;
+Nie dotyczy.
+Przedmiotowe środki dowodowe;
+Zamawiający nie wymaga wnoszenia w niniejszym postępowaniu przedmiotowych środków dowodowych.
+Opis sposobu przygotowania oferty;
+Ofertę należy sporządzić zgodnie z załącznikiem nr 1 do SWZ: druk Formularz ofertowy. Wraz z ofertą Wykonawca jest zobowiązany złożyć:
+pełnomocnictwo (jeżeli dotyczy – załącznik nr 3 do SWZ)
+informację o podwykonawcach zgodnie z rozdziałem VI.5 SWZ (jeżeli dotyczy – wskazanie w załączniku nr 1 do SWZ).
+zobowiązanie innego podmiotu do oddania do dyspozycji WYKONAWCY niezbędnych zasobów (jeżeli dotyczy – podpisane przez podmiot udostępniający zasoby, załącznik nr 5 do SWZ)
+Wykonawca składa ofertę za  pośrednictwem Platformy.
+Wykonawca może złożyć tylko jedną ofertę. Treść oferty musi odpowiadać treści SWZ.
+Ofertę składa się w postaci elektronicznej w systemie pod adresem https://malopolska-policja.ezamawiajacy.pl w terminie wskazanym w SWZ.
+Oferta i wszystkie załączone dokumenty powinny być sporządzone w języku polskim, w formie elektronicznej lub w postaci elektronicznej opatrzonej podpisem kwalifikowanym osoby uprawnionej do reprezentowania wykonawcy (skan odręcznie podpisanych dokumentów nie jest formą ani postacią elektroniczną). Rekomendowanym wariantem podpisu jest typ wewnętrzny. Podpis formularza ofertowego wariantem podpisu w typie zewnętrznym również jest możliwy, tylko w tym przypadku, powstały oddzielny plik podpisu dla tego formularza należy załączyć w polu „Załączniki i inne dokumenty przedstawione w ofercie przez Wykonawcę”. Pozostałe dokumenty wchodzące w skład oferty lub składane wraz z ofertą, które są zgodne z ustawą Pzp lub rozporządzeniem Prezesa Rady Ministrów w sprawie wymagań dla dokumentów elektronicznych opatrzone kwalifikowanym podpisem elektronicznym, mogą być zgodnie z wyborem wykonawcy/wykonawcy wspólnie ubiegającego się o udzielenie zamówienia/podmiotu udostępniającego zasoby opatrzone podpisem typu zewnętrznego lub wewnętrznego.
+Zamawiający informuje, iż zgodnie z art. 18 ust. 3 ustawy Pzp, nie ujawnia się informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji, jeżeli wykonawca, wraz z przekazaniem takich informacji, zastrzegł, że nie mogą być one udostępniane oraz wykazał, że zastrzeżone informacje stanowią tajemnicę przedsiębiorstwa. Wykonawca nie może zastrzec informacji, o których mowa w art. 222 ust. 5. Wszelkie informacje stanowiące tajemnice przedsiębiorstw, które Wykonawca pragnie zastrzec jako tajemnice przedsiębiorstwa, powinny zostać złożone w osobnym pliku wraz z jednoczesnym zaznaczeniem w nazwie pliku: „Dokument stanowiący tajemnicę przedsiębiorstwa”.
+W przypadku podpisywania oferty przez osobę nieuprawnioną zgodnie z zapisami w dokumentach rejestrowych do oferty należy dołączyć pełnomocnictwo. Pełnomocnictwo musi być złożone w oryginale lub kopii poświadczonej notarialnie w formie elektronicznej lub w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym osoby ustanawiającej pełnomocnika – przykładowy wzór stanowi załącznik nr 3 do SWZ.
+Wykonawca po upływie terminu do składania ofert nie może skutecznie dokonać zmiany ani wycofać złożonej oferty.
+Sposób obliczenia ceny oferty;
+W Formularzu ofertowym należy podać cenę oferty brutto, która musi określać całkowitą wycenę przedmiotu zamówienia.
+Cena ofertowa musi uwzględniać wszystkie należne Wykonawcy elementy wynagrodzenia wynikające z tytułu przygotowania, realizacji i rozliczenia przedmiotu zamówienia, w tym wszystkie wymagania niniejszej SWZ oraz obejmować wszelkie koszty bezpośrednie i pośrednie, jakie poniesie Wykonawca z tytułu prawidłowego i terminowego wykonania całości przedmiotu zamówienia, zysk oraz wszelkie wymagane przepisami podatki i opłaty. Cena musi też uwzględniać ryzyko wzrostu kosztów realizacji przedmiotu zamówienia. Cena podana na Formularzu Ofertowym jest ceną ostateczną, niepodlegającą negocjacji i wyczerpującą wszelkie należności Wykonawcy wobec Zamawiającego związane z realizacją przedmiotu zamówienia.
+Ofertę należy sporządzić przy uwzględnieniu warunku, że całość materiałów oraz środków technicznych niezbędnych do wykonania zamówienia dostarcza Wykonawca.
+Podstawę do obliczenia ceny oferty stanowią: opis przedmiotu zamówienia (załącznik nr 2) oraz informacje zawarte w projekcie umowy (załącznik nr 4).
+Cenę należy podać w złotych polskich w postaci cyfrowej i słownej, w zaokrągleniu do dwóch miejsc po przecinku.
+Przygotowując ofertę Wykonawcy powinni szczegółowo zapoznać się z dokumentami zamówienia. Skalkulowana cena oferty ma być ceną ryczałtową, w której to Wykonawca ma ująć wszelkie koszty: materiałów, robocizny, sprzętu do osiągnięcia zamierzonego efektu, oraz innych niezbędnych prac, działań i czynności, do realizacji przedmiotu zamówienia.
+Jeżeli została złożona oferta, której wybór prowadziłby do powstania u zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług, dla celów zastosowania kryterium ceny zamawiający dolicza do przedstawionej w tej ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć . W ofercie, wykonawca ma obowiązek:
+poinformowania zamawiającego, że wybór jego oferty będzie prowadził do powstania u zamawiającego obowiązku podatkowego;
+wskazania nazwy (rodzaju) towaru lub usługi, których dostawa lub świadczenie będą prowadziły do powstania obowiązku podatkowego;
+wskazania wartości towaru lub usługi objętego obowiązkiem podatkowym zamawiającego, bez kwoty podatku;
+wskazania stawki podatku od towarów i usług, która zgodnie z wiedzą wykonawcy, będzie miała zastosowanie.
+Wzór Formularza Ofertowego został opracowany przy założeniu, iż wybór oferty nie będzie prowadzić do powstania u Zamawiającego obowiązku podatkowego w zakresie podatku VAT. W przypadku, gdy Wykonawca zobowiązany jest złożyć oświadczenie o powstaniu u Zamawiającego obowiązku podatkowego, to winien odpowiednio zmodyfikować treść formularza.
+Informacja o uprzedniej ocenie ofert, zgodnie z art. 139, jeżeli Zamawiający przewiduje odwróconą kolejność oceny;
+Zamawiający najpierw dokona badania i oceny ofert a następnie dokona kwalifikacji podmiotowej wykonawcy, którego oferta zostanie najwyżej oceniona w zakresie braku podstaw wykluczenia oraz spełniania warunków udziału w postępowaniu.
+Opis kryteriów oceny ofert, wraz z podaniem wag tych kryteriów, i sposobu oceny ofert;
+Oceny ofert będzie dokonywała komisja. W toku badania i oceny ofert Zamawiający może żądać od Wykonawców wyjaśnień dotyczących treści złożonych ofert. Zamawiający poprawi w ofercie omyłki zgodnie z przepisami ustawy Pzp.
+Zamawiający wyznaczył następujące kryteria oceny i wyboru oferty:
+C – Cena oferty 90%
+S – Aspekt społeczny: 10%
+Ofertom zostaną przyznane punkty wg wzoru: P=C+S gdzie:
+P – łączna liczba punktów
+C – liczba punktów w kryterium „Cena oferty” (Wartość brutto zamówienia),
+S – liczba punktów w kryterium „Aspekt społeczny”.
+Sposób oceny oferty w kryterium „Cena oferty”:
+W kryterium „cena oferty” Zamawiający przyzna wagę maks. 90 punktów, odpowiadające 90% ogólnej ocenie oferty.
+Ofertom zostaną przyznane punkty proporcjonalnie, wg wzoru:
+C = (najniższa cena spośród badanych ofert) : (cena oferty badanej) x 90 pkt
+Wynik powyższego działania zostanie zaokrąglony do 2 miejsc po przecinku.
+W kryterium „Aspekt społeczny” Zamawiający przyzna wagę maks. 10 punktów, odpowiadające 10% ogólnej ocenie oferty.
+Punktacja w tym kryterium zostanie przyznana na podstawie oświadczenia Wykonawcy zawartego w załączniku nr 1 do SWZ.
+Wykonawca otrzyma S=10 pkt – w przypadku, gdy wśród osób bezpośrednio realizujących zamówienie będzie co najmniej jedna osoba niepełnosprawna w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych;
+W przypadku gdy Wykonawca oświadczy, iż zamówienie nie będzie realizowane bezpośrednio przez osobę niepełnosprawną, otrzyma 0 pkt.
+Informację o przewidywanych zamówieniach, o których mowa w art. 214 ust. 1 pkt 7 i 8, jeżeli zamawiający przewiduje udzielenie takich zamówień;
+Zamawiający nie przewiduje udzielenia takich zamówień.
+KWALIFIKACJA WYKONAWCÓW
+Informacja o warunkach udziału w postępowaniu;
+O udzielenie zamówienia mogą ubiegać się Wykonawcy, którzy:
+nie podlegają wykluczeniu;
+spełniają warunki udziału w postępowaniu.
+Zamawiający określił warunki udziału w postępowaniu w sposób proporcjonalny do przedmiotu zamówienia oraz umożliwiający ocenę zdolności wykonawcy do należytego wykonania zamówienia, w szczególności wyrażając je jako minimalne poziomy zdolności.
+Zamawiający może na każdym etapie postępowania, uznać, że wykonawca nie posiada wymaganych zdolności, jeżeli posiadanie przez wykonawcę sprzecznych interesów, w szczególności zaangażowanie zasobów technicznych lub zawodowych wykonawcy w inne przedsięwzięcia gospodarcze wykonawcy może mieć negatywny wpływ na realizację zamówienia.
+O udzielenie zamówienia mogą ubiegać się Wykonawcy, którzy spełniają warunki dotyczące:
+Wykaz podmiotowych środków dowodowych;
+Zamawiający wezwie wykonawcę, którego oferta została najwyżej oceniona, do złożenia w wyznaczonym terminie, nie krótszym niż 10 dni od dnia wezwania, podmiotowych środków dowodowych, aktualnych na dzień ich złożenia, w postaci:
+oświadczenie o niepodleganiu wykluczeniu, spełnianiu warunków udziału w postępowaniu, w zakresie wskazanym przez zamawiającego; Oświadczenie składa się na formularzu jednolitego europejskiego dokumentu zamówienia, sporządzonym zgodnie ze wzorem standardowego formularza określonego w rozporządzeniu wykonawczym Komisji (UE) 2016/7 z dnia 5 stycznia 2016r. ustanawiającym standardowy formularz jednolitego europejskiego dokumentu zamówienia (JEDZ) https://espd.uzp.gov.pl/filter?lang=pl; Oświadczenie zawiera między innymi brak podstaw wykluczenia o którym mowa w art. 7 ust. 1 Ustawy z dnia 13.04.2022r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego: Cz. III.D;
+informacji z Krajowego Rejestru Karnego sporządzonej nie wcześniej niż 6 miesięcy przed jej złożeniem w zakresie o którym mowa w art. 108 ust. 1 pkt 1 i 2, art. 109 ust. 1 pkt 2 lit a) Ustawy Pzp,
+informacji z Krajowego Rejestru Karnego dotyczącej orzeczenia zakazu ubiegania się o zamówienie publiczne tytułem środka karnego o którym mowa w art. 108 ust. 1 pkt 4 Ustawy Pzp sporządzonej nie wcześniej niż 6 miesięcy przed jej złożeniem;
+informacji z Krajowego Rejestru Karnego, dotyczącej ukarania za wykroczenie, za które wymierzono karę aresztu sporządzonej nie wcześniej niż 6 miesięcy przed jej złożeniem w zakresie, o którym mowa w art. 109 ust. 1 pkt 2 lit. b Ustawy Pzp;
+informacji z Krajowego Rejestru Karnego, dotyczącej skazania za przestępstwo lub ukarania za wykroczenie, za które wymierzono karę aresztu sporządzonej nie wcześniej niż 6 miesięcy przed jej złożeniem w zakresie, o którym mowa w art. 109 ust. 1 pkt 3 Ustawy Pzp;
+zaświadczenia właściwego naczelnika urzędu skarbowego potwierdzającego, że wykonawca nie zalega z opłacaniem podatków i opłat, wystawionego nie wcześniej niż 3 miesiące przed jego złożeniem, a w przypadku zalegania z opłacaniem podatków lub opłat wraz z zaświadczeniem zamawiający żąda złożenia dokumentów potwierdzających, że przed upływem terminu składania ofert wykonawca dokonał płatności należnych podatków lub opłat wraz z odsetkami lub grzywnami lub zawarł wiążące porozumienie w sprawie spłat tych należności zgodnie z art. 109 ust. 1 pkt 1 Ustawy Pzp;
+zaświadczenia albo innego dokumentu właściwej terenowej jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych lub właściwego oddziału regionalnego lub właściwej placówki terenowej Kasy Rolniczego Ubezpieczenia Społecznego potwierdzającego, że wykonawca nie zalega z opłacaniem składek na ubezpieczenia społeczne i zdrowotne, wystawionego nie wcześniej niż 3 miesiące przed jego złożeniem, a w przypadku zalegania z opłacaniem składek na ubezpieczenia społeczne lub zdrowotne wraz z zaświadczeniem albo innym dokumentem zamawiający żąda złożenia dokumentów potwierdzających, że przed upływem terminu składania ofert wykonawca dokonał płatności należnych składek na ubezpieczenia społeczne lub zdrowotne wraz odsetkami lub grzywnami lub zawarł wiążące porozumienie w sprawie spłat tych należności zgodnie z art. 109 ust. 1 pkt 1 Ustawy Pzp;
+odpisu lub informacji z Krajowego Rejestru Sądowego lub z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, sporządzonych nie wcześniej niż 3 miesiące przed jej złożeniem, jeżeli odrębne przepisy wymagają wpisu do rejestru lub ewidencji w zakresie, o którym mowa w art. 109 ust. 1 pkt 4 Ustawy Pzp;
+oświadczenia o braku podstawy do wykluczenia przewidzianej w art. 5k Rozporządzenia Rady (UE) nr 833/2014 dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Zamawiający prześle wzór dokumentu wraz z wezwaniem)
+wykazu usług wykonanych, a w przypadku świadczeń okresowych lub ciągłych również wykonywanych polegających na realizacji co najmniej jednego zamówienia trwającego minimum 6 miesięcy, polegającego na świadczeniu usług kompleksowej obsługi co najmniej 100 urządzeń wielofunkcyjnych dostarczonych przez Wykonawcę, działających u innych podmiotów w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres prowadzenia działalności jest krótszy - w tym okresie, wraz z podaniem ich wartości, przedmiotu, dat wykonania i podmiotów, na rzecz których usługi zostały wykonane, oraz załączeniem dowodów określających czy te usługi zostały wykonane lub są wykonywane należycie. Dowodami, o których mowa, są referencje bądź inne dokumenty wystawione przez podmiot, na rzecz którego usługi były wykonywane, a w przypadku świadczeń okresowych lub ciągłych są wykonywane. Jeżeli z uzasadnionej przyczyny o obiektywnym charakterze Wykonawca nie jest w stanie uzyskać tych dokumentów - oświadczenie Wykonawcy. W przypadku świadczeń okresowych lub ciągłych nadal wykonywanych referencje bądź inne dokumenty potwierdzające ich należyte wykonywanie powinny być wydane nie wcześniej niż 3 miesiące przed upływem terminu składania ofert.
+Z treści wykazu musi wynikać, że Wykonawca spełnia warunek udziału w postępowaniu, o którym mowa w rozdziale V ust. 1 pkt 4 SWZ, (Zamawiający prześle wzór dokumentu wraz z wezwaniem)
+wykaz osób, które będą uczestniczyć w wykonywaniu zamówienia odpowiedzialnych za świadczenie usług, wraz z informacjami na temat ich doświadczenia niezbędnych do wykonania zamówienia, a także zakresu wykonywanych przez nie czynności, oraz informacją o podstawie do dysponowania tymi osobami; (Zamawiający prześle wzór dokumentu wraz z wezwaniem)
+Zamawiający informuje, iż z uwagi na zastosowaną procedurę (pkt. IV.14 SWZ), oświadczenie w zakresie art. 108 ust. 1 pkt 5 Ustawy Pzp o braku przynależności do tej samej grupy kapitałowej w rozumieniu Ustawy z dnia 16.02.2007r. o ochronie konkurencji i konsumentów z innym wykonawcą, który złożył odrębną ofertę albo oświadczenie o przynależności do tej samej grupy kapitałowej wraz z dokumentami lub informacjami potwierdzającymi przygotowanie oferty niezależnie od innego wykonawcy należącego do tej samej grupy kapitałowej jest zawarte w oświadczeniu, o którym mowa w V.2.1.a)
+Zamawiający informuje, iż z uwagi na zastosowaną procedurę (pkt. IV.14 SWZ), oświadczenie o którym mowa w § 2 ust. 1 pkt 7 rozporządzenia Ministra Rozwoju Pracy i Technologii z dnia 23 grudnia 2020 r. w sprawie podmiotowych środków dowodowych oraz innych dokumentów lub oświadczeń, jakich może żądać zamawiający od wykonawcy, tj. oświadczenie wykonawcy o aktualności informacji zawartych w oświadczeniu, o którym mowa w art. 125 ust. 1 ustawy Pzp nie jest wymagane.
+Jeżeli jest to niezbędne do zapewnienia odpowiedniego przebiegu postępowania o udzielenie zamówienia, zamawiający może na każdym etapie postępowania, wezwać wykonawców do złożenia wszystkich lub niektórych wyżej wymienionych podmiotowych środków dowodowych, aktualnych na dzień ich złożenia.
+Jeżeli zachodzą uzasadnione podstawy do uznania, że złożone uprzednio podmiotowe środki dowodowe nie są już aktualne, zamawiający może w każdym czasie wezwać wykonawcę lub wykonawców do złożenia wszystkich lub niektórych podmiotowych środków dowodowych, aktualnych na dzień ich złożenia.
+Zamawiający nie wzywa do złożenia podmiotowych środków dowodowych, jeżeli może je uzyskać za pomocą bezpłatnych i ogólnodostępnych baz danych, w szczególności rejestrów publicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, o ile wykonawca wskazał w oświadczeniu, o którym mowa w pkt 2.1.a) niniejszego rozdziału, dane umożliwiające dostęp do tych środków.
+Wykonawca nie jest zobowiązany do złożenia podmiotowych środków dowodowych, które zamawiający posiada, jeżeli wykonawca wskaże te środki oraz potwierdzi ich prawidłowość i aktualność.
+W zakresie nieuregulowanym ustawą Pzp lub niniejszą SWZ do oświadczeń i dokumentów składanych przez Wykonawcę w postępowaniu zastosowanie mają w szczególności przepisy rozporządzenia Ministra Rozwoju Pracy i Technologii z dnia 23 grudnia 2020 r. w sprawie podmiotowych środków dowodowych oraz innych dokumentów lub oświadczeń, jakich może żądać zamawiający od wykonawcy oraz rozporządzenia Prezesa Rady Ministrów z dnia 30 grudnia 2020 r. w sprawie (…) wymagań dla dokumentów elektronicznych.
+Informacje dla Wykonawców, którzy mają siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dotyczy informacja albo dokument, poza granicami Rzeczpospolitej Polskiej.
+Jeżeli Wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dotyczy informacja albo dokument, poza granicami Rzeczpospolitej Polskiej, zamiast:
+Dokumentów, o których mowa w pkt 2.1.b,c,d,e niniejszego rozdziału – składa informację z odpowiedniego rejestru, takiego jak rejestr sądowy, albo, w przypadku braku takiego rejestru, inny równoważny dokument wydany przez właściwy organ sądowy klub administracyjny kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dotyczy informacja albo dokument, w zakresie, o którym mowa w przywołanych punktach; dokument powinien być wystawiony nie wcześniej niż 6 miesięcy przed jego złożeniem;
+Dokumentów, o których mowa w pkt. 2.1.f i g) niniejszego rozdziału – składa dokument lub dokumenty wystawione w kraju w którym wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dotyczy informacja albo dokument, potwierdzające odpowiednio, że nie naruszył obowiązków dotyczących płatności podatków, opłat lub składek na ubezpieczenie społeczne lub zdrowotne; dokumenty powinny być wystawione nie wcześniej niż 3 miesiące przed ich złożeniem;
+Dokumentów, o których mowa w pkt. 2.1.h) niniejszego rozdziału – składa dokument lub dokumenty wystawione w kraju w którym wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dotyczy informacja albo dokument, potwierdzające odpowiednio, że nie otwarto jego likwidacji, nie ogłoszono upadłości, jego aktywami nie zarządza likwidator lub sąd, nie zawarł układu z wierzycielami, jego działalność gospodarcza nie jest zawieszona ani nie znajduje się on w innej tego rodzaju sytuacji wynikającej z podobnej procedury przewidzianej w przepisach miejsca wszczęcia tej procedury; dokumenty powinny być wystawione nie wcześniej niż 3 miesiące przed ich złożeniem;
+Jeżeli w kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dokument dotyczy, nie wydaje się dokumentów, o których mowa w pkt 3.1 niniejszego rozdziału, lub gdy dokumenty te nie odnoszą się do wszystkich przypadków, o których mowa w pkt 2.1.b,c,d,e,g) zastępuje się je odpowiednio w całości lub części dokumentem zawierającym odpowiednio oświadczenie Wykonawcy, ze wskazaniem osoby albo osób uprawnionych do jego reprezentacji, lub oświadczenie osoby, której dokument miał dotyczyć, złożone pod przysięgą, lub, jeżeli w kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dokument miał dotyczyć, nie ma przepisów o oświadczeniu pod przysięgą, złożone przed organem sądowym lub administracyjnym, notariuszem, organem samorządu zawodowego lub gospodarczego, właściwym ze względu na siedzibę lub miejsce zamieszkania wykonawcy lub miejsce zamieszkania osoby, której dokument miał dotyczyć, wystawione w terminie odpowiednio 6 miesięcy lub 3 miesiące przed ich złożeniem.
+Poleganie na zasobach innych podmiotów.
+Wykonawca może w celu potwierdzenia spełniania warunków udziału w postępowaniu w odniesieniu do zamówienia, lub jego części, polegać na zdolnościach technicznych lub zawodowych podmiotów udostępniających zasoby, niezależnie od charakteru prawnego łączących go z nimi stosunków prawnych.
+Wykonawca, który polega na zdolnościach technicznych lub zawodowych podmiotów udostępniających zasoby, składa, wraz z ofertą zobowiązanie podmiotu udostępniającego zasoby do oddania mu do dyspozycji niezbędnych zasobów na potrzeby realizacji danego zamówienia lub inny podmiotowy środek dowodowy potwierdzający, że wykonawca realizując zamówienie, będzie dysponował niezbędnymi zasobami tych podmiotów. Wzór oświadczenia stanowi załącznik nr 5 do SWZ.
+Zobowiązanie podmiotu udostępniającego zasoby potwierdza, że stosunek łączący wykonawcę z podmiotami udostępniającymi zasoby gwarantuje rzeczywisty dostęp do tych zasobów oraz określa w szczególności:
+zakres dostępnych wykonawcy zasobów podmiotu udostępniającego zasoby;
+sposób i okres udostępnienia wykonawcy i wykorzystania przez niego zasobów podmiotu udostępniającego te zasoby przy wykonywaniu zamówienia;
+czy i w jakim zakresie podmiot udostępniający zasoby, na zdolnościach którego wykonawca polega w odniesieniu do warunków udziału w postępowaniu dotyczących zdolności technicznej  lub zawodowej wykształcenia, zrealizuje usługi, których wskazane zdolności dotyczą.
+Wykonawca, w przypadku polegania na zdolnościach lub sytuacji podmiotów udostępniających zasoby, przedstawia, wraz z oświadczeniem, o którym mowa w pkt 4.1) niniejszego rozdziału, także dokumenty o których mowa w rozdziale V.2 SWZ. (wykaz narzędzi w zakresie udostępnianych zasobów).
+Do podmiotów udostępniających zasoby mających siedzibę lub miejsc zamieszkania poza terytorium Rzeczypospolitej Polskiej, przepisy rozdziału 2 stosuje się odpowiednio.
+Zamawiający oceni, czy udostępniane wykonawcy przez podmioty udostępniające zasoby, pozwalają na wykazanie przez wykonawcę spełniania warunków udziału w postępowaniu, a także zbada, czy nie zachodzą wobec tego podmiotu podstawy wykluczenia, które zostały przewidziane względem wykonawcy.
+Podmiot, który zobowiązał się do udostępnienia zasobów, odpowiada solidarnie z wykonawcą, który polega na jego sytuacji finansowej lub ekonomicznej, za szkodę poniesioną przez zamawiającego powstałą wskutek nieudostępnienia tych zasobów, chyba że za nieudostępnienie zasobów podmiot ten nie ponosi winy.
+Jeżeli udostępnione zasoby nie potwierdzają spełniania przez wykonawcę warunków udziału w postępowaniu lub zachodzą wobec tego podmiotu podstawy wykluczenia, zamawiający zażąda, aby wykonawca w terminie określonym przez zamawiającego zastąpił ten podmiot innym podmiotem lub podmiotami albo wykazał, że samodzielnie spełnia warunki udziału w postępowaniu.
+Wykonawca nie może, po upływie terminu składania ofert, powoływać się na zdolności lub sytuację podmiotów udostępniających zasoby, jeżeli na etapie składania ofert nie polegał on w danym zakresie na zdolnościach lub sytuacji podmiotów udostępniających zasoby.
+Podstawy wykluczenia, o których mowa w art. 108 ust. 1;
+Z postępowania o udzielenie zamówienia Zamawiający wykluczy wykonawcę:
+będącego osobą fizyczną, którego prawomocnie skazano za przestępstwo:
+udziału w zorganizowanej grupie przestępczej albo związku mającym na celu popełnienie przestępstwa lub przestępstwa skarbowego, o którym mowa w art. 258 Kodeksu karnego,
+handlu ludźmi, o którym mowa w art. 189a Kodeksu karnego,
+o którym mowa w art. 228–230a, art. 250a Kodeksu karnego, w art. 46–48 ustawy z dnia 25 czerwca 2010 r. o sporcie lub w art. 54 ust. 1–4 ustawy z dnia12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych,
+finansowania przestępstwa o charakterze terrorystycznym, o którym mowa w art. 165a Kodeksu karnego, lub przestępstwo udaremniania lub utrudniania stwierdzenia przestępnego pochodzenia pieniędzy lub ukrywania ich pochodzenia, o którym mowa w art. 299 Kodeksu karnego,
+o charakterze terrorystycznym, o którym mowa w art. 115 § 20 Kodeksu karnego, lub mające na celu popełnienie tego przestępstwa,
+powierzenia wykonywania pracy małoletniemu cudzoziemcowi, o którym mowa w art. 9 ust. 2 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej,
+przeciwko obrotowi gospodarczemu, o których mowa w art. 296-307 Kodeksu karnego, przestępstwo oszustwa, o którym mowa w art. 286 Kodeksu karnego, przestępstwo przeciwko wiarygodności dokumentów, o których mowa w art. 270-277d Kodeksu karnego, lub przestępstwo skarbowe,
+o którym mowa w art. 9 ust. 1 i 3 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej
+- lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego;
+jeżeli urzędującego członka jego organu zarządzającego lub nadzorczego, wspólnika spółki w spółce jawnej lub partnerskiej albo komplementariusza w spółce komandytowej lub komandytowo-akcyjnej lub prokurenta prawomocnie skazano za przestępstwo, o którym mowa w pkt 1;
+wobec którego wydano prawomocny wyrok sądu lub ostateczną decyzję administracyjną o zaleganiu z uiszczeniem podatków, opłat lub składek na ubezpieczenie społeczne lub zdrowotne, chyba że wykonawca odpowiednio przed upływem terminu do składania wniosków o dopuszczenie do udziału w postępowaniu albo przed upływem terminu składania ofert dokonał płatności należnych podatków, opłat lub składek na ubezpieczenie społeczne lub zdrowotne wraz z odsetkami lub grzywnami lub zawarł wiążące porozumienie w sprawie spłaty tych należności;
+wobec którego prawomocnie orzeczono zakaz ubiegania się o zamówienia publiczne;
+jeżeli zamawiający może stwierdzić, na podstawie wiarygodnych przesłanek, że wykonawca zawarł z innymi wykonawcami porozumienie mające na celu zakłócenie konkurencji, w szczególności jeżeli należąc do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, złożyli odrębne oferty, oferty częściowe lub wnioski o dopuszczenie do udziału w postępowaniu, chyba że wykażą, że przygotowali te oferty lub wnioski niezależnie od siebie;
+jeżeli, w przypadkach, o których mowa w art. 85 ust. 1, doszło do zakłócenia konkurencji wynikającego z wcześniejszego zaangażowania tego wykonawcy lub podmiotu, który należy z wykonawcą do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, chyba że spowodowane tym zakłócenie konkurencji może być wyeliminowane w inny sposób niż przez wykluczenie wykonawcy z udziału w postępowaniu o udzielenie zamówienia.
+Podstawy wykluczenia, o których mowa w art. 109 ust. 1;
+Z postępowania o udzielenie zamówienia zamawiający wykluczy wykonawcę:
+który naruszył obowiązki dotyczące płatności podatków, opłat lub składek na ubezpieczenia społeczne lub zdrowotne, z wyjątkiem przypadku, o którym mowa w art. 108 ust. 1 pkt 3, chyba że wykonawca odpowiednio przed upływem terminu do składania wniosków o dopuszczenie do udziału w postępowaniu albo przed upływem terminu składania ofert dokonał płatności należnych podatków, opłat lub składek na ubezpieczenia społeczne lub zdrowotne wraz z odsetkami lub grzywnami lub zawarł wiążące porozumienie w sprawie spłaty tych należności;
+który naruszył obowiązki w dziedzinie ochrony środowiska, prawa socjalnego lub prawa pracy:
+będącego osobą fizyczną skazanego prawomocnie za przestępstwo przeciwko środowisku, o którym mowa w rozdziale XXII Kodeksu karnego lub za przestępstwo przeciwko prawom osób wykonujących pracę zarobkową, o którym mowa w rozdziale XXVIII Kodeksu karnego, lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego,
+będącego osobą fizyczną prawomocnie ukaranego za wykroczenie przeciwko prawom pracownika lub wykroczenie przeciwko środowisku, jeżeli za jego popełnienie wymierzono karę aresztu, ograniczenia wolności lub karę grzywny,
+wobec którego wydano ostateczną decyzję administracyjną o naruszeniu obowiązków wynikających z prawa ochrony środowiska, prawa pracy lub przepisów o zabezpieczeniu społecznym, jeżeli wymierzono tą decyzją karę pieniężną;
+jeżeli urzędującego członka jego organu zarządzającego lub nadzorczego, wspólnika spółki w spółce jawnej lub partnerskiej albo komplementariusza w spółce komandytowej lub komandytowo-akcyjnej lub prokurenta prawomocnie skazano za przestępstwo lub ukarano za wykroczenie, o którym mowa w pkt 2 lit. a lub b;
+w stosunku do którego otwarto likwidację, ogłoszono upadłość, którego aktywami zarządza likwidator lub sąd, zawarł układ z wierzycielami, którego działalność gospodarcza jest zawieszona albo znajduje się on w innej tego rodzaju sytuacji wynikającej z podobnej procedury przewidzianej w przepisach miejsca wszczęcia tej procedury;
+który w sposób zawiniony poważnie naruszył obowiązki zawodowe, co podważa jego uczciwość, w szczególności gdy wykonawca w wyniku zamierzonego działania lub rażącego niedbalstwa nie wykonał lub nienależycie wykonał zamówienie, co zamawiający jest w stanie wykazać za pomocą stosownych dowodów;
+jeżeli występuje konflikt interesów w rozumieniu art. 56 ust. 2, którego nie można skutecznie wyeliminować w inny sposób niż przez wykluczenie wykonawcy;
+który, z przyczyn leżących po jego stronie, w znacznym stopniu lub zakresie nie wykonał lub nienależycie wykonał albo długotrwale nienależycie wykonywał istotne zobowiązanie wynikające z wcześniejszej umowy w sprawie zamówienia publicznego lub umowy koncesji, co doprowadziło do wypowiedzenia lub odstąpienia od umowy, odszkodowania, wykonania zastępczego lub realizacji uprawnień z tytułu rękojmi za wady;
+który w wyniku zamierzonego działania lub rażącego niedbalstwa wprowadził zamawiającego w błąd przy przedstawianiu informacji, że nie podlega wykluczeniu, spełnia warunki udziału w postępowaniu lub kryteria selekcji, co mogło mieć istotny wpływ na decyzje podejmowane przez zamawiającego w postępowaniu o udzielenie zamówienia, lub który zataił te informacje lub nie jest w stanie przedstawić wymaganych podmiotowych środków dowodowych;
+który bezprawnie wpływał lub próbował wpływać na czynności zamawiającego lub próbował pozyskać lub pozyskał informacje poufne, mogące dać mu przewagę w postępowaniu o udzielenie zamówienia;
+który w wyniku lekkomyślności lub niedbalstwa przedstawił informacje wprowadzające w błąd, co mogło mieć istotny wpływ na decyzje podejmowane przez zamawiającego w postępowaniu o udzielenie zamówienia.
+Podstawy wykluczenia, o których mowa w art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego;
+Z postępowania o udzielenie zamówienia publicznego lub konkursu prowadzonego na podstawie ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych wyklucza się:
+wykonawcę oraz uczestnika konkursu wymienionego w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisanego na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3;
+wykonawcę oraz uczestnika konkursu, którego beneficjentem rzeczywistym w rozumieniu ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu  jest osoba wymieniona w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisana na listę lub będąca takim beneficjentem rzeczywistym od dnia 24 lutego 2022 r., o ile została wpisana na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3;
+wykonawcę oraz uczestnika konkursu, którego jednostką dominującą w rozumieniu art. 3 ust. 1 pkt 37 ustawy z dnia 29 września 1994 r. o rachunkowości jest podmiot wymieniony w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisany na listę lub będący taką jednostką dominującą od dnia 24 lutego 2022 r., o ile został wpisany na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3.
+Podstawy wykluczenia, o których mowa w art. 5k Rozporządzenia Rady (UE) nr 833/2014 dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie.
+Zakazuje się udzielania lub dalszego wykonywania wszelkich zamówień publicznych lub koncesji objętych zakresem dyrektyw w sprawie zamówień publicznych, a także zakresem art. 10 ust. 1, 3, ust. 6 lit. a)–e), ust. 8, 9 i 10, art. 11, 12, 13 i 14 dyrektywy 2014/23/UE, art. 7 i 8, art. 10 lit. b)–f) i lit. h)–j) dyrektywy 2014/24/UE, art. 18, art. 21 lit. b)–e) i lit. g)–i), art. 29 i 30 dyrektywy 2014/25/UE oraz art. 13 lit. a)–d), lit. f)–h) i lit. j) dyrektywy 2009/81/WE na rzecz lub z udziałem:
+obywateli rosyjskich lub osób fizycznych lub prawnych, podmiotów lub organów z siedzibą w Rosji;
+osób prawnych, podmiotów lub organów, do których prawa własności bezpośrednio lub pośrednio w ponad 50 % należą do podmiotu, o którym mowa w lit. a) niniejszego ustępu; lub
+osób fizycznych lub prawnych, podmiotów lub organów działających w imieniu lub pod kierunkiem podmiotu, o którym mowa w lit. a) lub b) niniejszego ustępu, w tym podwykonawców, dostawców lub podmiotów, na których zdolności polega się w rozumieniu dyrektyw w sprawie zamówień publicznych, w przypadku gdy przypada na nich ponad 10 % wartości zamówienia.
+WARUNKI ZAMÓWIENIA
+Informacja, czy Zamawiający przewiduje unieważnienie postępowania, jeśli środki publiczne, które zamierzał przeznaczyć na sfinansowanie całości lub części zamówienia nie zostały przyznane;
+Zgodnie z art. 257 pkt. 1 Ustawy Pzp Zamawiający przewiduje unieważnienie postępowania, jeśli środki publiczne, które zamierzał przeznaczyć na sfinansowanie całości lub części zamówienia nie zostały przyznane.
+Wymagania dotyczące wadium, jeżeli zamawiający przewiduje obowiązek wniesienia wadium;
+Zamawiający nie przewiduje obowiązku wniesienia wadium.
+Informacje dotyczące zabezpieczenia należytego wykonania umowy, jeżeli zamawiający przewiduje obowiązek jego wniesienia;
+Zamawiający nie przewiduje zabezpieczenia należytego wykonania umowy.
+Wymagania dotyczące składania oferty przez wykonawców wspólnie ubiegających się o udzielenie zamówienia (spółki cywilne, konsorcja);
+Wykonawcy mogą wspólnie ubiegać się o udzielenie zamówienia. W takim przypadku wykonawcy ustanawiają pełnomocnika do reprezentowania ich w postępowaniu o udzielenie zamówienia albo do reprezentowania w postępowaniu i zawarcia umowy w sprawie zamówienia publicznego. Pełnomocnictwo musi być załączone do oferty.
+W przypadku Wykonawców wspólnie ubiegających się o udzielenie zamówienia, oświadczenia, o których mowa w Rozdziale V.2.1.a) SWZ, składa każdy z wykonawców. Oświadczenia te potwierdzają brak podstaw wykluczenia oraz spełnianie warunków udziału w zakresie, w jakim każdy z wykonawców wykazuje spełnianie warunków udziału w postępowaniu.
+Oświadczenia i dokumenty potwierdzające brak podstaw do wykluczenia z postępowania składa każdy z Wykonawców wspólnie ubiegających się o zamówienie.
+W odniesieniu do wykonawców wspólnie ubiegających się o udzielenie zamówienia zamawiający nie określa wymagań związanych z realizacją zamówienia w inny sposób niż w odniesieniu do pojedynczych wykonawców.
+Zamawiający nie zastrzega obowiązku osobistego wykonania przez poszczególnych wykonawców wspólnie ubiegających się o udzielenie zamówienia kluczowych zadań dotyczących:
+zamówień na roboty budowlane lub usługi;
+prac związanych z rozmieszczeniem i instalacją, w ramach zamówienia na dostawy.
+Zamawiający nie określa szczególnego, obiektywnie uzasadnionego, sposobu spełniania przez wykonawców wspólnie ubiegających się o udzielenie zamówienia warunków udziału w postępowaniu, ponieważ jest to uzasadnione charakterem zamówienia i jest proporcjonalne.
+Warunek dotyczący uprawnień do prowadzenia określonej działalności gospodarczej lub zawodowej, jest spełniony, jeżeli co najmniej jeden z wykonawców wspólnie ubiegających się o udzielenie zamówienia posiada uprawnienia do prowadzenia określonej działalności gospodarczej lub zawodowej i zrealizuje roboty budowlane, dostawy lub usługi, do których realizacji te uprawnienia są wymagane.
+W odniesieniu do warunków dotyczących wykształcenia, kwalifikacji zawodowych lub doświadczenia wykonawcy wspólnie ubiegający się o udzielenie zamówienia mogą polegać na zdolnościach tych z wykonawców, którzy wykonają roboty budowlane lub usługi, do realizacji których te zdolności są wymagane. W takim przypadku, wykonawcy wspólnie ubiegający się o udzielenie zamówienia dołączają do oferty oświadczenie, z którego wynika, które roboty budowlane, dostawy lub usługi wykonają poszczególni wykonawcy.
+Jeżeli zostanie wybrana oferta wykonawców wspólnie ubiegających się o udzielenie zamówienia, zamawiający będzie żądać przed zawarciem umowy w sprawie zamówienia publicznego kopii umowy regulującej współpracę tych wykonawców.
+Podwykonawstwo:
+Wykonawca może powierzyć wykonanie części zamówienia podwykonawcy.
+Zamawiający żąda wskazania przez wykonawcę w ofercie, części zamówienia, których wykonanie zamierza powierzyć podwykonawcom, oraz podania nazw ewentualnych podwykonawców, jeżeli są już znani.
+Zamawiający będzie badać, czy nie zachodzą wobec tych podwykonawców podstawy wykluczenia o których mowa w art. 108 ust. 1 i art. 109. Ustawy Pzp, w art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego oraz w  art. 5k Rozporządzenia Rady (UE) nr 833/2014 dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie.
+Jeżeli wobec podwykonawcy zachodzą podstawy wykluczenia, zamawiający zażąda, aby wykonawca w terminie określonym przez zamawiającego zastąpił tego podwykonawcę pod rygorem niedopuszczenia podwykonawcy do realizacji części zamówienia.
+Jeżeli zmiana albo rezygnacja z podwykonawcy dotyczy podmiotu, na którego zasoby wykonawca powoływał się, na zasadach określonych w art. 118 ust. 1 ustawy Pzp, w celu wykazania spełniania warunków udziału w postępowaniu, wykonawca jest obowiązany wykazać zamawiającemu, że proponowany inny podwykonawca lub wykonawca samodzielnie spełnia je w stopniu nie mniejszym niż podwykonawca, na którego zasoby wykonawca powoływał się w trakcie postępowania o udzielenie zamówienia. Przepis art. 122 Ustawy Pzp stosuje się odpowiednio.
+Powierzenie wykonania części zamówienia podwykonawcom nie zwalnia wykonawcy z odpowiedzialności za należyte wykonanie tego zamówienia.
+Wykonawca zawiadamia zamawiającego o wszelkich zmianach w odniesieniu podwykonawców, w trakcie realizacji zamówienia, a także przekazuje wymagane informacje na temat nowych podwykonawców, którym w późniejszym okresie zamierza powierzyć realizację robót budowlanych lub usług.
+Szczegółowe zasady dotyczące udziału podwykonawców w realizacji zamówienia opisane są w projekcie Umowy (załącznik nr 4 do SWZ).
+Informacje dotyczące ofert wariantowych, w tym informacje o sposobie przedstawiania ofert wariantowych oraz minimalne warunki, jakim muszą odpowiadać oferty wariantowe, jeżeli zamawiający wymaga lub dopuszcza ich składanie;
+Zamawiający nie dopuszcza składania ofert wariantowych.
+Informacja o przewidywanym wyborze najkorzystniejszej oferty z zastosowaniem aukcji elektronicznej wraz z informacjami, o których mowa w art. 230, jeżeli zamawiający przewiduje aukcję elektroniczną;
+Zamawiający nie przewiduje zastosowania aukcji elektronicznej.
+PROJEKTOWANE POSTANOWIENIA UMOWY
+Projektowane postanowienia umowy w sprawie zamówienia publicznego, które zostaną wprowadzone do treści tej umowy;
+Zamawiający wymaga od Wykonawcy, aby zawarł z nim umowę w sprawie zamówienia publicznego na warunkach określonych w projekcie umowy stanowiącej załącznik nr 4 do SWZ.
+Zamawiający i wykonawca wybrany w postępowaniu o udzielenie zamówienia obowiązani są współdziałać przy wykonaniu umowy w sprawie zamówienia publicznego, w celu należytej realizacji zamówienia.
+Zamawiający dopuszcza istotne zmiany postanowień zawartej umowy w stosunku do treści oferty, na podstawie której dokonano wyboru Wykonawcy w zakresie zmian przewidzianych w dokumentach zamówienia w postaci jasnych, precyzyjnych i jednoznacznych postanowień umownych. Katalog zmian zawarty jest w projekcie Umowy;
+Przed zawarciem umowy dopuszczalna jest zmiana sposobu spełnienia świadczenia, jeżeli wystąpią okoliczności, których nie można było przewidzieć w chwili wyboru najkorzystniejszej oferty, a która spowodowałaby, że doszłoby do zawarcia umowy o świadczenie niemożliwe. Zmiany sposobu spełnienia świadczenia nie mogą dotyczyć zobowiązań Wykonawcy zawartych w ofercie, które były oceniane w toku postępowania.
+Informacje o formalnościach, jakie muszą zostać dopełnione po wyborze oferty w celu zawarcia umowy w sprawie zamówienia publicznego;
+Wykonawca ma obowiązek skontaktować się z Zamawiającym w terminie 1 dnia roboczego od dnia powiadomienia o wyborze jego oferty jako najkorzystniejszej, w celu ustalenia ostatecznej treści i terminu zawarcia umowy.
+Uchylanie się od obowiązków, o których mowa powyżej Zamawiający będzie traktował jak odmowę podpisania umowy na warunkach określonych w ofercie.
+Zamawiający i Wykonawca wyznaczą oraz przekażą sobie imienne listy swoich przedstawicieli wraz z niezbędnymi numerami telefonów oraz adresów mailowych.
+PROCEDURA
+Sposób oraz termin składania ofert;
+Oferty należy składać do dnia 09.07.2025 r. do godziny 10:00 za pośrednictwem Platformy Zakupowej pod adresem https://malopolska-policja.ezamawiajacy.pl
+Ofertę należy złożyć w następujący sposób: po zalogowaniu się i przejściu do konkretnego postępowania Wykonawca wybiera kafelek „FORMULARZ OFERTY/WNIOSKU” lub wybiera sekcję „Przygotowanie oferty”.
+W sekcji "Przygotowanie oferty", w podsekcji "Dokumenty do oferty" można dodać dokumenty (załączniki) określone w SWZ, właściwie podpisane przez osoby umocowane. Czynności te realizowane są poprzez wybranie polecenia "Przeciągnij tutaj lub Wybierz plik z dysku", w sekcji "Przygotowanie oferty", w podsekcji "Dokumenty do oferty" i wybranie docelowego pliku, który ma zostać wczytany.
+Wykonawca winien opisać załącznik nazwą umożliwiającą jego identyfikację.
+Wykonawca załączając dokument oznacza czy jest to: „Dokument jawny” – zawierający informacje niestanowiące tajemnicy przedsiębiorstwa w rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 roku o zwalczaniu nieuczciwej konkurencji lub „Dokument zawiera tajemnicę przedsiębiorstwa” – dokument zawiera informacje stanowiące „tajemnice przedsiębiorstwa”.
+Złożenie oferty wraz z załącznikami następuje poprzez polecenie „Złóż ofertę".
+Potwierdzeniem prawidłowo złożonej Oferty jest komunikat systemowy „Oferta została złożona” oraz wygenerowany raport złożonej oferty. Raport Wykonawca generuje z akcji "Historia zmian" pobierając odpowiedni plik na komputer. O terminie złożenia Oferty decyduje czas pełnego przeprocesowania transakcji na Platformie.
+Do upływu terminu składania ofert Wykonawca może samodzielnie wycofać złożoną przez siebie ofertę. W tym celu, w postępowaniu po rozwinięciu sekcji „Przygotowanie oferty” wybiera akcję „Wycofaj część oferty” lub z poziomu sekcji „Podgląd złożonej oferty” wybiera akcję „Wycofaj ofertę”.
+Wykonawca może, z poziomu platformy, podpisać załączone dokumenty w sekcji „Przygotowanie oferty”, w podsekcji „Dokumenty do oferty” i/lub podsekcji „Jednolity Europejski Dokument Zamówienia”. W tym celu wybiera akcję „Podpisz dokument” (ikona „pióra”), a następnie, po uruchomieniu kontrolki Szafir SDK, składa podpis. Uprzednio należy skonfigurować stanowisko do złożenia podpisu, czyli zainstalować dedykowany komponent Szafir SDK Web (dodatek do przeglądarki) oraz aplikację Szafir Host, która odpowiada za obsługę funkcjonalności podpisu elektronicznego w platformie eZamawiający. Po zainstalowaniu rozszerzenia Szafir SDK Web oraz aplikacji Szafir Host należy przeładować bieżącą stronę. Przed uruchomieniem platformy eZamawiający zaleca się w pierwszej kolejności podłączyć czytnik z kartą kryptograficzną do komputera.
+Podpisanie dokumentu za pomocą funkcjonalności systemowej wymaga uprzedniej konfiguracji stanowiska pod podpis, która została szczegółowo opisana w rozdziale […] Specyfikacji Warunków Zamówienia.
+Poprawność złożenia podpisu z poziomu systemu potwierdzi:
+Komunikat graficzny w kolumnie „Podpis”, w podsekcji „Dokumenty do oferty” i/lub podsekcji „Jednolity Europejski Dokument Zamówienia”
+Aktualizacja dokumentu w rozszerzeniu „pdf” o formę podpisu PAdES (typ wewnętrzny)
+Dołączenie bliźniaczego pliku o tej samej nazwie z rozszerzeniem CADES (typ zewnętrzny) – dotyczy dokumentów w rozszerzeniach innych niż „pdf”
+Po upływie terminu składania ofert, dodanie Oferty (załączników) nie będzie możliwe.
+Termin otwarcia ofert;
+Otwarcie ofert nastąpi w dniu 09.07.2025r. o godz. 10:30.
+Zamawiający nie przewiduje publicznego otwarcia ofert.
+Po terminie składania ofert, a przed ich otwarciem, Zamawiający udostępni na stronie internetowej prowadzonego postępowania informację o kwocie, jaką zamierza się przeznaczyć na sfinansowanie zamówienia.
+Niezwłocznie po otwarciu ofert, Zamawiający udostępni na stronie internetowej prowadzonego postępowania informacje o:
+nazwach albo imionach i nazwiskach oraz siedzibach lub miejscach prowadzonej działalności gospodarczej albo miejscach zamieszkania wykonawców, których oferty zostały otwarte;
+cenach lub kosztach zawartych w ofertach.
+Termin związania ofertą;
+Termin zawiązania ofertą do: 06.10.2025r.
+Bieg terminu związania ofertą rozpoczyna się wraz z upływem terminu składania ofert.
+W przypadku gdy wybór najkorzystniejszej oferty nie nastąpi przed upływem terminu związania ofertą wskazanego w pkt. 1, Zamawiający przed upływem terminu związania ofertą zwróci się jednokrotnie do wykonawców o wyrażenie zgody na przedłużenie tego terminu o wskazywany przez niego okres, nie dłuższy niż 60 dni. Przedłużenie terminu związania ofertą wymaga złożenia przez wykonawcę pisemnego oświadczenia o wyrażeniu zgody na przedłużenie terminu związania ofertą.
+Odmowa wyrażenia zgody na przedłużenie terminu związania ofertą nie powoduje utraty wadium.
+POZOSTAŁE INFORMACJE
+Pouczenie o środkach ochrony prawnej przysługujących wykonawcy.
+Środki ochrony prawnej przysługują wykonawcy, uczestnikowi konkursu oraz innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu zamówienia lub nagrody w konkursie oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez zamawiającego przepisów ustawy.
+Środki ochrony prawnej wobec ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub ogłoszenia o konkursie oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę, o której mowa w art. 469 pkt 15, oraz Rzecznikowi Małych i Średnich Przedsiębiorców.
+Odwołanie przysługuje na:
+niezgodną z przepisami ustawy czynność zamawiającego, podjętą w postępowaniu o udzielenie zamówienia, o zawarcie umowy ramowej, dynamicznym systemie zakupów, systemie kwalifikowania wykonawców lub konkursie, w tym na projektowane postanowienie umowy;
+zaniechanie czynności w postępowaniu o udzielenie zamówienia, o zawarcie umowy ramowej, dynamicznym systemie zakupów, systemie kwalifikowania wykonawców lub konkursie, do której zamawiający był obowiązany na podstawie ustawy;
+zaniechanie przeprowadzenia postępowania o udzielenie zamówienia lub zorganizowania konkursu na podstawie ustawy, mimo że zamawiający był do tego obowiązany.
+Szczegółowe informacje dot. formy i terminów wnoszenia odwołania oraz pozostałych kwestii związanych ze środkami ochrony prawnej opisane są w Dziale IX Ustawy Pzp.
+Informacje dotyczące walut obcych, w jakich mogą być prowadzone rozliczenia między zamawiającym a wykonawcą, jeżeli zamawiający przewiduje rozliczenia w walutach obcych;
+Zamawiający nie przewiduje rozliczenia w walutach obcych.
+Informacje dotyczące zwrotu kosztów udziału w postępowaniu, jeżeli zamawiający przewiduje ich zwrot;
+Zamawiający nie przewiduje zwrotu kosztów udziału w postępowaniu.
+Załączniki do SWZ.
+Formularz ofertowy
+Opis przedmiotu zamówienia
+Pełnomocnictwo
+Umowa projekt
+Oświadczenie – udostępnienie zasobów innych podmiotów
+Komenda Wojewódzka Policji w Krakowie
+ul. Mogilska 109
+31 -571 Kraków
+FORMULARZ OFERTOWY
+pełna nazwa Wykonawcy
+…………………………………………………………………………………………………………………………….……… dokładny adres Wykonawcy
+REGON: 	………………………………… 	NIP: 	………………………………………………
+Internet: 	http://.………………………… 	e -mail: ………………………………………………
+numer kierunkowy: …………………………… 	Tel. 	………………………………………………
+Forma prowadzenia działalności:
+(mikroprzedsiębiorstwo, małe przedsiębiorstwo, średnie przedsiębiorstwo, jednoosobowa działalność gospodarcza, osoba fizyczna nieprowadząca działalności gospodarczej/ inny rodzaj).
+Nawiązując do ogłoszenia o przetargu nieograniczonym pn.: „Świadczenie usług wykonywania wydruków i kopii w trybie kolor/czarno-białym na urządzeniach dostarczonych przez Wykonawcę”, nr sprawy: ZP.27.2025, oferujemy wykonanie przedmiotowego zamówienia za cenę:
+(SŁOWNIE: ……………………………………………………………………………………. )
+Oświadczamy, iż wśród osób bezpośrednio realizujących zamówienie będzie / nie będzie* (niepotrzebne skreślić) co najmniej jedna osoba niepełnosprawna w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.
+Świadomi faktu odpowiedzialności karnej na podstawie art. 297 § 1 ustawy z dnia 6 czerwca 1997 roku – Kodeks Karny, oświadczamy, że:
+Zapoznaliśmy się ze Specyfikacją Warunków Zamówienia wraz z załączonymi do niej dokumentami i nie wnosimy do nich zastrzeżeń;
+Zaoferowane przez nas usługi spełniają wszystkie wymagania określone w dokumentach zamówienia;
+Zdobyliśmy wszystkie niezbędne informacje konieczne do rzetelnego skalkulowania naszej oferty;
+Oferujemy realizację przedmiotu zamówienia w terminie wymaganym przez Zamawiającego;
+Posiadamy wiedzę i doświadczenie oraz dysponujemy potencjałem technicznym i osobami zdolnymi do wykonania przedmiotowego zamówienia.
+Cena oferty uwzględnia wszystkie należne nam elementy wynagrodzenia wynikające z tytułu przygotowania, realizacji i rozliczenia przedmiotu zamówienia;
+Akceptujemy projekt umowy załączony do SWZ i zobowiązujemy się do zawarcia umowy z tak określonymi warunkami w miejscu i terminie wskazanym przez Zamawiającego;
+Uważamy się za związanych niniejszą ofertą do okresu wskazanego w SWZ;
+Za pomocą następujących podwykonawców: ……………………………….. zamierzamy zrealizować następujący zakres zamówienia: …………………………………..
+Wypełniliśmy obowiązki informacyjne przewidziane w art. 13 ust. 1-3 RODO wobec osób fizycznych, od których dane osobowe bezpośrednio lub pośrednio pozyskałem w celu ubiegania się o udzielenie zamówienia publicznego w niniejszym postępowaniu.
+Integralną część złożonej oferty stanowią następujące dokumenty:
+(Kwalifikowany podpis elektroniczny osoby upoważnionej)
+Opis przedmiotu zamówienia
+Przedmiotem zamówienia jest: kompleksowa usługa wydruku na 125 urządzeniach wielofunkcyjnych
+dostarczonych przez wykonawcę, wraz z serwisem oraz wymianą materiałów eksploatacyjnych, w trybie kolor/czarno-biały, w formacie A4 i A3, zainstalowanych w lokalizacjach podanych w niniejszym załączniku.
+Cena za usługę zostanie wliczona w cenę pojedynczej strony wydruku A4 w trybie kolor i czarno-białym. Uwaga! Wydruk w formacie A3 winien być liczony przez wykonawcę jako dwie kopie w formacie A4
+z uwzględnieniem opcji kolor/czarno-biały.
+W cenie należy uwzględnić wszelkie koszty związane z realizacją usługi tj.: eksploatację sprzętu, jego zużycie, zużycie materiałów eksploatacyjnych (nie dotyczy papieru), koszty serwisu i naprawy itp. Zamawiający nie ponosi innych kosztów niż cena 1 strony wydruku proporcjonalnie do ich ilości.
+Urządzenia zostaną dostarczone w terminie 10 dni roboczych od daty podpisania umowy, a następnie zainstalowane przez Wykonawcę przy współpracy z Zamawiającym na okres trwania umowy w podanych przez zamawiającego lokalizacjach na terenie woj. małopolskiego.
+Zamawiający wymaga jednolitą markę oraz model urządzenia w danej lokalizacji.
+Wykonawca zobowiązuje się do utrzymania sprawności technicznej i dokonywania wszystkich niezbędnych napraw i przeglądów technicznych dostarczonych urządzeń, a także odbioru zużytych materiałów eksploatacyjnych w momencie ich wymiany na nowe.
+W szczególności przedmiot zamówienia obejmuje następujący zakres:
+Dostarczenie, instalacja, podłączenie do sieci i uruchomienie 125 urządzeń wielofunkcyjnych (parametry sieci i hasła wprowadzi Zamawiający):
+Urządzenia dostarczone przez Wykonawcę muszą spełniać minimalne parametry zawarte w punkcie
+8 oraz zapewniać funkcje:
+- wydruków kolor/mono z sieci,
+- skanowania do maila i folderu sieciowego
+- kopiowania kolor/mono,
+- odbierania i wysyłania faksu analogowego,
+- zarządzania poprzez www – interfejs GUI, w tym możliwość ustawienia hasła administratora,
+- wykonywania i przywracania kopii zapasowych konfiguracji urządzenia i książki adresowej z poziomu interfejsu urządzenia (Zamawiający nie dopuszcza możliwości dodania tej funkcjonalności poprzez instalowanie innego, dodatkowego oprogramowania)
+Dostarczanie i wymiana na bieżąco materiałów eksploatacyjnych (za wyjątkiem papieru) zapewniających nieprzerwaną pracę urządzeń. Koszt materiałów eksploatacyjnych (w tym koszt ich dostarczenia) pokrywa Wykonawca. Wymieniane części oraz materiały eksploatacyjne muszą gwarantować dobrą jakość tworzonych dokumentów (wydruki o dobrym kontraście, z czystym białym tłem bez zabrudzeń, prawidłowe odwzorowanie barw).
+Wykonywanie przeglądów i napraw niezbędnych do zapewnienia prawidłowego funkcjonowania urządzeń i utrzymania dobrej jakości wydruku oraz wymiana uszkodzonych i wyeksploatowanych części i materiałów eksploatacyjnych, które powodują nieprawidłowe działanie urządzeń. Przeglądy muszą uwzględniać wszelkie czynności niezbędne do zapewnienia sprawnego działania urządzenia. Dokonywanie przeglądów oraz wymiana części i materiałów eksploatacyjnych musi być dokonywana w sposób zapewniający ciągłość pracy urządzeń.
+Warunki obsługi i napraw urządzeń:
+Konieczność wymiany materiałów eksploatacyjnych lub wykonania naprawy urządzeń będzie zgłaszana przez Zamawiającego. Wykonawca zapewni możliwość zgłaszania awarii w dni robocze w godzinach 7.30-15.30 na wskazany adres mailowy.
+Czas dostawy i wymiany materiału eksploatacyjnego – maksymalnie 3 dni robocze po przesłaniu zgłoszenia przez Zamawiającego. Wymiana odbywać się będzie w miejscu eksploatacji urządzenia
+w dni robocze w godzinach od 8.00 do 15.00.
+Przeglądy, wymiana części i materiałów eksploatacyjnych dla zainstalowanych urządzeń muszą być wykonywane w miejscu ich eksploatacji w dni robocze w godzinach od 8.00 do 15.00.
+W przypadku 3 awarii tego samego urządzenia Wykonawca na wniosek Zamawiającego dokona jego wymiany.
+Wykonawca zobowiązany będzie do przywrócenia pełnej funkcjonalności urządzenia w wyniku jego naprawy lub wymiany urządzenia (w wyniku niemożności wykonania naprawy na miejscu) na w pełni sprawne, skonfigurowane i gotowe do pracy - dostarczone i uruchomione przez Wykonawcę we wskazanej lokalizacji.
+Zamawiający zastrzega, iż na czas naprawy urządzenia poza miejscem jego użytkowania, nośniki pamięci zostaną wymontowane i przekazane do dyspozycji Zamawiającego.
+Rozpoczęcie naprawy musi nastąpić w ciągu 3 dni roboczych od momentu zgłoszenia. Przywrócenie pełnej funkcjonalności musi nastąpić najdalej w terminie do 5 dni roboczych od momentu zgłoszenia.
+O planowanej wizycie serwisanta Wykonawca winien poinformować Zamawiającego co najmniej dzień wcześniej.
+Wszystkie koszty przywracania i utrzymania pełnej funkcjonalności urządzeń Wykonawca wkalkuluje
+w cenę oferty.
+Jeżeli dostarczone urządzenia będą na gwarancji, obsługą zgłoszeń gwarancyjnych, przeglądami oraz
+innymi obowiązkami wynikłymi z umowy gwarancyjnej wywiązuje się Wykonawca.
+Uszkodzenia podajników, uchwytów, mocowania rolek, osłon zaczepów i zawiasów oraz paneli dotykowych podlegają naprawie w ramach umowy.
+W celu zachowania ciągłości działań kluczowych komórek organizacyjnych Wykonawca dostarczy na wniosek Zamawiającego zestaw materiałów eksploatacyjnych do wymiany przez służby techniczne we własnym zakresie, co jednocześnie nie będzie wpływało na warunki gwarancji urządzenia.
+Minimalne parametry dostarczonych urządzeń wielofunkcyjnych:
+technologia druku laserowego,
+szybkość wydruku min 25 stron A4/min czarno-białe i kolorowe,
+rozdzielczość minimalna druku 1200x1200 dpi,
+rozdzielczość minimalna skanowania 600x600 dpi,
+rozdzielczość minimalna kopiowania 600x600 dpi,
+maksymalny czas oczekiwania na pierwszy wydruk A4: 7 sekund (mono), 8 sekund (kolor),
+rozmiar podajnika papieru min 3 kasety, łącznie min. 1800 arkuszy,
+podajnik podstawowy do papieru min. 60- 250 g/m2,
+średnie miesięczne obciążenie min. 50000 stron,
+skaner duplex z podajnikiem ADF na min.50 arkuszy formatu A4,
+automatyczny wydruk dwustronny,
+interfejsy:
+- ethernet min. 10/100 base z możliwością ustawienia stałego adresu IP,
+- USB min. 2.0,
+dedykowana przez producenta podstawa z kółkami,
+skanowanie do e-mail,
+skanowanie do folderu sieciowego
+wysyłanie i odbieranie faksów na pośrednictwem linii analogowej
+omijanie pustych stron,
+sterowniki zgodne z systemem Windows 7 i nowszymi,
+deklaracja zgodności CE lub dokument równoważny,
+możliwość drukowania w ramach pracy w usłudze active directory z systemów operacyjnych Windows 7 i nowsze, oraz Microsoft Windows Server 2008 i nowsze.
+oryginalny firmware producenta
+możliwość podglądu stanu/poziomu materiałów eksploatacyjnych z poziomu urządzenia jak i zdalnie
+menu urządzenia oraz opis przycisków fizycznych na urządzeniu (jeśli są) a także interfejs połączenia zdalnego – w języku polskim
+urządzenia nie mogą posiadać modułu Wi-Fi oraz Bluetooth. Zamawiający dopuszcza urządzenie posiadające takie moduły w przypadku możliwości ich wyłączenia z poziomu menu ustawień.
+Parametry jakościowe urządzeń i wydruków:
+wydruki o dobrym kontraście (nie dopuszcza się szarości zamiast koloru czarnego)
+czyste, białe tło bez zabrudzeń
+prawidłowe odwzorowanie barw (ocena wizualna)
+wydruki prawidłowo utrwalone
+Zamawiający wymaga, aby realizacja zamówienia obywała się na urządzeniach nie starszych niż 3 lata.
+Po zakończeniu realizacji umowy:
+- pamięci masowe (nośniki danych) z zainstalowanych urządzeń pozostają u Zamawiającego, pamięć operacyjna urządzenia zostanie wykasowana w obecności przedstawicieli Zamawiającego, a z tej czynności sporządzony zostanie protokół.
+- Wykonawca dokona odbioru urządzeń ze wszystkich lokalizacji w terminie do 5 dni roboczych po zakończeniu umowy.
+Wykonawca, w trakcie realizacji zamówienia, będzie dysponował co najmniej 3 serwisantami posiadających każdy minimum roczne doświadczenie w obsłudze serwisowej urządzeń drukujących.
+Wykaz  komórek i jednostek KWP w Krakowie objętych postępowaniem na świadczenie usługi i prognozowana ilość wydruków
+PEŁNOMOCNICTWO
+Ja, niżej podpisany,
+(imię i nazwisko osoby ustanawiającej pełnomocnika),
+działając w imieniu Wykonawcy:
+(nazwa, adres Wykonawcy)
+udzielam niniejszym Pani/ Panu:
+(imię i nazwisko pełnomocnika)
+pełnomocnictwa do reprezentowania i składania wszelkich oświadczeń woli i wiedzy, w tym do złożenia oferty, oświadczeń i zawarcia umowy, w postępowaniu pn. „Świadczenie usług wykonywania wydruków i kopii w trybie kolor/czarno-białym na urządzeniach dostarczonych przez Wykonawcę”
+nr sprawy: ZP.27.2025
+przeprowadzanym przez Komendę Wojewódzką Policji w Krakowie.
+Miejscowość, data: ……………………………………
+(Kwalifikowany podpis elektroniczny osoby ustanawiającej pełnomocnika)
+WZÓR
+PISEMNE ZOBOWIĄZANIE INNEGO PODMIOTU do oddania do dyspozycji WYKONAWCY niezbędnych zasobów na potrzeby wykonania niniejszego zamówienia
+Nazwa i adres PODMIOTU składającego zobowiązanie:
+Będąc należycie upoważnionym do reprezentowania podmiotu składającego zobowiązanie, potwierdzamy, iż stosunek łączący nas z WYKONAWCĄ gwarantuje rzeczywisty dostęp do udostępnianych zasobów.
+Oświadczamy, że oddajemy do dyspozycji WYKONAWCY dostępne zasoby w zakresie:
+Sposób i okres udostępnienia Wykonawcy i wykorzystania przez Wykonawcę zasobów przy wykonywaniu zamówienia:
+Czy i w jakim zakresie podmiot udostępniający zasoby, na zdolnościach którego wykonawca polega w odniesieniu do warunków udziału w postępowaniu dotyczących wykształcenia, kwalifikacji zawodowych lub doświadczenia, zrealizuje usługi, których wskazane zdolności dotyczą:
+……………………, dn. ………………
+(Kwalifikowany podpis elektroniczny/
+osoby uprawionej do reprezentowania PODMIOTU składającego zobowiązanie o udostępnianiu zasobów)
+Zamawiający zwraca uwagę na treść art. 118 ust. 2 Ustawy Pzp.

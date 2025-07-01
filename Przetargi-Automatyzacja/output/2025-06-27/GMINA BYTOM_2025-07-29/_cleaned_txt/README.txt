@@ -1,0 +1,4 @@
+Oto krtka dokumentacja plikw ESPD, ktr znajd Pastwo w tym folderze ZIP.
+espd.XML: Plik XML to plik, ktre moe zosta odczytany przez nasz serwis ESPD lub inne kompatybilne serwisy ESPD. Zaleta korzystania z eESPD jako pliku XML polega na tym, e nabywcy i przedsibiorstwa mog wykorzysta go ponownie do celw innych postpowa w przyszoci. Naley przesya go razem z dokumentami zamwienia (od zamawiajcego do przedsibiorstw) lub w ramach oferty (od przedsibiorstw do zamawiajcego).
+espd.PDF: Plik PDF to plik eESPD w postaci czytelnej dla czowieka. Proponujemy rwnie w tym miejscu, aby wykorzystywa go obok formatu XML przy dokumentach zamwienia (od zamawiajcego do przedsibiorstw) lub w ramach oferty (od przedsibiorstw do zamawiajcego) jako dokument referencyjny.
+Jeeli maj Pastwo pytania dotyczce plikw, prosimy o kontaktowanie si z nami za porednictwem nastpujcego adresu e-mail: grow-espd@ec.europa.eu.

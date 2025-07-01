@@ -1,0 +1,182 @@
+Oznaczenie sprawy: ZP.271.2.79.2025.DK   Załącznik nr 3 do SWZ
+Miasto Bielsko -Biała Urząd Miejski w Bielsku -Białej
+Strona 1 z 5 Opis przedmiotu zamówienia
+Nazwa zamówienia:  „Dostawa urządzeń drukujących dla Urzędu Miejskiego
+w Bielsku -Białej ”.
+Przedmiotem zamówienia jest  dostawa następujących urządzeń drukujących :
+I. Urządzenie wielofunkcyjne  A3 (kolor) – 3 sztuki
+Rodzaj urządzenia  Wielofunkcyjne urządzenie do wydruku
+kolorowego i mono w formacie A3
+Miesięczna gwarantowana ilość
+wydruków *  min 50 tys wydruków na miesiąc
+Metoda drukowania  Technologia laserowa / LED / bądź równoważna
+pod względem osiąganego celu
+Prędkość druku / kopiowania  minimum:
+45 stron A4/min. i 20 stron A3/min. w czerni
+45 stron A4/min i 20 stron A3/min w kolorze
+Rozdzielczość druku  min 1200x 1200 dpi
+Rozdzielczość kopiowania (dpi)  min. 600 x 600
+Panel operatora  wyposażony w ekran dotykowy (opisy na panelu
+oraz komunikaty na ekranie w języku polskim)
+Format oryginału   A6-A3
+Moduł dwustronny  w standardzie, obsługujący gramaturę 70 -105
+Funkcje kopiowania  Wiele kopii z jednego skanu, numerowanie stron,
+broszura, funkcja stempla, pomijanie pustych
+stron
+Czytnik kart zbliżeniowych i
+karty  Czytnik kart zbliżeniowych pracujący w
+technologii rfid 125 kHz,
+Emulacja strony  PCL, Postscript
+Obsługiwane systemy
+operacyjne  Windows, Linux
+Czcionki  Wykrywanie czcionek stosowanych w systemach
+Windows a także kodów kreskowych jedno i
+dwuwymiarowych w celach wydruku,
+Oznaczenie sprawy: ZP.271.2.79.2025.DK   Załącznik nr 3 do SWZ
+Miasto Bielsko -Biała Urząd Miejski w Bielsku -Białej
+Strona 2 z 5 Funkcje drukowania  Szyfrowany druk, drukowanie IPP, e mail printing,
+wydruk bezpieczny , wydruk próbny, wydruk
+prywatny, przechowywanie i zarządzanie pracami
+Prędkość skanowania w kolorze
+i czerni z  wykorzystaniem
+podajnika stron A4
+o rozdzielczości 300 dpi.  120/min obrazów
+Rozdzielczość skanowania (dpi)
+(nie interpolowana)   600x600
+Podajnik skanera  Automatyczny dwustronny, jednoprzebiegowy
+Tryby skanowania  Skanowania na adres e -mail,
+Skanowanie do SMB , Skanowanie do FTP
+Skanowanie do USB , Skanowanie sieciowe
+TWAIN (w wersji aktualnej),
+Formaty plików  PDF; JPEG; TIFF;
+Standardowa pamięć systemu
+(GB)  min. 2 GB,
+Standardowy dysk twardy (GB)  min. 160 GB
+Standardowe interfejsy  Złącze interfejsu USB: min. 1szt. (USB Hi -Speed)
+Interfejs sieciowy: 1(10 BASE -T/100 BASE -
+TX/1000 BASE -T)
+Port USB: min. 2 szt. (Hi -Speed USB -A)
+Standardowe podajniki papieru  Kaseta 1: min 500 arkuszy Kaseta 2: min 500
+arkuszy Kaseta 3: min 500 arkuszy Kaseta 4: min
+500 arkuszy
+Taca uniwersalna: A4/Letter lub mniejszy min.
+150 arkuszy
+Większy niż A4/Letter min. 50 arkuszy.
+Rozmiar
+papieru  Kaseta 1 -4  A3 – A5 (dopuszczalna jedna kaseta A4 -A5)
+Taca uniwersalna   A3 – A5, C4, A5 -R, B5, B5 -R, C5, B6, A6, C6,
+Konta użytkowników  Minimalnie 999 kont użytkowników; obsługa
+Active Directory , definiowanie dostępu funkcji dla
+użytkownika, uwierzytelnianie za pomocą kart
+zbliżeniowych (czytnik kart zbliżeniowych rfid 125
+kHz)
+Funkcjonalności dodatkowe.  Zamawiający wymaga po dostarczeniu urządzeń
+wpięcia  ich (instalacja i konfiguracja)  do
+uruchomionego produkcyjnie u Zamawiającego
+Oznaczenie sprawy: ZP.271.2.79.2025.DK   Załącznik nr 3 do SWZ
+Miasto Bielsko -Biała Urząd Miejski w Bielsku -Białej
+Strona 3 z 5 Centralnego Systemu Druku  (CSD)  opartego na
+oprogramowaniu firmy Qube. Wykonawca ma
+zapewnić licencje na każde urządzenie do
+korzystania z systemu. Zamawiający wymaga,
+aby dostarczone urządzenia po wpięciu  do CSD
+w pełni realizowały założenia wydruku
+podążającego , co oznacz a między innymi
+korzystanie  przez użytkowników i urządzenia  ze
+wspólnej kolejki  skonfigurowanej obecnie  na
+serwerze. Użytkownik końcowy po uruchomieniu
+dostarczonych i skonfigurowanych urządzeń ma
+mieć możliwość odbioru swojego wydruku na
+każdym  urządzeniu wpiętym w system  CSD
+(zarówno nowym jak i aktualnie używanym) .
+Dostarczony sprzęt  po zainstalowaniu aplikacji
+firmy Qube ma korzystać z interfejsu samego
+urządzenia do realizowania zadań , a ww.
+aplikacja w żaden sposób nie może ograniczać
+jakichkolwiek funkcj i urządzenia.
+Zabezpieczenie zapasów
+materiałów eksploatacyjnych*  Kompatybilne materiały eksploatacyjne
+umożliwiające wykonanie min. 20 tys. wydruków
+w czerni i bieli oraz min. 15tys. wydruków w
+kolorze A4 na każdym urządzeniu,
+niepowodujące zwiększenia ich awaryjności (w
+przypadku tonerów o mniejszej pojemności,
+należy w ofercie przewidzieć dodatkowe
+komplety) ,
+Taca wyjściowa pojemność  min. 250 arkuszy
+Dostępność dla osób
+niepełnosprawnych  Możliwość regulacji jasności panelu oraz
+uruchomienia dźwięku potwierdzenia wyboru
+Warunki gwarancji  Min. 3 lata od dnia dostawy, świadczona przez
+producenta lub podmiot posiadający autoryzację
+producenta, w miejscu instalacji urządzenia,
+Pobór energii / zasilanie  220-240 V / 50/60 Hz
+Głośność  Drukowanie max 55 dB, gotowość max 35 dB
+Oznaczenie sprawy: ZP.271.2.79.2025.DK   Załącznik nr 3 do SWZ
+Miasto Bielsko -Biała Urząd Miejski w Bielsku -Białej
+Strona 4 z 5 II. Urządzenie wielofunkcyjne  A4 (kolor) – 1 sztuki
+Rodzaj urządzenia  Wielofunkcyjne urządzenie do wydruku
+kolorowego i mono w formacie A 4
+Miesięczna gwarantowana ilość
+wydruków *  min 50 tys wydruków na miesiąc
+Metoda drukowania  Technologia laserowa / LED / bądź równoważna
+pod względem osiąganego celu
+Prędkość druku / kopiowania  minimum:
+45 stron A4/min.
+30 stron A4/min
+Rozdzielczość druku  min 1200x 1200 dpi
+Rozdzielczość kopiowania (dpi)  min. 600 x 600
+Panel operatora  wyposażony w ekran dotykowy (opisy na panelu
+oraz komunikaty na ekranie w języku polskim)
+Format oryginału   A6-A4
+Moduł dwustronny  w standardzie, obsługujący gramaturę 70 -105
+Funkcje kopiowania  Wiele kopii z jednego skanu, numerowanie stron,
+broszura, funkcja stempla, pomijanie pustych
+stron
+Emulacja strony  PCL, Postscript
+Obsługiwane systemy
+operacyjne  Windows, Linux
+Czcionki  Wykrywanie czcionek stosowanych w systemach
+Windows a także kodów kreskowych jedno i
+dwuwymiarowych w celach wydruku,
+Funkcje drukowania  Szyfrowany druk, drukowanie IPP, e mail printing,
+wydruk bezpieczny , wydruk próbny, wydruk
+prywatny, przechowywanie i zarządzanie pracami
+Prędkość skanowania w kolorze
+i czerni z  wykorzystaniem
+podajnika stron A4
+o rozdzielczości 300 dpi.  45/min obrazów
+Rozdzielczość skanowania (dpi)
+(nie interpolowana)   600x600
+Oznaczenie sprawy: ZP.271.2.79.2025.DK   Załącznik nr 3 do SWZ
+Miasto Bielsko -Biała Urząd Miejski w Bielsku -Białej
+Strona 5 z 5 Podajnik skanera  Automatyczny dwustronny, jednoprzebiegowy
+Tryby skanowania  Skanowania na adres e -mail,
+Skanowanie do SMB , Skanowanie do FTP
+Skanowanie do USB , Skanowanie sieciowe
+TWAIN (w wersji aktualnej),
+Formaty plików  PDF; JPEG; TIFF;
+Standardowa pamięć systemu
+(GB)  min. 2 GB,
+Standardowy dysk twardy (GB)  min. 160 GB
+Standardowe interfejsy  Złącze interfejsu USB: min. 1szt. (USB Hi -Speed)
+Interfejs sieciowy: 1( 10/100/1000  Base -T)
+Standardowe podajniki papieru  Kaseta 1: min 500 arkuszy
+Taca ręczny : 100 arkuszy
+Zabezpieczenie zapasów
+materiałów eksploatacyjnych*  Kompatybilne materiały eksploatacyjne
+umożliwiające wykonanie min. 9 tys. wydruków w
+czerni i bieli oraz min. 13 tys. wydruków w kolorze
+A4 na każdym urządzeniu, niepowodujące
+zwiększenia ich awaryjności (w przypadku
+tonerów o mniejszej pojemności, należy w ofercie
+przewidzieć dodatkowe komplety) ,
+Taca wyjściowa pojemność  250 arkuszy
+Dostępność dla osób
+niepełnosprawnych  Możliwość regulacji jasności panelu oraz
+uruchomienia dźwięku potwierdzenia wyboru
+Warunki gwarancji  Min. 3 lata od dnia dostawy, świadczona przez
+producenta lub podmiot posiadający autoryzację
+producenta, w miejscu instalacji urządzenia,
+Pobór energii / zasilanie  220-240 V / 50/60 Hz
+Głośność  Drukowanie max 55 dB, gotowość max 35 dB

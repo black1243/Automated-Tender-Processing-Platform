@@ -1,0 +1,9 @@
+Opis Przedmiotu Zamówienia
+Część 2 Dostawa minikomputerów
+Oferowany sprzęt powinien być fabrycznie nowy, pochodzić z oficjalnego kanału dystrybucyjnego producenta.
+Jeżeli Zamawiający określił w OPZ wymagania z użyciem nazw własnych produktów lub marek producentów, w szczególności w obszarze specyfikacji przedmiotu zamówienia, to należy traktować wskazane produkty jako rozwiązania wzorcowe. W każdym takim przypadku Zamawiający oczekuje dostarczenia produktów wzorcowych lub równoważnych, spełniających poniższe warunki równoważności.
+Wszelkie certyfikaty, normy, deklaracje, instrukcje itp. dotyczące oferowanego sprzętu powinny być w języku polskim. Zamawiający dopuszcza przedłożenie tych dokumentów w języku angielskim. W przypadku dokumentów w innym języku obcym Zamawiający wymaga przedłożenia tych dokumentów przetłumaczonych na język polski wraz z dokumentem źródłowym.
+Minikomputer - 30 szt. (trzydzieści)
+Monitor - 30 szt. (trzydzieści)
+Zestaw urządzeń wejściowych - 30 kompletów (trzydzieści)
+Zestaw mysz i klawiatura powinna pochodzić od jednego producenta i być spójna kolorystycznie. Zestaw powinien być kompatybilny z minikomputerami z punktu 1. Użytkowanie zestawu z minikomputerami powinno być możliwe bez konieczności instalowania dodatkowych sterowników.

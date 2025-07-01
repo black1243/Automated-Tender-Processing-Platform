@@ -1,0 +1,310 @@
+Strona 1 z 6
+Znak postępowania: AIR.271.8.2025
+Zał. nr 1B do SWZ
+Część 2 - Wzmocnienie cyberbezpieczeństwa w Gminie Pszów popr zez dostawę licencji na oprogramowanie
+typu EDR
+OPIS PRZEDMIOTU ZAMÓWIENIA
+Dostawa 60 szt. licencji na oprogramowanie Endpoint D etection and Response (EDR)  spełniającego wymagania, jak niżej:
+Nazwa  WYMAGANE MINIMALNE PARAMETRY
+Typ Oprogramowanie Endpoint Detection and Response (EDR ).
+Zastosowanie Wykrywanie zagrożeń: monitorowanie aktywności na ur ządzeniach końcowych, co pozwala na
+identyfikację podejrzanych działań i potencjalnych ataków w czasie rzeczywistym.
+Analiza incydentów: gromadzenie danych dotyczących zdarzeń i aktywności użytkowników.
+Automatyzacja reakcji: w przypadku wykrycia zagroże nia automatyczne podjęcie działań zaradczych.
+Zarządzanie podatnościami: identyfikacja luk w zabe zpieczeniach oraz zarządzanie aktualizacjami.
+Ochrona przed nowymi zagrożeniami: wykrywanie niezn anych wcześniej zagrożeń.
+Wdrożenie systemu EDR przyczyni się do zwiększenia odporności organizacji na cyberzagrożenia oraz
+poprawi ogólną strategię zarządzania bezpieczeństwe m IT.
+Licencja Oprogramowanie posiada 2-letnią licencję z możliwoś cią późniejszej kontynuacji na kolejne lata.
+Ilość sztuk licencji 60 sztuk.
+Interfejs Oprogramowanie posiada interfejs użytkownika w języ ku polskim.
+Wsparcie techniczne Wsparcie techniczne mailowe oraz telefoniczne w jęz yku polskim.
+Podstawowe
+funkcjonalności
+systemu Ochrona stacji roboczych
+1.  Rozwiązanie musi wspierać systemy operacyjne Window s (Windows 10/Windows 11).
+2.  Rozwiązanie musi wspierać architekturę ARM64.
+3.  Rozwiązanie musi zapewniać wykrywanie i usuwanie ni ebezpiecznych aplikacji typu
+adware, spyware, dialer, phishing, narzędzi hakersk ich, backdoor.
+4.  Rozwiązanie musi posiadać wbudowaną technologię do ochrony przed rootkitami oraz
+podłączeniem komputera do sieci botnet.
+5.  Rozwiązanie musi zapewniać wykrywanie potencjalnie niepożądanych, niebezpiecznych
+oraz podejrzanych aplikacji.
+6.  Rozwiązanie musi zapewniać skanowanie w czasie rzec zywistym otwieranych,
+zapisywanych i wykonywanych plików.
+7.  Rozwiązanie musi zapewniać skanowanie całego dysku,  wybranych katalogów lub
+pojedynczych plików "na żądanie" lub według harmono gramu.
+8.  Rozwiązanie musi zapewniać skanowanie plików spakow anych i skompresowanych oraz
+dysków sieciowych i dysków przenośnych.
+9.  Rozwiązanie musi posiadać opcję umieszczenia na liś cie wykluczeń ze skanowania
+wybranych plików, katalogów lub plików na podstawie  rozszerzenia, nazwy, sumy
+kontrolnej (SHA1) oraz lokalizacji pliku.
+10.  Rozwiązanie musi integrować się z Intel Threat Dete ction Technology.
+11.  Rozwiązanie musi zapewniać skanowanie i oczyszczani e poczty przychodzącej POP3 i
+IMAP „w locie” (w czasie rzeczywistym), zanim zosta nie dostarczona do klienta
+pocztowego, zainstalowanego na stacji roboczej (nie zależnie od konkretnego klienta
+pocztowego).
+12.  Rozwiązanie musi zapewniać skanowanie ruchu sieciow ego wewnątrz szyfrowanych
+protokołów HTTPS, POP3S, IMAPS.
+13.  Rozwiązanie musi posiadać wbudowane dwa niezależne moduły heurystyczne – jeden
+wykorzystujący pasywne metody heurystyczne i drugi wykorzystujący aktywne metody
+heurystyczne oraz elementy sztucznej inteligencji. Musi istnieć możliwość wyboru, z jaką
+heurystyka ma odbywać się skanowanie – z użyciem je dnej lub obu metod jednocześnie.
+14.  Rozwiązanie musi zapewniać blokowanie zewnętrznych nośników danych na stacji w tym
+przynajmniej: Pamięci masowych, optycznych pamięci masowych, pamięci masowych
+Strona 2 z 6
+Firewire, urządzeń do tworzenia obrazów, drukarek U SB, urządzeń Bluetooth, czytników
+kart inteligentnych, modemów, portów LPT/COM oraz u rządzeń przenośnych.
+15.  Rozwiązanie musi posiadać funkcję blokowania nośnik ów wymiennych, bądź grup
+urządzeń ma umożliwiać użytkownikowi tworzenie regu ł dla podłączanych urządzeń
+minimum w oparciu o typ, numer seryjny, dostawcę lu b model urządzenia.
+16.  Moduł HIPS musi posiadać możliwość pracy w jednym z  pięciu trybów:
+• tryb automatyczny z regułami, gdzie program automat ycznie tworzy i
+wykorzystuje reguły wraz z możliwością wykorzystani a reguł utworzonych przez
+użytkownika,
+• tryb interaktywny, w którym to rozwiązanie pyta uży tkownika o akcję w
+przypadku wykrycia aktywności w systemie,
+• tryb oparty na regułach, gdzie zastosowanie mają je dynie reguły utworzone
+przez użytkownika,
+• tryb uczenia się, w którym rozwiązanie uczy się akt ywności systemu i
+użytkownika oraz tworzy odpowiednie reguły w czasie  określonym przez
+użytkownika. Po wygaśnięciu tego czasu program musi  samoczynnie przełączyć
+się w tryb pracy oparty na regułach,
+• tryb inteligentny, w którym rozwiązanie będzie powi adamiało wyłącznie o
+szczególnie podejrzanych zdarzeniach.
+17.  Rozwiązanie musi być wyposażone we wbudowaną funkcj ę, która wygeneruje pełny
+raport na temat stacji, na której zostało zainstalo wane, w tym przynajmniej z:
+zainstalowanych aplikacji, usług systemowych, infor macji o systemie operacyjnym i
+sprzęcie, aktywnych procesów i połączeń sieciowych,  harmonogramu systemu
+operacyjnego, pliku hosts, sterowników.
+18.  Funkcja, generująca taki log, ma posiadać przynajmn iej 9 poziomów filtrowania wyników
+pod kątem tego, które z nich są podejrzane dla rozw iązania i mogą stanowić zagrożenie
+bezpieczeństwa.
+19.  Rozwiązanie musi posiadać automatyczną, inkrementac yjną aktualizację silnika detekcji.
+20.  Rozwiązanie musi posiadać tylko jeden proces urucha miany w pamięci, z którego
+korzystają wszystkie funkcje systemu (antywirus, an tyspyware, metody heurystyczne).
+21.  Rozwiązanie musi posiadać funkcjonalność skanera UE FI, który chroni użytkownika
+poprzez wykrywanie i blokowanie zagrożeń, atakujący ch jeszcze przed uruchomieniem
+systemu operacyjnego.
+22.  Rozwiązanie musi posiadać ochronę antyspamową dla p rogramu pocztowego Microsoft
+Outlook.
+23.  Zapora osobista rozwiązania musi pracować w jednym z czterech trybów:
+• tryb automatyczny – rozwiązanie blokuje cały ruch p rzychodzący i zezwala tylko
+na połączenia wychodzące,
+• tryb interaktywny – rozwiązanie pyta się o każde no wo nawiązywane
+połączenie,
+• tryb oparty na regułach – rozwiązanie blokuje cały ruch przychodzący i
+wychodzący, zezwalając tylko na połączenia skonfigu rowane przez
+administratora,
+• tryb uczenia się – rozwiązanie automatycznie tworzy  nowe reguły zezwalające
+na połączenia przychodzące i wychodzące. Administra tor musi posiadać
+możliwość konfigurowania czasu działania trybu.
+24.  Rozwiązanie musi być wyposażona w moduł bezpiecznej  przeglądarki.
+25.  Przeglądarka musi automatycznie szyfrować wszelkie dane wprowadzane przez
+Użytkownika.
+26.  Praca w bezpiecznej przeglądarce musi być wyróżnion a poprzez odpowiedni kolor ramki
+przeglądarki oraz informację na ramce przeglądarki.
+Strona 3 z 6
+27.  Rozwiązanie musi być wyposażone w zintegrowany modu ł kontroli dostępu do stron
+internetowych.
+28.  Rozwiązanie musi posiadać możliwość filtrowania adr esów URL w oparciu o co najmniej
+140 kategorii i podkategorii.
+29.  Rozwiązanie musi zapewniać ochronę przed zagrożenia mi 0-day.
+30.  W przypadku stacji roboczych rozwiązanie musi posia dać możliwość wstrzymania
+uruchamiania pobieranych plików za pośrednictwem pr zeglądarek internetowych,
+klientów poczty e-mail, z nośników wymiennych oraz wyodrębnionych z archiwum.
+Administracja zdalna w chmurze
+1.  Rozwiązanie musi być dostępne w chmurze producenta oprogramowania
+antywirusowego.
+2.  Rozwiązanie musi umożliwiać dostęp do konsoli centr alnego zarządzania z poziomu
+interfejsu WWW.
+3.  Rozwiązanie musi być zabezpieczone za pośrednictwem  protokołu SSL.
+4.  Rozwiązanie musi posiadać mechanizm wykrywający skl onowane maszyny na podstawie
+unikatowego identyfikatora sprzętowego stacji.
+5.  Rozwiązanie musi posiadać możliwość komunikacji age nta przy wykorzystaniu HTTP
+Proxy.
+6.  Rozwiązanie musi posiadać możliwość zarządzania urz ądzeniami mobilnymi – MDM.
+7.  Rozwiązanie musi posiadać możliwość wymuszenia dwuf azowej autoryzacji podczas
+logowania do konsoli administracyjnej.
+8.  Rozwiązanie musi posiadać możliwość dodania zestawu  uprawnień dla użytkowników w
+oparciu co najmniej o funkcje zarządzania: polityka mi, raportowaniem, zarządzaniem
+licencjami, zadaniami administracyjnymi. Każda z fu nkcji musi posiadać możliwość wyboru
+uprawnienia: odczyt, użyj, zapisz oraz brak.
+9.  Rozwiązanie musi posiadać minimum 80 szablonów raport ów, przygotowanych przez
+producenta.
+10.  Rozwiązanie musi posiadać możliwość tworzenia grup statycznych i dynamicznych
+komputerów.
+11.  Grupy dynamiczne muszą być tworzone na podstawie sz ablonu określającego warunki,
+jakie musi spełnić klient, aby został umieszczony w  danej grupie. Warunki muszą zawierać
+co najmniej: adresy sieciowe IP, aktywne zagrożenia , stan funkcjonowania/ochrony,
+wersja systemu operacyjnego, podzespoły komputera.
+12.  Rozwiązanie musi posiadać możliwość uruchomienia za dań automatycznie, przynajmniej z
+wyzwalaczem: wyrażenie CRON, codziennie, cotygodnio wo, comiesięcznie, corocznie, po
+wystąpieniu nowego zdarzenia oraz umieszczeniu agen ta w grupie dynamicznej.
+Ochrona serwera
+1.  Rozwiązanie musi wspierać systemy Microsoft Windows  Server oraz Linux w tym co
+najmniej: RedHat Enterprise Linux (RHEL), Rocky Lin ux, Ubuntu, Debian, SUSE Linux
+Enterprise Server (SLES), Oracle Linux oraz Amazon Linux.
+2.  Rozwiązanie musi zapewniać ochronę przed wirusami, trojanami, robakami i innymi
+zagrożeniami.
+3.  Rozwiązanie musi zapewniać wykrywanie i usuwanie ni ebezpiecznych aplikacji typu
+adware, spyware, dialer, phishing, narzędzi hakersk ich, backdoor.
+4.  Rozwiązanie musi zapewniać możliwość skanowania dys ków sieciowych typu NAS.
+5.  Rozwiązanie musi posiadać wbudowane dwa niezależne moduły heurystyczne – jeden
+wykorzystujący pasywne metody heurystyczne i drugi wykorzystujący aktywne metody
+heurystyczne oraz elementy sztucznej inteligencji. Rozwiązanie musi istnieć możliwość
+wyboru, z jaką heurystyka ma odbywać się skanowanie  – z użyciem jednej lub obu metod
+jednocześnie.
+6.  Rozwiązanie musi wspierać automatyczną, inkrementac yjną aktualizację silnika detekcji.
+7.  Rozwiązanie musi posiadać możliwość wykluczania ze skanowania procesów.
+Strona 4 z 6
+8.  Rozwiązanie musi posiadać możliwość określenia typu  podejrzanych plików, jakie będą
+przesyłane do producenta, w tym co najmniej pliki w ykonywalne, archiwa, skrypty,
+dokumenty.
+Dodatkowe wymagania dla ochrony serwerów Windows:
+9.  Rozwiązanie musi posiadać możliwość skanowania plik ów i folderów, znajdujących się w
+usłudze chmurowej OneDrive.
+10.  Rozwiązanie musi posiadać system zapobiegania włama niom działający na hoście (HIPS).
+11.  Rozwiązanie musi wspierać skanowanie magazynu Hyper -V.
+12.  Rozwiązanie musi posiadać funkcjonalność skanera UE FI, który chroni użytkownika
+poprzez wykrywanie i blokowanie zagrożeń, atakujący ch jeszcze przed uruchomieniem
+systemu operacyjnego.
+13.  Rozwiązanie musi zapewniać administratorowi blokowa nie zewnętrznych nośników
+danych na stacji w tym przynajmniej: Pamięci masowy ch, optycznych pamięci masowych,
+pamięci masowych Firewire, urządzeń do tworzenia ob razów, drukarek USB, urządzeń
+Bluetooth, czytników kart inteligentnych, modemów, portów LPT/COM oraz urządzeń
+przenośnych.
+14.  Rozwiązanie musi automatyczne wykrywać usługi zains talowane na serwerze i tworzyć dla
+nich odpowiednie wyjątki.
+15.  Rozwiązanie musi posiadać wbudowany system IDS z de tekcją prób ataków, anomalii w
+pracy sieci oraz wykrywaniem aktywności wirusów sie ciowych .
+16.  Rozwiązanie musi zapewniać możliwość dodawania wyją tków dla systemu IDS, co
+najmniej w oparciu o występujący alert, kierunek, a plikacje, czynność oraz adres IP.
+17.  Rozwiązanie musi posiadać ochronę przed oprogramowa niem wymuszającym okup za
+pomocą dedykowanego modułu.
+Dodatkowe wymagania dla ochrony serwerów Linux:
+18.  Rozwiązanie musi pozwalać, na uruchomienie lokalnej  konsoli administracyjnej,
+działającej z poziomu przeglądarki internetowej.
+19.  Lokalna konsola administracyjna nie może wymagać do  swojej pracy, uruchomienia i
+instalacji dodatkowego rozwiązania w postaci usługi  serwera Web.
+20.  Rozwiązanie, do celów skanowania plików na macierza ch NAS / SAN, musi w pełni
+wspierać rozwiązanie Dell EMC Isilon.
+21.  Rozwiązanie musi działać w architekturze bazującej na technologii mikro-serwisów.
+Funkcjonalność ta musi zapewniać podwyższony poziom  stabilności, w przypadku awarii
+jednego z komponentów rozwiązania, nie spowoduje to  przerwania pracy całego procesu,
+a jedynie wymusi restart zawieszonego mikro-serwisu .
+Szyfrowanie
+1.  System szyfrowania danych musi wspierać instalację aplikacji klienckiej w środowisku
+Microsoft Windows 10 i Microsoft Windows 11.
+2.  System szyfrowania musi wspierać zarządzanie natywn ym szyfrowaniem w systemach
+macOS (FileVault).
+3.  Aplikacja musi posiadać autentykacje typu Pre-boot,  czyli uwierzytelnienie użytkownika
+zanim zostanie uruchomiony system operacyjny. Musi istnieć także możliwość
+całkowitego lub czasowego wyłączenia tego uwierzyte lnienia.
+4.  Aplikacja musi umożliwiać szyfrowanie danych tylko na komputerach z UEFI.
+Ochrona urządzeń mobilnych opartych o system Androi d
+1.  Rozwiązanie musi zapewniać skanowanie wszystkich ty pów plików, zarówno w pamięci
+wewnętrznej, jak i na karcie SD, bez względu na ich  rozszerzenie.
+2.  Rozwiązanie musi zapewniać co najmniej 2 poziomy ska nowania: inteligentne i dokładne.
+3.  Rozwiązanie musi zapewniać automatyczne uruchamiani e skanowania, gdy urządzenie
+jest w trybie bezczynności (w pełni naładowane i po dłączone do ładowarki).
+4.  Rozwiązanie musi posiadać możliwość skonfigurowania  zaufanej karty SIM.
+Strona 5 z 6
+5.  Rozwiązanie musi zapewniać wysłanie na urządzenie k omendy z konsoli centralnego
+zarządzania, która umożliwi:
+a.  usunięcie zawartości urządzenia,
+b.  przywrócenie urządzenie do ustawień fabrycznych,
+c.  zablokowania urządzenia,
+d.  uruchomienie sygnału dźwiękowego,
+e.  lokalizację GPS.
+6.  Rozwiązanie musi zapewniać administratorowi podejrz enie listy zainstalowanych aplikacji.
+7.  Rozwiązanie musi posiadać blokowanie aplikacji w op arciu o:
+a.  nazwę aplikacji,
+b.  nazwę pakietu,
+c.  kategorię sklepu Google Play,
+d.  uprawnienia aplikacji,
+e.  pochodzenie aplikacji z nieznanego źródła.
+Sandbox w chmurze
+1.  Rozwiązanie musi zapewniać ochronę przed zagrożenia mi 0-day.
+2.  Rozwiązanie musi wykorzystywać do działania chmurę producenta.
+3.  Rozwiązanie musi posiadać możliwość określenia jaki e pliki mają zostać przesłane do
+chmury automatycznie, w tym archiwa, skrypty, pliki  wykonywalne, możliwy spam,
+dokumenty oraz inne pliki typu .jar, .reg, .msi.
+4.  Administrator musi mieć możliwość zdefiniowania po jakim czasie przesłane pliki muszą
+zostać usunięte z serwerów producenta.
+5.  Administrator musi mieć możliwość zdefiniowania mak symalnego rozmiaru  przesyłanych
+próbek.
+6.  Rozwiązanie musi pozwalać na utworzenie listy wyklu czeń określonych plików lub
+folderów z przesyłania.
+7.  Po zakończonej analizie pliku, rozwiązanie musi prz esyłać wynik analizy do wszystkich
+wspieranych produktów.
+8.  Administrator musi mieć możliwość podejrzenia listy  plików, które zostały przesłane  do
+analizy.
+9.  Rozwiązanie musi pozwalać na analizowanie plików, b ez względu na lokalizacje stacji
+roboczej. W przypadku wykrycia zagrożenia, całe śro dowisko jest bezzwłocznie chronione.
+10.  Rozwiązanie nie może wymagać instalacji dodatkowego  agenta na stacjach roboczych.
+11.  Rozwiązanie pozwala na wysłanie dowolnej próbki do analizy przez użytkownika lub
+administratora, za pomocą wspieranego produktu. Adm inistrator musi móc podejrzeć
+jakie pliki zostały wysłane do analizy oraz przez k ogo.
+12.  Przeanalizowane pliki muszą zostać odpowiednio ozna czone. Analiza pliku może
+zakończyć się z wynikiem:
+a)  Czysty,
+b)  Podejrzany,
+c)  Bardzo podejrzany,
+d)  Szkodliwy.
+13.  W przypadku stacji roboczych rozwiązanie musi posia dać możliwość wstrzymania
+uruchamiania pobieranych plików za pośrednictwem pr zeglądarek internetowych,
+klientów poczty e-mail, z nośników wymiennych oraz wyodrębnionych z archiwum.
+14.  W przypadku serwerów pocztowych rozwiązanie musi po siadać możliwość wstrzymania
+dostarczania wiadomości do momentu zakończenia anal izy próbki.
+15.  Wykryte zagrożenia muszą być przeniesione w bezpiec zny obszar kwarantanny, z której
+administrator może przywrócić dowolne pliki oraz ut worzyć dla niej wyłączenia.
+Moduł XDR
+1.  Dostęp do konsoli centralnego zarządzania musi odby wać się z poziomu interfejsu
+WWW.
+Strona 6 z 6
+2.  Serwer administracyjny musi posiadać możliwość wysy łania zdarzeń do konsoli
+administracyjnej tego samego producenta.
+3.  Interfejs musi być zabezpieczony za pośrednictwem p rotokołu SSL.
+4.  Serwer administracyjny musi posiadać możliwość wpro wadzania wykluczeń, po których
+nie zostanie wyzwolony alarm bezpieczeństwa.
+5.  Wykluczenia muszą dotyczyć procesu lub procesu „rod zica”.
+6.  Utworzenie wykluczenia musi automatycznie rozwiązyw ać alarmy, które pasują do
+utworzonego wykluczenia.
+7.  Kryteria wykluczeń muszą być konfigurowane w oparci u o przynajmniej: nazwę procesu,
+ścieżkę procesu, wiersz polecenia, wydawcę, typ pod pisu, SHA-1, nazwę komputera,
+grupę, użytkownika.
+8.  Serwer musi posiadać ponad 900 wbudowanych reguł, po k tórych wystąpieniu, nastąpi
+wyzwolenie alarmu bezpieczeństwa. Administrator mus i też posiadać możliwość
+utworzenia własnych reguł i edycji reguł dodanych p rzez producenta.
+9.  Serwer administracyjny musi oferować możliwość blok owania plików po sumach
+kontrolnych. W ramach blokady musi istnieć możliwoś ć dodania komentarza oraz
+konfiguracji wykonywanej czynności, po wykryciu wpr owadzonej sumy kontrolnej.
+10.  Administrator musi posiadać możliwość weryfikacji u ruchomionych plików
+wykonywalnych na stacji roboczej z możliwością podg lądu szczegółów wybranego procesu
+przynajmniej o: SHA-1, typ podpisu, wydawcę, opis pl iku, wersję pliku, nazwę firmy,
+nazwę produktu, wersję produktu, oryginalną nazwę p liku, rozmiar pliku oraz reputację i
+popularność pliku.
+11.  Administrator, w ramach plików wykonywalnych oraz p lików DLL, musi posiadać
+możliwość ich oznaczenia jako bezpieczne, pobrania do analizy oraz ich zablokowania.
+12.  Administrator musi posiadać możliwość weryfikacji u ruchomionych skryptów na stacjach
+roboczych, wraz z informacją dotyczącą parametrów u ruchomienia. Administrator musi
+posiadać możliwość oznaczenia skryptu jako bezpiecz ny lub niebezpieczny.
+13.  W ramach przeglądania wykonanego skryptu, administr ator musi posiadać możliwość
+szczegółowego podglądu wykonanych przez skrypt czyn ności w formie tekstowej.
+14.  W ramach przeglądania wykonanego skryptu lub pliku exe, administrator musi posiadać
+możliwość weryfikacji powiązanych zdarzeń dotyczący ch przynajmniej:
+modyfikacji plików i rejestru, zestawionych połącze ń sieciowych i utworzonych plików
+wykonywalnych.
+15.  Serwer administracyjny musi oferować możliwość prze kierowania do konsoli
+zarządzającej produktu antywirusowego tego samego p roducenta, w celu weryfikacji
+szczegółów wybranej stacji roboczej. W konsoli zarz ądzającej produktu antywirusowego,
+administrator musi mieć możliwość podglądu informac ji dotyczących przynajmniej:
+podzespołów zarządzanego komputera (w tym przynajmn iej: producent, model, numer
+seryjny, informacje o systemie, procesor, pamięć RA M, wykorzystanie dysku twardego,
+informacje o wyświetlaczu, urządzenia peryferyjne, urządzenia audio, drukarki, karty
+sieciowe, urządzenia masowe) oraz wylistowanie zain stalowanego oprogramowania firm
+trzecich.
+16.  Konsola administracyjna musi mieć możliwość tagowan ia obiektów.
+17.  Konsola administracyjna musi umożliwiać połączenie się do stacji roboczej z możliwością
+wykonywania poleceń powershell.

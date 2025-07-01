@@ -1,0 +1,13 @@
+flask
+flask-cors
+openpyxl
+google-api-python-client
+google-auth
+google-auth-oauthlib
+requests
+python-dotenv
+PyPDF2
+docx
+bs4
+# json is built-in, but all other dependencies are listed for backend processing
+streamlit 

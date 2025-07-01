@@ -1,0 +1,328 @@
+Oznaczenie sprawy: SEZ/DKRZ-WPI2-KS-241-0340/DIT/25
+SPECYFIKACJA WARUNKÓW ZAMÓWIENIA (SWZ)
+na wykonanie zamówienia publicznego pn.:
+„Zakup sprzętu do systemu GS1”
+Zamawiający: Narodowy Bank Polski (NBP), ul. Świętokrzyska 11/21, 00-919 Warszawa.
+Postępowanie prowadzi:   NBP - Departament Koordynacji i Realizacji Zakupów, ul. Świętokrzyska 11/21, 00-919 Warszawa, nr tel. +48 22 185 23 59.
+Postępowanie prowadzone jest w trybie przetargu nieograniczonego, na podstawie ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (t.j. Dz.U. z 2024 r., poz. 1320), zwanej dalej ustawą.
+Zamawiający informuje, iż zgodnie z art. 139 ustawy najpierw dokona badania i oceny ofert, a następnie dokona kwalifikacji podmiotowej wykonawcy, którego oferta została najwyżej oceniona, w zakresie braku podstaw wykluczenia oraz spełniania warunków udziału w postępowaniu.
+Informacje wymagane przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i
+w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) zawiera Załącznik Nr 3 do SWZ. Wykonawca przystępując do postępowania jest obowiązany do wyrażenia zgody na przetwarzanie informacji zawierających dane osobowe oraz do poinformowania i uzyskania zgody każdej osoby, której dane osobowe będą podane w ofercie, oświadczeniach i dokumentach złożonych w postępowaniu. Na tę okoliczność Wykonawca złoży oświadczenie zawarte w Uszczegółowieniu „Formularza ofertowego”, stanowiącym Załącznik Nr 4 do SWZ.
+Nie ujawnia się informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji, jeżeli Wykonawca, wraz z przekazaniem takich informacji, zastrzegł, że nie mogą być one udostępniane oraz wykazał, że zastrzeżone informacje stanowią tajemnicę przedsiębiorstwa. Jeśli Wykonawca nie dopełni obowiązków wynikających z ustawy, Zamawiający będzie miał podstawę uznania, że zastrzeżenie tajemnicy przedsiębiorstwa jest bezskuteczne i w związku z tym potraktuje daną informację, jako niepodlegającą ochronie i niestanowiącą tajemnicy przedsiębiorstwa w rozumieniu ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji.
+O zamówienie mogą ubiegać się Wykonawcy, w rozumieniu przepisów ustawy.
+Wykonawcy mogą wspólnie ubiegać się o udzielenie zamówienia, z uwzględnieniem wymagań określonych w przepisach ustawy, w tym wymagań wskazanych w art. 58 ust. 2 ustawy.
+Zamawiający informuje, że zgodnie z art. 7 ust. 6-7 ustawy z dnia 13 kwietnia 2022 r.  o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. z 2022 r. poz. 835) osoba lub podmiot podlegające wykluczeniu na podstawie art. 7 ust. 1 tej ustawy, które w okresie tego wykluczenia ubiegają się o udzielenie zamówienia publicznego lub biorą udział w postępowaniu o udzielenie zamówienia publicznego podlegają karze pieniężnej. Karę pieniężną, o której mowa w ust. 6 tej ustawy, nakłada Prezes Urzędu Zamówień Publicznych, w drodze decyzji, w wysokości do 20 000 000 zł.
+Zamawiający informuje, że zgodnie z art. 7 ust. 5  ustawy, o której mowa w ust. 8, przez ubieganie się o udzielenie zamówienia publicznego rozumie się złożenie oferty.
+Nazwa zamówienia: Zakup sprzętu do systemu GS1.
+Przedmiotem zamówienia jest sprzedaż i dostarczenie do siedziby Zamawiającego, fabrycznie nowych i nieużywanych, wolnych od wad fizycznych i prawnych Urządzeń do obsługi systemu GS1 przeznaczonego do zliczania i ewidencji wartości pieniężnych, z zainstalowanym na nich oprogramowaniem systemowym, oraz udzielenie gwarancji na dostarczone Urządzenia.
+Szczegółowy opis przedmiotu zamówienia oraz warunki i zasady realizacji zamówienia określone są w Projektowanych Postanowieniach Umowy stanowiących Załącznik Nr 5 do SWZ.
+Kody i nazwy Wspólnego Słownika Zamówień (CPV) opisujące przedmiot zamówienia:
+30216130-6	Czytniki kodu kreskowego
+30233000-1		   Urządzenia do przechowywania i odczytu danych
+30232000-4		   Sprzęt peryferyjny
+30232100-5        Drukarki i plotery
+30236000-2 		   Różny sprzęt komputerowy
+35126000-3		   Urządzenia do skanowania kodów kreskowych
+Zamawiający żąda wskazania przez Wykonawcę w Uszczegółowieniu „Formularza ofertowego” części zamówienia, których wykonanie zamierza powierzyć podwykonawcom oraz podania nazw ewentualnych podwykonawców, jeżeli są już znani.
+Zamawiający nie zastrzega obowiązku osobistego wykonania przez Wykonawcę lub poszczególnych Wykonawców wspólnie ubiegających się o udzielenie zamówienia publicznego kluczowych zadań.
+Zamawiający nie przewiduje odbycia wizji lokalnej ani nie przewiduje sprawdzenia dokumentów u Zamawiającego, o czym mowa w art. 134 ust. 2 pkt 9 ustawy.
+Zamawiający informuje, że:
+8.1   nie przewiduje opcji;
+8.2   nie przewiduje wznowienia zamówienia;
+Zgodnie z art. 5k rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie zakazuje się wykonywania zamówienia publicznego z udziałem podwykonawców, dostawców lub podmiotów, na których zdolności polega się w rozumieniu dyrektywy 2014/24/UE, o których mowa w art. 5k tego rozporządzenia w przypadku gdy przypada na nich ponad 10 % wartości zamówienia.
+Zamawiający nie dopuszcza składania ofert częściowych.
+Podział zamówienia na części mógłby spowodować nadmierne trudności oraz poważnie zagrozić właściwemu wykonaniu zamówienia ze względu na potrzebę skoordynowania działań różnych wykonawców realizujących poszczególne „części” zamówienia. Niedokonanie podziału zamówienia na części w przedmiotowym postępowaniu nie ogranicza uczciwej konkurencji, równego traktowania wykonawców i przejrzystości postępowania, ani nie narusza zasady proporcjonalności.
+Zamawiający nie przewiduje udzielenia zamówień, o których mowa w art. 214 ust. 1 pkt 8 ustawy
+Zamawiający nie dopuszcza składania ofert wariantowych.
+Termin wykonania: do 3 tygodni od dnia zawarcia Umowy, z zastrzeżeniem ust. 2.
+Szczegółowe terminy wykonania poszczególnych świadczeń stanowiących przedmiot zamówienia określają Projektowane Postanowienia Umowy stanowiące Załącznik Nr 5 do SWZ.
+O udzielenie zamówienia mogą się ubiegać Wykonawcy, którzy spełniają warunki udziału w postępowaniu dotyczące zdolności technicznej lub zawodowej, tj.:
+Wykonawca musi wykazać, że w okresie ostatnich 3 lat licząc wstecz od dnia, w którym upływa termin składania ofert, a jeżeli okres prowadzonej działalności jest krótszy – w tym okresie, należycie wykonał co najmniej 2 zamówienia (umowy), z których każde zamówienie (umowa) obejmowało dostawę kolektorów danych, a wartość kolektorów danych dla każdego z tych zamówień (umowy) wynosiła co najmniej 150 000,00 PLN brutto*.
+* W przypadku gdy wartość zamówienia (umowy) wyrażona jest w innej walucie niż w złotych polskich, Zamawiający dokona przeliczenia wartości wykonanego zamówienia w innej walucie na złote polskie – na podstawie średniego kursu złotego w stosunku do walut obcych określonego w Tabeli Kursów Narodowego Banku Polskiego, obowiązującego na dzień publikacji ogłoszenia o przedmiotowym zamówieniu w Dzienniku Urzędowym Unii Europejskiej.
+2. 	Wykonawca w celu potwierdzenia spełniania warunków udziału w postępowaniu, w odniesieniu do konkretnego zamówienia lub jego części, może polegać na zdolnościach technicznych lub zawodowych podmiotów udostępniających zasoby, niezależnie od charakteru prawnego łączących go z nimi stosunków prawnych.
+O udzielenie zamówienia mogą się ubiegać Wykonawcy, którzy nie podlegają wykluczeniu z postępowania na podstawie art. 108 ust. 1 ustawy.
+O udzielenie zamówienia mogą ubiegać się Wykonawcy, którzy nie podlegają wykluczeniu z postępowania także:
+na podstawie art. 109 ust. 1 pkt 4 ustawy,
+na podstawie art. 109 ust. 1 pkt 8 ustawy,
+na podstawie art. 109 ust. 1 pkt 9 ustawy,
+na podstawie art. 109 ust. 1 pkt 10 ustawy,
+na podstawie art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r.  o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. z 2022 r. poz. 835),
+na podstawie art. 5k rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie.
+Wykonawca jest zobowiązany potwierdzić, że nie podlega wykluczeniu z postępowania na żadnej z podstaw wskazanych w ust. 1 i ust. 2.
+W przypadku Wykonawców wspólnie ubiegających się o zamówienie, brak podstaw wykluczenia, na żadnej z podstaw wskazanych w ust. 1 i ust. 2, zobowiązany jest potwierdzić każdy z tych Wykonawców.
+W przypadku, gdy Wykonawca polega na zdolnościach technicznych lub zawodowych podmiotów udostępniających zasoby, Wykonawca zobowiązany jest potwierdzić brak podstaw wykluczenia, o których mowa w ust. 1 i ust. 2 w odniesieniu do tych podmiotów.
+Zamawiający - przed wyborem najkorzystniejszej oferty - wezwie Wykonawcę, którego oferta została najwyżej oceniona, z zastrzeżeniem art. 127 ustawy, do złożenia w wyznaczonym terminie, nie krótszym niż 10 dni:
+Oświadczenia z art. 125 ust. 1 ustawy, na formularzu Jednolitego Europejskiego Dokumentu Zamówienia, zwanego dalej „JEDZ”, sporządzonym zgodnie ze wzorem standardowego formularza określonego w rozporządzeniu wykonawczym Komisji (UE) 2016/7 z dnia 5 stycznia 2016 r. ustanawiającym standardowy formularz jednolitego europejskiego dokumentu zamówienia, na poniższych zasadach:
+w zakresie III części JEDZ Wykonawca składa oświadczenie odnoszące się do podstaw wykluczenia z postępowania w sekcji C w podsekcji, dotyczącej naruszenia obowiązków w dziedzinie prawa środowiska, prawa socjalnego i prawa pracy, wyłącznie w zakresie przestępstw, o których mowa w art. 9 ust. 1 i 3 oraz art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej, wskazanych jako podstawy wykluczenia z postępowania w art. 108 ust. 1 pkt 1 i 2 ustawy;
+w zakresie III części JEDZ Wykonawca składa oświadczenie odnoszące się do podstaw wykluczenia z postępowania w sekcji D w podsekcji dotyczącej krajowych podstaw wykluczenia, wyłącznie: a) w zakresie przestępstw przeciwko wiarygodności dokumentów wymienionych w art. 270-277d Kodeksu karnego oraz przestępstw przeciwko obrotowi gospodarczemu wymienionych w przepisach art. 296-307 Kodeksu karnego (z wyjątkiem art. 299 Kodeksu karnego), wskazanych jako podstawy wykluczenia z postępowania w art. 108 ust. 1 pkt 1 i 2 ustawy oraz b) w zakresie orzeczenia zakazu ubiegania się o zamówienie publiczne, wskazanego jako podstawa wykluczenia z postępowania w art. 108 ust. 1 pkt 4 ustawy a także c) w zakresie o którym mowa w art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego;
+w zakresie IV części JEDZ Wykonawca może złożyć ogólne oświadczenie potwierdzające spełnianie kryteriów kwalifikacji (warunków udziału w postępowaniu);
+w przypadku wspólnego ubiegania się o zamówienie przez Wykonawców, JEDZ składa każdy z tych Wykonawców; Oświadczenia te potwierdzają brak podstaw wykluczenia z postępowania (pkt 1.1.1. – 1.1.2. stosuje się) oraz spełnianie warunków udziału w postępowaniu (kryteria kwalifikacji) w zakresie, w jakim każdy z Wykonawców wykazuje spełnianie warunków udziału w postępowaniu kryteriów kwalifikacji (pkt 1.1.2 stosuje się);
+w przypadku polegania na zdolnościach podmiotów udostępniających zasoby, Wykonawca przedstawi JEDZ podmiotu udostępniającego zasoby, potwierdzający brak podstaw wykluczenia tego podmiotu (pkt 1.1.1. i 1.1.2. stosuje się) oraz odpowiednio spełnianie warunków udziału w  postępowaniu (kryteriów kwalifikacji), w zakresie w jakim Wykonawca powołuje się na zasoby tego podmiotu (pkt 1.1.2. stosuje się);
+Aktualnych na dzień złożenia podmiotowych środków dowodowych wskazanych w Załączniku Nr 2 do SWZ (pozycje: “na wezwanie”):
+potwierdzających spełnianie warunków udziału w postępowaniu (kryteriów kwalifikacji),
+potwierdzających brak podstaw wykluczenia,
+w przypadku Wykonawców wspólnie ubiegających się o udzielenie zamówienia, brak podstaw wykluczenia ma potwierdzić każdy z nich,
+w przypadku polegania na zdolnościach podmiotów udostępniających zasoby, brak podstaw wykluczenia ma potwierdzić każdy podmiot udostępniający zasoby.
+Oświadczenia i dokumenty, o których mowa w ust. 1 pkt 1.2 niniejszego rozdziału oraz o których mowa w Rozdz. 14 ust. 4 - 6, muszą spełniać wymagania określone w ustawie, a także w:
+przepisach rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 23.12.2020 r. ws. podmiotowych środków dowodowych oraz innych dokumentów lub oświadczeń, jakich może żądać zamawiający od wykonawcy, a także wymagania określone w
+przepisach rozporządzenia Prezesa Rady Ministrów z dnia 30.12.2020 r. ws. sposobu sporządzania i przekazywania informacji oraz wymagań technicznych dla dokumentów elektronicznych oraz środków komunikacji elektronicznej w postępowaniu o udzielenie zamówienia publicznego lub konkursie.
+JEDZ musi spełniać wymagania określone w Rozporządzeniu Wykonawczym Komisji (UE) 2016/7 z dnia 5 stycznia 2016 r. ustanawiającym standardowy formularz jednolitego europejskiego dokumentu zamówienia.
+Adres strony internetowej prowadzonego postępowania, na której udostępniane będą zmiany i wyjaśnienia treści SWZ oraz inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia - Platforma Zakupowa NBP: https://e-zamowienia.nbp.pl
+Komunikacja w postępowaniu o udzielenie zamówienia, a w szczególności:
+składanie ofert,
+wymiana informacji,
+przekazywanie dokumentów lub oświadczeń pomiędzy Wykonawcą a Zamawiającym,
+- odbywa się przy użyciu środków komunikacji elektronicznej, w rozumieniu ustawy z dnia 18 lipca 2002 r.  o świadczeniu usług drogą elektroniczną, na Platformie Zakupowej NBP.
+Stanowiąca Załącznik Nr 1 do SWZ „Instrukcja dla Wykonawców” określa w szczególności wymagania techniczne i organizacyjne wysyłania i odbierania dokumentów elektronicznych i informacji przekazywanych przy użyciu środków komunikacji elektronicznej oraz zawiera instrukcję obsługi Platformy Zakupowej NBP. Sposób i wymagania dotyczące sporządzania i przekazywania Zamawiającemu dokumentów i oświadczeń określone są w „Wykazie dokumentów i oświadczeń wymaganych w postępowaniu wraz z wymaganiami technicznymi ich przekazania” stanowiącym Załącznik Nr 2 do SWZ.
+Zamawiający wymaga, aby Wykonawca podał w Uszczegółowieniu „Formularza ofertowego” lub innych dokumentach lub oświadczeniach adres e-mailowy do korespondencji ten sam, który jest adresem do kontaktów wpisanym w Platformie Zakupowej NBP. Zamawiający nie będzie ponosił negatywnych skutków prawnych podania przez Wykonawcę innego adresu, a wszelkie konsekwencje wynikające z podania innego adresu będą obciążać Wykonawcę. Zamawiający informuje, iż Wykonawca może dokonać samodzielnie zmian adresu e-mailowego na Platformie Zakupowej NBP.
+W przypadku braku możliwości komunikacji poprzez Platformę Zakupową NBP - osoby uprawnione do kontaktowania się z Wykonawcami.
+Osobą uprawnioną do komunikowania się z Wykonawcami jest: Katarzyna Szarow
+Numer telefonu: +48 22 185 24 67
+Adres poczty elektronicznej: DKRZ-WPI2@nbp.pl
+Język postępowania i wymagania w tym zakresie:
+Postępowanie o udzielenie zamówienia prowadzi się w języku polskim;
+Dopuszcza się używanie w Ofercie, oświadczeniach i dokumentach określeń obcojęzycznych w zakresie określonym w art. 11 ustawy z dnia 7 października 1999 r. o języku polskim;
+Podmiotowe środki dowodowe, przedmiotowe środki dowodowe (jeżeli są żądane) oraz inne dokumenty lub oświadczenia, sporządzone w języku obcym przekazuje się wraz z tłumaczeniem na język polski.
+Wykonawca może zwrócić się do Zamawiającego z wnioskiem o wyjaśnienie treści SWZ. Zamawiający udzieli wyjaśnień niezwłocznie, jednak nie później niż na 6 dni przed upływem terminu składania ofert, pod warunkiem, że wniosek o wyjaśnienie treści SWZ wpłynie do Zamawiającego nie później niż 14 dni przez upływem terminu składania ofert, z zastrzeżeniem art. 135 ust. 4 ustawy. Metoda zadawania pytań została opisania w Załączniku Nr 1 do SWZ.
+Wykonawca na Platformie Zakupowej NBP bez zalogowania może zapoznać się z dokumentami zamówienia oraz zadać pytanie do Zamawiającego.
+Zalecane formaty plików: .pdf, .doc, .xlsx. W przypadku niemożności dołączenia plików w innych formatach zaleca się skompresowanie plików do paczki .zip oraz dołączenie ich do systemu.
+Informacje stanowiące tajemnicę przedsiębiorstwa Wykonawca przekazuje w pliku wydzielonym i oznaczonym na Platformie Zakupowej NBP jako „niejawny”.
+W przypadku problemów z obsługą konta w szczególności: z założeniem konta, zalogowaniem się na konto, złożeniem ofert/wniosków, komunikacją z Zamawiającym za pośrednictwem konta - wszelkie pytania i prośby o wyjaśnienie należy kierować do operatora platformy MarketPlanet za pomocą następujących kanałów komunikacji (od poniedziałku do piątku w godzinach od 9:00 do 17:00):
+Telefonicznie pod numerem: +48 22 257 22 23
+Czat pod adresem: https://oneplace.marketplanet.pl
+E-mail: oneplace@marketplanet.pl
+Wymagania sprzętowo-aplikacyjne umożliwiające pracę na Platformie Zakupowej NBP oraz pozostałe szczegółowe informacje w ww. zakresie zawarte są w Załączniku Nr 1 do SWZ i Załączniku Nr 2 do SWZ.
+Wymagania techniczne i organizacyjne sporządzenia i przekazania Ofert przy użyciu środków komunikacji elektronicznej:
+Komunikacja odbywa się przy użyciu środków komunikacji elektronicznej na Platformie Zakupowej NBP pod adresem https://e-zamowienia.nbp.pl
+Warunkiem przystąpienia do postępowania i złożenia oferty jest posiadanie konta na platformie MarketPlanet; Warunkiem założenia konta jest przesłanie wniosku do operatora platformy MarketPlanet poprzez stronę https://oneplace.marketplanet.pl Proces akceptacji wniosku z poprawnie wprowadzonymi danymi trwa do 24 godzin w dni robocze.
+Złożenie Oferty w postępowaniu możliwe jest tylko przez wskazaną Platformę Zakupową NBP.
+Platforma Zakupowa NBP dopuszcza załączanie plików o wielkości do 95 MB.
+Oznaczenie czasu odbioru danych przez Platformę Zakupową NBP: data oraz dokładny czas (hh:mm:ss) generowany wg czasu lokalnego serwera synchronizowanego odpowiednim źródłem czasu - zegarem Głównego Urzędu Miar.
+W postępowaniu:
+Ofertę oraz
+Oświadczenie z art. 125 ust. 1 ustawy
+- 	składa się pod rygorem nieważności w formie elektronicznej.
+W przypadku podpisania pliku podpisem zewnętrznym, konieczne jest wysłanie pary plików: pliku podpisanego i pliku zawierającego podpis.
+Pierwsza czynność opatrzenia Oferty kwalifikowanym podpisem elektronicznym może wymagać zainstalowania dedykowanego rozszerzenia do aplikacji Szafir oraz oprogramowania Java, oraz konieczności administracyjnego odblokowania systemu na komputerze przez administratorów informatycznych Wykonawcy, przy czym wskazane wyżej wymaganie dotyczy tylko tych przypadków, gdy brak jest dedykowanego rozszerzenia do aplikacji Szafir oraz oprogramowania Java.
+Wykonawca jest związany ofertą do dnia 26.09.2025 r.
+Zamawiający określa wadium na całość przedmiotu zamówienia w wysokości: 15 000,00 złotych (słownie: piętnaście tysięcy złotych i 00/100).
+Wadium może być wnoszone w jednej lub kilku następujących formach:
+pieniądzu,
+gwarancjach bankowych,
+gwarancjach ubezpieczeniowych,
+poręczeniach udzielanych przez podmioty, o których mowa w art. 6b ust. 5 pkt 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości.
+Wadium wnoszone w pieniądzu należy wpłacić przelewem na wskazany poniżej rachunek bankowy: 06 1020 1026 0000 1702 0400 0469 Kod BIC (SWIFT): BPKOPLPW
+z dopiskiem „NBP-DKRZ. Oferta – Zakup sprzętu do systemu GS1
+– Nr sprawy SEZ/DKRZ-WPI2-KS-241-0340/DIT/25”.
+Wadium wnosi się przed upływem terminu składania ofert.
+Wadium utrzymuje się nieprzerwanie do dnia upływu terminu związania ofertą, z wyjątkiem przypadków, o których mowa w art. 98 ust. 1 pkt 2 i 3 oraz ust. 2 ustawy.
+W przypadku wnoszenia wadium w pieniądzu, Wykonawca z zachowaniem właściwej staranności winien dokonać przelewu pieniężnego z odpowiednim wyprzedzeniem, gdyż za termin wniesienia przyjmuje się termin uznania kwoty wadium na podanym wyżej rachunku bankowym.
+W przypadku wnoszenia wadium w innej formie niż w pieniądzu, o których mowa w ust. 2 pkt. 2-4, Wykonawca przekazuje Zamawiającemu oryginał gwarancji lub poręczenia, w postaci elektronicznej, zgodnie z art. 97 ust. 10 ustawy.
+Dokument wniesienia wadium w formie gwarancji lub poręczenia winien zawierać bezwarunkowe i nieodwołalne zobowiązanie gwaranta/poręczyciela zapłaty wymaganej kwoty wadium, na pierwsze, pisemne żądanie Zamawiającego wzywające do zapłaty kwoty wadium, powstałe na skutek okoliczności określonych w ustawie. W dokumencie gwarancji/poręczenia gwarant/poręczyciel nie może uzależniać dokonania zapłaty od spełnienia przez beneficjenta (NBP) dodatkowych warunków (np. żądanie przesłania wezwania zapłaty za pośrednictwem banku prowadzącego rachunek NBP, albo żądania potwierdzenia przez notariusza, że podpisy złożone na żądaniu zapłaty należą do osób umocowanych do występowania w imieniu NBP, albo żądanie złożenia wezwania np. tylko w formie listu poleconego czy kurierem) albo przedłożenia dodatkowych dokumentów (oprócz dokumentu potwierdzającego umocowanie osób do występowania w imieniu NBP z żądaniem zapłaty).
+Zamawiający zwróci wadium na zasadach określonych w ustawie.
+Zamawiający zatrzyma wadium w przypadkach określonych w ustawie.
+Treść Oferty musi być zgodna z wymaganiami Zamawiającego określonymi w SWZ.
+Wykonawca może złożyć tylko jedną Ofertę, zgodnie z postanowieniami SWZ.
+Na ofertę, zwaną dalej Ofertą, składa się:
+„Oferta – Formularz ofertowy” (wypełniony na Platformie Zakupowej NBP na portalu ONEPLACE),
+Uszczegółowienie „Formularza ofertowego” (Załącznik Nr 4 do SWZ),
+którą Wykonawca sporządzi i przekaże zgodnie z wymaganiami określonymi
+w ust. 12 Rozdziału 11 SWZ oraz w sposób określony Załączniku Nr 2 do SWZ.
+Do Oferty Wykonawca dołączy dokumenty wskazane w Załączniku Nr 2 do SWZ (pozycje: „wraz z Ofertą”).
+W celu potwierdzenia, że osoby lub osoba jest uprawniona do złożenia Oferty Wykonawcy, w rozumieniu przepisów ustawy i postanowień SWZ, Zamawiający żąda złożenia w formie określonej w Załączniku Nr 2 do SWZ:
+dokumentu potwierdzającego umocowanie do reprezentowania odpowiednio Wykonawcy lub Wykonawców wspólnie ubiegających się o udzielenie zamówienia (np. odpisu lub informacji z Krajowego Rejestru Sądowego, Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub innego właściwego rejestru (Wykonawca nie jest zobowiązany do złożenia takich dokumentów, jeżeli Zamawiający może je uzyskać za pomocą bezpłatnych i ogólnodostępnych baz danych, o ile Wykonawca wskazał dane umożliwiające dostęp do tych dokumentów),
+pełnomocnictwa lub innego dokumentu potwierdzającego umocowanie do reprezentowania Wykonawcy (jeżeli umocowanie do reprezentowania nie wynika z dokumentu, o którym mowa w pkt. 4.1) w przypadku osoby działającej w imieniu Wykonawcy,
+postanowienie pkt 4.2 stosuje się odpowiednio do osoby działającej w imieniu Wykonawców wspólnie ubiegających się o udzielenie zamówienia,
+postanowienia pkt 4.1-4.3 stosuje się odpowiednio do osoby działającej w imieniu podmiotu udostępniającego zasoby na zasadach określonych w art. 118 ustawy.
+Wykonawca, który polega na zdolnościach podmiotów udostępniających zasoby, składa, wraz Ofertą, zobowiązanie podmiotu udostępniającego zasoby do oddania mu do dyspozycji niezbędnych zasobów na potrzeby realizacji danego zamówienia lub inny podmiotowy środek dowodowy potwierdzający, że Wykonawca realizując zamówienie, będzie dysponował niezbędnymi zasobami tych podmiotów. Zobowiązanie lub inny podmiotowy środek dowodowy powinien być złożony (podpisany) przez osobę uprawnioną. Na potwierdzenie posiadanego uprawnienia należy załączyć odpowiednio dokument potwierdzający umocowanie do reprezentowania lub pełnomocnictwo.
+Przed upływem terminu składania ofert Wykonawca może zmienić lub wycofać ofertę w sposób określony w Załączniku Nr 1 do SWZ.
+Miejsce składania ofert: Platforma Zakupowa NBP https://e-zamowienia.nbp.pl
+Termin składania ofert: do dnia 11.07.2025 r. do godziny 12:00
+Decyduje data oraz dokładny czas (hh:mm:ss) generowany wg czasu lokalnego serwera synchronizowanego z zegarem Głównego Urzędu Miar.
+Termin otwarcia ofert: 11.07.2025 r., godzina 12:30.
+Zamawiający, nie później niż przed otwarciem ofert, udostępni na stronie internetowej prowadzonego postępowania informację o kwocie, jaką zamierza przeznaczyć na sfinansowanie zamówienia (podstawowego).
+Niezwłocznie po otwarciu ofert Zamawiający udostępni na stronie internetowej prowadzonego postępowania informacje dotyczące:
+nazw albo imion i nazwisk oraz siedzib lub miejsc prowadzonej działalności gospodarczej albo miejsc zamieszkania Wykonawców, których oferty zostały otwarte,
+cen zawartych w ofertach.
+Wykonawca określi cenę w „Ofercie - Formularzu ofertowym” na Platformie Zakupowej NBP zawierającym wyodrębnione miejsce na informacje dotyczące ceny oferty (zakładka „Oferta”, sekcja „Lista pozycji”, pole „Cena jednostkowa brutto”). Cenę brutto oferty, wyliczoną zgodnie ze sposobem wskazanym w Uszczegółowieniu „Formularza ofertowego”, należy przepisać do aktywnego okna w kolumnie „Cena jednostkowa brutto”, a następnie przeliczyć systemowym kalkulatorem na „Cenę jednostkową netto”. Metoda wpisania i przeliczania ceny została szczegółowo przedstawiona w Załączniku Nr 1 do SWZ.
+Cena brutto oferty powinna obejmować wszystkie elementy cenotwórcze realizacji zamówienia (koszty i ceny materiałów), warunki i obowiązki umowne określone w  Projektowanych Postanowieniach Umowy stanowiących Załącznik Nr 5 do SWZ oraz ma zawierać wszelkie opłaty publicznoprawne, w tym z uwzględnieniem postanowień ust. 4.
+Cena oferty i elementy (składniki) cenotwórcze podane przez Wykonawcę będą - co do zasady - stałe przez okres realizacji Umowy, zaś zmianie będą mogły podlegać na zasadach i w zakresie określonym w postanowieniach zawartych w Projektowanych Postanowieniach Umowy, w szczególności z uwzględnieniem postanowień dotyczących zmiany wynagrodzenia, o których mowa w ustawie.
+Jeżeli została złożona oferta, której wybór prowadziłby do powstania u Zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług, dla celów zastosowania kryterium „Cena brutto oferty”, Zamawiający dolicza do przedstawionej w tej Ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć. Wykonawca w Uszczegółowieniu „Formularza ofertowego” (wzór w Załączniku Nr 4 do SWZ) ma obowiązek:
+poinformowania Zamawiającego, że wybór jego oferty będzie prowadził do powstania u Zamawiającego obowiązku podatkowego,
+wskazania nazwy (rodzaju) towaru lub usługi, których dostawa lub świadczenie będą prowadziły do powstania u Zamawiającego obowiązku podatkowego,
+wskazania wartości towaru lub usługi objętego obowiązkiem podatkowym Zamawiającego, bez kwoty podatku;
+wskazania stawki podatku od towarów i usług, która zgodnie z wiedzą wykonawcy, będzie miała zastosowanie.
+Zamawiający nie przewiduje możliwości prowadzenia rozliczeń w walutach obcych. Rozliczenia między Wykonawcą a Zamawiającym będą dokonywane w złotych polskich.
+Cena oferty ma być wyrażona w złotych polskich z dokładnością do 1 grosza, to znaczy z dokładnością do dwóch miejsc po przecinku.
+Zamawiający poprawi oczywiste omyłki pisarskie oraz oczywiste omyłki rachunkowe w ofercie i uwzględni konsekwencje rachunkowe dokonanych poprawek, w następujący sposób:
+w przypadku, gdy Wykonawca poda cenę Oferty, z dokładnością większą niż do dwóch miejsc po przecinku lub dokona ich nieprawidłowego zaokrąglenia, Zamawiający dokona przeliczenia podanych w ofercie cen do dwóch miejsc po przecinku, stosując następującą zasadę: podane w ofercie kwoty zostaną zaokrąglone do pełnych groszy, przy czym końcówki poniżej 0,5 grosza zostaną pominięte, a końcówki 0,5 grosza i wyżej zostaną zaokrąglone do 1 grosza;
+w przypadku mnożenia Cen jednostkowych i Ilości sztuk – jeżeli obliczona Wartość nie  odpowiada iloczynowi Ceny jednostkowej oraz Ilości sztuk, przyjmuje się, że prawidłowo podano Cenę jednostkową
+w przypadku sumowania wartości składających się na przedmiot zamówienia - jeżeli obliczona cena oferty nie odpowiada sumie poszczególnych wartości, Zamawiający przyjmie, że prawidłowo podano poszczególne wartości za poszczególne pozycje zamówienia;
+w przypadku, gdy Cena oferty brutto w PLN podana w Uszczegółowieniu „Formularza ofertowego" nie odpowiada Cenie oferty brutto podanej w „Ofercie – Formularzu ofertowym” na Platformie Zakupowej NBP, Zamawiający przyjmie, że prawidłowo podana jest wartość brutto w Uszczegółowieniu „Formularza ofertowego”.
+Zamawiający informuje, że nie przewiduje możliwości udzielenia Wykonawcy zaliczek na poczet wykonania zamówienia.
+Oceniane będą wyłącznie oferty nie odrzucone.
+Przy wyborze najkorzystniejszej oferty Zamawiający będzie kierował się niżej opisanym kryterium:
+Przy ocenie ofert wartość wagowa wyrażona w procentach będzie wyrażona w punktach (1% = 1 pkt). Punkty w ramach kryterium oceny ofert przyznane zostaną do 2 miejsca po przecinku (na zasadzie „odcięcia” kolejnych cyfr).
+Za najkorzystniejszą ofertę uważa się ofertę, która uzyska największą liczbę punktów (100) liczoną wg wzoru:
+gdzie:
+P	–	suma punktów, jakie Wykonawca uzyskał w kryterium, z dokładnością do dwóch miejsc po przecinku;
+Cn	–	najniższa cena brutto oferty spośród ofert niepodlegających odrzuceniu;
+Cb	–	cena brutto oferty badanej niepodlegającej odrzuceniu.
+Zamawiający jako najkorzystniejszą ofertę wybierze ofertę Wykonawcy, która uzyska największą liczbę punktów w ramach kryterium oceny ofert.
+Przed zawarciem umowy Wykonawca będzie zobowiązany wnieść zabezpieczenie należytego wykonania umowy w wysokości wskazanej w Projektowanych Postanowieniach Umowy w sprawie zamówienia publicznego, stanowiących Załącznik Nr 5 do SWZ.
+Zabezpieczenie może być wniesione w jednej lub w kilku następujących formach:
+pieniądzu;
+poręczeniach bankowych lub poręczeniach spółdzielczej kasy oszczędnościowo-kredytowej, z tym, że zobowiązanie kasy jest zawsze zobowiązaniem pieniężnym;
+gwarancjach bankowych;
+gwarancjach ubezpieczeniowych;
+poręczeniach udzielanych przez podmioty, o których mowa w art. 6b ust. 5 pkt 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości.
+Zamawiający nie dopuszcza możliwości wnoszenia zabezpieczenia należytego wykonania umowy w innych formach.
+Zabezpieczenie wnoszone w pieniądzu Wykonawca wpłaca przelewem na rachunek bankowy:
+06 1020 1026 0000 1702 0400 0469 Kod BIC (SWIFT): BPKOPLPW
+(na dokumencie przelewu podać tytuł wpłaty, a także nr postępowania: SEZ/DKRZ-WPI2-KS-241-0340/DIT/25).
+Dokument gwarancji lub poręczenia zawierać ma bezwarunkowe i nieodwołalne zobowiązanie gwaranta/poręczyciela zapłaty wymaganej kwoty zabezpieczenia, na pierwsze, pisemne żądanie Zamawiającego wzywające do zapłaty kwoty zabezpieczenia i zawierające oświadczenie o niespełnieniu przez Wykonawcę zobowiązań wobec Zamawiającego wynikających z zawartej Umowy. W dokumencie gwarancji/poręczenia, gwarant/poręczyciel nie może uzależniać dokonania zapłaty od spełnienia przez beneficjenta (NBP) dodatkowych warunków (np. żądanie przesłania wezwania zapłaty za pośrednictwem banku prowadzącego rachunek Zamawiającego, albo żądania potwierdzenia przez notariusza, że podpisy złożone na żądaniu zapłaty należą do osób umocowanych do występowania w imieniu NBP, albo żądanie złożenia wezwania np. tylko w formie listu poleconego czy kurierem) albo przedłożenia dodatkowych dokumentów (oprócz dokumentu potwierdzającego umocowanie osób do występowania w imieniu Zamawiającego z żądaniem zapłaty).
+Zamawiający zwróci/zwolni zabezpieczenie należytego wykonania umowy na zasadach określonych w Projektowanych Postanowieniach Umowy, stanowiących Załącznik Nr 5 do SWZ.
+Jeżeli zabezpieczenie zostanie wniesione w pieniądzu, Zamawiający zwróci je wraz z odsetkami wynikającymi z umowy rachunku bankowego, na którym było ono przechowywane, pomniejszone o koszt prowadzenia rachunku oraz prowizji bankowej za przelew pieniędzy na rachunek bankowy Wykonawcy.
+W przypadku niewykonania lub nienależytego wykonania umowy zabezpieczenie może zostać przekazane na poczet kar umownych lub odszkodowania.
+Zamawiający zawiadomi o wyniku postępowania, zgodnie z przepisami ustawy, poprzez Platformę Zakupową NBP.
+Z wybranym Wykonawcą Zamawiający podpisze Umowę o wykonanie zamówienia, w terminie określonym w art. 264 ustawy.
+Zamawiający powiadomi wybranego Wykonawcę o miejscu i terminie podpisania Umowy w sposób podany w ust. 1.
+Jeżeli zostanie wybrana oferta Wykonawców wspólnie ubiegających się o udzielenie zamówienia, Zamawiający może zażądać przed podpisaniem Umowy kopii umowy regulującej ich współpracę w zakresie obejmującym wykonanie zamówienia NBP. Z treści powyższej umowy powinny w szczególności wynikać: zasady współdziałania, zakres współuczestnictwa i podział obowiązków Wykonawców w wykonaniu przedmiotu zamówienia.
+Przed zawarciem Umowy, wybrany Wykonawca w szczególności:
+wniesie zabezpieczenie należytego wykonania umowy, w wysokości i formie określonej w SWZ oraz treści uzgodnionej z Zamawiającym (jeżeli w formie innej niż pieniądz);
+przekaże Zamawiającemu informacje niezbędne do wpisania do treści Umowy, np. imiona i nazwiska uprawnionych osób, które będą reprezentować Wykonawcę przy podpisaniu umowy, koordynacji, itp.;
+przekaże wszelkie informacje, oświadczenia lub dokumenty istotne dla określenia skutków na gruncie rozliczeń publicznoprawnych.
+Zamawiający wymaga od wybranego Wykonawcy zawarcia umowy w sprawie zamówienia publicznego na warunkach określonych w Projektowanych Postanowieniach Umowy, stanowiących Załącznik Nr 5 do SWZ, które zostaną wprowadzone do umowy w sprawie zamówienia publicznego.
+Projektowane Postanowienia Umowy przed zawarciem zostaną uzupełnione o niezbędne informacje dotyczące w szczególności danych Wykonawcy, wynagrodzenia Wykonawcy, formy zabezpieczenie należytego wykonania umowy i innych niezbędnych do zawarcia umowy w sprawie zamówienia publicznego.
+Wykonawcy oraz innemu podmiotowi przysługują środki ochrony prawnej opisane w Dziale IX ustawy, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów ustawy.
+Odwołanie przysługuje na:
+niezgodną z przepisami ustawy czynność Zamawiającego, podjętą w postępowaniu o udzielenie zamówienia, w tym na Projektowane Postanowienie Umowy;
+zaniechanie czynności w postępowaniu o udzielenie zamówienia, do której Zamawiający był obowiązany na podstawie ustawy.
+Odwołanie wnosi się do Prezesa Krajowej Izby Odwoławczej.
+Termin na wniesienie odwołania, określają przepisy ustawy właściwe dla zamówień, których wartość jest równa lub przekracza progi unijne.
+Zgodnie z art. 579 ust. 1 ustawy na orzeczenie Izby oraz postanowienie Prezesa Izby, o którym mowa w art. 519 ust. 1, stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do sądu.
+W postępowaniu toczącym się wskutek wniesienia skargi stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego o apelacji, jeżeli przepisy Działu IX ustawy nie stanowią inaczej.
+Skargę wnosi się do Sądu Okręgowego w Warszawie – sądu zamówień publicznych, zwanego dalej „sądem zamówień publicznych”.
+Skargę wnosi się za pośrednictwem Prezesa Izby, w terminie 14 dni od dnia doręczenia orzeczenia Izby lub postanowienia prezesa Izby, o którym mowa w art. 519 ust. 1 ustawy.
+Zamawiający nie przewiduje wyboru najkorzystniejszej oferty z zastosowaniem aukcji elektronicznej.
+Wykonawca ponosi koszty związane z przygotowaniem i złożeniem oferty.
+Przywołane w SWZ załączniki stanowią jej integralną część i są udostępnione przez Zamawiającego w wersji edytowalnej.
+W Biuletynie Informacji Publicznej NBP Zamawiający opublikował Wewnętrzną procedurę dokonywania zgłoszeń naruszeń prawa i podejmowania działań następczych w NBP związaną z wykonaniem obowiązków wynikających z ustawy z dnia 14 czerwca 2024 r. o ochronie sygnalistów (Dz. U. z 2024 r. poz. 928).
+Załącznik Nr 1 –	Instrukcja dla Wykonawców.
+Załącznik Nr 2 –	Wykaz dokumentów i oświadczeń wymaganych w postępowaniu wraz z wymaganiami technicznymi ich przekazania.
+Załącznik Nr 3 –	Informacja dla Wykonawców dotycząca przetwarzania danych osobowych w postępowaniu o udzielenie zamówienia prowadzonego przez NBP.
+Załącznik Nr 4 –	Uszczegółowienie „Formularza ofertowego”.
+Załącznik Nr 5 –	Projektowane Postanowienia Umowy (PPU).
+Załącznik Nr 6 –     Wykaz dostaw (wzór).
+Załącznik Nr 1 do SWZ
+Instrukcja dla Wykonawców
+(procedura „unijna”)
+plik został zamieszczony w wersji edytowalnej (.docx) na stronie internetowej Zamawiającego
+Załącznik Nr 2 do SWZ
+Wykaz dokumentów i oświadczeń wymaganych w postępowaniu
+wraz z wymaganiami technicznymi ich przekazania
+plik został zamieszczony w wersji edytowalnej (.xlsx) na stronie internetowej Zamawiającego
+Załącznik Nr 3 do SWZ
+Informacja dla Wykonawców
+dotycząca przetwarzania danych osobowych w postępowaniu o udzielenie
+zamówienia prowadzonego przez NBP
+Realizując przepisy Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia
+27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), zwanego dalej „RODO” oraz uwzględniając wymagania określone w art. 19 ust. 1 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz.U. z 2024 r. poz. 1320), zwanej dalej także „ustawą”, Zamawiający informuje o zasadach przetwarzania danych Wykonawcy lub osób po stronie Wykonawcy oraz o przysługujących prawach z tym związanych.
+Administrator danych.
+Administratorem danych osobowych jest Narodowy Bank Polski w Warszawie z siedzibą w Warszawie (00-919 Warszawa) przy ul. Świętokrzyska 11/21.
+Inspektor Ochrony Danych (IOD).
+Administrator wyznaczył inspektora ochrony danych, z którym można się skontaktować w sprawach dotyczących udostępnionych Zamawiającemu danych osobowych wysyłając
+e-mail na adres: iod@nbp.pl lub drogą pocztową pod adresem administratora danych osobowych.
+Szczegółowe informacje dotyczące Inspektora Ochrony Danych znajdują się na stronie internetowej www.nbp.pl/RODO oraz w miejscu publicznie dostępnym w siedzibie Zamawiającego.
+Cel i podstawa prawna przetwarzania danych.
+Dane osobowe Wykonawcy lub osób po stronie Wykonawcy mogą być przetwarzane
+w związku z:
+realizacją obowiązku prawnego ciążącego na Zamawiającym (Administratorze);
+wykonywaniem przez Zamawiającego (Administratora) zadań realizowanych w interesie publicznym lub wykonywania obowiązków wynikających z ustawy i innych aktów prawnych związanych z prowadzeniem postępowania o udzielenie zamówienia publicznego;
+wykonywaniem umowy, której stroną może być Wykonawca lub osoby po stronie Wykonawcy lub podjęciem działań na żądanie Wykonawcy lub osób po stronie Wykonawcy przed zawarciem Umowy w sprawie zamówienia publicznego;
+wyrażoną przez Wykonawcę lub osoby po stronie Wykonawcy zgodą na przetwarzanie danych osobowych w toku prowadzonego postępowania w celu przeprowadzenia postępowania o udzielenie zamówienia publicznego i archiwizację przebiegu postępowania.
+Odbiorcy danych.
+Dane osobowe udostępnione Zamawiającemu w toku prowadzonego postępowania przez Wykonawcę lub osoby po stronie Wykonawcy mogą być udostępniane i przekazywane:
+Wykonawcom, w rozumieniu art. 7 pkt 30 ustawy,
+organom administracji publicznej, służbom, sądom i prokuraturze;
+Krajowej Izbie Odwoławczej lub Prezesowi Urzędu Zamówień Publicznych;
+Organom Unii Europejskiej uprawnionym do działania w zakresie zamówień publicznych;
+innym podmiotom, które na podstawie stosownych umów podpisanych z Zamawiającym przetwarzają dane osobowe, dla których Administratorem jest Zamawiający.
+Okres przechowywania danych osobowych.
+Dane osobowe Wykonawcy lub osób po stronie Wykonawcy będą przechowywane przez okres niezbędny do realizacji celów przetwarzania, nie krócej niż okres wskazany w art. 78 ustawy i w przepisach o archiwizacji w tym w ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz.U. 2020 r. poz. 164).
+Prawa związane z przetwarzaniem danych.
+W związku z przetwarzaniem danych osobowych Wykonawcy lub osób po stronie Wykonawcy, na warunkach określonych w przepisach RODO, przysługują Wykonawcy lub osobom po stronie Wykonawcy następujące prawa:
+prawo dostępu do swoich danych,
+prawo do sprostowania (poprawiania) swoich danych,
+prawo do usunięcia danych osobowych,
+prawo do ograniczenia przetwarzania danych,
+prawo do sprzeciwu,
+prawo do cofnięcia zgody w dowolnym momencie, w sytuacji gdy dane są przetwarzane na podstawie uzyskanej zgody, przy czym jej wycofanie nie wpływa na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej cofnięciem.
+Prawo wniesienia skargi do organu nadzorczego.
+W przypadku uznania, iż przetwarzanie przez Zamawiającego (Administratora) danych osobowych Wykonawcy lub osób po stronie Wykonawcy narusza przepisy prawa, przysługuje Wykonawcy lub osobie po stronie Wykonawcy uprawnienie do wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych, na adres Urzędu Ochrony Danych Osobowych, ul. Stawki 2, 00-193 Warszawa.
+Zautomatyzowane podejmowanie decyzji, w tym profilowanie.
+Dane osobowe Wykonawcy lub osób po stronie Wykonawcy nie będą profilowane ani też nie będą podlegały zautomatyzowanemu podejmowaniu decyzji.
+Dane osobowe mogą być udostępniane do Urzędu Publikacji Unii Europejskiej lub organom Unii Europejskiej.
+Wyrażenie zgody na przetwarzanie informacji zawierających dane osobowe.
+Zamawiający informuje, iż będzie przetwarzał dane osobowe uzyskane w trakcie postępowania, a w szczególności: dane osobowe ujawnione w Ofercie, dokumentach i oświadczeniach dołączonych do Oferty oraz dane osobowe ujawnione w dokumentach i oświadczeniach składanych w odpowiedzi na wezwanie na podstawie art. 26 ustawy.
+Przetwarzanie danych osobowych przez Zamawiającego jest niezbędne dla celów wynikających z prawnie uzasadnionych interesów realizowanych przez Zamawiającego i wypełnienia obowiązku prawnego ciążącego na administratorze polegających na obowiązku przeprowadzenia postepowania o udzielenie zamówienia, zgodnie z przepisami ustawy. W związku z tym, Wykonawca przystępując do postępowania jest obowiązany do wyrażenia zgody na przetwarzanie informacji zawierających dane osobowe oraz do poinformowania i uzyskania zgody każdej osoby, której dane osobowe będą podane w ofercie, oświadczeniach i dokumentach złożonych w postępowaniu. Na tę okoliczność Wykonawca złoży stosowne pisemne oświadczenie we wzorze Uszczegółowienia Formularza oferty.
+Informujemy, że podanie danych osobowych jest wymogiem ustawowym oraz wymaganiem umownym, a także warunkiem zawarcia umowy, zaś nie podanie tych danych wywołuje skutki określone w przepisach ustawy.
+Skorzystanie przez osobę, której dane dotyczą, z uprawnienia do sprostowania lub uzupełnienia danych osobowych, o którym mowa w art. 16 rozporządzenia RODO, nie może skutkować zmianą wyniku postępowania o udzielenie zamówienia publicznego ani zmianą postanowień umowy w zakresie niezgodnym z ustawą.
+Zgłoszenie żądania ograniczenia przetwarzania, o którym mowa w art. 18 ust. 1 rozporządzenia RODO, nie ogranicza przetwarzania danych osobowych do czasu zakończenia postępowania o udzielenie zamówienia publicznego.
+Postanowienia zawarte w niniejszym rozdziale SWZ, stanowią wykonanie obowiązków informacyjnych o ograniczeniach, o których mowa w art. 19 ust. 4 ustawy.
+Zamawiający przetwarza dane osobowe zebrane w postępowaniu o udzielenie zamówienia publicznego w sposób gwarantujący zabezpieczenie przed ich bezprawnym rozpowszechnianiem.
+Do przetwarzania danych osobowych, o których mowa w art. 10 rozporządzenia 2016/679, mogą być dopuszczone wyłącznie osoby posiadające pisemne upoważnienie. Osoby dopuszczone do przetwarzania takich danych są obowiązane do zachowania ich w poufności.
+Załącznik Nr 4 do SWZ
+Uszczegółowienie „Formularza ofertowego”
+Dane Wykonawcy/Wykonawców wspólnie ubiegających się o udzielenie zamówienia
+Oświadczenia Wykonawcy:
+Oświadczamy, że:
+przedmiot zamówienia wykonamy siłami własnymi *)
+powierzymy podwykonawcom realizację części zamówienia: *)
+których łączna wartość brutto nie przekroczy __% ceny Oferty.
+Oświadczenie wz. polegania na zasobach podmiotów udostępniających zasoby:
+Oświadczamy że:
+nie polegamy na zasobach podmiotów udostępniających zasoby**)
+zgodnie z załączonymi do Oferty zobowiązaniami podmiotu udostępniającego zasoby/ innymi środkami dowodowymi potwierdzającymi, że Wykonawca realizując zamówienie będzie dysponował niezbędnymi zasobami tych podmiotów:**)
+oświadczamy, że w celu potwierdzenia spełnienia warunków udziału w postępowaniu polegamy na zdolnościach technicznych lub zawodowych nw. podmiotów udostępniających zasoby w nw. zakresie:
+Wykonawca powierzy następującym podwykonawcom realizację następujących części zamówienia i jednocześnie polega na ich zasobach, w celu wykazania spełnienia warunków udziału w postępowaniu, o których mowa w SWZ, na zasadach określonych w art. 118 ust. 2 ustawy Prawo zamówień publicznych:
+Zgodnie z treścią art. 225 ust. 2 ustawy Prawo zamówień publicznych oświadczamy, że wybór przedmiotowej oferty:
+nie będzie prowadzić do powstania u Zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług***),
+będzie prowadzić do powstania u Zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług, w zakresie i wartości***):
+[należy wskazać: nazwę (rodzaj) towaru/usługi, których dostawa/świadczenie będzie prowadzić do jego powstania oraz ich wartość bez kwoty podatku od towarów i usług]
+Zgodnie z naszą wiedzą dla ww. towarów i usług zastosowanie będzie miała następująca stawka podatku od towarów i usług: …………………%
+Oświadczamy, że niniejsza Oferta oraz jej wszystkie załączniki są jawne i nie zawierają informacji stanowiących tajemnicę przedsiębiorstwa, w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, z wyjątkiem informacji i dokumentów przekazanych w wydzielonym i odpowiednio oznaczonym pliku, co do których wykazujemy w załączeniu dlaczego informacje te stanowią tajemnicę przedsiębiorstwa.
+Oświadczamy, że akceptujemy zawarte w SWZ Projektowane Postanowienia Umowy i zobowiązujemy się, w przypadku wyboru naszej oferty, do zawarcia umowy zgodnie z Ofertą oraz na warunkach określonych w Projektowanych Postanowieniach Umowy, w miejscu i terminie wyznaczonym przez Zamawiającego.
+W związku z art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r.  o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego oświadczam, że Wykonawca (każdy z wykonawców wspólnie ubiegających się o udzielenie zamówienia):
+nie jest wymieniony w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisany na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3 ww. ustawy;
+beneficjentem rzeczywistym wykonawcy w rozumieniu ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz.U. z 2023 r. poz. 1124 z późn. zm.) nie jest osoba wymieniona w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisana na listę lub będąca takim beneficjentem rzeczywistym od dnia 24 lutego 2022 r., o ile została wpisana na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3 ww. ustawy;
+jednostką dominującą wykonawcy w rozumieniu art. 3 ust. 1 pkt 37 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz.U. z 2023 r. poz. 120 z późn. zm.), nie jest podmiot wymieniony w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisany na listę lub będący taką jednostką dominującą od dnia 24 lutego 2022 r., o ile został wpisany na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3 ww. ustawy.
+Zobowiązujemy się nie wykonywać zamówienia z udziałem podwykonawców, dostawców lub podmiotów, na których zdolności polega się w rozumieniu dyrektywy 2014/24/UE, o których mowa w art. 5k rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie,  w przypadku gdy przypada na nich ponad 10% wartości zamówienia.
+Oświadczamy, iż Wykonawca wyraża zgodę na przetwarzanie przez Zamawiającego informacji zawierających dane osobowe oraz, że poinformował pisemnie i uzyskał zgodę każdej osoby, której dane osobowe są podane w Ofercie, oświadczeniach
+i dokumentach składanych wraz z Ofertą lub będą podane w oświadczeniach i dokumentach złożonych przez Wykonawcę w niniejszym postępowaniu o udzielenie zamówienia.
+Nr rachunku bankowego, na który Zamawiający winien zwrócić wadium wniesione
+w pieniądzu: ………………………………………………………………………………………
+W przypadku braku możliwości komunikacji poprzez Platformę Zakupową NBP:
+Osoba uprawniona do kontaktów z Zamawiającym:…………………………………………
+e-mail: …………………………………… tel.: …………………………………………………..
+*)   Niepotrzebne skreślić.
+**)  Niepotrzebne skreślić. W przypadku nie skreślenia (niewskazania) żadnej z ww. treści oświadczenia i niewypełnienia powyższych tabel, - Zamawiający uzna, że Wykonawca nie polega na zasobach podmiotów udostępniających zasoby.
+***)  Niepotrzebne skreślić. W przypadku nie skreślenia (niewskazania) żadnej z ww. treści oświadczenia i niewypełnienia powyższego pola oznaczonego: „należy wskazać nazwę (rodzaj) towaru/usługi, których dostawa/świadczenie będzie prowadzić do powstania u Zamawiającego obowiązku podatkowego w podatku od towarów i usług, oraz ich wartość bez kwoty podatku od towarów i usług” - Zamawiający uzna, że wybór przedmiotowej oferty nie będzie prowadzić do powstania u Zamawiającego obowiązku podatkowego (tj. naliczenia i odprowadzenia podatku do urzędu skarbowego).
+Szczegóły oferty:
+Oferujemy wykonanie zamówienia określonego w SWZ, zgodnie z poniższą Specyfikacją Materiałowo-Cenową:
+x) Wszystkie ceny należy podać z dokładnością do 1 grosza, to znaczy z dokładnością do dwóch miejsc po przecinku.
+*) wykropkowane pola muszą zostać przez Wykonawcę wypełnione poprzez wskazanie właściwego parametru; natomiast pozycje z informacją TAK / NIE – jeśli parametr jest spełniony zgodnie z wymaganiami Zamawiającego określonymi w kol. „C” należy  przekreślić wyraz NIE (tj. wyraz „TAK” musi pozostać nieprzekreślony) i na odwrót. Należy wpisać parametry/informacje dot. oferowanego Urządzenia odnoszące się do wymagań zawartych w kolumnie „Opis minimalnych wymagań Zamawiającego” (w zakresie wskazanym w kol. „C”).
+Załącznik Nr 5 do SWZ
+Projektowane Postanowienia Umowy
+plik został zamieszczony w wersji edytowalnej (.docx) na stronie internetowej Zamawiającego
+Załącznik Nr 6 do SWZ
+Wykaz dostaw
+Nazwa Wykonawcy* ______________________________________________________________
+Adres siedziby Wykonawcy _______________________________________________________
+Przedstawiamy wykaz dostaw wykonanych w okresie ostatnich trzech lat licząc wstecz od dnia, w którym upływa termin składania ofert (a jeżeli okres działalności jest krótszy – w tym okresie) w celu potwierdzenia spełniania warunku udziału w postępowaniu dotyczącego zdolności technicznej lub zawodowej,
+o którym mowa w Rozdz. 8 ust. 1 SWZ:
+*)  Jeżeli Wykonawcy wspólnie ubiegają się o zamówienie – należy podać pełne nazwy i adresy wszystkich Wykonawców
+**)  W przypadku, gdy wartość zamówienia (umowy) jest określona w innej walucie niż w złotych polskich, Zamawiający dokona przeliczenia tej wartości na złote polskie – na podstawie średniego kursu złotego w stosunku do walut obcych określonego w Tabeli Kursów Narodowego Banku Polskiego na dzień opublikowania Ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej.
+Uwaga do kol. 7
+Wpisać nazwę dowodu (dokumentu) określającego, czy powyższe dostawy zostały wykonane należycie, oraz załączyć go do wykazu.
+Dowodami, o których mowa w pkt 1, są referencje bądź inne dokumenty sporządzone przez podmiot, na rzecz którego dostawy zostały wykonane, a jeżeli Wykonawca z przyczyn niezależnych od niego nie jest w stanie uzyskać tych dokumentów – oświadczenie Wykonawcy.

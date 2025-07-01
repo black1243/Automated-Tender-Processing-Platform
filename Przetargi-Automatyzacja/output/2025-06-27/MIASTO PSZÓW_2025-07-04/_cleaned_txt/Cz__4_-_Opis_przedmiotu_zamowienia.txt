@@ -1,0 +1,308 @@
+Strona 1 z 6
+Znak postępowania: AIR.271.8.2025
+Zał. nr 1D do SWZ
+Część 4 - Dostawa licencji i sprzętu komputerowego
+OPIS PRZEDMIOTU ZAMÓWIENIA
+Dostawa 8 szt. komputerów przenośnych (laptop) wraz  z systemem operacyjnym  spełniających wymagania, jak niżej:
+Nazwa  WYMAGANE MINIMALNE PARAMETRY TECHNICZNE
+Typ Komputer przenośny - laptop.
+Zastosowanie Komputer będzie wykorzystywany dla pot rzeb aplikacji biurowych, dostępu do internetu oraz
+poczty elektronicznej.
+Procesor Procesor wielordzeniowy, osiągający w teśc ie PassMark CPU Mark, w kategorii Average
+wynik min. 13,250 (13250) punktów (https:// www.cpubenchmark.net/cpu_list.php ),
+wprowadzony do sprzedaży jako nowy nie wcześniej, n iż przed rokiem 2022, wyposażony w
+instrukcje bezpieczeństwa TPM 2.0. Liczba rdzeni pro cesora 10.
+Płyta główna Płyta główna zaprojektowana i wyproduk owana na zlecenie producenta komputera,
+dedykowana dla danego urządzenia. Gniazda pamięci: 1 x M.2 2280 SSD, PCIe Gen4x4
+Interface, 1 x M.2 2280 SSD, SATA/PCIe Gen3x4 Interface.
+Pamięć RAM 16 GB.
+Pamięć masowa Dysk półprzewodnikowy o pojemności 500  GB.
+Matryca Rozdzielczość 1920 x 1200 px
+Rozmiar matrycy min. 15”
+Rodzaj matrycy matowa.
+Format obrazu 16:10.
+Klawiatura Standardowa QWERTY z wydzielonym blokiem  numerycznym po prawej stronie klawiatury.
+Zamawiający nie dopuszcza stosowania naklejek na kl awisze.
+Wyposażenie multimedialne Karta dźwiękowa zintegrow ana z płytą główną, cyfrowa kamera  2MP, mikrofon.
+Porty/złącza (wbudowane) 2 x USB 3.2 Gen 1
+2 x USB C 3.2 Gen 1
+HDMI
+LAN
+Bateria Czas pracy na zasilaniu akumulatorowym 8 h. Gwarancja na baterie - 6 miesięcy.
+Obudowa Aluminiowa.
+System operacyjny Preinstalowany, 64-bitowy system o peracyjny w polskiej wersji językowej, przeznaczony  do
+zastosowań biznesowych, zapewniający zaawansowane f unkcje zarządzania, bezpieczeństwa
+(np. szyfrowanie danych, zdalne zarządzanie).
+Klucz licencyjny systemu operacyjnego powinien być zapisany na stałe w BIOS, musi
+umożliwiać instalację systemu operacyjnego bez potr zeby ręcznego wpisywania klucza
+licencyjnego.
+Licencja powinna być potwierdzona etykietą potwierd zającą legalność systemu operacyjnego.
+Etykieta ma być umieszczona w sposób trwały na obud owie każdego egzemplarza komputera.
+Zgodność z systemami i
+standardami Oferowane modele komputerów przenośnych muszą popra wnie współpracować z
+posiadanymi przez Zamawiającego programami i system ami serwerowymi.
+Bezpieczeństwo Płyta główna zawierająca układ sprzę towy TPM 2.0.
+Procesor powinien wspierać instrukcje TPM 2.0.
+BIOS BIOS zgodny ze specyfikacją UEFI.
+Certyfikaty i standardy Certyfikat ISO 9001.
+Deklaracja zgodności CE.
+Wymagania dodatkowe Mysz bezprzewodowa optyczna USB  z dwoma przyciskami oraz rolką. Dwa komplety bater ii
+do każdej myszy.
+Torba na laptop z uchwytem oraz paskiem do zawiesze nia na ramieniu.
+Każdy laptop musi być oznaczony niepowtarzalnym num erem seryjnym umieszonym na
+obudowie.
+Warunki gwarancji i wsparcia
+technicznego Dedykowany portal techniczny producenta laptopa, um ożliwiający Zamawiającemu na
+podstawie TAGu serwisowego, numeru seryjnego, model u komputera otrzymać wsparcie,
+aktualizacje, zgłaszanie awarii.
+Możliwość sprawdzenia kompletnych danych o urządzen iu na jednej witrynie internetowej
+prowadzonej przez producenta.
+Minimum 2 lata gwarancji producenta. Pochodzący z of icjalnej polskiej dystrybucji.
+Strona 2 z 6
+Dostawa 2 szt. komputerów stacjonarnych typu AIO (A ll-In-One) wraz z systemem operacyjnym  spełniających wymagania, jak niżej:
+Nazwa  WYMAGANE MINIMALNE PARAMETRY TECHNICZNE
+Typ Komputer stacjonarny typu AIO, komputer fabrycznie wbudowany w obudowę monitora
+(wymagana karta produktu).
+Zastosowanie Komputer będzie wykorzystywany dla potrzeb aplikacj i biurowych, aplikacji dedykowanych,
+aplikacji bazodanowych, systemów dziedzinowych, dos tępu do internetu oraz poczty
+elektronicznej.
+Procesor Procesor wielordzeniowy, osiągający w teście PassMa rk CPU Mark, w kategorii Average
+wynik min. 15,000 punktów (https:// www.cpubenchmark.net/cpu_list.php ), wprowadzony do
+sprzedaży jako nowy nie wcześniej niż przed rokiem 2022, wyposażony w instrukcje bezpieczeństwa
+TPM 2.0.
+Płyta główna Płyta główna zaprojektowana i wyprodukowana na zlec enie producenta komputera, dedykowana
+dla danego urządzenia; wyposażona w min. 2 złącza z obsługą do 64 GB pamięci RAM, min. 1 złącza
+M.2 PCIe/NVMe dla dysku twardego półprzewodnikowego lub dodatkowo SATA.
+Pamięć RAM Pojemność min. 16 GB.
+Pamięć masowa Dysk półprzewodnikowy o pojemności min. 480 GB, prędko ść odczytu min. 2000 MB/s, prędkość
+zapisu min. 2000 MB/s.
+Wydajność grafiki Grafika zintegrowana z procesorem, współdzielona i dynamicznie przydzielana pamięć z VRAM.
+Matryca Rozmiar matrycy min. 23”
+Rozdzielczość min. Full HD (1920x1080)
+Jasność: min. 250 cd/m2
+Kąty widzenia: min. 170/170
+Rodzaj matrycy: matowa
+Wyposażenie
+multimedialne Karta dźwiękowa zintegrowana z płytą główną, wbudow ane w obudowę monitora głośniki stereo.
+Obudowa Typu AIO (All in One) zintegrowana z monitorem.
+Każdy komputer musi być oznaczony niepowtarzalnym n umerem seryjnym umieszonym na
+obudowie oraz wpisanym na stałe w BIOS.
+Podstawa komputera musi umożliwiać regulację pochył u pionowego w zakresie min. od - 5 do 20
+stopni.
+Porty/złącza
+(wbudowane) 2 x USB 3.x
+2 x USB 2.x
+1 x USB powinien znajdować się z boku obudowy monito ra
+1 x RJ-45 10/100/1000 Mbps
+1 x HDMI Out
+System operacyjny Preinstalowany, 64-bitowy system operacyjny w polski ej wersji językowej, przeznaczony do
+zastosowań biznesowych, zapewniający zaawansowane f unkcje zarządzania, bezpieczeństwa (np.
+szyfrowanie danych, zdalne zarządzanie).
+Klucz licencyjny systemu operacyjnego powinien być zapisany na stałe w BIOS, musi umożliwiać
+instalację systemu operacyjnego bez potrzeby ręczne go wpisywania klucza licencyjnego.
+Licencja ta powinna być potwierdzona etykietą potwi erdzającą legalność systemu operacyjnego.
+Etykieta ma być umieszczona w sposób trwały na obud owie każdego egzemplarza komputera.
+Zgodność z systemami i
+standardami Oferowane modele komputerów muszą poprawnie współpr acować z posiadanymi przez
+Zamawiającego programami i systemami serwerowymi. P owinien spełniać minimalne wymagania
+dla zintegrowanego pakietu RATUSZ®, autorstwa firmy REKORD.
+Bezpieczeństwo Płyta główna zawierająca układ sprzętowy TPM 2.0
+Procesor powinien wspierać instrukcje TPM 2.0
+BIOS BIOS zgodny ze specyfikacją UEFI.
+Informacje dostępne z poziomu BIOS na potrzeby inwe ntaryzacji:
+wersja BIOS, nr seryjny, data produkcji komputera, pamięć RAM (taktowanie, wielkość, obsadzenie
+kości w slotach, procesor (typ, nazwa, typowa prędk ość, minimalna, maksymalna, cache L2 i L3),
+pojemności zainstalowanego lub zainstalowanych dysk ów twardych, MAC adres zintegrowanej
+karty sieciowej, zintegrowany układ graficzny, kont roler audio. Informacje dostępne w samym
+menu BIOS bez stosowania dodatkowego oprogramowania  jak i wbudowanego systemu
+diagnostycznego.
+Możliwość, ustawienia haseł zawierających małe lite ry, duże litery, znaki specjalne, cyfry na
+poziomie: administratora (hasło nadrzędne), użytkow nika/systemowego (hasło umożliwiające
+użytkownikowi zmianę swojego hasła i zgodnie z upra wnieniami nadanymi przez administratora
+dokonywać zmian ustawień BIOS), rozruch systemu ope racyjnego (hasło blokuje start systemu
+operacyjnego).
+Strona 3 z 6
+Funkcja blokowania/odblokowania bootowania stacji r oboczej z zewnętrznych urządzeń.
+Możliwość wyłączenia/włączenia karty sieciowej.
+Możliwość włączenia/wyłączenia kontrolera SATA.
+Możliwość włączenia/wyłączenia kontrolera audio.
+Możliwość włączenia/wyłączenia układu TPM.
+Certyfikaty i standardy Certyfikat ISO 9001.
+Deklaracja zgodności CE.
+Wymagania
+dodatkowe Włącznik komputera wbudowany w obudowę.
+Mysz bezprzewodowa optyczna USB z dwoma przyciskami  oraz rolką.
+Dostawa 1 szt. drukarki kolorowej atramentowej  spełniającej wymagania, jak niżej:
+Nazwa WYMAGANE MINIMALNE PARAMETRY TECHNICZNE
+Typ Drukarka kolorowa atramentowa A4, duplex.
+Rozdzielczość
+drukowania 5.760 x 1.440 DPI
+Szybkość druku ISO/IEC
+24734 10,5 Str./min. Monochromatyczny, 5 Str./min. Kolor, 69 se kund(y) na zdjęcie 10 x 15 cm
+Szybkość druku 33 Str./min. Monochromatyczny (papier zwykły), 15 Str./ min. Kolor (papier zwykły), 30 sekund(y)
+na zdjęcie 10 x 15 cm (błyszczący papier fotograficzny Premium Glossy Photo Paper)
+Prędkość drukowania
+dwustronnego ISO/IEC 6 str. A4/min Monochromatyczny, 4 str. A4/min Kolor
+Formaty papieru A4 (21.0x29,7 cm), A5 (14,8x21,0 cm), A6 (10,5x14,8 cm), B5, C6 (koperta),  DL (koperta), Nr 10
+(koperta), Letter, 10 x 15 cm, 13 x 18 cm, 16:9, Użytkownika, Legal
+Pojemność tacy na
+papier 100 Arkusze w standardzie
+Gramatura papieru 64 - 300g/m²
+Automatyczny druk
+dwustronny  Tak
+Przyłącza USB, WiFi
+Wydajność czarnego
+atramentu 14.000 stron
+Wydajność kolorowego
+atramentu 5.200 stron
+Wyświetlacz LCD Typ: Kolor, Przekątna: 3,5 cm
+Kompatybilne systemy
+operacyjne Windows 10, Windows Server 2008 (32/64-bitowy), Windows Ser ver 2008 R2, Windows Server
+2012 (64bit), Windows Server 2012 R2, Windows Server 2016
+Strona 4 z 6
+Dostawa 3 szt. licencji na pakiet biurowy spełniającej wymagania, jak niżej:
+Zamawiający dopuszcza zaoferowanie licencji i oprog ramowania równoważnego, spełniającego wymagania zgo dnie z poniższym
+opisem równoważności:
+1) Zamawiający nie dopuszcza zaoferowania pakietów b iurowych, programów i planów licencyjnych opartych o rozwiązania
+chmury oraz rozwiązań wymagających stałych opłat w okresie używania zakupionego produktu.
+2) Zamawiający nie dopuszcza dostawy licencji typu O EM, PKC.
+3) Licencje muszą pozwalać na sublicencjonowanie dla  jednostek podległych lub nadzorowanych przez centr alę Zamawiającego.
+4) Dla oferowanego oprogramowania musi być publiczni e znany cykl życia przedstawiony przez producenta s ystemu i dotyczący
+rozwoju wsparcia technicznego – w szczególności w z akresie bezpieczeństwa.
+5) Licencje na oprogramowanie biurowe muszą pozwalać  na przenoszenie oprogramowania pomiędzy stacjami r oboczymi (np. w
+przypadku wymiany stacji roboczej).
+6) Zamawiający wymaga, aby wszystkie elementy oprogr amowania biurowego oraz jego licencja pochodziły od  tego samego
+producenta.
+7) Interfejs użytkownika w pełnej polskiej wersji ję zykowej.
+8) Możliwość zdalnej instalacji pakietu oprogramowan ia poprzez zasady grup (GPO).
+9) Możliwość automatycznej instalacji komponentów pa kietu (przy użyciu instalatora systemowego),
+10) Wykorzystanie tej samej licencji na komputerze st acjonarnym oraz na komputerze przenośnym użytkownik a.
+11) Prawo do instalacji udostępnianych przez producen ta oprogramowania bezpłatnych aktualizacji w okresi e co najmniej 5 lat.
+12) Możliwość zintegrowania uwierzytelniania użytkown ików z usługą katalogową (Active Directory) tak, ab y użytkownik
+zalogowany z poziomu systemu operacyjnego stacji ro boczej był automatycznie rozpoznawany we wszystkich  modułach
+oferowanego rozwiązania bez potrzeby ponownego uwie rzytelniania.
+13) Tworzenie i edycja dokumentów elektronicznych w u stalonym formacie, który spełnia następujące warunk i:
+a) posiada kompletny i publicznie dostępny opis for matu,
+b) posiada zdefiniowany układ informacji w postaci XML zgodnie z załącznikiem 2 do rozporządzenia Rady Ministrów z dnia 12
+kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjn ości, minimalnych wymagań dla rejestrów publicznych  i wymiany
+informacji w postaci elektronicznej oraz minimalnyc h wymagań dla systemów teleinformatycznych (Dz. U. z 2016 r., poz. 113),
+c) umożliwia wykorzystanie schematów XML,
+d) wspiera w swojej specyfikacji podpis elektronicz ny w formacie XAdES,
+e) możliwość nadawania uprawnień do modyfikacji dok umentów tworzonych za pomocą aplikacji wchodzących w skład pakietów
+oprogramowania,
+f) możliwość automatycznego odświeżania danych poch odzących z Internetu w wytworzonych dokumentach ele ktronicznych, np.
+w arkuszu kalkulacyjnym,
+g) możliwość dodawania do dokumentów i arkuszy kalk ulacyjnych podpisów elektronicznych pozwalających n a stwierdzenie, czy
+dany dokument lub arkusz pochodzi z bezpiecznego źr ódła i nie został w żaden sposób zmieniony,
+h) możliwość automatycznego odzyskiwania dokumentów  elektronicznych w wypadku nieoczekiwanego zamknięc ia aplikacji, np.
+w wyniku wyłączenia zasilania komputera,
+i) prawidłowe odczytywanie i zapisywanie danych w d okumentach w formatach: .DOC, .DOCX, .XLS, .XLSX, . XLSM, .PPT, .PPTX, w
+tym obsługa formatowania, makr, formuł i formularzy  w plikach wytworzonych w MS Office 2003, MS Office 2007, M S Office
+2010, MS Office 2013 i MS Office 2016, bez utraty danych oraz b ez konieczności reformatowania dokumentów,
+j) automatyczne wyróżnianie i aktywowanie hiperłącz y w dokumentach podczas edycji i odczytu,
+k) oprogramowanie zawiera narzędzia programistyczne  umożliwiające automatyzację pracy i wymianę danych  pomiędzy
+dokumentami i aplikacjami (język makropoleceń, języ k skryptowy),
+l) oprogramowanie umożliwia dostosowanie dokumentów  i szablonów do potrzeb urzędu oraz udostępnianie n arzędzia
+umożliwiające dystrybucję odpowiednich szablonów do  właściwych odbiorców,
+m) dostępna jest pełna dokumentacja rozwiązania w j ęzyku polskim,
+n) wszystkie aplikacje w pakiecie oprogramowania bi urowego muszą być integralną częścią tego samego pa kietu, współpracować
+ze sobą (osadzanie i wymiana danych), posiadać jedn olity interfejs oraz ten sam jednolity sposób obsłu gi.
+14) Pakiet zintegrowanych aplikacji biurowych musi sk ładać się co najmniej z następujących aplikacji:
+a) edytora tekstów,
+b) arkusza kalkulacyjnego,
+c) narzędzia do przygotowywania i prowadzenia preze ntacji,
+d) narzędzia do tworzenia drukowanych materiałów in formacyjnych,
+e) narzędzia do zarządzania informacją osobistą (po cztą elektroniczną, kalendarzem, kontaktami i zadan iami),
+f) narzędzia do tworzenia notatek, przy pomocy klaw iatury lub notatek odręcznych na ekranie urządzenia  typu tablet PC z
+mechanizmem OCR.
+15) Edytor tekstów umożliwia:
+a) edycję i formatowanie tekstu w języku polskim, p rzy czym zapewniona jest obsługa języka polskiego w  zakresie sprawdzania
+pisowni i poprawności gramatycznej oraz funkcjonaln ość autokorekty i słownika wyrazów bliskoznacznych,
+b) wstawianie i formatowanie tabel i obiektów grafi cznych, powiększanie obiektów na cały ekran, wstawi anie obrazów i klipów
+wideo online, prowadnice wyrównania ułatwiające zes tawianie wykresów, zdjęć i diagramów z tekstem,
+c) wstawianie tabel i wykresów z arkusza kalkulacyj nego, w tym tabel przestawnych,
+d) wykonywanie korespondencji seryjnej bazującej na  danych adresowych, np. pochodzących z arkusza kalk ulacyjnego, bazy
+Strona 5 z 6
+danych, narzędzia do zarządzania informacją prywatn ą,
+e) automatyczne numerowanie rozdziałów, punktów, ak apitów, tabel, rysunków, automatyczne tworzenie spi su treści,
+f) określenie układu stron (pionowa/pozioma), forma towanie nagłówków i stopek stron, wydruk dokumentów ,
+g) nagrywanie, tworzenie i edycję makr automatyzują cych wykonywanie czynności,
+h) praca zespołowa, śledzenie i porównywanie zmian wprowadzonych w dokumencie przez użytkowników, pros ta adiustacja
+zapewniająca przejrzysty widok dokumentu z zachowan iem oznaczeń miejsc wprowadzenia śledzonych zmian, komentarze z
+możliwością oznaczania ich jako gotowe i dodawania odpowiedzi,
+i) pracę na dokumentach utworzonych przy pomocy Mic rosoft Word 2003, Microsoft Word 2007, Microsoft Word 2010,
+Microsoft Word 2013 i Microsoft Word 2016, z zapewnieniem b ezproblemowej konwersji wszystkich elementów i atry butów
+dokumentu,
+j) otwieranie plików PDF i edytowanie ich zawartośc i (w tym akapitów, list, tabel),
+k) zabezpieczenie dokumentów hasłem przed odczytem oraz przed wprowadzaniem modyfikacji,
+l) wymagana jest dostępność do oferowanego edytora tekstu bezpłatnych narzędzi umożliwiających wykorzy stanie go jako
+środowiska udostępniającego formularze bazujące na schematach XML z centralnego repozytorium wzorów do kumentów
+elektronicznych (o którym mowa w art. 19b ustawy z dn ia 17 lutego 2005r. o informatyzacji działalności podmio tów realizujących
+zadania publiczne (Dz. U. z 2014 r., poz. 1114), które po w ypełnieniu umożliwiają zapisanie pliku XML,
+m) wymagana jest dostępność do oferowanego edytora tekstu bezpłatnych narzędzi umożliwiających wykorzy stanie go jako
+środowiska udostępniającego formularze i pozwalając e zapisać plik wynikowy zgodnie z rozporządzeniem P rezesa Rady Ministrów
+z dnia 27 grudnia 2011 r. w sprawie wymagań technicznych dla dokumentów elektronicznych zawierających akty n ormatywne i
+inne akty prawne, dzienników urzędowych wydawanych w postaci elektronicznej oraz środków komunikacji e lektronicznej i
+informatycznych nośników danych (Dz. U. z 2011 r., Nr 289,  poz. 1699).
+16) Arkusz kalkulacyjny umożliwia:
+a) tworzenie arkuszy kalkulacyjnych zawierających t eksty, dane liczbowe oraz formuły przeprowadzające operacje matematyczne,
+logiczne, tekstowe, statystyczne oraz operacje na d anych finansowych i na miarach czasu, zapis wielu a rkuszy kalkulacyjnych w
+jednym pliku, formatowanie czasu, daty i wartości f inansowych z polskim formatem,
+b) tworzenie wykresów liniowych (wraz linią trendu) , słupkowych, kołowych, automatyczne polecanie wykr esu odpowiedniego do
+wprowadzonych danych,
+c) wyszukiwanie i zamianę danych, wykonywanie anali z danych przy użyciu formatowania warunkowego, nazy wanie komórek
+arkusza i odwoływanie się w formułach po takiej naz wie,
+d) tworzenie raportów tabelarycznych,
+e) tworzenie raportów z zewnętrznych źródeł danych (inne arkusze kalkulacyjne, bazy danych zgodne z OD BC, pliki tekstowe, pliki
+XML, webservice), możliwość osadzania fragmentów ar kusza na stronie sieci Web,
+f) obsługę kostek OLAP oraz tworzenie i edycję kwer end bazodanowych i webowych; narzędzia wspomagające  analizę
+statystyczną i finansową, analizę wariantową i rozw iązywanie problemów optymalizacyjnych,
+g) tworzenie raportów tabeli przestawnych umożliwia jących dynamiczną zmianę wymiarów oraz wykresów baz ujących na danych
+z tabeli przestawnych, automatyczne polecanie sposo bów podsumowania danych, korzystanie z możliwości t worzenia układu
+tabeli przestawnej wykorzystującej jedną lub wiele tabel z wykorzystaniem tej samej listy pól, tworzen ie relacji między tabelami,
+tworzenie osi czasu tabeli przestawnej w celu inter aktywnego filtrowania dat,
+h) nagrywanie, tworzenie i edycję makr automatyzują cych wykonywanie czynności,
+i) zachowanie pełnej zgodności z formatami plików u tworzonych za pomocą oprogramowania Microsoft Excel  2003, Microsoft
+Excel 2007, Microsoft Excel 2010, Microsoft Excel 2013 i Micros oft Excel 2016, z uwzględnieniem poprawnej realizacji u żytych w
+nich funkcji specjalnych i makropoleceń,
+j) zabezpieczenie dokumentów hasłem przed odczytem oraz przed wprowadzaniem modyfikacji.
+17) Narzędzie do przygotowywania i prowadzenia prezen tacji umożliwia:
+a) przygotowywanie prezentacji multimedialnych, któ re będą prezentowane przy użyciu projektora multime dialnego, na
+monitorze lub tablecie,
+b) drukowanie w formacie umożliwiającym robienie no tatek,
+c) zapisanie jako prezentacja tylko do odczytu,
+d) umieszczanie i formatowanie tekstów, obiektów gr aficznych, tabel, nagrań dźwiękowych i wideo, korzy stanie z formatu
+panoramicznego i rozdzielczości HD, nagrywanie narr acji i dołączanie jej do prezentacji, ułatwienia wy równywania obiektów i
+stosowania jednakowych odstępów,
+e) umieszczanie tabel i wykresów pochodzących z ark usza kalkulacyjnego, odświeżenie wykresu znajdujące go się w prezentacji po
+zmianie danych w źródłowym arkuszu kalkulacyjnym,
+f) możliwość tworzenia animacji obiektów i całych s lajdów,
+g) prowadzenie prezentacji w trybie prezentera, gdz ie slajdy są widoczne na jednym monitorze lub proje ktorze, a na drugim
+widoczne są slajdy i notatki prezentera,
+h) pełna zgodność z formatami plików utworzonych za  pomocą oprogramowania MS PowerPoint 2003, MS PowerPoi nt 2007, MS
+PowerPoint 2010, MS PowerPoint 2013 i MS PowerPoint 2016.
+18) Narzędzie do tworzenia drukowanych materiałów inf ormacyjnych umożliwia:
+a) tworzenie i edycję drukowanych materiałów inform acyjnych, podział treści na kolumny, umieszczanie e lementów graficznych,
+b) tworzenie materiałów przy użyciu dostępnych z na rzędziem szablonów: broszur, biuletynów, katalogów,
+c) płynne przesuwanie elementów po całej stronie pu blikacji, tworzenie tła z obrazów, stosowanie efekt ów do obrazów i tekstu
+(np. cienia, odbicia, poświaty, obrotów 3-W),
+Strona 6 z 6
+d) wydruk publikacji, wykorzystanie mechanizmu kore spondencji seryjnej,
+e) eksport publikacji do formatu PDF oraz TIFF,
+f) możliwość przygotowywania materiałów do wydruku w standardzie CMYK.
+19) Narzędzie do zarządzania informacją prywatną (poc ztą elektroniczną, kalendarzem, kontaktami i zadani ami) umożliwia:
+a) pobieranie i wysyłanie poczty elektronicznej z s erwera pocztowego MS Exchange 2010/2013/2016,
+b) przechowywanie wiadomości na serwerze lub w loka lnym pliku tworzonym z zastosowaniem efektywnej kom presji danych,
+c) filtrowanie niechcianej poczty elektronicznej (S PAM) oraz określanie listy zablokowanych i bezpiecz nych nadawców,
+d) tworzenie katalogów, pozwalających katalogować p ocztę elektroniczną, automatyczne grupowanie poczty  o tym samym tytule,
+e) wspieranie funkcji asystenta podczas nieobecnośc i,
+f) tworzenie reguł przenoszących automatycznie nową  pocztę elektroniczną do określonych katalogów bazu jąc na słowach
+zawartych w tytule, adresie nadawcy i odbiorcy, ofl agowanie poczty elektronicznej z określeniem termin u przypomnienia,
+oddzielnie dla nadawcy i adresatów,
+g) zarządzanie kalendarzem, udostępnianie kalendarz a innym użytkownikom z możliwością określania upraw nień użytkowników,
+przeglądanie kalendarza innych użytkowników,
+h) zapraszanie uczestników na spotkania, co po ich akceptacji powoduje automatyczne wprowadzenie spotk ania w ich
+kalendarzach,
+i) zarządzanie listą zadań, zlecanie zadań innym uż ytkownikom,
+j) zarządzanie listą kontaktów, udostępnianie listy  kontaktów innym użytkownikom, przeglądanie listy k ontaktów innych
+użytkowników, możliwość przesyłania kontaktów innym  użytkowników.

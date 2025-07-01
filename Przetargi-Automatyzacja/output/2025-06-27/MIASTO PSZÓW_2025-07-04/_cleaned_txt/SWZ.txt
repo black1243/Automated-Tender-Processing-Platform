@@ -1,0 +1,757 @@
+Znak sprawy: AIR.271.8.2025 SWZ  - 1 -
+SPECYFIKACJA WARUNKÓW ZAMÓWIENIA
+(zwana dalej „specyfikacj ą” lub „SWZ”)
+1. Informacje o Zamawiaj ącym
+Miasto Pszów
+Adres: 44-370 Pszów, ul. Pszowska 534
+Tel. 32/716-08-88, 32/716-08-55 wew. 134
+NIP: 647-17-04-382
+strona internetowa Zamawiaj ącego: www.pszow.pl
+adres poczty elektronicznej: kancelaria@pszow.pl
+2. Oznaczenie post ępowania
+Adres strony internetowej prowadzonego post ępowania, na której udost ępnione s ą dokumenty
+bezpo średnio zwi ązane z post ępowaniem o udzielenie zamówienia:
+https://ezamowienia.gov.pl/mp-client/search/list/oc ds-148610-7c26b51a-2ec2-49b8-
+9889-2f2fe9962193
+Nr referencyjny nadany przez Zamawiaj ącego: AIR.271.8.2025
+Wykonawcy powinni we wszelkich kontaktach z Zamawia j ącym powoływa ć si ę na wy żej
+podane oznaczenia.
+3. Tryb udzielenia zamówienia
+Post ępowanie o udzielenie zamówienia prowadzone jest w trybie  podstawowym bez
+przeprowadzania negocjacji na podstawie art. 275 pk t 1  ustawy z dnia 11 wrze śnia 2019 r.
+Prawo zamówie ń publicznych (tj. z 2024 r. Dz.U. poz. 1320 ze zm.)  zwanej dalej „ustaw ą
+Pzp ”.
+W niniejszym post ępowaniu komunikacja odbywa si ę przy u życiu Platformy e-Zamówienia
+oraz poczty elektronicznej. Szczegóły dotycz ące sposobu porozumiewania si ę
+Zamawiaj ącego i Wykonawców zostały okre ślone w pkt 11 SWZ.
+Identyfikator (ID) post ępowania na Platformie e-Zamówienia:
+ocds-148610-7c26b51a-2ec2-49b8-9889-2f2fe9962193
+4. Źródła finansowania
+Zamówienie jest dofinansowane ze środków odpowiednio:
+ Cz ęść  1, 2 i 3 – w ramach projektu grantowego pn. „ Cyberbezpieczny Samorz ąd”,
+finansowanego ze środków Unii Europejskiej w ramach Programu „Fundusz e europejskie
+na rozwój cyfrowy 2021-2027”,
+ Cz ęść  4 - w ramach projektu „ Czyste Powietrze ”  dofinansowanego z Wojewódzkiego
+Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+5. Opis przedmiotu zamówienia
+5.1. Nazwa zamówienia: Wzmocnienie cyberbezpiecze ństwa w Gminie Pszów oraz dostawa
+licencji i sprz ętu komputerowego .
+5.1. Przedmiot zamówienia realizowany b ędzie w podziale na nast ępuj ące cz ęś ci zamówienia:
+1) Cz ęść  1 - Wzmocnienie cyberbezpiecze ństwa w Gminie Pszów poprzez dostaw ę
+sprz ętu sieciowego i komputerowego oraz licencji systemo wych , na któr ą
+składa si ę:
+Znak sprawy: AIR.271.8.2025 SWZ  - 2 -
+a) Dostawa, wdro żenie i utrzymanie klastra UTM,
+b) Dostawa 10 szt. zarz ądzalnych przeł ączników sieciowych (switch),
+c) Dostawa 3 szt. zarz ądzalnych przeł ączników sieciowych (switch),
+d) Dostawa 10 szt. zasilaczy awaryjnych UPS,
+e) Dostawa i wdro żenie rozwi ązania do tworzenia i odtwarzania kopii
+zapasowych,
+f) Dostawa 2 kompletów licencji systemu serwerowego ;
+2) Cz ęść  2 - Wzmocnienie cyberbezpiecze ństwa w Gminie Pszów poprzez dostaw ę
+licencji na oprogramowanie typu EDR , na któr ą składa si ę:
+a) Dostawa 60 szt. licencji na oprogramowanie Endpo int Detection and
+Response (EDR);
+3) Cz ęść  3 - Wzmocnienie cyberbezpiecze ństwa w Gminie Pszów poprzez dostaw ę
+licencji na oprogramowanie szyfruj ące poczt ę elektroniczn ą, na któr ą
+składa si ę:
+a) Dostawa 60 szt. licencji na oprogramowanie do sz yfrowania wiadomo ści
+email technologi ą end-to-end;
+4) Cz ęść  4 - Dostawa licencji i sprz ętu komputerowego , na któr ą składa si ę:
+a) Dostawa 8 szt. komputerów przeno śnych (laptop) wraz z systemem
+operacyjnym.
+b) Dostawa 2 szt. komputerów stacjonarnych typu AIO  (All-In-One) wraz
+z systemem operacyjnym.
+c) Dostawa 1 szt. drukarki kolorowej atramentowej.
+d) Dostawa 3 szt. licencji na pakiet biurowy.
+5.2. Szczegółowy opis przedmiotu zamówienia stanowi ą Opisy przedmiotu zamówienia  stosownie
+do cz ęś ci zamówienia stanowi ące odpowiednio Zał ączniki nr 1A, nr 1B, nr 1C i nr 1D do SWZ
+i Projektowane postanowienia umowy  stanowi ące odpowiednio zał ączniki nr 5.1-5.4 do SWZ.
+5.3. Przedmiot zamówienia nazywany jest w dalszej t re ści Specyfikacji Warunków Zamówienia
+„przedmiotem zamówienia ”, „ zamówieniem”  lub „dostaw ą”.
+5.2. Oznaczenie przedmiotu zamówienia wg Wspólnego Słownika Zamówie ń (CPV):
+1) Cz ęść  1:
+32420000-3: Urz ądzenia sieciowe
+35100000-5: Urz ądzenia awaryjne i zabezpieczaj ące
+48820000-2: Serwery
+48821000-9: Serwery sieciowe
+30233000-1: Urz ądzenia do przechowywania i odczytu danych
+48822000-6: Serwery komputerowe
+48620000-0: Systemy operacyjne
+2) Cz ęść  2:
+48761000-0: Pakiety oprogramowania antywirusowego
+3) Cz ęść  3:
+48000000-8: Pakiety oprogramowania i systemy inform atyczne
+4) Cz ęść  4:
+30213100-6: Komputery przeno śne
+30213300-8: Komputer biurkowy
+48310000-4: Pakiety oprogramowania do tworzenia dok umentów
+5.3. Dopuszcza si ę składanie ofert cz ęś ciowych, tzn. Wykonawca mo że zło żyć ofert ę na
+wybran ą/e cze ść /ci zamówienia b ądź te ż na wszystkie jego cz ęś ci . Ka żda z cz ęś ci b ędzie
+oceniana odr ębnie
+5.4. Zamawiaj ący nie wymaga realizacji zamówienia przez zakłady p racy chronionej, spółdzielnie
+socjalne, czy innych wykonawców obj ętych dyspozycj ą przepisu art. 94 ust. 1 ustawy.
+5.5. Zamawiaj ący nie przewiduje udzielenia zamówie ń polegaj ących na powtórzeniu podobnych
+robót budowlanych, o których mowa w art. 214 ust. 1  pkt 8 ustawy Pzp .
+5.6. Zamawiaj ący nie dopuszcza składania ofert wariantowych.
+5.7. Zamawiaj ący nie przewiduje przeprowadzenia aukcji elektronic znej.
+5.8. Zamawiaj ący przed wszcz ęciem post ępowania nie przeprowadził wst ępnych konsultacji
+rynkowych.
+Znak sprawy: AIR.271.8.2025 SWZ  - 3 -
+5.9. Zamawiaj ący nie przewiduje wyboru najkorzystniejszej oferty z mo żliwo ści ą prowadzenia
+negocjacji, o których mowa w art. 275 pkt 2 i pkt 3  ustawy.
+5.10. Zamawiaj ący, w granicach okre ślonych przepisem art. 462 i nast. ustawy, dopuszcza
+możliwo ść  realizacji przedmiotu zamówienia przez Wykonawc ę z wykorzystaniem
+podwykonawców. Wykonawca, który zamierza powierzy ć wykonanie cz ęś ci zamówienia
+podwykonawcom, wskazuje w ofercie cz ęś ci zamówienia, których wykonanie zamierza
+powierzy ć podwykonawcom, oraz podaje nazwy ewentualnych podw ykonawców, je żeli s ą ju ż
+znani.
+5.11. Zamawiaj ący dopuszcza stosowanie przez Wykonawc ę rozwi ąza ń równowa żnych, ze
+wskazanymi w dokumentach zamówienia. Dopuszcza si ę wi ęc, stosowanie innych ni ż
+wskazane pod warunkiem, że b ędą one charakteryzowały si ę równowa żnymi, czyli nie
+gorszymi, parametrami technicznymi od wymaganych w opisie przedmiotu zamówienia. Do
+obowi ązku Wykonawcy nale ży wykazanie równowa żno ści tych parametrów zgodnie z art. 101
+ust. 4 ustawy. Dopuszczenie rozwi ąza ń równowa żnych b ędzie mo żliwe pod warunkiem
+wcze śniejszego zaakceptowania ich przez Zamawiaj ącego. Wykonawca w zło żonej ofercie
+jest zobowi ązany wykaza ć, że ewentualnie oferowane rozwi ązania równowa żne spełniaj ą
+powy ższe wymagania.
+6. Termin wykonania zamówienia
+Przedmiot zamówienia wykonany b ędzie w nast ępuj ących terminach:
+1) Cz ęść  1  - Wzmocnienie cyberbezpiecze ństwa w Gminie Pszów poprzez dostaw ę sprz ętu
+sieciowego i komputerowego oraz licencji systemowyc h  – w terminie do 3 miesi ęcy od
+podpisania umowy,
+2) Cz ęść  2 - Wzmocnienie cyberbezpiecze ństwa w Gminie Pszów poprzez dostaw ę licencji
+na oprogramowanie typu EDR  – w terminie do 1 miesi ąca od podpisania umowy,
+3) Cz ęść  3  - Wzmocnienie cyberbezpiecze ństwa w Gminie Pszów poprzez dostaw ę licencji
+na oprogramowanie szyfruj ące poczt ę elektroniczn ą – w terminie do 2 miesi ęcy od
+podpisania umowy,
+4) Cz ęść  4  - Dostawa licencji i sprz ętu komputerowego – w terminie do 2 miesi ęcy od
+podpisania umowy.
+7. Warunki udziału w post ępowaniu i podstawy wykluczenia Wykonawców
+7.1. W post ępowaniu mog ą wzi ąć  udział Wykonawcy, którzy nie podlegaj ą wykluczeniu
+z post ępowania na podstawie art. 108 ustawy Pzp i art. 7 u st. 1 ustawy z dnia 13 kwietnia
+2022 r. o szczególnych rozwi ązaniach w zakresie przeciwdziałania wspieraniu agre sji na
+Ukrain ę oraz słu żących ochronie bezpiecze ństwa narodowego  (tj. z 2025 r. Dz.U. poz. 514).
+7.2. W post ępowaniu mog ą wzi ąć  udział Wykonawcy, którzy spełniaj ą warunki udziału
+w post ępowaniu w zakresie:
+1) zdolno ści do wyst ępowania w obrocie gospodarczym:
+Minimalne warunki/Opis sposobu dokonywania oceny wa runku:
+Zamawiaj ący nie okre śla żadnych warunków w tym zakresie.
+2) uprawnie ń do prowadzenia okre ślonej działalno ści gospodarczej lub zawodowej,
+o ile wynika to z odr ębnych przepisów:
+Minimalne warunki/Opis sposobu dokonywania oceny wa runku:
+Zamawiaj ący nie okre śla żadnych warunków w tym zakresie.
+3) sytuacji ekonomicznej lub finansowej:
+Minimalne warunki/Opis sposobu dokonywania oceny wa runku:
+Zamawiaj ący nie okre śla żadnych warunków w tym zakresie.
+4) zdolno ści technicznej lub zawodowej
+Minimalne warunki/Opis sposobu dokonywania oceny wa runku:
+Zamawiaj ący nie okre śla żadnych warunków w tym zakresie.
+7.3. Zamawiaj ący zastrzega mo żliwo ść  dokonania weryfikacji podstaw wykluczenia
+z post ępowania w zakresie ustawy sankcyjnej dotycz ącej środków ograniczaj ących w zwi ązku
+z działaniami Rosji destabilizuj ącymi sytuacj ę na Ukrainie na podstawie informacji zawartych
+w bezpłatnych i ogólnodost ępnych bazach danych, tj. odpowiednio w informacji z  Krajowego
+Znak sprawy: AIR.271.8.2025 SWZ  - 4 -
+Rejestru S ądowego i/lub Centralnej Ewidencji i Informacji o Dz iałalno ści Gospodarczej,
+informacji z Centralnego Rejestru Beneficjentów Rze czywistych, informacji z wykazów
+okre ślonych w rozporz ądzeniu 765/2006 i rozporz ądzeniu 269/2014, a tak że informacji z listy
+rozstrzygaj ącej o zastosowaniu środka, o którym mowa w art. 1 pkt 3 ustawy o szczeg ólnych
+rozwi ązaniach w zakresie przeciwdziałania wspieraniu agre sji na Ukrain ę oraz słu żą cych
+ochronie bezpiecze ństwa narodowego.
+7.4. Zamawiaj ący mo że, na ka żdym etapie post ępowania, oceniaj ąc zdolno ść  techniczn ą lub
+zawodow ą, uzna ć, że Wykonawca nie posiada wymaganych zdolno ści, je żeli posiadanie
+przez Wykonawc ę sprzecznych interesów, w szczególno ści zaanga żowanie zasobów
+technicznych lub zawodowych Wykonawcy w inne przeds i ęwzi ęcia gospodarcze Wykonawcy
+mo że mie ć negatywny wpływ na realizacj ę zamówienia.
+7.5. Wykonawca nie podlega wykluczeniu w okoliczno ściach okre ślonych w art. 108 ust. 1 pkt 1, 2
+i 5, je żeli udowodni Zamawiaj ącemu, że spełnił ł ącznie przesłanki zawarte w art. 110 ust. 2
+ustawy.
+7.6. Zamawiaj ący ocenia, czy podj ęte przez Wykonawc ę czynno ści, o których mowa w art. 110
+ust. 2 ustawy s ą wystarczaj ące do wykazania jego rzetelno ści, uwzgl ędniaj ąc wag ę
+i szczególne okoliczno ści czynu Wykonawcy. Je żeli podj ęte przez Wykonawc ę czynno ści,
+o których mowa w art. 110 ust. 2 ustawy nie s ą wystarczaj ące do wykazania jego rzetelno ści,
+Zamawiaj ący wyklucza Wykonawc ę.
+8. Wykaz o świadcze ń lub dokumentów
+8.1. Do upływu terminu przewidzianego na zło żenie ofert - za po średnictwem Platformy  e-
+Zamówienia - Wykonawca zobowi ązany jest zło żyć:
+8.1.1. Formularz Ofertowy, udost ępniony przez Zamawiaj ącego na Platformie e-Zamówienia
+i zamieszczony w podgl ądzie post ępowania w zakładce „Informacje podstawowe”, podpisa ny
+kwalifikowanym podpisem elektronicznym, podpisem za ufanym lub podpisem osobistym
+przez osoby umocowane nale życie do reprezentowania Wykonawcy.
+Uwaga!
+W sytuacjach opisanych w pkt 19.5. SWZ Wykonawca zo bowi ązany jest wskaza ć
+w Formularzu Ofertowym, tak że informacje opisane w przywołanym punkcie, zgodnie
+z obowi ązkiem wynikaj ącym z art. 225 ustawy.
+8.1.2. Dokumenty potwierdzaj ące, że osoba działaj ąca w imieniu Wykonawcy jest umocowana
+do jego reprezentowania, a zatem:
+a)  odpis lub informacj ę z Krajowego Rejestru S ądowego, Centralnej Ewidencji
+Informacji o Działalno ści Gospodarczej  lub innego wła ściwego rejestru, chyba że
+Wykonawca w Formularzu Oferty wska że dane umo żliwiaj ące dost ęp do tych dokumentów
+samodzielnie przez Zamawiaj ącego, poprzez bezpłatne i ogólnodost ępne bazy danych;
+b)  pełnomocnictwo lub inny dokument potwierdzaj ący umocowanie do reprezentowania
+Wykonawcy, je żeli w jego imieniu działa osoba, której umocowanie do reprezentowania nie
+wynika z dokumentów wymienionych w lit. a) powy żej;
+Opisane powy żej zasady stosuje si ę odpowiednio do osoby działaj ącej w imieniu
+Wykonawców wspólnie ubiegaj ących si ę o udzielenie niniejszego zamówienia oraz do osoby
+działaj ącej w imieniu podmiotu udost ępniaj ącego zasoby, zgodnie z pkt. 8.1.3. SWZ.
+8.1.3. Zobowi ązanie podmiotu udost ępniaj ącego zasoby do oddania do dyspozycji Wykonawcy
+niezb ędnych zasobów na potrzeby realizacji zamówienia, lub inny podmiotowy środek
+dowodowy  potwierdzaj ący, że Wykonawca realizuj ąc zamówienie, b ędzie dysponował
+niezb ędnymi zasobami tych podmiotów, jako dowód polegania  na zdolno ściach technicznych
+lub zawodowych tego podmiotu, w odniesieniu do waru nków udziału w post ępowaniu,
+o których mowa w pkt. 7.2. SWZ – je żeli dotyczy .
+Uwaga! Zgodnie z art. 118 ustawy Wykonawca, który polega n a zdolno ściach lub sytuacji
+podmiotów udost ępniaj ących zasoby, składa wraz z ofert ą, zobowi ązanie podmiotu
+udost ępniaj ącego zasoby do oddania mu do dyspozycji niezb ędnych zasobów na
+potrzeby realizacji danego zamówienia  lub inny podmiotowy środek dowodowy
+potwierdzaj ący, że Wykonawca realizuj ąc zamówienie, b ędzie dysponował niezb ędnymi
+zasobami tych podmiotów:
+Znak sprawy: AIR.271.8.2025 SWZ  - 5 -
+1) Zamawiaj ący oceniaj ąc, czy udost ępniane Wykonawcy przez podmioty udost ępniaj ące
+zasoby zdolno ści techniczne lub zawodowe lub ich sytuacja finanso wa lub ekonomiczna,
+pozwalaj ą na wykazanie przez Wykonawc ę spełniania warunków udziału w post ępowaniu
+oraz bada, czy nie zachodz ą wobec tego podmiotu podstawy wykluczenia to żsame do
+tych, które zostały przewidziane wobec Wykonawcy.
+2) Zobowi ązanie podmiotu udost ępniaj ącego zasoby, winno potwierdza ć, że stosunek
+łącz ący Wykonawc ę z podmiotami udost ępniaj ącymi zasoby gwarantuje rzeczywisty
+dost ęp do tych zasobów oraz okre śla ć w szczególno ści:
+a) zakres dost ępnych Wykonawcy zasobów podmiotu udost ępniaj ącego zasoby;
+b) sposób i okres udost ępnienia Wykonawcy i wykorzystania przez niego zasob ów
+podmiotu udost ępniaj ącego te zasoby przy wykonywaniu zamówienia;
+c) czy i w jakim zakresie podmiot udost ępniaj ący zasoby, na zdolno ściach którego
+Wykonawca polega w odniesieniu do warunków udziału w post ępowaniu dotycz ących
+wykształcenia, kwalifikacji zawodowych lub do świadczenia, zrealizuje usługi lub
+dostawy, których wskazane zdolno ści dotycz ą.
+3) Je żeli zdolno ści techniczne lub zawodowe lub sytuacja finansowa l ub ekonomiczna,
+podmiotu udost ępniaj ącego zasoby, nie potwierdzaj ą spełnienia przez Wykonawc ę
+warunków udziału w post ępowaniu lub zachodz ą wobec tych podmiotów podstawy
+wykluczenia, wówczas Zamawiaj ący za żą da, stosownie do brzmienia art. 122 ustawy,
+aby Wykonawca w terminie okre ślonym przez Zamawiaj ącego:
+a) zast ąpił ten podmiot innym podmiotem lub podmiotami albo
+b) wykazał, że samodzielnie spełnia warunki udziału w post ępowaniu, o których mowa
+w pkt 7.2. SWZ.
+4) Podmiot, który zobowi ązał si ę do udost ępnienia zasobów, zgodnie z art. 120 ustawy,
+odpowiada solidarnie z Wykonawc ą, który polega na jego sytuacji finansowej lub
+ekonomicznej, za szkod ę poniesion ą przez Zamawiaj ącego powstał ą wskutek
+nieudost ępnienia tych zasobów, chyba że za nieudost ępnienie zasobów podmiot ten nie
+ponosi winy.
+Wykonawca – stosownie do brzmienia art. 123 ustawy – nie mo że, po upływie terminu
+składania ofert, powoływa ć si ę na zdolno ści lub sytuacj ę podmiotów udost ępniaj ących zasoby,
+je żeli na etapie składania ofert nie polegał on w dany m zakresie na zdolno ściach lub sytuacji
+podmiotów udost ępniaj ących zasoby.
+8.1.4. Oświadczenie, z którego wynika, które usługi lub dost awy wykonaj ą poszczególni
+Wykonawcy  – przy czym obowi ązek ten dotyczy wył ącznie Wykonawców wspólnie
+ubiegaj ących si ę o udzielenie zamówienia, zgodnie z art. 117 ust. 4  ustawy.
+8.1.5. W celu wst ępnego potwierdzenia, że Wykonawca nie podlega wykluczeniu oraz spełnia
+warunki udziału w post ępowaniu, zgodnie z art. 125 ust. 1 i ust. 5 ustawy,  składa on
+odr ębne nast ępuj ące o świadczenia:
+8.1.5.1. o niepodleganiu wykluczeniu z post ępowania
+odpowiednio:
+a) samego Wykonawcy lub ka żdego z Wykonawców wspólnie ubiegaj ących si ę o udzielenie
+zamówienia;
+b) podmiotu/-ów, na którego/-ych zdolno ściach technicznych lub zawodowych polega
+Wykonawca w celu potwierdzenia spełniania warunków udziału w post ępowaniu – je żeli
+dotyczy ,
+według wzorów zaproponowanych odpowiednio w formata ch A-B zał ącznika nr 2 do SWZ.
+8.1.6. Oświadczenie  o wypełnieniu obowi ązków informacyjnych, przewidzianych w art. 13 lub a rt.
+14 RODO, zgodnie z tre ści ą zał ącznika nr 3 do SWZ  – w celu wypełnienia obowi ązków,
+w zakresie przetwarzania danych osobowych zgodnie z  RODO, o których mowa w pkt 27
+SWZ, odpowiednio Wykonawcy lub ka żdego z Wykonawców wspólnie ubiegaj ących si ę
+o udzielenie zamówienia.
+8.2. Na odr ębne wezwanie Zamawiaj ącego - za po średnictwem „Formularza do komunikacji”
+dost ępnego na Platformie e-Zamówienia lub za po średnictwem poczty elektronicznej na adres
+Znak sprawy: AIR.271.8.2025 SWZ  - 6 -
+kancelaria@pszow.pl –  Wykonawca, którego oferta zostanie najwy żej oceniona,
+zobowi ązany jest zło żyć nast ępuj ące podmiotowe środki dowodowe:
+8.2.1. Oświadczenie o aktualno ści  informacji zawartych w o świadczeniu/-ach, o którym/-ch mowa
+w pkt 8.1.5.1. SWZ w zakresie podstaw wykluczenia z  post ępowania  wskazanych przez
+Zamawiaj ącego w pkt 7.1. SWZ odpowiednio:
+a) samego Wykonawcy lub ka żdego z Wykonawców wspólnie ubiegaj ących si ę o udzielenie
+zamówienia,
+b) podmiotu/-ów, na którego/-ych zdolno ściach polega Wykonawca w celu potwierdzenia
+spełniania warunków udziału w post ępowaniu – je żeli dotyczy ,
+według wzorów zaproponowanych odpowiednio w formata ch A-B zał ącznika nr 4 do SWZ.
+Uwaga! Wykonawca, zgodnie z art. 127 ust. 2 ustawy,  nie jest zobowi ązany do zło żenia
+podmiotowych środków dowodowych, które Zamawiaj ący posiada, je żeli Wykonawca
+(aktywnie) wska że te środki oraz potwierdzi ich prawidłowo ść  i aktualno ść .
+9. Wykonawcy wspólnie ubiegaj ący si ę o udzielenie zamówienia, zgodnie z art. 58 ust. 1
+ustawy:
+9.1. Wykonawcy wspólnie ubiegaj ący si ę o udzielenie zamówienia publicznego (np. członkowie
+konsorcjum, wspólnicy spółki cywilnej) , zgodnie z art. 58 ust. 2 ustawy, s ą zobowi ązani
+ustanowi ć Pełnomocnika  do reprezentowania ich w post ępowaniu albo do reprezentowania
+ich w post ępowaniu i do zawarcia umowy, i przedstawi ć stosowne dokumenty
+(pełnomocnictwa) w składanej ofercie.
+9.2. Ponadto Wykonawcy wspólnie ubiegaj ący si ę o udzielenie zamówienia publicznego składaj ą:
+9.2.1. ka żdy z osobna dotycz ące ich dokumenty wskazane odpowiednio w pkt 8.1.5.1 . i 8.1.6. SWZ,
+a ponadto – na wezwanie Zamawiaj ącego – tak że dokument opisany w pkt 8.2.1 SWZ dot.
+ka żdego z Wykonawców wspólnie ubiegaj ących si ę o udzielenie zamówienia.
+9.2.2. je żeli dotyczy – dokumenty wskazane w pkt 8.1.3, 8.1.4 ., 8.1.5.1. dot. podmiotu
+udost ępniaj ącego zasoby, a ponadto – na wezwanie Zamawiaj ącego – tak że 8.2.1. SWZ dot.
+podmiotu udost ępniaj ącego zasoby);
+9.2.3. dokumenty, o których mowa w pkt 8.1.1. i 8.1 .2. SWZ (w tym dot. podmiotu udost ępniaj ącego
+zasoby – je żeli dotyczy);
+9.2.4. ci z Wykonawców wspólnie ubiegaj ących si ę o udzielenie zamówienia, którzy spełniaj ą
+warunek udziału w post ępowaniu, a tak że ewentualnie podmioty udost ępniaj ące zasoby –
+dokumenty, o których mowa w pkt 8.1.5.2 SWZ – je żeli dotyczy.
+9.3. Wykonawcy wspólnie ubiegaj ący si ę o udzielenie zamówienia (np. członkowie konsorcjum )
+ponosz ą, zgodnie z art. 445 ust. 1 ustawy, solidarn ą odpowiedzialno ść  za wykonanie umowy
+i wniesienie zabezpieczenia nale żytego wykonania umowy – je żeli dotyczy.
+10. Sposób sporz ądzenia i przedło żenia dokumentów.
+10.1. Zgodnie z art. 63 ust. 2 ustawy, „ w post ępowaniu o udzielenie zamówienia (…) o warto ści
+mniejszej ni ż progi unijne ofert ę, (…), o świadczenie, o którym mowa w art. 125 ust. 1, składa
+si ę, pod rygorem niewa żno ści, w formie elektronicznej lub w postaci elektroni cznej
+opatrzonej podpisem zaufanym lub podpisem osobistym ”.
+10.1.1. Forma elektroniczna oznacza opatrzenie doku mentu (pliku) elektronicznego kwalifikowanym
+podpisem elektronicznym.
+10.1.2. Rygor niewa żno ści opisany w pkt 10.1. SWZ dotyczy zatem przypadków  niedochowania formy
+zło żenia nast ępuj ących dokumentów:
+10.1.2.1. Formularza Oferty  i doł ączanych do niego innych dokumentów  składaj ących si ę
+na sensu stricte  tre ść  oferty Wykonawcy.
+10.1.2.2. Oświadcze ń z art. 125 ust. 1 ustawy , tj. <<o świadcze ń o niepodleganiu
+wykluczeniu, spełnianiu warunków udziału w post ępowaniu lub kryteriów selekcji>>,
+o których mowa w pkt 8.1.5. SWZ, składanych samodzi elnie przez Wykonawców,
+zgodnie z pkt 8.1.5. lit. a SWZ.
+10.1.2.3. Oświadcze ń z art. 125 ust. 1  ustawy  składanych – na podstawie art. 125 ust. 5
+ustawy – przez podmioty, o których mowa w pkt 8.1.5 . lit. b SWZ, tj. podmioty, które
+Znak sprawy: AIR.271.8.2025 SWZ  - 7 -
+nie s ą Wykonawcami, ale udost ępniaj ą Wykonawcy swoje zasoby w celu wykazania
+spełniania okre ślonego warunku/ów udziału w post ępowaniu.
+10.1.2.4. Pełnomocnictw , o których mowa w pkt 8.1.2. lit. b SWZ.
+10.2. Pozostałe dokumenty i o świadczenia, inne ni ż wymienione w pkt 10.1 SWZ, w tym
+w szczególno ści:
+10.2.1. podmiotowe środki dowodowe , o których mowa w pkt 8.2. SWZ, w tym o świadczenie,
+o którym mowa w pkt 8.1.3. SWZ (tzw. o świadczenie Wykonawców wspólnie ubiegaj ących si ę
+o udzielenie zamówienia z art. 117 ust. 4 ustawy),
+10.2.2. dokumenty potwierdzaj ące umocowanie do reprezentowania, o których mowa w pkt 8.1.2. –
+inne ni ż pełnomocnictwa, odpisy lub informacje z Krajowego Rejestru S ądowego, Centralnej
+Ewidencji Informacji o Działalno ści Gospodarczej lub innego wła ściwego rejestru – a zatem
+dokumenty potwierdzaj ące umocowanie do reprezentowania odpowiednio:
+10.2.2.1. Wykonawcy,
+10.2.2.2. Wykonawców wspólnie ubiegaj ących si ę o udzielenie zamówienia publicznego,
+10.2.2.3. podmiotu udost ępniaj ącego zasoby na zasadach okre ślonych w art. 118 ustawy,
+10.2.2.4. podwykonawcy nieb ędącego podmiotem udost ępniaj ącym zasoby na takich
+zasadach – je żeli dotyczy,
+10.2.3. zobowi ązanie podmiotu udost ępniaj ącego zasoby, o którym mowa w pkt 8.1.3 SWZ,
+10.2.4. przedmiotowe środki dowodowe – o ile s ą wymagane w post ępowaniu,
+10.2.5. inne ni ż ww. informacje, o świadczenia lub dokumenty,
+o ile przepisy szczególne nie dopuszczaj ą dodatkowych form lub sposobów ich
+„sporz ądzania i przekazywania” - przekazywane s ą w formie elektronicznej (opatrzone
+kwalifikowanym podpisem elektronicznym), lub w post aci elektronicznej opatrzonej
+podpisem zaufanym lub podpisem osobistym , a zatem z zachowaniem tej samej formy i
+postaci co dokumenty wymienione w pkt 10.1. SWZ, z t ą ró żnic ą, i ż w przypadku
+niedochowania formy i/lub postaci przekazania brak jest sankcji niewa żno ści.
+10.3. W przypadku, gdy odpisy lub informacje z Kraj owego Rejestru S ądowego, Centralnej
+Ewidencji Informacji o Działalno ści Gospodarczej lub innego wła ściwego rejestru, a tak że inne
+podmiotowe i przedmiotowe środki dowodowe, lub inne dokumenty opisane w § 6 us t. 1
+rozporz ądzenia przywołanego w pkt 10.4. SWZ poni żej, zostały wystawione przez
+upowa żnione podmioty inne ni ż Wykonawca, Wykonawca wspólnie ubiegaj ący si ę o
+udzielenie zamówienia, podmiot udost ępniaj ący zasoby lub podwykonawca, jako dokument
+elektroniczny - przekazuje si ę ten dokument. W przypadku natomiast, gdy ww. kateg orie
+dokumentów zostały wystawione jako dokument w posta ci papierowej, przekazuje si ę cyfrowe
+odwzorowanie tego dokumentu opatrzone kwalifikowany m podpisem elektronicznym,
+podpisem zaufanym lub podpisem osobistym po świadczaj ące zgodno ść  cyfrowego
+odwzorowania z dokumentem w postaci papierowej.
+10.4. Formaty danych  wymagane do sporz ądzania i przekazywania dokumentów i informacji
+w post ępowaniu okre śla §2 rozporz ądzenia Prezesa Rady Ministrów z dnia 30 grudnia 202 0 r.
+w sprawie sposobu sporz ądzania i przekazywania informacji oraz wymaga ń technicznych dla
+dokumentów elektronicznych oraz środków komunikacji elektronicznej w post ępowaniu
+o udzielenie zamówienia publicznego lub konkursie.  Zamawiaj ący wskazuje jednak, że w śród
+dopuszczalnych i ogólnie dost ępnych formatów znajduj ą si ę m.in.: .txt, .rtf, .pdf, .doc,
+.docx, .odt.
+10.5. Po świadczenia zgodno ści cyfrowego odwzorowania z dokumentem w postaci
+papierowej mo że zawsze dokona ć notariusz.  Ponadto szczegółowe zasady po świadczania
+ró żnych kategorii dokumentów opisuje § 6 ust. 3 oraz §  7 ust. 3 Rozporz ądzenia
+przywołanego w pkt 10.4. SWZ powy żej.
+10.6. W Formularzu Oferty wartości liczbowe nale ży wpisywa ć w ka żdej pozycji wył ącznie cyframi,
+a w miejscach gdzie jest to wyra źnie wskazane tak że słownie (nie stosuje si ę wyra żenia „jw.”
+i równowa żnych).
+10.7. Podmiotowe środki dowodowe, przedmiotowe środki dowodowe oraz inne dokumenty lub
+oświadczenia, sporz ądzone w j ęzyku obcym przekazuje si ę wraz z tłumaczeniem na j ęzyk
+polski.
+10.8. Zamawiaj ący zastrzega sobie ponadto mo żliwo ść  żą dania, aby w przypadku wskazania przez
+Wykonawc ę dost ępno ści podmiotowych środków dowodowych lub dokumentów, o których
+mowa w pkt 10.1.2. lit. a) SWZ, pod okre ślonymi adresami internetowymi ogólnodost ępnych
+Znak sprawy: AIR.271.8.2025 SWZ  - 8 -
+i bezpłatnych baz danych, przedstawił on tłumaczenia na j ęzyk polski  pobranych
+samodzielnie przez Zamawiaj ącego podmiotowych środków dowodowych lub dokumentów.
+10.9. W zakresie nieuregulowanym ustaw ą lub niniejsz ą SWZ do podmiotowych środków
+dowodowych, o świadcze ń i dokumentów składanych przez Wykonawc ę w post ępowaniu
+zastosowanie maj ą w szczególno ści przepisy rozporz ądzenia przywołanego w pkt 10.4. SWZ
+powy żej oraz rozporz ądzenia Ministra Rozwoju Pracy i Technologii z dnia 23 grudnia 2020 r.
+w sprawie podmiotowych środków dowodowych oraz innych dokumentów lub o świadcze ń,
+jakich mo że żą da ć zamawiaj ący od wykonawcy .
+11. Sposób porozumiewania si ę stron w niniejszym post ępowaniu oraz przekazywania
+oświadcze ń i dokumentów:
+11.1. W niniejszym post ępowaniu komunikacja odbywa si ę przy u życiu Platformy e-Zamówienia
+(https://ezamowienia.gov.pl ) oraz – w zakresie dopuszczonym niniejsz ą SWZ tak że – poczty
+elektronicznej ( kancelaria@pszow.pl ), z zastrze żeniem, że zło żenie oferty jest mo żliwe
+wył ącznie za po średnictwem Platformy e-Zamówienia .
+11.2. Wykonawca zamierzaj ący wzi ąć  udział w post ępowaniu o udzielenie zamówienia publicznego
+musi posiada ć konto podmiotu „Wykonawca” na Platformie e-Zamówie nia. Szczegółowe
+informacje na temat zakładania kont podmiotów oraz zasady i warunki korzystania z Platformy
+e-Zamówienia okre śla Regulamin Platformy e-Zamówienia , dost ępny na stronie internetowej
+https://ezamowienia.gov.pl  oraz informacje zamieszczone w zakładce „Centrum P omocy”.
+11.3. Korzystanie z Platformy e-Zamówienia jest bez płatne.
+11.4. Przegl ądanie i pobieranie publicznej tre ści dokumentacji post ępowania nie wymaga
+posiadania konta na Platformie e-Zamówienia ani log owania.
+11.5. Instrukcja „Komunikacja w post ępowaniu” udost ępniona na Platformie e-Zamówienia zawiera
+informacje dot. sposobu komunikacji w ramach post ępowania na Platformie e-Zamówienia.
+11.6. Mo żliwo ść  korzystania w post ępowaniu z „Formularzy do komunikacji” w pełnym zakr esie
+wymaga posiadania konta „Wykonawcy” na Platformie e -Zamówienia oraz zalogowania si ę na
+Platformie e-Zamówienia. Do korzystania z „Formular zy do komunikacji”, przeznaczonych do
+zadawania pyta ń dotycz ących tre ści dokumentów zamówienia, wystarczaj ące jest posiadanie
+tzw. konta uproszczonego na Platformie e-Zamówienia .
+11.7. Wszystkie wysłane i odebrane w post ępowaniu przez Wykonawc ę wiadomo ści widoczne s ą
+po zalogowaniu w podgl ądzie post ępowania, w zakładce „Komunikacja”.
+11.8. Maksymalny rozmiar plików przesyłanych za po średnictwem „Formularzy do komunikacji”
+dost ępnych na Platformie e-Zamówienia wynosi 150 MB  (wielko ść  ta dotyczy plików
+przesyłanych jako zał ączniki do jednego formularza).
+11.9. Minimalne wymagania techniczne dotycz ące sprz ętu u żywanego w celu korzystania z usług
+Platformy e-Zamówienia oraz informacje dotycz ące specyfikacji poł ączenia okre śla Regulamin
+Platformy e-Zamówienia.
+11.10. W przypadku problemów technicznych i awarii zwi ązanych z funkcjonowaniem
+Platformy e-Zamówienia u żytkownicy mog ą skorzysta ć ze wsparcia technicznego
+dost ępnego pod numerem telefonu (22) 458 77 99 lub drog ą elektroniczn ą poprzez
+formularz udost ępniony na stronie internetowej https://ezamowienia.gov.pl  w zakładce
+„Zgło ś problem”.
+11.11. Maksymalny rozmiar plików przesyłanych za po średnictwem poczty elektronicznej wynosi
+40 MB.
+11.12. Za dat ę przekazania dokumentów, informacji i o świadcze ń oraz ich cyfrowych odwzorowa ń
+przyjmuje si ę dat ę ich wpływu na Platform ę e-Zamówienia lub dat ę i godzin ę wpływu na
+serwer pocztowy Zamawiaj ącego.
+11.13. Wszelkie informacje stanowi ące tajemnic ę przedsi ębiorstwa w rozumieniu ustawy z dnia
+16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkur encji (tj. z 2022 r. Dz.U. poz. 1233), które
+Wykonawca zastrze że jako tajemnic ę przedsi ębiorstwa, w celu utrzymania w poufno ści tych
+informacji, przekazuje Zamawiaj ącemu w wydzielonym pliku odpowiednio oznaczonym
+opisem „Tajemnica przedsi ębiorstwa”. Zobowi ązany jest ponadto wykaza ć, że zastrze żone
+informacje stanowi ą tajemnic ę przedsi ębiorstwa.
+11.14. Wykonawca nie mo że zastrzec informacji, o których mowa w art. 222 us t. 5 ustawy.
+Uwaga!
+Przez tajemnic ę przedsi ębiorstwa rozumie si ę informacje techniczne, technologiczne,
+organizacyjne przedsi ębiorstwa lub inne informacje posiadaj ące warto ść  gospodarcz ą, które
+Znak sprawy: AIR.271.8.2025 SWZ  - 9 -
+jako cało ść  lub w szczególnym zestawieniu i zbiorze ich elemen tów nie s ą powszechnie znane
+osobom zwykle zajmuj ącym si ę tym rodzajem informacji albo nie s ą łatwo dost ępne dla takich
+osób, o ile uprawniony do korzystania z informacji lub rozporz ądzania nimi podj ął, przy
+zachowaniu nale żytej staranno ści, działania w celu utrzymania ich w poufno ści, zgodnie z art.
+11 ust. 2 ww. ustawy o zwalczaniu nieuczciwej konku rencji.
+W przypadku braku zastrze żenia oraz wykazania (przekazania wła ściwego uzasadnienia
+wraz z przekazaniem takich informacji), i ż zastrze żone informacje stanowi ą tajemnic ę
+przedsi ębiorstwa, Zamawiaj ący uzna, i ż nie została spełniona przesłanka podj ęcia
+niezb ędnych działa ń w celu zachowania ich poufno ści i dane te stan ą si ę jawne od
+momentu odpowiednio otwarcia ofert albo ich przekaz ania.
+Takie same b ędą konsekwencje poł ączenia w jeden niepodzielny plik dokumentów
+oznaczonych jako zawieraj ące informacj ę obj ęte tajemnic ą przedsi ębiorstwa
+i dokumentów nie podlegaj ących tej ochronie – na wniosek innych Wykonawców lu b
+osób trzecich takie pliki zostan ą udost ępnione zainteresowanym w cało ści, jako
+dokumenty w stosunku do których Wykonawca nie podj ął „niezb ędnych działa ń w celu
+zachowania ich poufno ści”.
+Zamawiaj ący nie odpowiada za ujawnienie informacji stanowi ących tajemnic ę
+przedsi ębiorstwa przekazanych mu przez Wykonawc ę wbrew postanowieniom niniejszej
+uwagi, a Wykonawca składaj ąc ofert ę zobowi ązany jest do dochowania standardów nale żytej
+staranno ści.
+11.15. Inne dokumenty i o świadczenia składane w post ępowaniu, w tym wymienione w pkt 8.2.
+SWZ, Wykonawca składa za po średnictwem „Formularza do komunikacji” dost ępnego
+na Platformie e-Zamówienia lub - w zakresie dopuszc zonym niniejszym SWZ tak że - na
+adres poczty elektronicznej wskazany w pkt 1 SWZ, w  formie okre ślonej odpowiednio
+w pkt 10 SWZ.
+12. Sposób  przygotowania i składania oferty:
+12.1. Ofert ę nale ży zło żyć zgodnie z instrukcj ą „Oferty, wnioski i prace konkursowe” udost ępnion ą
+na Platformie e-Zamówienia.
+12.2. Wykonawca przygotowuje ofert ę przy pomocy interaktywnego „Formularza Ofertowego”
+udost ępnionego przez Zamawiaj ącego na Platformie e-Zamówienia i zamieszczonego
+w podgl ądzie post ępowania w zakładce „Informacje podstawowe”.
+12.3. Zalogowany Wykonawca u żywaj ąc przycisku „Wypełnij”, widocznego pod „Formularzem
+ofertowym”, zobowi ązany jest do zweryfikowania poprawno ści  danych automatycznie
+pobranych przez system Platformy e-Zamówienia z jeg o konta i uzupełnienia  pozostałych
+informacji dotycz ących Wykonawcy/Wykonawców wspólnie ubiegaj ących si ę o udzielenie
+zamówienia.
+12.4. Nast ępnie Wykonawca powinien pobra ć „Formularz ofertowy”, zapisa ć go na dysku
+komputera u żytkownika, uzupełni ć pozostałymi danymi wymaganymi przez Zamawiaj ącego
+i ponownie zapisa ć na dysku komputera u żytkownika oraz podpisa ć kwalifikowanym podpisem
+elektronicznym, podpisem zaufanym, lub podpisem oso bistym.
+Uwaga!
+1) Po podpisaniu nie nale ży modyfikowa ć pliku. Formularz Ofertowy ka żdorazowo
+przed zamkni ęciem pliku zadaje systemowe pytanie „Czy chcesz zap isa ć zmiany
+w […] przed zamkni ęciem?”. Po podpisaniu pliku nale ży zawsze wskaza ć
+odpowied ź „Nie”.  W przeciwnym przypadku ponowne zapisanie p liku (uprzednio
+podpisanego) zostanie uznane jako modyfikacja dokon ana po zło żeniu podpisu.
+2) Nie nale ży zmienia ć nazwy pliku nadanej przez Platform ę e-Zamówienia. Zapisany
+„Formularz Ofertowy” nale ży zawsze otwiera ć w programie Adobe Acrobat Reader
+DC. Zmiana nazwy pliku Formularza Ofertowego b ędzie skutkowa ć wy świetleniem
+przez system Platformy e-Zamówienia komunikatu o bł ędzie.
+12.5. Wykonawca składa ofert ę za po średnictwem zakładki „Oferty/wnioski”, widocznej
+w podgl ądzie post ępowania po zalogowaniu si ę na konto Wykonawcy. Po wybraniu przycisku
+„Złó ż ofert ę” system Platformy e-Zamówienia prezentuje okno skł adania oferty umo żliwiaj ące
+przekazanie dokumentów elektronicznych, w którym zn ajduj ą si ę dwa pola drag&drop
+(„przeci ągnij” i „upu ść ”) słu żą ce do dodawania plików.
+12.6. Wykonawca dodaje wybrany z dysku i uprzednio podpisany „Formularz oferty” w pierwszym
+polu („Wypełniony formularz oferty”). W kolejnym po lu („Zał ączniki i inne dokumenty
+Znak sprawy: AIR.271.8.2025 SWZ  - 10 -
+przedstawione w ofercie przez Wykonawc ę”) Wykonawca dodaje pozostałe pliki stanowi ące
+ofert ę lub składane wraz z ofert ą, tj. dokumenty o których mowa w pkt 8.1.2. – 8.1.6. SWZ.
+12.7. Je żeli wraz z ofert ą składane s ą dokumenty zawieraj ące tajemnic ę przedsi ębiorstwa
+Wykonawca, w celu utrzymania w poufno ści tych informacji, przekazuje je w wydzielonym
+i odpowiednio oznaczonym pliku, wraz z jednoczesnym  zaznaczeniem w nazwie pliku
+„Tajemnica przedsi ębiorstwa”. Zarówno zał ącznik stanowi ący tajemnic ę przedsi ębiorstwa, jak
+i uzasadnienie zastrze żenia tajemnicy przedsi ębiorstwa nale ży doda ć w polu „Zał ączniki i inne
+dokumenty przedstawione w ofercie przez Wykonawc ę”.
+12.8. Formularz Ofertowy podpisuje si ę kwalifikowanym podpisem elektronicznym, podpisem
+zaufanym lub podpisem osobistym. Rekomendowanym war iantem podpisu jest typ
+wewn ętrzny. Podpis Formularza Ofertowego wariantem podpi su w typie zewn ętrznym równie ż
+jest mo żliwy. W tym przypadku jednak, powstały oddzielny pl ik podpisu dla tego formularza
+nale ży zał ączy ć w polu „Zał ączniki i inne dokumenty przedstawione w ofercie prz ez
+Wykonawc ę”.
+Pozostałe dokumenty wchodz ące w skład oferty lub składane wraz z ofert ą, które s ą zgodne
+z ustaw ą lub rozporz ądzeniem Prezesa Rady Ministrów w sprawie wymaga ń dla dokumentów
+elektronicznych opatrzone kwalifikowanym podpisem e lektronicznym, podpisem zaufanym lub
+podpisem osobistym mog ą by ć – zgodnie z wyborem wykonawcy/wykonawcy wspólnie
+ubiegaj ącego si ę o udzielenie zamówienia/podmiotu udost ępniaj ącego zasoby – opatrzone
+podpisem typu zewn ętrznego lub wewn ętrznego. W zale żno ści od rodzaju podpisu i jego typu
+(zewn ętrzny, wewn ętrzny) w polu „Zał ączniki i inne dokumenty przedstawione w ofercie prz ez
+Wykonawc ę” dodaje si ę uprzednio podpisane dokumenty wraz z wygenerowanym  plikiem
+podpisu (typ zewn ętrzny) lub dokument z wszytym podpisem (typ wewn ętrzny).
+W przypadku przekazywania dokumentu elektroniczneg o w formacie poddaj ącym dane
+kompresji, opatrzenie pliku zawieraj ącego skompresowane dokumenty kwalifikowanym
+podpisem elektronicznym, podpisem zaufanym lub podp isem osobistym jest równoznaczne
+z opatrzeniem wszystkich dokumentów zawartych w tym  pliku kwalifikowanym podpisem
+elektronicznym, podpisem zaufanym lub podpisem osob istym.
+12.9. System platformy e-Zamówienia sprawdza, czy zło żone pliki s ą podpisane i
+automatycznie je szyfruje , jednocze śnie informuj ąc o tym wykonawc ę. Je śli b ędzie
+brakowało podpisu system Platformy e-Zamówie ń poinformuje o tym w trakcie
+składania dokumentów, zostan ą one jednak przyj ęte przez Platform ę mimo braku
+podpisu!  Potwierdzenie czasu przekazania i odbioru oferty z najduje si ę w Elektronicznym
+Potwierdzeniu Przesłania (EPP) i Elektronicznym Pot wierdzeniu Odebrania (EPO). EPP i EPO
+dost ępne s ą dla zalogowanego Wykonawcy w zakładce „Oferty/Wnio ski”.
+12.10. Oferta mo że by ć zło żona tylko do upływu terminu składania ofert.
+12.11. Wykonawca mo że przed upływem terminu składania ofert wycofa ć ofert ę. Wykonawca
+wycofuje ofert ę w zakładce „Oferty/wnioski” u żywaj ąc przycisku „Wycofaj ofert ę”.
+12.12. Maksymalny ł ączny rozmiar plików, stanowi ących ofert ę lub składanych wraz z ofert ą,
+przesyłanych przez zakładk ę „Oferty/wnioski” to 250 MB.
+13.  Osoba uprawniona do kontaktów z Wykonawcami :
+Kordiana Maci ączyk tel. +48 32 716 08 34 jest uprawniona wył ącznie do kontaktów
+w kwestiach organizacyjnych.
+W przypadku telefonów w innych sprawach odpowiedzi ustne nie b ędą udzielane.
+Zamawiaj ący zwraca bowiem uwag ę, i ż zgodnie z art. 61 ust. 2 ustawy, nie mo że prowadzi ć
+z Wykonawcami komunikacji ustnej w innych przypadka ch ni ż dotycz ące informacji, które
+nie s ą istotne  (w szczególno ści nie dotycz ą ogłoszenia o zamówieniu, dokumentów
+zamówienia, czy ofert). Przepis ten jako wyj ątek od zasady elektronicznej komunikacji nie
+mo że by ć interpretowany rozszerzaj ąco. Ponadto Zamawiaj ący uprzedza, że z tre ści
+ewentualnych rozmów z Wykonawcami b ędzie sporz ądzał notatki słu żbowe, stosownie do
+wymogów art. 61 ust. 2 ustawy.
+W ka żdym zatem przypadku potrzeby zasi ęgni ęcia informacji u Zamawiaj ącego, po
+weryfikacji dokumentacji zamówienia i bezsprzecznym  ustaleniu, i ż poszukiwana
+informacja nie została ju ż zapisana w tej dokumentacji, nale ży przesła ć przez „Formularz
+do komunikacji” dotycz ący przedmiotowego postepowania, dost ępny na Platformie e-
+Zamówienia lub na adres poczty elektronicznej  kancelaria@pszow.pl .
+Znak sprawy: AIR.271.8.2025 SWZ  - 11 -
+Uwaga!
+− Zamawiaj ący zwraca uwag ę, że w przypadku problemów technicznych i awarii
+zwi ązanych z funkcjonowaniem Platformy e-Zamówienia  nale ży skorzysta ć ze
+wsparcia technicznego w sposób opisany w pkt 11.10.  SWZ.
+− Zamawiaj ący rekomenduje wł ączenie - na Platformie e-Zamówienia w zakładce
+dotycz ącej danego post ępowania -  subskrypcji powiadomie ń dotycz ących tego
+zamówienia, je śli Wykonawca zamierza si ę ubiega ć o jego udzielenie. Pozwoli to na
+otrzymywanie powiadomie ń o nowych zdarzeniach w post ępowaniu (w tym o publikacji
+takich dokumentów, jak zmiany SWZ, czy odpowiedzi n a pytania).
+14. Wyja śnienia oraz zmiana tre ści SWZ:
+Ka żdy Wykonawca ma prawo zwróci ć si ę do Zamawiaj ącego o wyja śnienie tre ści SWZ.
+Zamawiaj ący jest obowi ązany udzieli ć wyja śnie ń niezwłocznie, jednak nie pó źniej ni ż na 2 dni
+przed upływem  terminu składania ofert, pod warunkiem, że wniosek o wyja śnienie tre ści SWZ
+wpłyn ął do Zamawiaj ącego nie pó źniej ni ż na 4 dni przed upływem terminu składania ofert.
+Wyja śnienia tre ści SWZ oraz jej ewentualne zmiany b ędą dokonywane na zasadach i w trybie
+art. 284 i art. 286 ustawy.
+Uwaga! Wyja śnienia tre ści oraz zmiany/modyfikacje SWZ będą wył ącznie publikowane  na
+„stronie internetowej prowadzonego post ępowania” i nie b ędą indywidualnie przesyłane  do
+Wykonawców.
+15.  Wadium:
+Zamawiaj ący nie wymaga wniesienia wadium.
+16. Zabezpieczenie nale żytego wykonania umowy:
+Zamawiaj ący nie wymaga wniesienia zabezpieczenia nale żytego wykonania umowy.
+17. Termin zwi ązania ofert ą:
+Wykonawca składaj ący ofert ę pozostaje ni ą zwi ązany do 31 lipca 2025 r .
+18. Termin składania i otwarcia ofert:
+18.1. Oferty nale ży składa ć w formie okre ślonej w pkt 10 SWZ oraz w sposób okre ślony w pkt 12
+SWZ nie pó źniej ni ż do dnia  4 lipca 2025 r. do godz. 9:00.
+18.2. Zamawiaj ący zapewnia, że z zawarto ści ą ofert nie mo żna si ę zapozna ć przed upływem
+terminu ich otwarcia i nie przewiduje ani publiczny ch sesji otwarcia ofert ani transmisji
+internetowych z tych czynno ści.
+18.3. Zamawiaj ący, najpó źniej przed otwarciem ofert, udost ępni na stronie internetowej
+prowadzonego post ępowania informacj ę o kwocie, jak ą zamierza przeznaczy ć na
+sfinansowanie zamówienia.
+18.4. Otwarcie ofert nast ąpi w dniu 4 lipca 2025 r. o godz. 9:30 .
+18.5. Otwarcie ofert nast ępuje przy wykorzystaniu Platformy e-Zamówienia.
+18.6. Zamawiaj ący zastrzega przy tym, że w przypadku awarii Platformy e-Zamówienia, która
+spowoduje brak mo żliwo ści otwarcia ofert w terminie okre ślonym przez Zamawiaj ącego,
+otwarcie ofert nast ąpi niezwłocznie po usuni ęciu awarii. O ewentualnej zmianie terminu
+otwarcia ofert Zamawiaj ący poinformuje na stronie internetowej prowadzonego  post ępowania.
+18.7. Zamawiaj ący, niezwłocznie po otwarciu ofert, udost ępni na stronie internetowej prowadzonego
+post ępowania informacje o:
+18.7.1. nazwach albo imionach i nazwiskach oraz sie dzibach lub miejscach prowadzonej działalno ści
+gospodarczej albo miejscach zamieszkania Wykonawców , których oferty zostały otwarte;
+18.7.2. cenach zawartych w ofertach.
+19. Sposób obliczenia ceny oferty:
+19.1. Wykonawca ma obowi ązek poda ć w Formularzu Oferty cen ę/y (brutto) za wykonywanie danej
+cz ęś ci zamówienia.
+19.2. Podane w formularzu ceny stanowi ą ceny ryczałtowe za wykonanie poszczególnych cz ęś ci
+przedmiotu zamówienia.
+Znak sprawy: AIR.271.8.2025 SWZ  - 12 -
+19.3. Ceny powinny by ć wyra żone w złotych polskich (PLN) z dokładno ści ą do dwóch miejsc po
+przecinku, stosuj ąc zasad ę opisan ą w art. 106e ust. 11 ustawy z dnia 11 marca 2004 r.
+o podatku od towarów i usług (tj. z 2024 r. Dz.U. p oz. 361 ze zm.).
+19.4. W cenie oferty nale ży uwzgl ędni ć wszystkie koszty zwi ązane z realizacj ą przedmiotu
+zamówienia, którego zakres okre ślony został w Specyfikacji Warunków Zamówienia
+w poł ączeniu z Opisem przedmiotu zamówienia  stosownie do cz ęś ci zamówienia
+i Projektowanymi postanowieniami umowy .
+19.5. Wykonawca, uwzgl ędniaj ąc wszystkie wymogi, o których mowa w niniejszej SWZ , powinien
+w cenie ofertowej uj ąć  wszystkie koszty zwi ązane z wykonaniem przedmiotu zamówienia,
+w tym równie ż wszelkie koszty towarzysz ące. Cena okre ślona przez Wykonawc ę nie b ędzie
+podlegała zmianie.
+19.6. Je żeli została zło żona oferta, której wybór prowadziłby do powstania u  Zamawiaj ącego
+obowi ązku podatkowego zgodnie z ww. ustaw ą o podatku od towarów i usług – zgodnie z art.
+225 ustawy – dla celów zastosowania kryterium ceny Zamawiaj ący doliczy do przedstawionej
+w tej ofercie ceny kwot ę podatku od towarów i usług, któr ą miałby obowi ązek rozliczy ć. W
+takim jednak wypadku Wykonawca ma obowi ązek w składanej ofercie:
+19.6.1. poinformowa ć Zamawiaj ącego, że wybór jego oferty b ędzie prowadził do powstania
+u Zamawiaj ącego obowi ązku podatkowego;
+19.6.2. wskaza ć nazwy (rodzaj) towaru lub usługi, których dostawa lub świadczenie b ędą prowadziły
+do powstania obowi ązku podatkowego;
+19.6.3. wskaza ć warto ści towaru lub usługi obj ętego obowi ązkiem podatkowym Zamawiaj ącego, bez
+kwoty podatku;
+19.6.4. wskaza ć stawki podatku od towarów i usług, która zgodnie z  wiedz ą Wykonawcy, b ędzie miała
+zastosowanie.
+20. Informacje dotycz ące walut obcych:
+Rozliczenia mi ędzy Wykonawc ą, a Zamawiaj ącym prowadzone b ędą w polskich złotych
+(PLN).
+21. Kryteria oceny ofert, ich znaczenie oraz sposób oce ny ofert:
+21.1. Zamawiaj ący dokona wyboru najkorzystniejszej oferty, stosuj ąc nast ępuj ące kryteria, gdzie
+1% = 1 pkt:
+Lp.  Kryterium Waga
+1. Cena 60%
+2. Termin płatno ści 40%
+Razem  100%
+Kryterium Cena  będzie rozpatrywane na podstawie ceny brutto za wykon anie przedmiotu
+zamówienia, podanej przez Wykonawc ę na Formularzu Ofertowym . Ilo ść  punktów
+(zaokr ąglona do 2 miejsca po przecinku) w tym kryterium zo stanie obliczona na podstawie
+poni ższego wzoru:
+C = (C min  / C o ) x 60
+gdzie:
+C- liczba punktów w kryterium „ Cena ”
+Cmin  - cena brutto oferty najta ńszej
+Co - cena brutto oferty ocenianej
+Kryterium Termin płatno ści  (40%=40pkt) b ędzie rozpatrywane na podstawie terminu
+płatno ści, podanego przez Wykonawc ę na Formularzu Ofertowym . Najkrótszy mo żliwy termin
+płatno ści to „do 14 dni”.
+Najdłu ższy mo żliwy termin płatno ści to: „do 30 dni”.
+Wykonawca mo że zaproponowa ć termin płatno ści w przedziale od „do 14 dni” do „do 30 dni”,
+przy czym termin ten winien by ć wskazany w dniach.
+Oferta Wykonawcy, który nie zastosuje si ę do powy ższej dyspozycji zostanie odrzucona
+Znak sprawy: AIR.271.8.2025 SWZ  - 13 -
+zgodnie z art. 226 ust. 1 pkt 5 ustawy Pzp.
+Wykonawca, który zaoferuje najkorzystniejszy termin  płatno ści, tj. „do 30 dni” - otrzymuje 40
+pkt - maksymaln ą liczb ę punktów. Pozostali Wykonawcy (tj. Wykonawcy, którz y zaproponowali
+warto ść  po średni ą, pomi ędzy warto ści ą najkorzystniejsz ą a najmniej korzystn ą), otrzymuj ą
+liczb ę punktów (zaokr ąglon ą do 2 miejsca po przecinku) obliczon ą wg. wzoru:
+T = (T o / T max  ) x 40
+gdzie:
+T  - liczba punktów w kryterium „Termin płatno ści”
+To  - termin płatno ści wskazany w ofercie ocenianej (min. „do 14 dni”),
+Tmax   - najdłu ższy mo żliwy termin płatno ści, tj. „do 30 dni”
+Za najkorzystniejsz ą zostanie uznana oferta, która otrzyma najwy ższ ą liczb ę punktów
+stanowi ących sum ę punktów przyznanych w ramach ka żdego z podanych kryteriów
+udzielenia zamówienia obliczona na podstawie poni ższego wzoru:
+P = C + T
+gdzie:
+P  - łączna liczba punktów oferty ocenianej
+C - liczba punktów przyznana ofercie ocenianej w kr yterium Cena
+G - liczba punktów przyznana ofercie ocenianej w kr yterium Termin płatno ści
+21.2. Zamawiaj ący udzieli zamówienia Wykonawcy, który spełni wszys tkie postawione w SWZ
+warunki oraz otrzyma najwi ększ ą liczb ę punktów w danej cz ęś ci zamówienia wyliczon ą
+zgodnie ze zasadami okre ślonymi w pkt 21.1. z zastrze żeniem pkt 19.6. SWZ.
+22. Obowi ązki informacyjne:
+22.1. Zamawiaj ący poinformuje  niezwłocznie po wyborze najkorzystniejszej oferty Wykonawców,
+którzy zło żyli oferty odpowiednio w poszczególnych cz ęś ciach zamówienia (podaj ąc
+uzasadnienie faktyczne i prawne) o:
+22.1.1. wyborze najkorzystniejszych ofert w poszcze gólnych cz ęś ciach zamówienia, podaj ąc nazw ę
+albo imi ę i nazwisko, siedzib ę albo miejsce zamieszkania, je żeli jest miejscem wykonywania
+działalno ści Wykonawcy, którego ofert ę wybrano, oraz nazwy albo imiona i nazwiska, siedzi by
+albo miejsca zamieszkania, je żeli s ą miejscami wykonywania działalno ści Wykonawców,
+którzy zło żyli oferty, a tak że punktacj ę przyznan ą ofertom w ka żdym kryterium oceny ofert
+i łączn ą punktacj ę,
+22.1.2. Wykonawcach, których oferty zostały odrzuco ne,
+22.2. Zamawiaj ący zawiadomi równocze śnie Wykonawców, którzy zło żyli oferty, o uniewa żnieniu
+post ępowania, podaj ąc uzasadnienie faktyczne i prawne.
+22.3. Zamawiaj ący udost ępnia niezwłocznie informacje, o których mowa w pkt 22.1.1. i pkt 22.2.
+SWZ, na stronie internetowej prowadzonego post ępowania.
+22.4. Zamawiaj ący mo że jednak nie ujawnia ć informacji, o których mowa w pkt 22.1. SWZ, je żeli ich
+ujawnienie byłoby sprzeczne z wa żnym interesem publicznym.
+23. Dodatkowe informacje:
+23.1. Zgodnie z art. 223 ust. 1 ustawy, Zamawiaj ący w toku badania i oceny ofert mo że żą da ć od
+Wykonawców wyja śnie ń dotycz ących tre ści zło żonych ofert oraz przedmiotowych środków
+dowodowych  lub innych składanych dokumentów lub o świadcze ń.
+23.2. Zgodnie z art. 223 ust. 2 ustawy, Zamawiaj ący poprawi w ofercie oczywiste omyłki pisarskie,
+oczywiste omyłki rachunkowe, z uwzgl ędnieniem konsekwencji rachunkowych dokonanych
+poprawek, oraz inne omyłki polegaj ące na niezgodno ści oferty z dokumentami zamówienia,
+niepowoduj ące istotnych zmian w tre ści oferty – niezwłocznie zawiadamiaj ąc o tym
+Wykonawc ę, którego oferta została poprawiona.
+Znak sprawy: AIR.271.8.2025 SWZ  - 14 -
+24. Projektowane postanowienia umowy w sprawie zamówienia publicznego, które zostan ą
+wprowadzone do tre ści tej umowy, zawiera stosownie do cz ęś ci zamówienia zał ącznik nr 5.1.-
+5,4 do SWZ.
+25. Środki ochrony prawnej:
+25.1. Wykonawcy przysługuj ą przewidziane w ustawie środki ochrony prawnej w postaci odwołania
+oraz skargi do s ądu.
+25.2. Szczegółowe zasady wnoszenia środków ochrony prawnej oraz post ępowania toczonego
+wskutek ich wniesienia okre śla Dział IX ustawy.
+26. Informacje o formalno ściach, jakie musz ą zosta ć dopełnione po wyborze oferty w celu
+zawarcia umowy w sprawie zamówienia publicznego:
+Wykonawca przed podpisaniem umowy zobowi ązany jest do przedło żenia:
+26.1. je żeli zostanie wybrana oferta wykonawców wspólnie ubi egaj ących si ę o zamówienie, to
+stosownie do art. 59 ustawy Pzp - umowy reguluj ącej współprac ę tych podmiotów,
+26.2. formularza/y cen jednostkowych sporz ądzonego wg. wskazówek i w porozumieniu
+z Zamawiaj ącym, odpowiednio do cz ęś ci zamówienia.
+27. Zaliczki na poczet wykonania zamówienia:
+Zamawiaj ący nie przewiduje udzielania zaliczek.
+28. Obowi ązki w zakresie przetwarzania danych osobowych zgodn ie z RODO:
+28.1. Ilekro ć w niniejszej SWZ jest mowa o RODO, nale ży przez to rozumie ć: Rozporz ądzenie
+Parlamentu Europejskiego i Rady (UE) 2016/679 z dni a 27 kwietnia 2016 r. w sprawie ochrony
+osób fizycznych w zwi ązku z przetwarzaniem danych osobowych i w sprawie s wobodnego
+przepływu takich danych oraz uchylenia dyrektywy 95 /46/WE (ogólne rozporz ądzenie
+o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016,  str. 1).
+28.2. Wykonawca ubiegaj ąc si ę o udzielenie zamówienia publicznego jest zobowi ązany do
+wypełnienia wszystkich obowi ązków formalno-prawnych zwi ązanych z udziałem
+w post ępowaniu. Do obowi ązków tych nale żą  m.in. obowi ązki wynikaj ące z RODO,
+w szczególno ści obowi ązek informacyjny przewidziany w art. 13 RODO wzgl ędem osób
+fizycznych, których dane osobowe dotycz ą i od których dane te Wykonawca bezpo średnio
+pozyskał. Jednak że obowi ązek informacyjny wynikaj ący z art. 13 RODO nie b ędzie miał
+zastosowania, gdy i w zakresie, w jakim osoba fizyc zna, której dane dotycz ą, dysponuje ju ż
+tymi informacjami (por. art. 13 ust. 4). Ponadto Wy konawca zobowi ązany jest wypełni ć
+obowi ązek informacyjny wynikaj ący z art. 14 RODO wzgl ędem osób fizycznych, których dane
+przekazuje Zamawiaj ącemu i których dane po średnio pozyskał, chyba że ma zastosowanie co
+najmniej jedno z wył ącze ń, o których mowa w art. 14 ust. 5 RODO. W celu zape wnienia, że
+Wykonawca wypełnił ww. obowi ązki informacyjne oraz ochrony prawnie uzasadnionych
+interesów osoby trzeciej, której dane zostały przek azane w zwi ązku z udziałem Wykonawcy
+w post ępowaniu Zamawiaj ący wymaga zło żenia przez Wykonawc ę wraz z ofert ą
+oświadczenia o wypełnieniu obowi ązków informacyjnych,  przewidzianych w art. 13 lub
+art. 14 RODO, zgodnie z tre ści ą zał ącznika nr 3 do SWZ .
+28.3. Zamawiaj ący informuje o przetwarzaniu danych osobowych, w zw i ązku z realizacj ą
+niniejszego zamówienia. Szczegółowa klauzula inform acyjna stanowi zał ącznik nr 7 do SWZ.
+28.4. Ponadto, zgodnie z art. 18 ust. 6 ustawy Pzp,  Zamawiaj ący zastrzega, że b ędzie udost ępniał
+dane osobowe, o których mowa w art. 10 RODO, w celu  umo żliwienia korzystania ze środków
+ochrony prawnej, o których mowa w dziale IX ustawy,  do upływu terminu na ich wniesienie.
+Wykaz zał ączników stanowi ących integraln ą cz ęść  SWZ:
+1.  Formularz ofertowy – formularz udost ępniony na Platformie e-Zamówienia (Zał. nr 1),
+2.  Opis przedmiotu zamówienia – Cz ęść  1 (Zał. nr 1A),
+3.  Opis przedmiotu zamówienia – Cz ęść  2 (Zał. nr 1B),
+4.  Opis przedmiotu zamówienia – Cz ęść  3 (Zał. nr 1C),
+5.  Opis przedmiotu zamówienia – Cz ęść  4 (Zał. nr 1D),
+6.  Oświadczenia Wykonawcy i podmiotu udost ępniaj ącego zasoby – wzór (Zał. nr 2 A-B),
+Znak sprawy: AIR.271.8.2025 SWZ  - 15 -
+7.  Wzór o świadczenia wymaganego od Wykonawcy w zakresie wypeł nienia obowi ązków
+informacyjnych przewidzianych w art. 13 lub art. 14  RODO (Zał. nr 3),
+8.  Oświadczenie o aktualno ści – wzór  (Zał. nr 4),
+9.  Projektowane postanowienia umowy (Cz ęść  1 - Zał. nr 5.1, Cz ęść  2 – Zał. nr 5.2, Cz ęść  3 –
+Zał. nr 5.3, Cz ęść  4 – Zał. nr 5.4),
+10.  Klauzula informacyjna z art. 13 RODO o przetwa rzaniu danych osobowych w celu zwi ązanym
+z post ępowaniem o udzielenie zamówienia publicznego (Zał. nr 6).
+Pszów, dnia 25 czerwca 2025 r.

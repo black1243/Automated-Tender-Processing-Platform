@@ -1,0 +1,3078 @@
+INSTRUK CJA WYPEŁNIANIA
+Jednolity Europejski Dokument Zamówienia  JEDZ
+(European Single Procurement Document ESPD )
+I. Dyrektyw y a kwalifikacja podmiotowa wykonawców
+Zgodnie z regulacjami art. 59 dyrektywy 2014/24/UE1 oraz art. 80 ust. 3 dyrektywy
+2014/25/UE2, dalej: „ dyrektywa ” lub „ dyrektywy ”, jak też ustaw ą z dnia 11 września 2019 r.–
+Prawo zamówień publicznych (Dz. U. poz. 2019 oraz z 2020 r. poz. 288, 1492, 1517, 2275 i
+2320 ), dalej „ ustaw a Pzp”, w odniesie niu do postępowań o udzielenie zamówienia klasycznego
+oraz sektorowego , których wartość jest równa lub przekracza  progi unijn e3, podstawowym
+dokumentem stanowiącym potwierdzenie:
+1) spełniania przez wykonawcę warunków udziału w postępowaniu
+2) braku podstaw wykluczenia,
+3) jak też spełniani a kryteriów selekcji ( obiektywne i niedyskryminujące kryteria
+ustalone  przez zamawiającego  na potrzeby ograniczenia liczby kwalifikujących się
+wykonawców albo uczestników konkursu )
+jest oświadczenie wykonawcy  tymczasowo zastępując e wymagane przez zamawiającego
+podmiotowe środki dowodowe .
+II. Formularz Jednolitego Europejskiego Dokumentu Zamówienia
+Oświadczenie to składane jest na  standardow ym formularz u jednolitego europejskiego
+dokumentu zamówienia (JEDZ) , którego wzór określa rozporządzenie wykonawcze Komisji
+(UE) 2016/7 z dnia 5 stycznia 2016 r. (Dz. Urz. UE nr L 3 z 6.1.2016, str. 16) , zwane dalej:
+„rozporządzeniem JEDZ” . Rozporządzenie to  ma moc bezpośrednio obowiązującą w
+państwie członkowskim .
+III. Podmioty składające  JEDZ
+Regulacje dyrektyw , a w ślad za nimi ustaw a Pzp, przewidują weryfikację podmiotową przy
+użyciu formularza  JEDZ  w odniesieniu do:
+1) wykonawców
+− w przypadku wykonawców wspólnie ubiegających się o udzielenie zamówienia
+formularz JEDZ składa każdy z wykonawców  (w odniesieniu do warunków
+1 dyrektywa Parlamentu Europejskiego i Rady 2014/24/UE z dnia 26 lutego 2014 r. w sprawie zamówień publicznych, uchylająca dyre ktywę
+2004/18/WE (Dz. Urz. UE L 94 z 28.3.2014, str. 65)
+2 dyrektywa Parlamentu Europejskiego i Rady 2014/25/UE z dnia 26 lutego 2 014 r. w sprawie udzielania  zamówień przez podmioty działające
+w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych, uchylająca dyrektywę 2004/17/WE (Dz. Urz. UE L 94 z  28.3.2014,
+str. 243)
+3 Progi określone w:
+− rozporządzeniu delegowan ym Komisji (UE) 201 9/1828  z dnia 30 października  2019 r. zmieniającym dyrektywę Parlamentu
+Europejskiego i Rady 2014/24/UE w odniesieniu do progów dotyczących zamówień publicznych na dostawy, usługi i roboty
+budowlane oraz konkursów
+− rozporządzeniu delegowanym Komisji (UE) 201 9/1829  z dnia 30 października  2019 r. zmieniającym dyrektywę Parlamentu
+Europejskiego i Rady 2014/25/UE w odniesieniu do progów dotyczących zamówień na dostawy, usługi i roboty budowlane oraz
+konkursów
+udziału w postępowaniu oraz kryteriów selekcji wypełniony w zakresie, w jakim
+wykonawca wykazuje ich spełnianie) ;
+2) podmiotów udostępniających zasoby
+− JEDZ podmiotu udostępniającego zasoby składa wykonawca, jeżeli powołuje
+się na jego zasoby  w celu wykazania spełniania warunków udziału w
+postępowaniu lub kryteriów selekcji ;
+− JEDZ  powinien być wypełniony w zakresie, w jakim wykonawca korzysta z
+zasobów podmiotu udostępniającego zasoby ;
+− JEDZ powinien dotyczyć także weryfikacji podstaw wykluczenia  podmiotu
+udostępniającego zasoby ;
+− dotyczy zarówno sytuacji, gdy podmiot udostępniający zasoby  nie będzie
+podwykonawcą w trakcie realizacji zamówienia, jak i sytuacji gdy takim
+podwykonawcą będzie;
+3) podwykonawców
+− dotyczy podwykonawców wskazanych przez wykonawcę, którym wykonawca
+zamierza powier zyć wykonanie części zamówienia , w tym podwykonawców
+zamówień na roboty budowlane i podwykonawców zamówień na usługi,
+niezależnie od tego, czy mają być wykonane w miejscu podlegającym
+bezpośredniemu nadzorowi zamawiającego, i podwykonawców zamówień na
+dostawy, z wyłączeniem dalszych pod wykonawców i dostawców
+uczestniczących w wykonaniu zamówienia na roboty budowlane lub usługi ;
+− JEDZ powinien dotyczyć weryfikacji podstaw wykluczenia , jeżeli takie badanie
+zamawiający przewidział w ramach konkretnego postępowania ;
+− JEDZ podwykonawcy składa wykonawca , jeżeli zamawiający tego wymaga.
+IV. Termin na złożenie JEDZ
+Wypełniony formularz JEDZ składa się:
+− w przetargu nieograniczonym  – wraz z ofertą  lub przed wyborem najkorzystniejszej
+oferty , jeżeli w przypadku, o któr ym mowa w art. 139 ust. 1 ustawy Pzp, zamawiający
+przewidział możliwość żądania JEDZ wyłącznie od wykonawcy , którego oferta została
+najwyżej oceniona ;
+− w trybach wieloetapowych – wraz z wnioskiem o dopuszczenie do udziału
+w postępowaniu ;
+− w trybie negocjacji bez ogłoszenia – wraz z ofertą4;
+4 chyba że zamawiający odstąpił od żądania złożenia przez wykonawcę tego oświadczenia na podstawie art. 212
+ust. 4 ustawy Pzp
+− w trybie zamówienia z wolnej ręki – przed zawarciem umowy5;
+− na etapie r ealizacji umowy – w odniesieniu do nowych podwykonawców, którym
+wykonawca w późniejszym okresie zamierza powierzyć wykonanie części zamówienia .
+V. Forma JEDZ
+W przypadku zamówień o wart ości równej lub przekraczającej  progi unijne wykonawcy
+zobowiązani są złożyć oświadczenie na standardowym formularzu JEDZ , pod rygorem
+nieważności, w formie elektronicznej.  Do zachowania formy elektronicznej wystarcza złożenie
+JEDZ w postaci elektronicznej i opatrzenie go kwalifikowanym podpisem elektronicznym.  W
+przypadkach odstąpienia przez zamawiającego od wymagania użycia środków komunikacji
+elektronicznej  w odniesieniu do JEDZ , dokument ten s kłada się  zgodnie z wyborem
+zamawiającego , pod rygorem nieważności, w formie pisemnej  lub elektronicznej  (np. na płycie
+CD).
+Pod adresem:  https://espd.uzp.gov.pl/  dostępne jest  elektroniczne narzędzie przygotowane
+przez Urząd Zamówień Publicznych w oparciu o narzędzie opracowane przez KE, które może
+być wykorzystane do realizacji obowiązku przekazywan ia JEDZ w formie elektronicznej .
+VI. Zawartość JEDZ
+Zgodnie z dyrekt ywą JEDZ powinien zawierać co najmniej następujące informacje:
+− oświadczenie wykonawcy, że w stosunku do niego nie zachodzą przesłanki (podstawy)
+wykluczenia;
+− oświadczenie wykonawcy o spełnianiu przez niego warunków udziału w postępowaniu;
+− oświadczenie wyko nawcy  o spełnianiu przez niego kryteriów selekcji służących do
+ograniczenia liczby wykonawców dopuszczonych do udziału w postępowaniu;
+− określ enie organ u publiczn ego lub osob y trzeci ej odpowiedzialn ych za wystawie nie
+dokumentów potwierdzających brak podstaw do wykluczenia oraz w stosownych
+przypadkach spełnianie warunków ud ziału  w postępowaniu i kryteriów  selekcji ;
+− formalne oświadczenie  wykonawcy , z którego wynika, że wykonawca będzie w stanie
+na żądanie i bez zwł oki przedstawić dokumenty potwierdzające  brak podstaw do
+wykluczenia oraz spełnianie wa runków udziału  w postępowaniu i kryteriów selekcji;
+− informacje niezbędne  w celu  uzyska nia przez zamawiającego  dokument ów
+potwierdzając ych bezpośrednio za pomocą bazy da nych  (na warunkach określonych
+w art. 59 ust. 5 dyrektywy).
+Formularz JEDZ składa się z sześciu części:
+5 chyba że zamawiający odstąpił od żądania złożenia przez wykonawcę tego oświadczenia na podstawie art. 217
+ust. 3 ustawy Pzp
+część I.  identyfikacja postępowania o udzielenie zamówienia publicznego
+– wypełniana przez zamawiającego  lub wykonawcę
+oraz
+część II.  identyfikacja wykonawcy
+część III.  przesłanki wykluczenia
+część IV.  warunki udziału w postępowaniu
+część V.  kryteria selekcji
+część VI.  podpis(y)
+– wypełnianych przez wykonawcę.
+Szczegółowe wskazówki dotyczące sposobu wypełniania standardowego formularza JEDZ
+znajdują się w trzeciej kolumnie załączonej tabeli.
+UWAGA :  Oświadczenie w postępowaniach o wartości poniżej progów UE
+W przypadku postępowań o udzielenie zamówienia publicznego, których wartość nie
+przekracza równowartości progów UE , nie ma obowiązku wymagania/przedkładania
+oświadczenia o spełnianiu warunków udziału w postępowaniu oraz braku podstaw do
+wykluczenia z postępowania, czy też spełnianiu kryteriów selekcji , na standardowym
+formularzu JEDZ, ustanowionym rozporządzeniem KE, przywołanym w pkt II.
+Część I: Informacje dotyczące postępowania o udzielenie zamówienia oraz instytucji zamawiającej lub podmiot u zamawiającego
+W przypadku postępowań o udzielenie zamówienia, w ramach których zaproszenie do ubiegania
+się o zamówienie opublikowano w Dzienniku Urzędowym Unii Europejskiej, informacje
+wymagane w cz ęści I zostaną automatycznie wyszukane, pod warunkiem że do utworzenia i
+wypełnienia jednolitego europejskiego dokumentu zamówienia wykorzystany zostanie
+elektroniczny serwis poświęcony jednolitemu europejskiemu dokumentowi zamówienia . (1)
+Adres publikacyjny stosownego ogłoszenia  (2) w Dzienniku Urzędowym Unii Europejskiej :
+Dz.U. UE S numer [], data [], strona [],
+Numer ogłoszenia w Dz.U. S: [ ][ ][ ][ ]/S [ ][ ][ ] –[ ][ ][ ][ ][ ][ ][ ]
+Jeżeli nie opublikowano zaproszenia do ubiegania się o zam ówienie w Dz.U., instytucja
+zamawiająca lub podmiot zamawiający muszą wypełnić informacje umożliwiające jednoznaczne
+zidentyfikowanie postępowania o udzielenie zamówienia:
+W przypadku gdy publikacja ogłoszenia w Dzienniku Urzędowym Unii Europejskiej nie jest
+wymagana, proszę podać inne informacje umożliwiające jednoznaczne zidentyfikowanie
+postępowania o udzielenie zamówienia (np. adres publikacyjny na poziomie krajowym): [….]  W tym polu zamawiający wpisuje adres
+publikacji ogłoszenia w D z. Urz. UE.
+Jeżeli nie opublikowano ogłoszenia
+w Dz.  Urz. UE, zamawiający mus i w tym
+miejscu  wpisać informacje umożliwiające
+jednoznaczne zidentyfikowanie
+postępowania o udzielenie zamówienia .
+INFORMACJE NA TEMAT POSTĘPOWANIA O UDZIELENIE ZAMÓWIENIA
+Informacje wymagane w części I zostaną automatycznie wyszukane, pod warunkiem że wyżej
+wymieniony elektroniczny serwis poświęcony jednolitemu europejskiemu dokumentowi
+1 Służby Komisj i udostępnią instytucjom zamawiającym, podmiotom zamawiającym, wykonawcom, dostawcom usług elektronicznych i innym zaintereso wanym stronom bezpłatny elektroniczny serwis
+poświęcony jednolitemu europejskiemu dokumentowi zamówienia.
+2 W przypadku instytucji zamawiających : wstępne ogłoszenie informacyjne  wykorzystywane jako zaproszenie do ubiegania się o zamówienie albo ogłoszenie o zamówieniu .
+W przypadku podmiotów zamawiających : okresowe ogłoszenie informacyjne  wykorzystywane jako zaproszenie do ubiegania si ę o zamówienie, ogłoszenie o zamówieniu  lub ogłoszenie o istnieniu systemu
+kwalifikowania .
+zamówienia zostanie wykorzystany do utworzenia i wypełnienia tego dokumentu. W przeciwnym
+przypadku informacje te musi wypełnić wykonawca.
+Tożsamość zamawiającego  (3) Odpowiedź:  Zakres informacji wymaganych w tej części
+formularza pokrywa się z informacjami
+zawartymi w punktach I.1, II.1.1 i II.1.3
+ogłoszenia o zamówieniu publikowanego
+w Dz. Urz. UE.
+Należy wypełnić  tę część formularza,
+wpisując podstawowe informacje dotyczące
+postępowania o udzielenie zamówienia:
+nazwę zamawiającego, tytuł lub krótki opis
+zamówienia i ewentualnie numer
+referencyjny nadany postępowaniu przez
+zamawiającego.  Nazwa:  [   ]
+Jakiego zamówienia dotyczy niniejszy
+dokument?  Odpowiedź:
+Tytuł lub krótki opis udzielanego zamówienia  (4): [   ]
+Numer referencyjny nadany sprawie przez
+instytucję zamawiającą lub podmiot zamawiający
+(jeżeli dotyczy ) (5): [   ]
+Wszystkie pozostałe informacje we wszystkich sekcjach jednolitego europejskiego dokumentu
+zamówienia powinien wypełnić wykonawca .
+3 Informacje te należy skopiować z sekcji I pkt I.1 stosownego ogłoszenia . W przypadku wspólnego zamówienia proszę podać nazwy wszystkich uczestniczących zamawiających.
+4 Zob. pkt II.1.1 i II.1.3 stosownego ogłoszenia.
+5 Zob. pkt II.1.1 stosownego ogłoszenia.
+Część II: Informacje dotyczące wykonawcy
+A: INFORMACJE NA TEMAT WYKONAWCY
+Identyfikacja:  Odpowiedź:  W pierwszej kolejności identyfikujemy
+wykonawcę składającego JEDZ.
+W przypadku wykonawców wspólnie
+ubiegających się o zamówienie w tej pozycji
+wskazujemy wyłącznie wykonawcę , którego
+JEDZ dotyczy. Wszystkich wykonawców
+wspólnie ubiegających się o zamówie nie
+(„konsorcjum”) wskazujemy w dalszej części
+formularza (ostatnie pozycje sekcji A) .
+W przypad ku wykonawców posługujących się
+numerem VAT należy wpisać ten numer
+(Numer Identyfikacji Podatkowej poprzedzony
+symbolem PL).
+W przypadku wykonawców nie posługu jących
+się numerem VAT należy wpisać numer,
+którym wykonawca posługuje się w związku z
+prowadzoną działalnością: odpowiednio
+REGON , Numer Identyfikacji Podatkowej.
+W przypadku osób fizycznych nie
+prowadzących działalności gospodarczej,
+które do celów podatkowych posługują się
+numerem ewidencyjnym  Pesel, należy wpisać
+ten numer.  Nazwa:  [   ]
+Numer VAT, jeżeli dotyczy:
+Jeżeli numer VAT nie ma zastosowania, proszę
+podać inny krajowy numer identyfikacyjny, jeżeli
+jest wymagany i ma zastosowanie.  [   ]
+Adres pocztowy:  [……]
+Osoba lub osoby wyznaczone do kontaktów  (6):
+Telefon:
+Adres e -mail:
+Adres internetowy (adres www) ( jeżeli dotyczy ): [……]
+[……]  Informacje dotyczące osób wyznaczonych do
+kontaktów  należy powtórzyć  tyle razy, ile jest
+to konieczne .
+Informacje ogólne:  Odpowiedź:  Na potrzeby odpowiedzi na to pytanie należy
+skorzystać z definicji zawartych w zaleceniu
+Komisji z dnia 6 maja 2003 r. dotycząc ym
+definicji mikroprzedsiębiorstw oraz małych i
+średnich przedsiębiorstw (Dz. Urz. UE L 124
+z 20.5.2003 , str. 36)  Czy wykonawca jest mikroprzedsiębiorstwem
+bądź małym lub średnim przedsiębiorstwem  (7)? [] Tak [] Nie
+Jedynie w przypadku gdy zamówienie jest
+zastrzeżone  (8): czy wykonawca jest zakładem
+pracy chronionej, „przedsiębiorstwem
+społecznym”  (9) lub czy będzie realizował
+zamówienie w ramach programów zatrudnienia
+chronionego?
+Jeżeli tak,
+jaki jest odpowiedni odsetek pracowników
+niepełnosprawnych lub defaworyzowanych?
+Jeżeli jest to wymagane, proszę określić, do
+której kategorii lub których katego rii [] Tak [] Nie
+Pozycję formularza wypełniamy z
+zaznaczeniem „Tak” jeżeli zamawiający w
+konkretnym postępowaniu skorzystał z
+możliwości wynikającej z art. 94 ust. 1 Pzp.
+Przepis ten przewiduje możliwość
+zastrzeżenia przez zamawiającego w
+ogłoszeniu o zamówieniu, że o udzi elenie
+zamówienia mogą ubiegać się wyłącznie
+zakłady pracy chronionej , spółdzielnie
+socjalne  oraz inni  wykonawcy,  których
+głównym celem  lub głównym celem
+działalnoś ci ich wyodrębnionych
+6 Proszę powtórzyć informacje dotyczące osób wyznaczonych do kontaktów  tyle razy, ile jest to konieczne.
+7 Por. zalecenie Komisji z dnia 6 maja 2003 r. dotyczące definicji mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw (Dz.U . L 124 z 20.5.2003, s. 36). Te informacje są wymagane wyłącznie do celów
+statystycznych.
+Mikroprzedsiębiorstwo: przedsiębiorstwo, które  zatrudnia mniej niż 10 osób i którego roczny obrót lub roczna suma bilansowa  nie przekracza 2 milionów EUR.
+Małe przedsiębiorstwo: przedsiębiorstwo, które  zatrudnia mniej niż 50 osób i którego roczny obrót l ub roczna suma bilansowa  nie przekracza 10 milionów EUR.
+Średnie przedsiębiorstwa: przedsiębiorstwa, które nie są mikroprzedsiębiorstwami ani małymi przedsiębiorstwami  i które zatrudniają mniej niż 250 osób  i których roczny obrót nie przekracza 50 milionów  EUR  lub
+roczna suma bilansowa nie przekracza 43 milionów EUR .
+8 Zob. ogłoszenie o zamówieniu, pkt III.1.5.
+9 Tj. przedsiębiorstwem, którego głównym celem jest społeczna i zawodowa integracja osób niepełnosprawnych lub defaworyzowanych .
+pracowników niepełnosprawnych lub
+defaworyzowanych należą dani pracownicy.  organizacyjnie jednostek, które będą
+realizowały zamówienie, jest społeczn a i
+zawodow a integracj a osób społecznie
+marginalizowanych , pod warunkiem  że
+procentowy wskaźnik zatrudnienia takich
+osób jest nie mniejszy niż 30% zatrudnionych
+u wykonawcy albo w je go jednostce, która
+będzie realizowała zamówienie . W
+szczególności  przepis wskazuje w tym
+zakresie przykładowe grupy osób społecznie
+marginalizowanych.
+Informację, czy zamówienie zostało w ten
+sposób zastrzeżone, można znaleźć w
+punkcie III.1.5 ogłoszenia  o zamówieniu (Dz.
+Urz. UE) .
+Przez „przedsiębiorstwo społeczne” należy
+rozumieć przedsiębiorstw o, którego głównym
+celem jest społeczna i zawodowa integracja
+osób niepełnosprawnych lub
+defaworyzowanych .
+Jeżeli dotyczy, czy wykonawca jest wpisany do
+urzędowego wykazu zatwierdzonych
+wykonawców lub posiada równoważne
+zaświadczenie (np. w ramach krajowego systemu
+(wstępnego) kwalifikowania)?  [] Tak [] Nie [] Nie dotyczy  Dyrektywa w art. 64 przewiduje możliwość
+ustanowienia i prowadzenia przez państwa
+członkowskie urzędow ych wykazów
+zatwierdzonych wykonawców oraz ich
+certyfikacj i. Transpozycja tych przepisów nie
+jest obowiązkowa. Polski ustawodawca nie
+skorzysta ł z możliwości  ustanowienia
+urzędowych wykazów zatwierdzonych
+wykonawców .
+ Dyrektywa Parlamentu Europejskiego i Rady 2014/24/UE z dnia 26 lutego 2014 r. w sprawie zamówień publicznych, uchylająca dyrektywę 2004/18/WE (Dz. Urz. UE L 94 z 28.3.2014, str. 65)
+Polscy wykonawcy w tej podsekcji
+zaznaczają opcję „ Nie dotyczy” i
+pozostawiają dalszą część  podsekcj i
+niewypełnioną.
+Tego rodzaju wykazy istnieją natomiast w
+niektórych innych państwach członkowskich
+UE. Dla przykładu  w Niemczech funkcjonuje
+urzędowy wyka z zatwierdzonych
+wykonawców robót budowlanych:
+http://www.pq -verein.de/ , w Czechach zaś -
+wykazy i certyfikacja dla wszystkich rodzajów
+zamówień
+http://www. isvz.cz/isvz/Podpora/ISVZ.aspx
+Jeżeli wykonawca (zagraniczny) jest wpisany
+w takim wykazie zaznacza odpowiedź „Tak” i
+wypełnia dalszą część formularza w rubryce
+poniżej. Zaznaczenie „Nie” wypełnia
+wykonawca, który do takiego wykazu nie
+został wpisany, nie wypełniając dalszej
+części formularza w rubryce poniżej.
+Jeżeli tak :
+Proszę udzielić odpowiedzi w pozostałych
+fragmentach niniejszej sekcji, w sekcji B i, w
+odpowiednich przypadkach, sekcji C niniejszej
+części, uzupełnić część V (w stosownych
+przypadkach) oraz w każdym przypadku
+wypełnić i podpisać część VI.
+a) Proszę podać nazwę wykazu lub zaświadczenia
+i odpowiedni numer rejestracyjny lub numer
+zaświadczenia, jeżeli dotyczy:
+b) Jeżeli poświadczenie wpisu do wykazu lub
+a) [……]
+Wypełnia wykonawca z kraju, w którym
+funkcjonują urzędowe wykazy
+zatwierdzonych wykonawców i który jest
+wpisany do takiego wykazu.
+Każdorazowo, kiedy w formularzu
+Jednolitego Europejskiego Dokumentu
+Zamówienia mowa jest o dostępności
+odpowiednich dokumentów  lub zaświadczeń
+w formie elektronicznej, należy przez to
+wydania zaświadczenia jest dostępne w formie
+elektronicznej, proszę podać:
+c) dane referencyjne stanowiące podstawę wpisu
+do wykazu lub wydania zaświadczenia oraz, w
+stosownych przypadkach, klasyfikację nadaną w
+urzędowym wykazie  (10):
+d) Czy wpis do wykazu lub wydane zaświadcz enie
+obejmują wszystkie wymagane kryteria
+kwalifikacji?
+Jeżeli nie:
+Proszę dodatkowo uzupełnić brakujące
+informacje w części IV w sekcjach A, B, C lub D,
+w zależności od przypadku.
+WYŁĄCZNIE jeżeli jest to wymagane w
+stosownym ogłoszeniu lub dokumentach
+zamówienia:
+e) Czy wykonawca będzie w stanie przedstawić
+zaświadczenie odnoszące się do płatności składek
+na ubezpieczenie społeczne i podatków lub
+przedstawić informacje, które umożliwią
+instytucji zamawiającej lub podmiotowi
+zamawiającemu uzyskanie tego z aświadczenia
+bezpośrednio za pomocą bezpłatnej krajowej
+bazy danych w dowolnym państwie
+członkowskim?
+Jeżeli odnośna dokumentacja jest dostępna w
+formie elektronicznej, proszę wskazać:  b) (adres internetowy, wydający urząd lub organ,
+dokładne dane referencyjne dokumentacji):
+c) [……]
+d) [] Tak [] Nie
+e) [] Tak [] Nie
+(adres internetowy, wydający urząd lub organ,
+dokładne dane referencyjne dokumentacji):
+[……][……][……][……]  rozumieć możliwość ich uzyskania za
+pomocą bezpłatnych i ogólnodostępnych
+baz danych, w tym rejestrów publicznych
+w  rozumieniu ustawy z dnia 17 lutego
+2005  r. o  informatyzacji działalności
+podmiotów realizujących zadania publiczne.
+Rodzaj uczestnictwa:  Odpowiedź:
+10 Dane referencyjne i klasyfikacja, o ile istnieją, są określone na zaświadczeniu.
+Czy wykonawca bierze udział w postępowaniu o
+udzielenie zamówienia wspólnie z innymi
+wykonawcami  (11)? [] Tak [] Nie  Każdy z wykonawców wspólnie ubiegających
+się o zamówienie wypełnia to pole  w swoim
+formularzu , wskazując swoją rolę w grupie
+wykonawców wspólnie ubieg ających się o
+zamówienie („konsorcjum ”), nazwy
+pozostałych członków k onsorcjum oraz
+ewentualną nazwę konsorcjum.
+Wykonawca samodzielnie ubiegający się
+o  zamówienie  zaznacza odpowiedź „ Nie”
+i  pozostawia pozostałą część tej pod sekcji
+niewypełnioną.  Jeżeli tak, proszę dopilnować, aby pozostali uczestnicy przedstawili odrębne jednolite europejskie
+dokumenty zamówienia.
+Jeżeli tak :
+a) Proszę wskazać rolę wykonawcy w grupie
+(lider, odpowiedzialny za określone zadania itd.):
+b) Proszę wskazać pozostałych wykonawców
+biorących wspólnie udział w postępowaniu o
+udzielenie zamówienia:
+c) W stosownych przypadkach nazwa grupy
+biorącej udział:
+a): [……]
+b): [……]
+c): [……]
+Części  Odpowiedź:  Jeśli zamawiający dopu ścił możliwość
+składania ofert częściowych  w ramach
+jednego postepowania , w tym polu należy
+wskazać część, o której udzielenie
+wykonawca się ubiega.  W stosownych przypadkach wskazanie części
+zamówienia, w odniesieniu do której (których)
+wykonawca zamierza złożyć ofertę.  [   ]
+B: INFORMACJE NA TEMAT PRZEDSTAWICIELI WYKONAWCY
+W stosownych przypadkach proszę podać imię i nazwisko (imiona i nazwiska) oraz adres( -y) osoby
+(osób) upoważnionej( -ych) do reprezentowania wykonawcy na potrzeby niniejszego postępowania o
+udzielenie zamówienia:
+11 Zwłaszcza w ramach grupy, konsorcjum, spółki joint venture  lub podobnego podmiotu.
+Osoby upoważnione do reprezentowania, o ile
+istnieją:  Odpowiedź:  W tej sekcji należy podać imiona i nazwiska
+oraz adres y osób  upoważnionych do
+reprezentowania wykonawcy na potrzeby
+postę powania o udzielenie zamówienia, jak
+również zakres udzielonych pełnomocnictw.
+Użyte w formularzu określenie
+„przedstawicielstwo” należy rozumieć
+szeroko, jako przedstawicielstwo czy
+pełnomocnictwo w rozumieniu KC.
+W przypadku szczegółowego określenia w tej
+rubryce zakresu udzielonego
+pełnomocnictwa i złożenia w tym zakresie
+oświadczenia woli w treści JEDZ a takż e
+prawidłowego (zgodnie z zasadami
+reprezentacji) podpisania dokumentu JEDZ,
+nie jest konieczne tworzenie i dołączanie do
+oferty lub wniosku o dopuszczenie do udziału
+w postępowaniu odrębnego dokumentu
+pełnomocnictwa. Jeżeli dane zawarte w tej
+pozycji mają  jedynie walor informacyjny, a
+pełnomocnictwo zostało udzielone odrębnie,
+pełnomocnictwo powinno zostać załączone
+do oferty lub wniosku o dopuszczenie do
+udziału w postępowaniu.  Imię i nazwisko,
+wraz z datą i miejscem urodzenia, jeżeli są
+wymagane:  […… ],
+Stanowisko/Działający( -a) jako:  [……]
+Adres pocztowy:  [……]
+Telefon:  [……]
+Adres e -mail:  [……]
+W razie potrzeby proszę podać szczegółowe
+informacje dotyczące przedstawicielstwa (jego
+form, zakresu, celu itd.):  [……]
+C: INFORMACJE NA TEMAT POLEGANIA NA ZDOLNOŚCI INNYCH PODMIOTÓW
+Zależność od innych podmiotów:  Odpowiedź:  Na mocy art. 118 ust. 1   ustawy Pzp
+wykonawca może w celu potwierdzenia
+spełniania warunków udziału w
+postępowaniu  lub kryteriów selekcji , w
+stosownych sytuacjach oraz w odniesieniu
+do konkretnego zamówienia, lub jego części,
+polegać na zdolnościach technicznych lub
+zawodowych lub sytuacji finansowej lub
+ekonomicznej podmiotów  udostępniających
+zasoby , niezależnie od charakteru prawnego
+łączących go z nim stosunków prawny ch.
+Jeżeli wykonawca polega na zdolności ach
+innych podmiotów w celu wykazania
+spełni ania warunków udziału w
+postępowaniu lub kryteriów selekcji , w myśl
+art. 125 ust. 5  ustawy Pzp ma obowiązek
+przedstawić – dla każdego z podmiotów,
+których to dotyczy – odrębny formularz
+jednolitego dokumentu zawierający
+informacje wymagane w części II sekcje  A
+(informacje na temat wykonawcy)  i B
+(informacje na temat przedstawicieli
+wykonawcy) , w części III  (podstawy
+wykluczenia)  oraz w - zakresie w jakim
+korzysta z zasobów podmiotu trzeciego  -
+w  części IV (kryteria kwalifikacji)  i części V
+(kryteria selekcji) . Takie formularze  powinny
+być wypełnione i podpisane  przez te
+podmioty.  Czy wykonawca polega na zdolności innych
+podmiotów w celu spełnienia kryteriów
+kwalifikacji określonych poniżej w części IV oraz
+(ewentualnych) kryteriów i zasad określonych
+poniżej w części V?  [] Tak [] Nie
+Powyższe  dotyczy również wszystkich
+pracowników technicznych lub służb
+technicznych,  czyli zasobów osobowych
+nienależących bezpośrednio do
+przedsiębiorstwa danego wykonawcy .
+Nie dotyczy to jednak zasobów  osobowych ,
+którym i wykonawca  dysponuje w sposób
+bezpośredni , tj. przypadków zaangażowania
+przez wykonawcę na podstawie różnych
+stosunków prawnych osoby fizycznej,
+niezależnie od tego, czy prowadzi
+działalność gospodarczą przy pomocy
+przedsiębiorstwa (zakładu pracy), czy też
+świadczącej usługę na podstawie m.in.
+umowy zlecenia, jeżeli osoba ta będzie
+wykonywała wyłącznie osobiście,
+uzgodnione z wykonawcą czynności
+związane z realizacją zamówienia
+publicznego, np. pełniła funkcję kierownika
+budowy. W takim bowiem przypadku mamy
+do czynienia z bezpośrednim
+dysponowanie m osobą zdolną do wykonania
+zamówienia, a nie powołaniem się na zasoby
+podmiotu trzeciego. O tej kwalifikacji
+rozstrzyga treść stosunku prawnego
+istniejącego pomiędzy wykonawcą a taką
+osobą .
+O ile ma to znaczenie dla określonych
+zdolności, na których pol ega wykonawca,
+ zob. https://www.uzp.gov.pl/baza -wiedzy/interpr etacja -przepisow/opinie -archiwalne/dopuszczalnosc -zadania -przez -zamawiajacego -przedstawienia -przez -wykonawce -dokumentow -podmiotowych -dotyczacych -
+podmiotu -trzeciego
+należy  dołączyć – dla każdego z podmiotów,
+których to dotyczy  – informacje wymagane
+w  częściach IV (kryteria k walifikacji) i V
+(kryteria selekcji) .
+Jeżeli tak , proszę przedstawić – dla każdego  z podmiotów, których to dotyczy – odrębny formularz
+jednolitego europejskiego dokumentu zamówienia zawierający informacje wymagane w niniejszej
+części sekcja A i B oraz w części III , należycie wypełniony i podpisany przez dane podmioty.
+Należy zauważyć, że dotyczy to również wszystkich pracowników technicznych lub służb technicznych,
+nienależących bezpośrednio do przedsiębiorstwa danego wykonawcy, w szczególności tych
+odpowiedzialnych za kontrolę jakości, a w przypadku zamówień publicznych na ro boty budowlane –
+tych, do których wykonawca będzie mógł się zwrócić o wykonanie robót budowlanych.
+O ile ma to znaczenie dla określonych zdolności, na których polega wykonawca, proszę dołączyć – dla
+każdego z podmiotów, których to dotyczy – informacje wyma gane w częściach IV i V  (12).
+12 Np. dla służb technicznych zaangażowanych w kontrolę jakości: część IV, sekcja C, pkt 3.
+D: INFORMACJE DOTYCZĄCE PODWYKONAWCÓW , NA KTÓRYCH ZDOLNOŚCI WYKONAWCA NIE POLEGA
+(Sekcja, którą należy wypełnić jedynie w przypadku gdy instytucja zamawiająca lub podmiot
+zamawiający wprost tego zażąda.)
+Podwykonawstwo:  Odpowiedź:  Wykonawca może zlecić wykonanie
+zamówienia bądź jego wyodrębnionej części
+podwykonawcy , chyba że  zamawiający
+dokonał stosownego zastrzeżenia zgodnie z
+art. 60 lub art. 121 ustawy Pzp lub ma
+zastosowanie art. 214 ust. 9 ustawy Pzp .
+W sytuacji , gdy wskazane zastrzeżenie nie
+zostało dokonane przez zamawiającego , a
+wykonawca zamierza zlecić wykonanie
+całości bądź części zamówienia
+podwykonawcom, zakreśla on w formularzu
+odpowiedź „Tak”, w skazując jednocześnie
+wykaz proponowanych przez siebie
+podwykonawców i identyfikuj ąc ich.
+Informacje o podwykonawcach zawarte
+w  tym miejscu formularza JEDZ służą
+podmiotowej weryfikacji wykonawców
+(poprzez sprawdzenie podwykonawców) .
+Zgodnie z art. 462 ust. 5 ustawy Pzp
+zamawiając y może  żądać , by wykonawca,
+który zamierza powierzyć wykonanie części
+zamówienia podwykonawcom, złoży ł
+jednolite dokumenty w celu wykazania braku
+podstaw do wykluczenia z postępowani a Czy wykonawca zamierza zlecić osobom trzecim
+podwykonawstwo jakiejkolwiek części
+zamówienia?  [] Tak [] Nie
+Jeżeli tak i o ile jest to wiadome , pros zę podać
+wykaz proponowanych podwykonawców:
+dotyczące podwykonawców (stwierdzenie
+istnienia podstawy do wykluczenia
+dotyczącej podwykonawcy nie skutkuje
+jednak wykluczeniem wykonawcy z
+postępowania, tylko brakiem możl iwości
+dopuszczenia do realizacji zamówienia
+negatywnie zweryfikowanego
+podwykonawcy).
+W takim wypadku  wykonawc a składa  osobn y
+formularz JEDZ  dla każdego ze wskazanych
+podwykonawców, wypełnion y przez
+podwykonawcę w zakresie podstaw
+wykluczenia (część III)  i przez niego
+(podwykonawcę)  podpisan y.
+Jeśli zamawiający nie weryfikuje
+podwykonawców pod kątem braku istnienia
+podstaw do wykluczenia (nie przewidział
+takiej możliwości w dokumentach
+zamówieni a) wykonawcy także powinni
+udzielić odpowiedzi w tym miejscu
+formularza dotyczącej podwykonawców.
+W  takiej sytuacji jednak wykonawcy nie mają
+obowiązku składania odrębnych formularzy
+JEDZ dla wskazanych przez siebie
+podwykonawców.
+Jeżeli instytucja zamawiająca lub podmiot zamawiający wyraźnie żąda przedstawienia tych
+informacji  oprócz informacji wymaganych w niniejszej sekcji, proszę przedstawić – dla każdego
+podwykonawcy (każdej kategorii podwykonawców), których to dotyczy – informacje wymagane w
+niniejszej części sekcja A i B oraz w części III.
+Część III: Podstawy wykluczenia
+A: PODSTAWY ZWIĄZANE Z WYROKAMI SKAZUJĄCYMI ZA PRZESTĘPSTWO
+W art. 57 ust. 1 dyrektywy 2014/24/UE określono następujące powody wykluczenia:
+1. udział w organizacji przestępczej  (13);
+2. korupcja  (14);
+3. nadużycie finansowe  (15);
+4. przestępstwa terrorystyczne lub przestępstwa związane z działalnością terrorystyczną  (16)
+5. pranie pieniędzy lub finansowanie terroryzmu  (17)
+6. praca dzieci  i inne formy handlu ludźmi  (18).
+Podstawy związane z wyrokami skazującymi za
+przestępstwo na podstawie przepisów
+krajowych stanowiących wdrożenie podstaw
+określonych w art. 57 ust. 1 wspomnianej
+dyrektywy:  Odpowiedź:  Przepis art. 57 ust. 1 dyrektywy  został
+wdrożony w treści  art. 108 ust. 1 pkt 1 i 2
+ustawy  Pzp, z tym że katalog przestępstw
+przewidzianych w w/w przepisach ustawy
+Pzp jest szerszy w stosunku do
+wynikającego z treści art. 57 ust. 1
+dyrektywy . Czy w stosunku do samego wykonawcy  bądź
+jakiejkolwiek  osoby będącej członkiem organów
+administracyjnych, zarządzających lub [] Tak [] Nie
+13 Zgodnie z definicją zawartą w art. 2 decyzji ramowej Rady 2008/841/WSiSW z dnia 24 października 2008 r. w sprawie zwalczania przestępczości zorganizowanej (Dz.U. L 300 z 11.11.2008, s. 42).
+14 Zgodnie z definicją zawartą w art. 3 Konwencji w sprawie zwalc zania korupcji urzędników Wspólnot Europejskich i urzędników państw członkowskich Unii Europejskiej (Dz.U. C 195 z 25.6.1997,  s. 1) i w art.
+2 ust. 1 decyzji ramowej Rady 2003/568/WSiSW z dnia 22 lipca 2003 r. w sprawie zwalczania korupcji w sektorze prywa tnym (Dz.U. L 192 z 31.7.2003, s. 54). Ta podstawa wykluczenia obejmuje również korupcję
+zdefiniowaną w prawie krajowym instytucji zamawiającej (podmiotu zamawiającego) lub wykonawcy.
+15 W rozumieniu art. 1 Konwencji w sprawie ochrony interesów finansowych Wspólnot Europejskich (Dz.U. C 316 z 27.11.1995, s. 48).
+16 Zgodnie z definicją zawartą w art. 1 i 3 decyzji ramowej Rady z dnia 13 czerwca 2002 r. w sprawie zwalczania terroryzmu (Dz.U . L 164 z 22.6.2002, s. 3). Ta podstawa wykluczenia obejmuje również pod żeganie
+do popełnienia przestępstwa, pomocnictwo, współsprawstwo lub usiłowanie popełnienia przestępstwa, o których mowa w art. 4 tej że decyzji ramowej.
+17 Zgodnie z definicją zawartą w art. 1 dyrektywy 2005/60/WE Parlamentu Europejskiego i Rady z dnia 26 p aździernika 2005 r. w sprawie przeciwdziałania korzystaniu z systemu finansowego w celu prania
+pieniędzy oraz finansowania terroryzmu  (Dz.U. L 309 z 25.11.2005, s. 15).
+18 Zgodnie z definicją zawartą w art. 2 dyrektywy Parlamentu Europejskiego i Rady 2011/3 6/UE z dnia 5 kwietnia 2011 r. w sprawie zapobiegania handlowi ludźmi i zwalczania tego procederu oraz ochrony
+ofiar , zastępującej decyzję ramową Rady 2002/629/WSiSW (Dz.U. L 101 z 15.4.2011, s. 1).
+nadzorczych wykonawcy, lub posiadającej w
+przedsiębiorstwie wykonawcy uprawnienia do
+reprezentowania, uprawnienia decyzyjne lub
+kont rolne, wydany został prawomocny wyrok  z
+jednego z wyżej wymienionych powodów,
+orzeczeniem sprzed najwyżej pięciu lat lub w
+którym okres wykluczenia określony
+bezpośrednio w wyroku nadal obowiązuje?  Jeżeli odnośna dokumentacja jest dostępna w
+formie elektronicznej, proszę wskazać: (adres
+internetowy, wydający urząd lub organ, dokładne
+dane referencyjne dokumentacji):
+[……][……][……][……]  (19) W my śl w/w przepisów ustawy Pzp
+weryfikacji pod kątem niekaralności
+podlegają osoby skazane za przestępstwa :
+(a) udziału w zorganizowanej grupie
+przestępczej albo związku mającym
+na celu popełnienie przestępstwa lub
+przestępstwa skarb owego, o którym
+mowa w  art. 258  Kodeksu karnego
+(Dz. U. z 2020 r. poz. 1444 i 1517) ,
+(b) handlu ludźmi, o którym mowa w  art.
+189a  Kodeksu karnego,
+(c) o którym mowa w art. 228 -230a, art.
+250a  Kodeks u karnego  lub w art. 46
+lub art. -48 ustawy z dnia 2 5 czerwca
+2010 r. o sporcie (Dz.U. z 2020 r.
+poz. 1133 oraz z 2021 r. poz. 2054)
+lub w art. 54 ust. 1 -4 ustawy z dnia 12
+maja 2011 r. o refundacji leków,
+środków spożywczych specjalnego
+przeznaczenia żywieniowego oraz
+wyrobów medycznych (Dz.U. z 2021
+r. poz . 523, 1292, 1559 i 2054) (Dz. U.
+z 2020r., poz.  1133),
+(d) finansowania przestępstwa o
+charakterze terrorystycznym, o
+którym mowa w  art. 165a  Kodeksu
+karnego, lub przestępstwo
+udaremniania lub utrudniania
+stwierdzenia przestępnego
+pochodzenia pieniędzy lub ukrywania
+19 Proszę powtórzyć tyle razy, ile jest to konieczne.
+ich pochodzenia, o którym mowa
+w art. 299  Kodeksu karnego,
+(e) o charakterze terrorystycznym , o
+którym mowa w art. 115 § 20
+Kodeks u karnego, lub mające na celu
+popełnienie tego przestępstwa,
+(f) powierzenia wykonywania pracy
+małoletniemu cudzoziemcowi, o
+którym mowa w  art. 9 ust. 2  ustawy z
+dnia 15 czerwca 2012 r. o skutkach
+powierzania wykonywania pracy
+cudzoziemcom przebywającym
+wbrew przepisom na terytorium
+Rzeczypospolitej Polskiej (Dz.U.  poz.
+769),
+(g) przeciwko obrotowi gospodarczemu,
+o których mowa w  art. 296 -
+307 Kodeksu karnego, przestępstwo
+oszustwa, o którym mowa w  art.
+286 Kodeksu karnego, przestępstwo
+przeciwko wiarygodności
+dokumentów, o których mowa w  art.
+270-277d  Kodeksu karnego, lub
+przestępstwo skarbowe.
+(h) o którym mowa w art. 9 lub art. 10
+ustawy z dnia 15 cze rwca 2012 r. o
+skutkach powierzania wykonywania
+pracy cudzoziemcom przebywającym
+wbrew przepisom na terytorium
+Rzeczypospol itej Polskiej (Dz. U. poz.
+769) (w tym przypadku mamy do
+czynienia z  implementacj ą dyrektywy
+Parlamentu Europejskiego i Rady
+2009/52/WE z dnia 18 czerwca 2009
+r. przewidującej minimalne normy w
+odniesieniu do kar i środków
+stosowanych wobec pracodawców
+zatrudniających nieleg alnie
+przebywaj ących obywateli krajów
+trzecich).
+Szczegółowy katalog przestępstw, o których
+mowa w  art. 108 ust. 1 pkt 1 ustawy, wraz z
+przyporządkowaniem właściwych rubryk
+formularza, znajduje się w załączniku  do
+instrukcji.
+W tym miejscu formularza wykonawca składa
+oświadczenie dotyczące niekaralności
+jedynie w zakresie konkretnych, poniżej
+wskazanych przestępstw, których dotyczą
+przesłanki ustawowe z art. 108 ust. 1 pkt 1 i
+pkt 2 ustawy Pzp, a które jednocześ nie
+stanowią implementację art. 57 ust. 1
+dyrektywy, tj.:
+(1) udział w organizacji przestępczej ,
+czyli na gruncie prawa krajowego –
+art. 258 Kodeksu karnego ;
+(2) korupcja , czyli art. 228 -230a lub 250a
+Kodeksu karnego , lub art. 46 lub art.
+48 ustawy o sporcie  lub art. 54 ust. 1 -
+4 ustawy o refundacji leków, środków
+spożywczych specjalnego
+przeznaczenia żywieniowego oraz
+wyrobów medycznych ;
+(3) nadużycie finansowe  – przestępstwo
+oszustwa, o którym mowa w  art.
+286 Kodeksu karnego, jak również
+przestępstwa skarbowe, o których
+mowa w art. 108 ust. 1 pkt 1 lit. g)
+ustawy ;
+(4) przestępstwa terrorystyczne lub
+przestępstwa związane z
+działalnością terrorystyczną , czyli
+przestępstwa  o charakterze
+terrorystycznym, o których mowa w
+art. 24 ust. 1 pkt 13 li t. c) ustawy ;
+(5) pranie pieniędzy lub finansowanie
+terroryzmu  – art. 299 lub art. 165a
+Kodeksu karnego ;
+(6) praca dzieci i inne formy handlu
+ludźmi  – powierzeni e wykonywania
+pracy małoletniemu cudzoziemcowi, o
+którym mowa w  art. 9 ust. 2  ustawy o
+skutkach powie rzania wykonywania
+pracy cudzoziemcom przebywającym
+wbrew przepisom na terytorium
+Rzeczypospolitej Polskiej , oraz
+handel ludźmi, o którym mowa w art.
+189a Kodeksu karnego .
+Pozostałe podstawy wykluczenia z art. 108
+ust. 1 pkt 1 i 2 ustawy Pzp, które nie stanowią
+wdrożenia art. 57 ust. 1 dyrektywy, należy
+uwzględnić w innych sekcjach tej części
+formularza:
+• w sekcji C w podsekcji dotyczącej
+naruszenia obowiązków w
+dziedzinie  prawa środowiska,
+prawa socjalnego i prawa pracy
+o przestępstwo, o kt órym mowa
+w art. 9 ust. 1 i 3 lub art. 10
+ustawy z dnia 15 cze rwca
+2012 r. o skutkach
+powierzania wykonywania
+pracy cudzoziemcom
+przebywającym wbrew
+przepisom na terytorium
+Rzeczypospol itej Polskiej);
+• w sekcji D dotyczącej krajowych
+podstaw wykluczenia:
+o przestępstwa przeciwko
+wiarygodności dokumentów
+wymienione w art. 270 – 277d
+Kodeksu karnego;
+o przestępstwa przeciwko
+obrotowi gospodarczemu
+wymienione w przepisach art.
+296 – 307 Kodeksu karnego –
+z wyjątkiem art. 299 (pranie
+pieniędzy) .
+Jeżeli tak , proszę podać  (20):
+a) datę wyroku, określić, których spośród
+punktów 1 –6 on dotyczy, oraz podać powód /-
+ody) skazania;
+b) wskazać, kto został skazany [ ];
+c) w zakresie, w jakim zostało to bezpośrednio
+ustalone w wyroku:
+a) data: [   ], punkt( -y): [   ], powód( -ody): [   ]
+b) [……]
+c) długość okresu wykluczenia [……] oraz punkt( -
+y), które go(-ych) to dotyczy.
+Jeżeli odnośna dokumentacja jest dostępna w
+formie elektronicznej, proszę wskazać: (adres
+internetowy, wydający urząd lub organ, dokładne
+dane referencyjne dokumentacji):
+[……][……][……][……]  (21) W przypadku prawomocnego skazania za
+jedno z wymienionych przestępstw, o których
+mowa w art. 57 ust. 1 dyrektywy, należy
+wskazać datę wyroku  dotyczącego
+przestępstwa, przyporządkowując
+jednocześnie konkretne przestępstwo
+wymienione we wskazanym przepisie
+dyrektywy w pkt  1- 6 (zob. wyżej) .
+Jeśli wyrok skazujący określa okres
+wykluczenia z udziału w postępowaniach o
+udzielenie zamówienia publiczne go, tę
+informację również należy wskazać w tej
+sekcji formularza.
+Polski system e -KRK umożliwia zasadniczo
+public znym zamawiającym pozyskanie
+informacji o konkretnych osobach, jednakże
+w takim przypadku koniecznym jest złożenie
+wniosku o udzielenie takiej informacji
+zawierającego szczegółowe dane (np.
+nazwisko rodowe  osoby, której dotyczy
+zapytanie), których zamawiaj ący nie będzie
+posiadał w odniesieniu do osób
+weryfikowanych co do niekaralności po
+stronie wykonawcy. W związku z powyższym
+w przypadku polskiego KRK według
+aktualnego stanu prawnego brak jest
+możliwości pozyskania takiego dokumentu
+w  formie elektroniczn ej.
+20 Proszę powtórzyć tyle razy, ile jest to konieczne.
+21 Proszę powtórzyć tyle razy, ile jest to konieczne.
+W przypadku skazania, czy wykonawca
+przedsięwziął środki w celu wykazania swojej
+rzetelności pomimo istnienia odpowiedniej
+podstawy wykluczenia  (22)
+(„samooczyszczenie” )? [] Tak [] Nie  Zgodnie z art. 110 ust. 2 ustawy wykonawca
+nie podlega wykluczeniu w okolicznościach
+określonych w  art. 108 ust. 1 pkt 1 , 2 i 5 lub
+art. 109 ust. 1 pkt 2 -5 i 7-10, jeżeli u dowod ni
+zamawiającemu , że spełnia łącznie
+następujące warunki:
+- naprawił lub zobowiązał się do naprawienia
+szkody wyrządzonej prz estępstwem,
+wykroczeniem lub swoim nieprawidłowym
+postępowaniem, w tym poprzez
+zadośćuczynienie pieniężne;
+- wyczerpująco wyjaśnił fakty i okoliczności
+związane z przestępstwem, wykroczeniem
+lub swoim nieprawidłowym postępowaniem
+oraz spowodowanymi przez n ie szkodami,
+aktywnie współpracując odpowiednio z
+właściwymi organami, w tym organami
+ścigania, lub zamawiającym;
+- podjął konkretne środki techniczne,
+organizacyjne i kadrowe, odpowiednie dla
+zapobiegania dalszym przestępstwom,
+wykroczeniom lub nieprawidł owemu
+postępowaniu, w szczególności:
+a) zerwał wszelkie powiązania z osobami lub
+podmiotami odpowiedzialnymi za
+nieprawidłowe postępowanie wykonawcy,
+b) zreorganizował personel,  Jeżeli tak , proszę opisać przedsięwzięte środki
+(23): [……]
+22 Zgodnie z przepisami krajowymi wdrażającymi art. 57 ust. 6 dyrektywy 2014/24/UE.
+23 Uwzględniając charakter popełnionych przestępstw (jedn orazowe, powtarzające się, systematyczne itd.), objaśnienie powinno wykazywać stosowność przedsięwziętych środków.
+c) wdrożył system sprawozdawczości i
+kontroli,
+d) utworzył struktury audytu we wnętrznego
+do monitorowania przestrzegania przepisów,
+wewnętrznych regulacji lub standardów,
+e) wprowadził wewnętrzne regulacje
+dotyczące odpowiedzialności i odszkodowań
+za nieprzestrzeganie przepisów,
+wewnętrznych regulacji lub standardów.
+Zamawiający, stosownie do treści art. 110
+ust. 3 ustawy  Pzp, uwzględniając wag ę i
+szczególne okoliczności  czynu wykonawcy,
+oceni  dowody wykaz ane przez wykonawcę
+w  formularzu  powyżej. Jeżeli  uzna je za
+wystarczające , wykonawca nie będzie
+podlegał wykluczeniu.
+B: PODSTAWY ZWIĄZANE Z PŁATNOŚCIĄ PODATKÓW LUB SKŁADEK NA UBEZPIECZENIE SPOŁECZNE
+Płatność podatków lub składek na
+ubezpieczenie społeczne:  Odpowiedź:
+Czy wykonawca wywiązał się ze wszystkich
+obowiązków dotyczących płatności podatków
+lub składek na ubezpieczenie społeczne ,
+zarówno w państwie, w którym ma siedzibę, jak i
+w państwie członkowskim instytucji
+zamawiającej lub podmiotu zamawiającego,
+jeżeli jest ono inne niż państwo siedziby?  [] Tak [] Nie  W tym miejscu formularza wykonawca składa
+oświadczenie o wywiązywaniu się z
+obowiązków publicznoprawnych dotyczących
+płatności podatków i składek na
+ubezpieczenia, nienależnie od tego,  czy
+mamy do czynienia z prz esłanką
+obligatoryjną wykluczenia wykonawcy (art.
+108 ust. 1 pkt 3 ustawy Pzp), czy też z
+przesłanką fakultatywną  (art. 109 ust. 1 pkt 1
+ustawy Pzp). Oczywiście w sytuacji, gdy
+zmawiający nie dopuścił w postępowaniu
+przesłanki f akultatywnej , oświadczenie
+wykonawcy dotyczy wyłącznie przesłanki
+obligatoryjnej.
+Dalszą część formularza  dotyczącą płatności
+podatków i składek na ubezpieczenia
+wykonawca wypełnia jedynie w sytuacji, gdy
+w tym miejscu zakreślił odpowiedź „Nie” .
+Jeżeli nie , proszę wskazać:
+a) państwo lub państwo członkowskie, którego to
+dotyczy;
+b) jakiej kwoty to dotyczy?
+c) w jaki sposób zostało ustalone to naruszenie
+obowiązków:
+1) w trybie decyzji  sądowej lub administracyjnej:
+– Czy ta decyzja jest ostateczna i
+wiążąca?  Podatki  Składki na
+ubezpieczenia
+społeczne  W przypa dku określonych zaległości
+publicznoprawnych wykonawca jest
+zobowiązany do wskazania konkretnych
+informacji określonych w formularzu JEDZ
+(określone w lit . od a) do d)).
+Formularz wymaga odrębnego określenia
+podstaw do wykluczenia dla przesłanki
+obligatory jnej z art. 108 ust. 1 pkt 3 ustawy
+Pzp (pkt 1 )) i fakultatywnej z art. 109 ust. 1
+pkt 1 ustawy Pzp (pkt 2 )).
+a) [……]
+b) [……]
+c1) [] Tak [] Nie
+– [] Tak [] Nie
+a) [……]
+b) [……]
+c1) [] Tak [] Nie
+– [] Tak [] Nie
+ w narzędziu do elektronicznego wypełniania formularza JEDZ/ESPD dostępnym pod adresem https://esp d.uzp.gov.pl/  pytania zostały sformułowane w następujący sposób: „ Czy wykonawca dopuścił się naruszenia
+swoich obowiązków dotyczących płatności podatków  lub płatności składek na ubezpieczenie społeczne, zarówno w państwie, w którym ma siedzibę, jak i w pań stwie członkowskim instytucji zamawiającej lub podmiotu
+zamawiającego, jeżeli jest ono inne niż państwo siedziby? ” Korzystając zatem z tego narzędzia,  wykonawca wypełnia  dalszą część formularza dotyczącą płatności podatków i składek na ubezpieczenia jedyni e w sytuacji,
+gdy w tym miejscu za znaczył  odpowiedź „ Tak”.
+– Proszę podać datę wyroku lub
+decyzji.
+– W przypadku wyroku, o ile
+została w nim bezpośrednio
+określona , długość okresu
+wykluczenia:
+2) w inny sposób ? Proszę sprecyzować, w jaki:
+d) Czy wykonawca spełnił lub spełni swoje
+obowiązki, dokonując płatności należnych
+podatków lub składek na ubezpieczenie
+społeczne, lub też zawierając wiążące
+porozumienia w celu spłaty tych należności,
+obejmujące w stosownych przypadkach narosłe
+odsetki lub grzywny?  – [……]
+c2) [ …]
+d) [] Tak [] Nie
+Jeżeli tak , proszę
+podać szczegółowe
+informacje na ten
+temat:
+c2) [ …]
+d) [] Tak [] Nie
+Jeżeli tak , proszę
+podać szczegółowe
+informacje na ten
+temat:
+Informacje zawarte w lit. d) odnoszą się do
+okoliczności związanych z zastosowaniem
+przez wykonawcę określonych środków
+naprawczych co do wykazania braku
+podstaw do wykluczenia  z postępowania
+w  oparciu o obydwie przesłanki – tak
+obligatoryjną, jak i fakultatywną.
+Jeżeli odnośna dokumentacja dotycząca płatności
+podatków lub składek na ubezpieczenie
+społeczne jest dostępna w formie elektronicznej,
+proszę wskazać:  (adres internetowy, wydający urząd lub organ,
+dokładne dane referencyjne dokumentacji): (24)
+[……][……][……]  W Polsce a ni administracja podatkowa, ani
+Zakład Ubezpieczeń Społecznych nie
+umożliwiają podmiotom trzecim, w tym
+zamawiającym, uzyskania zaświadczeń lub
+odpowiednich informacji bezpośrednio za
+pomocą bezpłatnej bazy danych.
+24 Proszę powtórzyć tyle razy, ile jest to konieczne.
+C: PODSTAWY ZWIĄZANE Z NIEWYPŁACALNOŚCIĄ , KONFLIKTEM INTERESÓW LUB WYKROCZENIAMI ZAWODOWYMI25
+Należy zauważyć, że do celów niniejszego zamówienia niektóre z poniższych podstaw wykluczenia
+mogą być zdefiniow ane bardziej precyzyjnie w prawie krajowym, w stosownym ogłoszeniu lub w
+dokumentach zamówienia. Tak więc prawo krajowe może na przykład stanowić, że pojęcie
+„poważnego wykroczenia zawodowego” może obejmować kilka różnych postaci zachowania
+stanowiącego wy kroczenie.
+Informacje dotyczące ewentualnej
+niewypłacalności, konfliktu interesów lub
+wykroczeń zawodowych  Odpowiedź:
+Czy wykonawca, wedle własnej wiedzy , naruszył
+swoje obowiązki  w dziedzinie prawa
+środowiska, prawa socjalnego i prawa pracy
+(26)? [] Tak [] Nie  Wykonawca w tym miejscu formularza składa
+oświadczenie w zakresie konkretnych
+podst aw do wykluczenia z postępowani a
+wynikających z dyrektywy i wdrożonych
+przepisów ustawy Pzp.
+W ustawie Pzp przewidziano przesłanki
+obligatoryjne i fakultatywne do badania
+podstaw wykluczenia wykonawcy z
+postępowania, które wiążą się z naruszeniem
+obowiązków w dziedzinie ochrony
+środowiska, prawa socjalnego i prawa pracy.
+W ramach przesłanek obligatoryjnych
+ustawodawca przewidział  w art. 108 ust. 1
+pkt 1  lit. h) i pkt 2  ustawy Pzp podstawy do
+wykluczenia z postępowania wykonawcy,
+jeśli osoby występujące po jego stronie
+zostały ukarane za przestępstwo, o którym
+25 Zob. art. 57 ust. 4 dyrektywy 2014/24/WE.
+26 O których mowa, do celów niniejszego zamówienia, w prawie krajowym, w stosownym ogłoszeniu lub w d okumentach zamówienia bądź w art. 18 ust. 2 dyrektywy 2014/24/UE.
+mowa w art. 9 ust. 1 i 3 lub art. 10 ustawy z
+dnia 15 cze rwca 2012 r. o skutkach
+powierzania wykonywania pracy
+cudzoziemcom przebywającym wbrew
+przepisom na terytorium Rzeczypospol itej
+Polskiej (Dz. U. poz. 769).
+Wykluczenie na tej podstawie  jest
+obowiązkowe. Wykonawca zawsze składa
+oświadczenie w tym zakresie.
+W ramach przesłanek faku ltatywnych
+ustawodawca przewidział w art. 109 ust. 1
+pkt 2 i 3 ustawy Pzp podstawy do
+wykluczenia z postępowania wykonawcy,
+jeśli:
+• osoby występujące po stronie
+wykonawcy zostały prawomocnie
+skazane za przestępstwo, o którym
+mowa w art. 181 -188 [przestępstw a
+przeciwko środowisku] i 218 -221
+[przestępstwa przeciwko prawom
+osób wykonujących pracę zarobkową]
+Kodeksu karnego.
+• osoby występujące po jego stronie
+zostały prawomocnie ukarane  za
+wykroczenie przeciwko prawom
+pracownika lub wykroczenie
+przeciwko środowis ku, jeżeli za jego
+popełnienie wymierzono karę aresztu,
+ograniczenia wolności lub karę
+grzywny;
+• wobec wykonawcy wydano
+ostateczną decyzję administracyjną o
+naruszeniu obowiązków wynikających
+z przepisów prawa pracy, prawa
+ochrony środowiska lub przepisów o
+zabezpieczeniu społecznym, jeżeli
+wymierzono tą decyzją karę
+pieniężną .
+Wskazana powyżej podstawa do
+wykluczenia  z postępowania ma charakter
+fakultatywny, tzn. zamawiający może ją
+przewidzieć do badania wykonawców
+w  treści ogłoszeni a o zamówieniu lub
+w  dokumentach  zamówienia.
+Wykonawca wypełnia formularz co do tej
+podstawy  tylko w sytuacji , gdy zamawiający
+przewidział taką podstawę wykluczenia.
+Jeżeli tak , czy wykonawca przedsięwziął środki w
+celu wykazania swojej rzetelności pomimo
+istnienia odpowiedniej podstawy wykluczenia
+(„samooczyszczenie”)?
+[] Tak [] Nie
+Jeżeli tak , proszę opisać przedsięwzięte środki:
+[……]  Zgodnie z art. 110 ust. 2 ustawy Pzp
+wykonawca  nie podlega wykluczeniu w
+okolicznościach określonych w art. 108  ust. 1
+pkt 1 , 2 i 5  lub art. 109  ust. 1  pkt 2-5 i 7-10,
+jeżeli  udowodni zamawiającemu, że spełnia
+łącznie następujące warunki:
+- naprawił lub zobowiązał się do naprawienia
+szkody wyrządzonej przestępstwem,
+wykroczeniem lub swoim nieprawidłowym
+postępowaniem, w tym poprzez
+zadośćuczynienie pieniężne;
+- wyczerpująco wyjaśnił fak ty i okoliczności
+związane z przestępstwem, wykroczeniem
+lub swoim nieprawidłowym postępowaniem
+oraz spowodowanymi przez nie szkodami,
+aktywnie współpracując odpowiednio z
+właściwymi organami, w tym organami
+ścigania, lub zamawiającym;
+- podjął konkretne ś rodki techniczne,
+organizacyjne i kadrowe, odpowiednie dla
+zapobiegania dalszym przestępstwom,
+wykroczeniom lub nieprawidłowemu
+postępowaniu, w szczególności:
+a) zerwał wszelkie powiązania z osobami lub
+podmiotami odpowiedzialnymi za
+nieprawidłowe postępow anie wykonawcy,
+b) zreorganizował personel,
+c) wdrożył system sprawozdawczości i
+kontroli,
+d) utworzył struktury audytu wewnętrznego
+do monitorowania przestrzegania przepisów,
+wewnętrznych regulacji lub standardów,
+e) wprowadził wewnętrzne regulacje
+dotycz ące odpowiedzialności i odszkodowań
+za nieprzestrzeganie przepisów,
+wewnętrznych regulacji lub standardów.
+Zamawiający, stosownie do treści
+art. 110 ust. 3 ustawy Pzp, uwzględniając
+wagę i szczególne okoliczności czynu
+wykonawcy, oceni dowody wykazane pr zez
+wykonawcę w formularzu powyżej. Jeżeli
+uzna je za wystarczające , wykonawca nie
+będzie podlegał wykluczeniu.
+Czy wykonawca znajduje się w jednej z
+następujących sytuacji:
+a) zbankrutował ; lub
+b) prowadzone jest wobec niego postępowanie
+upadłościowe  lub likwidacyjne; lub
+c) zawarł układ z wierzycielami ; lub
+d) znajduje się w innej tego rodzaju sytuacji
+wynikającej z podobnej procedury przewidzianej
+w krajowych przepisach ustawowych i
+wykonawczych  (27); lub
+e) jego aktywami zarządza likwidator lub sąd; lub
+f) jego działalność gospodarcza jest zawieszona?
+Jeżeli tak:
+– Proszę podać szczegółowe informacje:
+– Proszę podać powody, które pomimo
+powyższej sytuacji umożliwiają
+realizację zamówienia, z
+uwzględnieniem mających
+zastosowani e przepisów krajowych i
+środków dotyczących kontynuowania
+działalności gospodarczej  (28)?
+Jeżeli odnośna dokumentacja jest dostępna w
+formie elektronicznej, proszę wskazać:  [] Tak [] Nie
+(adres internetowy, wydający urząd lub org an,
+dokładne dane referencyjne dokumentacji):
+[……][……][……]  Na mocy art. 109 ust. 1 pkt 4 ustawy Pzp
+zamawiający może wykluczyć z
+postępowania o udzielenie zamówienia
+publicznego wykonawcę, w stosunku do
+którego otwarto likwidację , ogłoszono
+upadłość, którego aktywami zarządza
+likwidator lub sąd, zawarł układ z
+wierzycielami, którego działalność
+gospodarc za jest zawieszona albo znajduje
+się on w innej tego rodzaju sytuacji
+wynikającej z podobnej procedury
+przewidzianej w przepisach miejsca
+wszczęcia tej procedury .
+Wskazana podstawa do wykluczenia  z
+postępowania ma charakter fakultatywny,
+tzn. zamawiający może ją przewidzieć do
+badania wykonawców w treści ogłoszeni a o
+zamówieniu  lub w dokumentach  zamówienia.
+Wykonawca wypełnia formularz w tym
+zakresie tylko  w sytua cji, gdy zamawiający
+przewidział taką podstawę wykluczenia.
+Szczegółowe pytania zawarte w tym zakresie
+w formularzu JEDZ należy oceniać przez
+pryzmat w/w podstawy do wykluczenia
+27 Zob. przepisy krajowe, stosowne ogłoszenie lub dokumenty zamówienia.
+28 Nie trzeba podawać tych informacji, jeżeli wykluczenie wykonawców w jednym z przypadków wymienionych w lit. a) –f) sta ło się obowiązkowe na mocy obowiązującego prawa krajowego bez żadnej
+możliwości odstępstwa w sytuacji, gdy wykonawcy są pomimo to w stanie zrealizować zamówienie.
+wykonawcy z postępowania , określonej
+w  ustawie Pzp
+Czy wykonawca jest winie n poważnego
+wykroczenia zawodowego  (29)?
+Jeżeli tak, proszę podać szczegółowe informacje
+na ten temat:  [] Tak [] Nie
+[……]  W tym miejscu formularza wykonawca składa
+oświadczenie o zaistnieniu bądź braku
+zaistnienia wobec niego  podstawy
+wykluczenia dotyczą cej poważnego
+wykroczenia zawodowego.
+„Poważne wykroczenie zawodowe” na
+gruncie prawa unijnego rozumiane jest
+szeroko i obejmuje wszelkie zawinione
+uchybienia, które wpływają na wiarygodność
+zawodową danego wykonawcy, w tym
+naruszenia norm deontologicznych
+obowiązujących w zawodzie wykonywanym
+przez wykonawcę, które stwierdzane są
+przez organ dyscyplinarny ustanowiony dla
+tego zawodu lub w prawomocnym
+orzeczeniu sądowym . W tym kontekście
+należy uznać, że pojęcie „poważnego
+wykroczenia zawodowego” obejmuje także
+przestępstwa, stwierdzone prawomocnym
+wyrokiem, które mogą mieć wpływ na
+wiary godność zawodową wykonawcy.
+Na podstawie art. 109 ust. 1 pkt 5 ustawy
+zamawiający może wykluczyć z
+postępowania o udzielenie zamówienia
+publicznego wykonawcę , który w sposób
+zawiniony poważnie naruszył obowiązki
+29 W stosownych przypadkach zob. definicje w prawie krajowym, stosownym ogłoszeniu lub dokumen tach zamówienia.
+ por. wyrok Trybunału Sprawiedliwości UE z dnia 13 grudnia 2012 r. w sprawie C -465/11 Forposta SA i ABC Direct Contact sp. z o.o. przeciwko Poczta Polska SA , ECLI:EU:C:2012:801, pkt 27
+zawodowe, co podważa jego uczciwość,
+w  szczególności, gdy wykonawca w wyniku
+zamierzonego działania lub rażącego
+niedbalstwa nie wykonał lub nienależycie
+wykonał zamówi enie publiczne, co
+zamawiający jest w stanie wykazać za
+pomocą stosownych środków dowodowych .
+Wskazana podstawa do wykluczenia  z
+postępowania ma charakter fakultatywny,
+tzn. zamawiający może ją przewidzieć do
+badania wykonawców w treści ogłoszeni a o
+zamów ieniu  lub w dokumentach  zamówienia.
+Wykonawca wypełnia formularz w tym
+zakresie tylko  w sytuacji , gdy zamawiający
+przewidział taką podstawę wykluczenia.
+Jeżeli tak , czy wykonawca przedsięwziął środki w
+celu samooczyszczenia?
+[] Tak [] Nie
+Jeżeli tak , proszę opisać przedsięwzięte środki:
+[……]  Zgodnie z art. 110 ust. 2 ustawy Pzp
+wykonawca  nie podlega wykluczeniu w
+okolicznościach określonych w art. 108  ust. 1
+pkt 1 , 2 i 5  lub art. 109  ust. 1  pkt 2-5 i 7-10,
+jeżeli  udowodni zamawiającemu, że spełnia
+łącznie następujące warunki:
+- naprawił lub zobowiązał się do naprawienia
+szkody wyrządzonej przestępstwem,
+wykroczeniem lub swoim nieprawidłowym
+postępowani em, w tym poprzez
+zadośćuczynienie pieniężne;
+- wyczerpująco wyjaśnił fakty i okoliczności
+związane z przestępstwem, wykroczeniem
+lub swoim nieprawidłowym postępowaniem
+oraz spowodowanymi przez nie szkodami,
+aktywnie współpracując odpowiednio z
+właściwymi organami, w tym organami
+ścigania, lub zamawiającym;
+- podjął konkretne środki techniczne,
+organizacyjne i kadrowe, odpowiednie dla
+zapobiegania dalszym przestępstwom,
+wykroczeniom lub nieprawidłowemu
+postępowaniu, w szczególności:
+a) zerwał wszelkie powią zania z osobami lub
+podmiotami odpowiedzialnymi za
+nieprawidłowe postępowanie wykonawcy,
+b) zreorganizował personel,
+c) wdrożył system sprawozdawczości i
+kontroli,
+d) utworzył struktury audytu wewnętrznego
+do monitorowania przestrzegania przepisów,
+wewnętr znych regulacji lub standardów,
+e) wprowadził wewnętrzne regulacje
+dotyczące odpowiedzialności i odszkodowań
+za nieprzestrzeganie przepisów,
+wewnętrznych regulacji lub standardów.
+Zamawiający, stosownie do treści
+art. 110 ust. 3 ustawy Pzp, uwzględniając
+wagę i szczególne okoliczności czynu
+wykonawcy, oceni dowody wykazane przez
+wykonawcę w formularzu powyżej. Jeżeli
+uzna je za wystarczające, wykonawca nie
+będzie podlegał wykluczeniu.
+Czy wykonawca  zawarł z innymi wykonawcami
+porozumienia mające na celu zakłócenie
+konkurencji ?
+Jeżeli tak , proszę podać szczegółowe informacje
+na ten temat:  [] Tak [] Nie
+[…] W tym miejscu formularza wykonawca składa
+oświadczenie co do nieuprawnionego
+porozumienia , zawartego przez niego w tym
+bądź innym postępowaniu o udzielenie
+zamówienia publicznego, które to
+porozumienie prowadzi do zakłócenia
+uczciwej konkurencji
+Mocą  art. 108 ust. 1 pkt 5 ustawy Pzp
+ustawodawca wprowadził obligatoryjną
+przesłankę do wykluczenia z postępowania o
+udzielenie zamówienia publicznego
+wykonawcy, jeżeli zamawiający może
+stwierdzić, na podstawie wiarygodnych
+przesłanek, że wykonawca zawarł z innymi
+wykonawcami porozumienie mające na celu
+zakłócenie konkurencji, w szczególności
+jeżeli należąc do tej samej grupy kapitałowej
+w rozumieniu ustawy z dnia 16 lutego 2007 r.
+o ochronie konkurencji i konsumentów,
+złożyli odrębne oferty, oferty częściowe lub
+wnioski o dopuszczenie do udziału w
+postępowaniu, chyba że wykażą, że
+przygotowali te oferty lub wnioski niezależnie
+od siebie .
+Jeżeli tak , czy wykonawca przedsięwziął środki w
+celu samooczyszczenia? [] Tak [] Nie
+Jeżeli tak , proszę opisać przedsięwzięte środki:
+[……]  Zgodnie z art. 110 ust. 2 ustawy Pzp
+wykonawca  nie podlega wykluczeniu w
+okolicznościach określonych w art. 108  ust. 1
+pkt 1 , 2 i 5  lub art. 109  ust. 1  pkt 2-5 i 7-10,
+jeżeli  udowodni zamawiającemu, że spełnia
+łącznie następujące warunki:
+- naprawił lub zobowiązał się do naprawienia
+szkody wyrządzonej przestępstwem,
+wykroczeniem lub swoim nieprawidłowym
+postępowaniem, w tym poprzez
+zadośćuczynienie pieniężne;
+- wyczerpująco wyjaśnił fakty i okoliczności
+związane z przestępstwem, wykroczeniem
+lub swoim nieprawidłowym postępowaniem
+oraz spowodowanymi przez nie szkodami,
+aktywnie współpracując odpowiednio z
+właściwymi organami, w tym organami
+ścigania, lub zamawiającym;
+- podjął konkretne środki techniczne,
+organizacyjne i kadrowe, odpowiednie dla
+zapobiegania dalszym przestępstwom,
+wykroczeniom lub nieprawidłowemu
+postępowaniu, w szczególności:
+a) zerwał wsz elkie powiązania z osobami lub
+podmiotami odpowiedzialnymi za
+nieprawidłowe postępowanie wykonawcy,
+b) zreorganizował personel,
+c) wdrożył system sprawozdawczości i
+kontroli,
+d) utworzył struktury audytu wewnętrznego
+do monitorowania przestrzegania przepis ów,
+wewnętrznych regulacji lub standardów,
+e) wprowadził wewnętrzne regulacje
+dotyczące odpowiedzialności i odszkodowań
+za nieprzestrzeganie przepisów,
+wewnętrznych regulacji lub standardów.
+Zamawiający, stosownie do treści
+art. 110 ust. 3 ustawy Pzp,  uw zględniając
+wagę i szczególne okoliczności czynu
+wykonawcy, oceni dowody wykazane przez
+wykonawcę w formularzu powyżej. Jeżeli
+uzna je za wystarczające, wykonawca nie
+będzie podlegał wykluczeniu.
+Czy wykonawca wie o jakimkolwiek konflikcie
+interesów  (30) spowodowanym jego udziałem w
+postępowaniu o udzielenie zamówienia?
+Jeżeli tak , proszę podać szczegółowe informacje
+na ten temat:  [] Tak [] Nie
+[…] W tym miejscu formularza wykonawca składa
+oświad czenie odnośnie istnienia bądź
+nieistnienia określonego konfliktu interesów
+w postępowaniu. W przypadku zaistnienia
+takiego konfliktu formularz wymaga od niego
+podania szczegółowych informacji na ten
+temat.
+Przesłanka do badania konfliktu interesów
+wskazująca na fakultatywną podstawę do
+wykluczenia z postępowania wykonawcy
+została określona w art. 109 ust. 1 pkt 6
+ustawy Pzp. Zgodnie z jego dyspozycją
+zamawiający może wyklucz yć z udziału w
+postępowaniu wykona wcę, jeżeli kierownik
+zamawiającego, członek komisji
+przetargowej oraz inne osoby wykonujące
+czynności związane z przeprowadzeniem
+postępowania o udzielenie zamówienia po
+stronie zamawiającego lub osoby mogące
+30 Wskazanym w prawie krajowym, stosownym ogłoszeniu lub dokumentach zamówienia.
+wpłynąć na wynik tego postępowania lub
+osoby u dzielające zamówienia :
+1) ubiegają się o udzielenie tego
+zamówienia;
+2) pozostają w związku małżeńskim, w
+stosunku pokrewieństwa lub powinowactwa
+w linii prostej, pokrewieństwa lub
+powinowactwa w linii bocznej do drugiego
+stopnia, lub są związane z tytułu
+przysposobienia, opieki lub kurateli albo
+pozostają we wspólnym pożyciu z
+wykonawcą, jego zastępcą prawnym lub
+członkami organów zarządzających lub
+organów nadzorczych wykonawców
+ubiegających się o udzielenie zamówienia;
+3) w okresie 3 lat przed wszczęciem
+postępowania o udzielenie zamówienia
+pozostawały w stosunku pracy lub zlecenia z
+wykonawcą, otrzymywały od wykonawcy
+wynagrodzenie z innego tytułu lub były
+członkami organów zarządzających lub
+organów nadzorczych wykonawców
+ubiegających się o udzielenie z amówienia;
+4) pozostają z wykonawcą w takim stosunku
+prawnym lub faktycznym, że istnieje
+uzasadniona wątpliwość co do ich
+bezstronności lub niezależności w związku z
+postępowaniem o udzielenie zamówienia z
+uwagi na posiadanie bezpośredniego lub
+pośredniego  interesu finansowego,
+ekonomicznego lub osobistego w określonym
+rozstrzygnięciu tego postępowania
+- chyba że jest możliwe skuteczne
+wyeliminowanie opisanego powyżej konfliktu
+interesów  w  inny sposób niż przez
+wykluczenie wykonawcy z udziału w
+postępowaniu .
+Przepis zatem zakłada w pierwszej
+kolejności możliwość eliminacji konfliktu
+interesów w inny  sposób np. poprzez
+wyłącznie z  danego zamówienia osób
+występujących po stronie zamawiającego .
+Dopiero w ostateczności, o ile nie będzie
+możliwe usunięcie w inny sposób tego
+konfliktu , zamawiający będzie miał
+obowiązek wykluczyć wykonawcę z
+postępowania w oparciu o wskazaną
+podstawę.
+Wskazana podstawa do wykluczenia  z
+postępowania ma charakter fakultatywny,
+tzn. zamawiający może ją przewidzieć do
+badania wykonawców w treści ogłoszeni a o
+zamówieniu  lub w dokumentach  zamówienia
+lub w zaproszeniu do negocjacji.
+Wykonawca wypełnia formul arz w tym
+zakresie tylko  w sytuacji , gdy zamawiający
+przewidział taką podstawę wykluczenia.
+Czy wykonawca lub przedsiębiorstwo związane z
+wykonawcą doradzał( -o) instytucji zamawiającej
+lub podmiotowi zamawiającemu bądź był( -o) w
+inny sposób zaangażowany( -e) w przygotowanie
+postępowania o udzielenie zamówienia?
+Jeżeli tak , proszę podać szczegółowe informacje
+na ten temat:  [] Tak [] Nie
+[…] W tym miejscu formularza wykonawca składa
+oświadczenie odnośnie zaangażowania
+w  ramach przygotowania danego
+postępowania o udzielenie zamówienia
+publicznego. W przypadku zaistnienia
+takiego zaangażowania prowadzącego do
+zakłócenia konkurencji w postępowaniu
+formularz wymaga od niego podania
+szczegółowych informacji na ten temat.
+Ustawodawca w art. 108 ust. 1 pkt 6 ustawy
+Pzp wprowadził w tym zakresie obligatoryjną
+przesłankę do wykluczenia wykonawcy z
+postępowania. Zgodnie z tym przepisem
+zamawiający ma obowiązek  wykluczenia z
+udziału w postępowaniu wykonawc y, jeżeli
+doszło do zakłóc enia konkurencji
+wynikającego z wcześniejszego
+zaangażowania tego wykonawcy lub
+podmiotu, który należy z wykonawcą do tej
+samej grupy kapitałowej w rozumieniu
+ustawy z dnia 16 lutego 2007 r. o ochronie
+konkurencji i konsumentów , chyba że
+spowodowane tym za kłócenie konkurencji
+może być wyeliminowane w inny sposób niż
+przez wykluczenie wykonawcy z udziału w
+postępowaniu .
+Zgodnie z art. 85 ust. 1 ustawy Pzp, jeżeli
+wykonawca lub podmiot, który należy z
+wykonawcą do tej samej grupy kapitałowej w
+rozumieniu usta wy z dnia 16 lutego 2007 r. o
+ochronie konkurencji i konsumentów (Dz.U. z
+2019 r.  poz. 369 , 1571  i 1667 ), doradzał lub
+w inny sposób był zaangażowany w
+przygotowanie postępowania o udzielenie
+tego zamówienia, zamawiający podejmuje
+odpowiednie środki w celu zagwarantowania,
+że udział tego wykonawcy w postępowaniu
+nie zakłóci konkurencji, w szczególności
+przekazuje pozostałym wykonawcom istotne
+informacje, które przekazał lub uzyskał w
+związku z zaangażowaniem wykonawcy lub
+tego podmiotu w przygotowanie
+postępowania, oraz wyznacza odpowiedni
+termin na złożenie ofert.  Na zamawiający m
+spoczywa również obowiązek  wskaz ania w
+protokole  postępowania  środków mających
+na celu  zapobieżenie zakłóceniu  konkurencji .
+W myśl art. 85 ust. 2 ustawy Pzp w ykonawca
+zaangażowany w przygotowanie
+postępowania o udzielenie zamówienia
+podlega wykluczeniu z tego postępowania
+wyłącznie w przypadku, gdy spowodowane
+tym zaangażowaniem zakłócenie konkurencji
+nie może być wyeliminowane w inny sposób
+niż przez wykluczenie wykona wcy z udziału
+w tym postępowaniu. P rzed wykluczeniem
+wykonawcy, zamawiający zapewnia temu
+wykonawcy możliwość udowodnienia, że
+jego udział w   przygotowaniu postępowania o
+udzielenie zamów ienia nie zakłóci
+konkurencji. .
+Czy wykonawca znajdował się w sytuac ji, w
+której wcześniejsza umowa w sprawie
+zamówienia publicznego, wcześniejsza umowa z
+podmiotem zamawiającym lub wcześniejsza
+umowa w sprawie koncesji została rozwiązana
+przed czasem , lub w której nałożone zostało
+odszkodowanie bądź inne porównywalne sank cje
+w związku z tą wcześniejszą umową?
+Jeżeli tak , proszę podać szczegółowe informacje
+na ten temat:  [] Tak [] Nie
+[…] W tym miejscu formularza wykonawca składa
+oświadczenie odnośnie nieprawidłowości
+w  zakresie realizacji przez niego
+wcześniejszej umowy w sprawie zamówienia
+publicznego lub umowy koncesji  w
+okolicznościach wskazanych w art. 109 ust. 1
+pkt 7 ustawy Pzp .
+Zgodnie z tym przepisem zamawiający może
+wykluczyć z postępowania o udzielenie
+zamówi enia publicznego wykonawcę, który ,
+z  przyczyn leżących po jego stronie,  w
+znacznym stopniu lub zakresie nie wykonał
+lub nienależycie wykonał albo długotrwale
+nienależycie wykonywał istotne
+zobowiązanie wynikające z  wcześniejsz ej
+umow y w sprawie zamówienia  lub umow y
+koncesji, co doprowadziło do wypowiedzenia
+lub odstąpienia od  umowy , odszkodowania ,
+wykonania zastępczego lub realizacji
+uprawnień z tytułu rękojmi za wady .
+Uwzględniając treść przepisu nie wskazuje
+się tu umów, przy których realizacji wystąpiły
+inne niż wskazane w przepisie odstępstwa
+od ich wykonania lub inne niż wskazane w
+przepisie konsekwencje.
+Wskazana podstawa do wykluczenia  z
+postępowania ma charakte r fakultatywny,
+tzn. zamawiający może ją przewidzieć do
+badania wykonawców w treści ogłoszeni a o
+zamówieniu lub w dokumentach  zamówienia
+Wykonawca wypełnia formularz w tym
+zakresie tylko  w sytuacji , gdy zamawiający
+przewidział taką podstawę wykluczenia.
+W przypadku zaistnienia takich
+nieprawidłowości  formularz wymaga od
+niego podania szczegółowych informacji na
+ten temat.
+Jeżeli tak , czy wykonawca przedsięwziął środki w
+celu samooczyszczenia?
+[] Tak [] Nie
+Jeżeli tak , proszę opisać przedsięwzięte środki:
+[……]  Zgodnie z art. 110 ust. 2 ustawy Pzp
+wykonawca  nie podlega wykluczeniu w
+okolicznościach określonych w art. 108  ust. 1
+pkt 1 , 2 i 5  lub art. 109  ust. 1  pkt 2-5 i 7-10,
+jeżeli  udowodni zamawiającemu, że spełnia
+łącznie następujące warunki:
+- naprawił lub zobowiązał się do naprawienia
+szkody wyrządzonej przestępstwem,
+wykroczeniem lub swoim nieprawidłowym
+postępowani em, w tym poprzez
+zadośćuczynienie pieniężne;
+- wyczerpująco wyjaśnił fakty i okoliczności
+związane z przestępstwem, wykroczeniem
+lub swoim nieprawidłowym postępowaniem
+oraz spowodowanymi przez nie szkodami,
+aktywnie współpracując odpowiednio z
+właściwymi organami, w tym organami
+ścigania, lub zamawiającym;
+- podjął konkretne środki techniczne,
+organizacyjne i kadrowe, odpowiednie dla
+zapobiegania dalszym przestępstwom,
+wykroczeniom lub nieprawidłowemu
+postępowaniu, w szczególności:
+a) zerwał wszelkie powią zania z osobami lub
+podmiotami odpowiedzialnymi za
+nieprawidłowe postępowanie wykonawcy,
+b) zreorganizował personel,
+c) wdrożył system sprawozdawczości i
+kontroli,
+d) utworzył struktury audytu wewnętrznego
+do monitorowania przestrzegania przepisów,
+wewnętr znych regulacji lub standardów,
+e) wprowadził wewnętrzne regulacje
+dotyczące odpowiedzialności i odszkodowań
+za nieprzestrzeganie przepisów,
+wewnętrznych regulacji lub standardów.
+Zamawiający, stosownie do treści
+art. 110 ust. 3 ustawy Pzp,  uwzględniając
+wagę i szczególne okoliczności czynu
+wykonawcy, oceni dowody wykazane przez
+wykonawcę w formularzu powyżej. Jeżeli
+uzna je za wystarczające, wykonawca nie
+będzie podlegał wykluczeniu.
+Czy wykonawca może potwierdzić, że:
+nie jest  winny poważnego wprowadzenia w błąd
+przy dostarczaniu informacji wymaganych do
+weryfikacji braku podstaw wykluczenia lub do
+weryfikacji spełnienia kryteriów kwalifikacji;  [] Tak [] Nie  W tym miejscu formularza wykonawca składa
+oświadczenie odnośnie do wprowadzenia
+w  błąd zamawiającego w postępowaniu  o
+udzielenie zamówienia .
+b) nie zataił  tych informacji;
+c) jest w stanie niezwłocznie przedstawić
+dokumenty potwierdzające wymagane przez
+instytucję zamawiającą lub podmiot
+zamawiający; oraz
+d) nie przedsięwziął kroków, aby w bezprawny
+sposób wpłynąć na proces podejmowania decyzji
+przez instytucję zamawiającą lub podmiot
+zamawiający, pozyskać informacj e poufne, które
+mogą dać mu nienależną przewagę w
+postępowaniu o udzielenie zamówienia, lub
+wskutek zaniedbania przedstawić
+wprowadzające w błąd informacje, które mogą
+mieć istotny wpływ na decyzje w sprawie
+wykluczenia, kwalifikacji lub udzielenia
+zamówie nia? Ustawodawca przewidział w tym zakresie
+fakultatywne  przesłanki do wykluczenia  z
+postępowania w art. 109 ust. 1 pkt 8-10
+ustawy Pzp. Zgodnie z tymi przepisami
+zamawiający może  wyklucz yć z udziału w
+postępowaniu:
+• wykonawc ę, który w wyniku
+zamierzonego działania lub rażącego
+niedbalstwa wprowadził
+zamawiającego w błąd przy
+przedstawieniu informacji, że nie
+podlega wykluczeniu, spełnia warunki
+udziału w postępowaniu lub kryteria
+selekcji , co mogło mieć istotny wpływ
+na decyzje podejmowane przez
+zamawiającego w postępowaniu o
+udzielenie zamówienia,  lub który
+zataił te informac je lub nie jest w
+stanie przedstawić wymaganych
+podmiotowych środków dowodowych ;
+• wykonawcę, który bezprawnie
+wpływał lub próbował wpłynąć na
+czynności zamawiającego lub
+próbował pozyskać  lub pozyskał
+informacje poufne, mogące dać mu
+przewagę w postępowaniu  o
+udzielenie zamówienia ;
+• wykonawcę, który w wyniku
+lekkomyślności lub niedbalstwa
+przedstawił informacje
+wprowadzające w błąd, co mogło
+mieć istotny wpływ na decyzje
+podejmowane przez zamawiającego
+w postępowaniu o udzielenie
+zamówienia .
+D: INNE PODSTAWY WYKLUCZENIA , KTÓRE MOGĄ BYĆ PRZEWIDZIANE W PRZEPISACH KRAJOWYCH PAŃSTWA CZŁONKOWSKIEGO INSTYTUCJI
+ZAMAWIAJĄCEJ LUB PODMIOTU ZAMAWIAJĄCEGO
+Podstawy wykluczenia o charakterze wyłącznie
+krajowym  Odpowiedź:  Ta sekcja formularza dotyczy wszystkich
+przesłanek do badania podstaw do
+wykluczenia z postępowania wykonawcy,
+które nie zostały wymienione  szczegółowo
+powyżej,  a które stanowią krajowe podstawy
+do badania podstaw wykluczenia
+wykonawców z postępowania. Powyższe
+dotyczy następujących podstaw wykluc zenia:
+• wykluczenia wykonawcy w przypadku
+skazania za przestępstw o, o którym
+mowa w art. 4 7 ustawy o sporcie;
+• wykluczenia wykonawcy w przypadku
+skazania za przestępstwa przeciwko
+wiarygodności dokumentów i
+przestępstwa przeciwko obrotowi
+gospodarczemu (art. 108 ust. 1 pkt 1
+lit. g) i pkt 2 ustawy  Pzp), tj. za
+przestępstw a, o których mowa w art.
+270- 277d Kodeksu k arnego
+[przestępstwa wiarygodności
+dokumentów ] i przestępstwa, o
+których mowa w art. 296-307
+Kodeksu karnego [przestępstwa
+przeciwko obrotowi gospodarczemu]  ,
+z wyjątkiem  przestępstw a
+udaremniania lub utrudniania
+stwierdzenia przestępnego Czy mają zastosowanie podstawy wykluczenia o
+charakterze wyłącznie krajowym  określone w
+stosownym ogłoszeniu lub w dokumentach
+zamówienia?
+Jeżeli dokumentacja wymagana w stosownym
+ogłoszeniu lub w dokumentach zamówienia jest
+dostępna w formie elektronicznej, proszę
+wskazać:  [] Tak [] Nie
+(adres internetowy, wydający urząd lub organ,
+dokładne dane referencyjne dokumentacji):
+[……][……][……]  (31)
+W przypadku gdy ma zastosowanie
+którakolwiek z podstaw wykluczenia o
+charakterze wyłącznie krajowym , czy
+wykonawca przedsięwziął środki w celu
+samooczyszczenia?
+Jeżeli tak , proszę op isać przedsięwzięte środki:  [] Tak [] Nie
+31 Proszę powtórzyć tyle razy, ile jest to konieczne.
+pochodzenia pieniędzy lub ukrywania
+ich pochodzenia, o którym mowa
+w art. 299  Kodeksu karnego  – w tym
+zakresie wykonawca powinien
+dodatkowo  wykazać ewentualne
+środki naprawcze ;
+• wykluczenia wykonawcy, wobec
+którego prawomocnie  orzeczono
+zakaz ubiegania się o zamówieni a
+publiczne (art. 108 ust. 1 pkt 4 ustawy
+Pzp); zakaz orzekany jest wobec
+podmiotu zbiorowego w oparciu o
+przepisy ustawy z dnia 28
+października 2002 r.  o
+odpowiedzialności podmiotów
+zbioro wych za czyny zabronione pod
+groźbą kary  (Dz. U. z 2016 r. poz.
+1541 oraz z 2017 r. poz. 724 i 933 ), a
+wobec osoby fizycznej w oparciu o
+przepisy Kodeks u postępowania
+karnego .
+Ponadto  mocą  art. 108 ust. 2 ustawy Pzp
+ustawodawca p rzewidział krajową
+obligatoryjną  podstawę do badania
+wykonawcy pod kątem  wykluczenia  z
+postępowania. Zgodnie z tym przepisem , w
+przypadku zamówie ń o wartości równej lub
+przekraczającej wyrażoną w złotych
+równowartość kwoty dla robót budowlanych -
+20 000 000 euro, a dla dosta w lub usług - 10
+000 000 euro,   zamawiający ma obowiązek
+wyklucz yć z udziału w postępowaniu
+wykonawców, którzy udaremnia ją lub
+utrudnia ją stwierdzenie przestępnego
+pochodzenia pieniędzy lub ukrywa ją ich
+pochodzenie, w związku z brakiem
+możliwości ustalenia beneficjenta
+rzeczywistego, w rozumieniu  art. 2 ust. 2 pkt
+1 ustawy z dnia 1 marca 2018 r. o
+przeciwdziałaniu praniu pieniędzy oraz
+finansowaniu terroryzmu (Dz.U. z 2020
+r. poz. 971i 1086) .
+W myśl  art. 55 cyt. ustawy Centralny Rejestr
+Beneficjentów Rzeczywistych, zwany dalej
+„Rejestrem”, jest systemem
+teleinformatycznym służącym przetwarzaniu
+informacji o beneficjentach rzeczywistych
+spółek wymienionych w art. 58 tej ustawy. Na
+mocy art. 58 cyt. us tawy do zgłaszania
+informacji o beneficjentach rzeczywistych i
+ich aktualizacji są obowiązane:
+1) spółki jawne;
+2) spółki komandytowe;
+3) spółki komandytowo -akcyjne;
+4) spółki z ograniczoną odpowiedzialnością;
+4a) proste spółki akcyjne (od dnia 1 marca
+2021 r.);
+5) spółki akcyjne, z wyjątkiem spółek
+publicznych w rozumieniu ustawy z dnia 29
+lipca 2005 r. o ofercie publicznej i warunkach
+wprowadzania instrumentów finansowych do
+zorganizowanego systemu obrotu oraz o
+spółkach publicznych (Dz.U. z 2019 r. poz.
+623, 1798 i 2217).
+W myśl art. 67 ustawy o przeciwdziałaniu
+praniu pieniędzy oraz finansowaniu
+terroryzmu, Rejestr jest jawny , zaś na mocy
+art. 69 i 70 tej ustawy informacje o
+beneficjentach rzeczywistych zgromadzone
+w Rejestrze są udostępniane nieodpłatni e i
+za pomocą środków komunikacji
+elektronicznej . Na podstawie art. 71 cyt.
+ustawy minister właściwy do spraw finansów
+publicznych został upoważniony do
+określenia, w drodze rozporządzenia,
+sposobu sporządzania oraz sposobu i trybu
+składania wniosków o udo stępnienie
+informacji gromadzonych w Rejestrze, a
+także sposobu, trybu i terminów
+udostępniania tych informacji, mając na
+uwadze potrzebę zapewnienia szybkiego,
+wiarygodnego i bezpiecznego dostępu do
+informacji z Rejestru. Kwestie te reguluje
+rozporządzeni e Ministra Finansów z dnia 16
+maja 2018 r. w sprawie wniosków o
+udostępnienie informacji o beneficjentach
+rzeczywistych oraz udostępniania tych
+informacji (Dz.U. z 2018 r. poz. 965).
+Rejestr jest dostępny pod adresem
+https://crbr.podatki.gov.pl/adcrbr/#/wyszukaj .
+Część IV: Kryteria kwalifikacji
+W odniesieniu do kryteriów kwalifikacji (sekcja  lub sekcje A –D w niniejszej części) wykonawca oświadcza, że:
+: OGÓLNE OŚWIADCZENIE DOTYCZĄCE WSZYSTKICH KRYTERIÓW KWALIFIKACJI
+Wykonawca powinien wypełnić to pole jedynie w przypadku gdy instytucja
+zamawiająca lub podmiot zamawiający wskazały w stosownym ogłoszeniu lub w
+dokumentach zamówienia, o których mowa w ogłoszeniu, że wykonawca może
+ograniczyć się do wypełnienia sekcji  w części IV i nie musi wypełniać żadnej z
+pozostałych sekcji w części IV:
+Spełnienie wszystkich wymaganych kryteriów
+kwalifikacji  Odpowiedź  W tym miejscu formularz JEDZ przewiduje możliwość
+złożenia przez wykonawcę ogólnego oświadczenia o
+spełnieniu warun ków udziału w postępowaniu (kryteriów
+kwalifikacji), co pozwala wykonawcy na niewypełnianie
+dalszych pół odnoszących się do szczegółowych
+warunków udziału  w postępowaniu (kryteriów
+kwalifikacji) określonych przez zamawiającego.
+Formularz JEDZ w tym przyp adku wymaga jedynie od
+zamawiającego , aby w ogłoszeniu o zamówieniu lub
+dokumentach zamówienia (SIWZ) wskazał, że
+wykonawca może ograniczyć się do wypełniania sekcji 
+części IV formularza. Decyzja w tym zakresie należy do
+zamawiającego. Tym samym , w przypadku takiego
+zastrzeżenia zamawiającego, wykonawca nie musi
+wypełniać żadnej z pozostałych sekcji  części IV
+formularza dotyczącej kryteriów kwalifikacji,  zaś
+właściw ej (dowodowej) weryfikacj i spełniania
+konkretnych, określonych przez zamawiającego ,
+warunków udziału w postępowaniu (kryteriów selekcji)
+zamawiający dokon a co do zasady na zakończenie Spełnia wymagane kryteria kwalifikacji:  [] Tak [] Nie
+postępowania w oparciu o stosown e dokument y
+składane  przez wykonawcę, którego oferta została
+oceniona najwyżej , na wezwanie zamawiającego  (art.
+126 ust. 1  ustawy Pzp) .
+Choć ustawa Pzp nie przewiduje wprost odpowiedniej,
+szczegółowej regulacji w tym zakresie, to takie ogólne
+oświadczenie o spełnianiu wszystkich wymaganych
+kryteriów kwalifikacji spełnia wymogi oświadczenia
+wykonawcy o wstępnym potwierdzeniu spełniania
+warunków udziału w postępowaniu (kryteriów
+kwalifikacji), o którym mowa w art. 125 ust. 1 i 2 ustawy
+Pzp.
+A: KOMPETENCJE
+Wykonawca powinien przedstawić informacje jedynie w przypadku gdy instytucja
+zamawiająca lub podmiot zamawiający wymagają danych kryteriów kwalifikacji w
+stosownym ogłoszeniu lub w dokumentach zamówienia, o których mowa w
+ogłoszeniu.
+Kompetencje  Odpowiedź
+1) Figuruje w odpowiednim rejestrze
+zawodowym lub handlowym
+prowadzonym w państwie członkowskim
+siedziby wykonawcy  (32):
+Jeżeli odnośna dokumentacja jest
+dostępna w formie elektronicznej, proszę
+wskazać:  […]
+(adres internetowy, wydający urząd lub
+organ, d okładne dane referencyjne
+dokumentacji): [……][……][……]  Wykonawcy nie mają obowiązku wypełniania tej sekcji
+formularza, jeżeli zamawiający nie określił warunków
+udziału w postępowaniu odnoszących się do  zdolności do
+występowania w obrocie gospodarczym (art. 113 ustawy
+Pzp).
+W tym miejscu formularz odnosi się do właściwych
+rejestrów zawodowych lub handlowych.
+32 Zgodnie z opisem w załączniku XI do dyrektywy 2014/24/UE; wykonawcy z niektórych państw członkowskich mogą być zobowiązani do  spełnienia innych wymogów określonych w tym załączniku.
+Na mocy art. 113 ustawy Pzp w odniesieniu do warunków
+udziału w postępowaniu dotyczących zdolności do
+występowania w obrocie gospodarczym  zamawiający
+może wymagać, aby wykonawcy prowadzący działalność
+gospodarczą lub zawodową byli wpisani do jednego z
+rejestrów zawodowych lub handlowych prowadzonych w
+kraju, w którym mają siedzibę lub miejsce zamieszkania .
+W załączniku XI do dyrektywy 2014/2 4/UE lub w
+załączniku VII do dyrektywy Parlamentu Europejskiego i
+Rady 2009/81/WE z dnia 13 lipca 2009 r. w sprawie
+koordynacji procedur udzielania niektórych zamówień na
+roboty budowlane, dostawy i usługi przez instytucje lub
+podmioty zamawiające w dziedz inach obronności i
+bezpieczeństwa i zmieniającej dyrektywy 2004/17/WE i
+2004/18/WE (Dz.  Urz. UE L 216 z 20.08.2009, str. 76 )
+zawarto niewyczerpujący wykaz rejestrów zawodowych i
+handlowych funkcjonujących w państwach członkowskich
+Unii Europejskiej.
+W odniesieniu do polskich  wykonawców ubiegających się
+o zamówienie  istnieje możliwość uzyskania odpowiednich
+informacji co do kompetencji tych przedsiębiorców
+bezpośrednio za pomocą bezpłatnych  baz danych
+dostępnych pod adresem, odpowiednio,
+https://ekrs.ms.gov.pl/web/wyszukiwarka -krs/strona -
+glowna/index.html  oraz
+https://prod.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx i.
+2) W odniesieniu do zamówień
+publicznych na usługi:
+Czy konieczne jest posiadanie
+[] Tak [] Nie
+W myśl art. 114 ustawy Pzp w odniesieniu do warunkó w
+udziału w postępowaniu dotyczących uprawnień do
+prowadzenia określonej działalności zawodowej w
+określonego zezwolenia lub bycie
+członkiem  określonej organizacji, aby
+mieć możliwość świadczenia usługi, o
+której mowa, w państwie siedziby
+wykonawcy?
+Jeżeli odnośna dokumentacja jest
+dostępna w formie elektronicznej, proszę
+wskazać:  Jeżeli tak, proszę określić, o jakie
+zezwolenie lub status członkowski chodzi,
+i wskazać, czy wykonawca je posiada: [ …]
+[] Tak [] Nie
+(adres internetowy, wydający urząd lub
+organ, dokładne dane referencyjne
+dokumentacji): [……][……][……]  postępowaniu o udzielenie zamówienia zamawiający może
+wymagać udowodnienia posiadania :
+- odpowiedniego  zezwolenia , licencji, koncesji lub wpisu
+do rejestru działalności regulowanej  lub
+- odpowiedniego zezwolenia, licencji, koncesji lub wpisu
+do rejestru działalności regulowanej , jeżeli ich posiadanie
+jest niezbędne do świadczenia określonych usług w kraju,
+w którym wykonawca ma siedzibę lub miejsce
+zamieszkania, lub
+usługi - status u członkowski ego danej organizacji, jeżeli
+członkostwo w tej organizacji jest niezbędne do
+świadczenia określonych usług w kraju, w którym
+wykonawca ma siedzibę lub miejsce zamieszkania .
+Oświadczenie składane na formularzu w  tej rubryce odnosi
+się do wskazanej regulacji.
+B: SYTUACJA EKONOMICZNA I FINANSOWA
+Wykonawca powinien przedstawić informacje jedynie w przypadku gdy instytucja zamawiająca lub
+podmiot zamawiający wymagają danych kryteriów kwalifikacji w stosownym ogłoszeniu lub w
+dokumentach zamówienia, o których mowa w ogłoszeniu.
+Sytuacja ekonomiczna i finansowa  Odpowiedź:  Na mocy art. 115 ust. 1 ustawy Pzp
+w  odniesieniu do warunków udziału
+w  postępowaniu dotyczących sytuacji
+ekonomicznej lub finansowej, zamawiający
+może określić warunki, które zapewnią 1a) Jego („ogólny” ) roczny obrót  w ciągu
+określonej liczby lat obrotowych wymaganej w
+stosownym ogłoszeniu lub dokumentach
+zamówienia jest następujący : rok: [……] obrót: [……] […] waluta
+rok: [……] obrót: [……] […] waluta
+rok: [……] obrót: [……] […] waluta
+i/lub
+1b) Jego średni  roczny obrót w ciągu określonej
+liczby lat wymaganej w stosownym ogłoszeniu
+lub dokumentach zamówien ia jest następujący
+(33):
+Jeżeli odnośna dokumentacja jest dostępna w
+formie elektronicznej, proszę wskazać:
+(liczba lat, średni obrót) : [……], [……] […] waluta
+(adres internetowy, wydający urząd lub organ,
+dokładne dane referencyjne dokumentacji):
+[……][……][……]  posiadanie przez wykonawców zdolności
+ekonomicznej lub finansowej niezbędnej do
+realizacji zamówienia. W tym celu
+zamawiający może wymagać
+w  szczególności :
+1) aby wykonawcy posiadali określony
+minimaln e roczn e przychody , w tym
+określon e minimaln e roczn e przychody  w
+zakresie działalności  objęt ej zamówieniem
+publicznym;
+2) aby wykonawcy przedstawili informacje na
+temat ich rocznych sprawozdań fin ansowych
+wykazujących, w szczególności stosunek
+aktywów do zobowiązań;
+3) posiadania  przez wykonawcę
+odpowiedniego ubezpieczenia
+odpowiedzialności cywilnej ;
+4) posiadania  przez wykonawcę  określonej
+zdolności kredytowej lub środków
+finansowych .
+Wykonawca powinien przedstawić informacje
+wymagane w tej sekcji jedynie w przypadku
+gdy zamawiający określił takie warunki
+udziału w   postępowaniu  w ogłoszeniu lub 2a) Jego roczny („specyficzny”) obrót w obszarze
+działalności gospodarczej objętym
+zamówieniem  i określonym w stosownym
+ogłoszeniu lub dokumentach zamówienia w ciągu
+wymaganej liczby lat obrotowych jest
+następujący:
+i/lub
+2b) Jego średni  roczny obrót w przedmiotowym
+obszarze i w ciągu określonej liczby lat
+wymaganej w stosownym ogłoszeniu lub
+dokum entach zamówienia jest następujący  (34):
+Jeżeli odnośna dokumentacja jest dostępna w
+formie elektronicznej, proszę wskazać:  rok: [……] obrót: [……] […] waluta
+rok: [……] obrót: [……] […] waluta
+rok: [……] obrót: [……] […] waluta
+(liczba lat, średni obrót) : [……], [……] […] waluta
+(adres internetowy, wydający urząd lub organ,
+dokładne dane referencyjne dokumentacji):
+3) W przypadku gdy informacje dotyczące obrotu
+(ogólnego lub specyficznego) nie są dostępne za
+cały wymagany okres, proszę podać d atę
+założenia przedsiębiorstwa wykonawcy lub
+rozpoczęcia działalności przez wykonawcę:  [……]
+33 Jedynie jeżeli jest to dopuszczone w stosownym ogłoszeniu lub dokumentach zamówienia.
+34 Jedynie jeżeli jest to dopuszczone w stosownym ogłoszeniu lub dokumentach zamówienia.
+4) W odniesieniu do wskaźników finansowych
+(35) określonych w stosownym ogłoszeniu lub
+dokumentach zamówienia wykonawca
+oświadcza, że aktualna( -e) wartość( -ci)
+wymaganego( -ych) wskaźnika( -ów) jest (są)
+następująca( -e):
+Jeżeli odnośna dokumentacja jest dostępna w
+formie elektronicznej, proszę wskazać:  (określenie wymaganego wskaźnika – stosunek X
+do Y  (36) – oraz wartość):
+[……], [……]  (37)
+(adres internetowy, wydający urząd lub organ,
+dokładne dane referencyjne dokumentacji):
+[……][……][……]  w  dokumentach zamówienia, o który ch
+mowa w ogłoszeniu.
+Przywołany art. 115 ustawy Pzp wskazuje na
+otwarty katalog okoliczności, które
+zamawiający może poddać ocenie w   ramach
+warunków udziału  w   postępowaniu
+(kryteriów kwalifikacji). Jeżeli zamawiający
+przewidzi w tym zakresie inny sposób oceny
+warunków dotyczących sytuacji
+ekonomicznej lub finansowej wykonawcy ,
+wykonawca w   tym miejscu formularza
+powinien się do nich odnieść . 5) W ramach ubezpieczenia z tytułu ryzyka
+zawodowego  wykonawca jest ubezpieczony na
+następującą kwotę:
+Jeżeli t e informacje są dostępne w formie
+elektronicznej,  proszę wskazać:  [……] […] waluta
+(adres internetowy, wydający urząd lub organ,
+dokładne dane referencyjne dokumentacji):
+6) W odniesieniu do innych ewentualnych
+wymogów ekonomicznych lub finansowych ,
+które mogły zostać określone w stosowny m
+ogłoszeniu lub dokumentach zamówienia,
+wykonawca oświadcza, że
+Jeżeli odnośna dokumentacja, która mogła
+zostać określona w stosownym ogłoszeniu lub w
+dokumentach zamówienia, jest dostępna w
+formie elektronicznej, proszę wskazać:  [……]
+(adres interneto wy, wydający urząd lub organ,
+dokładne dane referencyjne dokumentacji):
+35 Np. stosunek aktywów do zobowiązań.
+36 Np. stosun ek aktywów do zobowiązań.
+37 Proszę powtórzyć tyle razy, ile jest to konieczne.
+C: ZDOLNOŚĆ TECHNICZNA I ZAWODOWA
+Wykonawca powinien przedstawić informacje jedynie w przypadku gdy instytucja zamawiająca lub
+podmiot zamawiający wymagają danych kryte riów kwalifikacji w stosownym ogłoszeniu lub w
+dokumentach zamówienia, o których mowa w ogłoszeniu.
+Zdolność techniczna i zawodowa  Odpowiedź:
+1a) Jedynie w odniesieniu do zamówień
+publicznych na roboty budowlane :
+W okresie odniesienia (38) wykonawca wykonał
+następujące roboty budowlane określonego
+rodzaju :
+Jeżeli odnośna dokumentacja dotycząca
+zadowalającego wykonania i rezultatu w
+odniesieniu do najważniejszych robót
+budowlanych jest dostępna w formie
+elektronicz nej, proszę wskazać:  Liczba lat (okres ten został wskazany w
+stosownym ogłoszeniu lub dokumentach
+zamówienia): […]
+Roboty budowlane: [……]
+(adres internetowy, wydający urząd lub organ,
+dokładne dane referencyjne dokumentacji):
+[……][……][……]  Wykonawca powinien przedstawić informacje
+wymagane w tej sekcji jedynie w przypadku
+gdy zamawiający określa  dane warunki
+udziału w postępowaniu w stosownym
+ogłoszen iu lub w dokumentach zamówienia .
+Na podstawie art. 1 16 ust. 1 zdanie pierwsze
+ustawy Pzp, o ceniając zdolność techniczną
+lub zawodową wykonawcy, zamawiający
+może określić  warunki dotyczące
+niezbędnego wykształcenia, kwalifikacji
+zawodowych, doświadczenia , potencjału
+technicznego wykonawcy lub osób
+skierowanych przez wykonawcę do realizacji
+zamówie nia, umożliwiające realizację
+zamówienia na odpowiednim poziomie
+jakości .
+Zgodnie z rozporządzeni em w sprawie
+dokumentów zamawiając y wymaga, aby
+38 Instytucje zamawiające mogą wymagać , aby okres ten wynosił do pięciu lat, i dopuszczać  legitymowanie się doświadczeniem sprzed ponad  pięciu lat.
+  rozporządzenie Ministra Roz woju, Pracy i Technologii z dnia 23 grudnia 2020 r. w sprawie podmiotowych środków dowodowych oraz innych dokumentów lub oświadczeń , jakich może żądać zamawiający
+od wykonawcy (Dz. U. poz. 2415)
+okres , z którego dopuszczalne jest
+wykazywanie się zrealizowanymi robotami
+budowlanymi , wynosił do pięciu lat  wstecz.
+W  wyjątkowych sytuacjach zamawiający
+może dopuścić wymagane doświadczenie
+sprzed pięciu lat .
+Formularz w tej rubryce nie określa
+przykładowo: kwot robót budowlanych, dat,
+odbiorców na rzecz których roboty zostały
+wykonane. Jeśli zamawia jący w tym zakresie
+określi szczególne wymogi wykonawca
+powinien te informacje zawrzeć w tym
+miejscu formularza.
+1b) Jedynie w odniesieniu do zamówień
+publicznych na dostawy i zamówień publicznych
+na usługi
+W okresie odniesienia (39) wykonawca
+zrealizował następujące główne dostawy
+określonego rodzaju lub wyświadczył
+następujące główne usługi określonego rodzaju :
+Przy sporządzaniu wykazu proszę podać kwoty,
+daty i odbiorców, zarówno publicznych, jak i
+prywatnych  (40): Liczba lat (okres ten zosta ł wskazany w
+stosownym ogłoszeniu lub dokumentach
+zamówienia): […]
+Opis  Kwoty  Daty  Odbiorcy
+Zgodnie z rozporządzen iem w sprawie
+dokumentów zamawiając y wymaga, aby
+okres , z którego dopuszczalne jest
+wykazywanie się określonymi dostawami lub
+usługami , wynosił trzy lata wstecz.
+W  wyjątkowych sytuacjach zamawiający
+może dopuścić wymagane doświadczenie
+sprzed ponad trzech  lat.
+W rubryce należy zamieścić wykonane
+dostawy lub usługi, które stanowią
+odpowiedź wykonawcy na opis warunku
+udziału w pos tępowaniu (kryterium
+kwalifikacji) określone przez zamawiającego.
+39 Instytucje zamawiające mogą wymagać , aby okres ten wynosił  do trzech lat, i dopuszczać  legitymowanie się doświadczeniem sprzed ponad  trzech lat.
+40 Innymi słowy, należy wymienić wszystkich  odbiorców, a wykaz powinien obejmować zarówno klientów publicznych, jak i prywatnych w odniesieniu do przedmiotowych dostaw l ub usług.
+Wykaz może  obejmować zarówno odbiorców
+publicznych, jak i prywatnych w odniesieniu
+do przedmiotowych dostaw lub usług.
+2) Może skorzystać z usług następujących
+pracowników technicznych lub służb
+technicznych  (41), w szczególności tych
+odpowiedzialnych za kontrolę jakości:
+W przypadku zamówień publicznych na roboty
+budowlane wykonawca będzie mógł się zwrócić
+do następujących pracowników technicznych lub
+służb technicznych o wykonanie robót:  [……]
+[……]  W tej rubryce formularza należy za wrzeć
+wykaz osób skierowanych przez wykonawcę
+do realizacji zamówienia, w szczególności
+odpowiedzialnych za świadczenie usług,
+kontrolę jakości lub kierowanie robotami
+budowlanymi , adekwatnie do wymogów
+określonych w tym zakresie przez
+zamawiającego w opis ie warunku udziału
+w  postępowaniu (kryterium kwalifikacji),
+które odnosi się do potencjału osobowego
+wykonawcy. Tym samym w tym miejscu
+formularza można wskazać przykładowo
+informacje dotyczące kwalifikacji tych osób,
+o  ile zamawiający określił w tym zak resie
+konkret ne wymogi.
+3) Korzysta z następujących urządzeń
+technicznych oraz środków w celu zapewnienia
+jakości , a jego zaplecze naukowo -badawcze  jest
+następujące:  [……]  W tym miejscu formularza wykonawca składa
+oświadczenie dotyczące potencjału
+technicznego, tj. urządzeń technicznych,
+środków niezbędnych w celu zapewnienia
+jakości czy też określone go zaplecza
+naukowo - badawcze go, które będzie
+w  dyspozycji wykonawcy , adekwatnie do
+opisu warunku udziału w postępowaniu
+(kryterium kwalifi kacji) dokonanego przez
+zamawiającego.
+41 W przypadku pracowników technicznych lub służb technicznych nienależących bezpośrednio do przedsiębiorstwa danego wykonawcy, lecz na których zdolności wykonawca ten polega, jak określono w części
+II sekcja C, należy wypełnić odrębne formularze j ednolitego europejskiego dokumentu zamówienia.
+4) Podczas realizacji zamówienia będzie mógł
+stosować następujące systemy zarządzania
+łańcuchem dostaw  i śledzenia łańcucha dostaw:  [……]  W tym miejscu formularza wykonawca składa
+oświadczenie dotyczące potencjału
+technicznego wykonawcy, dzięki któremu
+będzie możliwe ustalenie umiejętności
+wykonawcy i właściwego sposobu realizacji
+dostaw, adekwatnie do opisu warunku
+udziału w postępowaniu (kryterium
+kwalifikacji) dokonanego przez
+zamawiającego.
+5) W odniesieniu do produktów lub usług o
+złożonym charakterze, które mają zostać
+dostarczone, lub – wyjątkowo – w odniesieniu
+do produktów lub usług o szczególnym
+przeznaczeniu
+Czy wykonawca zezwoli  na przeprowadzenie
+kontroli  (42) swoich zdolności produkcyjny ch lub
+zdolności technicznych , a w razie konieczności
+także dostępnych mu środków naukowych i
+badawczych , jak również środków kontroli
+jakości ?
+[] Tak [] Nie  W tym miejscu formularza wykonawca składa
+oświadczenie  o wyrażeniu zgody na
+przeprowadzenie  kontroli swoich zdolności
+produkcyjnych lub zdolności technicznych , a
+także dostępnych mu środków naukowych i
+badawczych , jak również środków kontroli
+jakości , z których będzie korzystać .
+Wskazana  pozycja for mularza odnosi się do
+dostaw lub usług o z łożonym char akterze ,
+jeżeli zamawiający  w tym zakresie
+wprowadził  szczegółowe wymagania –
+dokonał opisu  warunku udziału
+w  postępowaniu  (kryterium kwalifikacji) . Opis
+warunku zawarty w treści ogłoszenia
+o  zamówieniu lub dokumentach zamówienia
+powinien zawier ać szczegółową procedurę
+pozwalającą na przeprowadzenie takiego
+badania (kontroli) u   wykonawcy , zaś
+oświadczenie wykonawcy zawarte w tym
+42 Kontrolę ma przeprowadzać instytucja zamawiająca lub – w przypadku gdy instytucja ta wyrazi na to zgodę – w jej imieniu, właściwy organ urzędowy państwa, w którym dostawca lub usługodawca ma
+siedzibę.
+miejscu formularza powinno jedynie wyrażać
+zgodę na poddanie się takiemu badaniu.
+6) Następującym wykształceniem i
+kwalifikacjami zawodowymi  legitymuje się:
+a) sam usługodawca lub wykonawca:
+lub (w zależności od wymogów określonych w
+stosownym ogłoszeniu lub dokumentach
+zamówienia):
+b) jego kadra kierownicza:
+a) [……]
+b) [……]  W tym miejscu formularza wykonawca składa
+oświadczenie dotyczące swojego potencjału
+osobowego : jego kwalifikacji zawodowych
+oraz wykształcenia. Istotne jest, że
+oświadczenie to dotyczy samego wykonawcy
+i jego kadry kierowniczej (organów
+zarządzających) , i należy je odróżnić od
+warunku dotyczącego  osób skierowanych do
+realizacji zamówienia  i oświadczenia
+składanego przez wykonawcę w tym
+zakresie , które to oświadczenie składa  się
+we wcześniejszej rubryce formularza.
+Oświadczenie to jest składane jedynie
+w  sytuacji gdy zamawiający dokona opisu
+waru nku udziału w postępowaniu  (kryterium
+kwalifikacji) i adekwatnie do tego opisu.
+7) Podczas realizacji zamówienia wykonawca
+będzie mógł stosować następujące środki
+zarządzania środowiskowego : [……]  W tym miejscu formularza wykonawca składa
+oświadczenie dotyczące śro dków
+zarządzania środowiskowego.
+Zgodnie z rozporządzeniem w sprawie
+EMAS system zarządzania środowiskowego
+oznacza część ogólnego systemu
+zarządzania, która obejmuje strukturę
+organizacyjną, czynności planowania, zakres
+odpowied zialności, praktyki, procedury,
+procesy i   zasoby służące rozwijaniu,
+wdrażaniu, osiąganiu, przeglądowi
+i  utrzymaniu polityki środowiskowej oraz
+zarzą dzaniu aspektami środowiskowymi.
+Oświadczenie wykonawca składa
+adekwatnie do opisu warunku udziału
+w  postępowaniu (kryterium kwalifikacji)
+8) Wielkość średniego rocznego zatrudnienia  u
+wykonawcy oraz liczebność kadry kierowniczej w
+ostatnich trzech latach są następujące  Rok, średnie roczne zatrudnienie:
+Rok, liczebność kadry  kierowniczej:
+[……], [……]  W tym miejscu formularza wykonawca składa
+oświadczenie dotyczące jego potencjału
+kadrowego pod kątem liczebności kadry
+kierowniczej oraz średniorocznego
+zatrudniania w zależności od tego , jak opisze
+ten warun ek udziału w postępowaniu
+(kryterium kwalifikacji) zamawiający.
+Jeżeli okres prowadzenia działalności
+wykonawcy jest krótszy niż 3 lata , to
+składane przez wykonawcę oświadczenie
+powinno dotyczyć okresu faktycznie
+prowadzonej działalności
+9) Będzie dyspono wał następującymi
+narzędziami, wyposażeniem zakładu i
+urządzeniami technicznymi  na potrzeby realizacji
+zamówienia:  [……]  W tym miejscu formularza wykonawca składa
+oświadczenie dotyczące potencjału
+technicznego służącego realizacji
+zamówienia. Chodzi o konkr etne narzędzia,
+urządzenia techniczne czy też wyposażenie
+zakładu, na które w opisie warunku udziału
+w  postępowaniu (kryterium kwalifikacji)
+wskazuje zamawiający, a które służą wprost
+wykonaniu zamówienia.
+10) Wykonawca zamierza ewentualnie zlecić
+podwykonawcom  (43) następującą część
+(procentową)  zamówienia:  [……]  Niniejsze miejsce formularza związane jest
+z  informacjami zawartymi w formularzu
+w  części II sekcja C. W tym miejscu jednak
+wykonawca ogranicza się w swoim
+oświadczeniu do wskazania proce ntowej
+części zamówienia powierzonego
+konkretnemu podwykonawcy.
+Należy zauważyć, że jeżeli wykonawca
+postanowił zlecić podwykonawcom realizację
+części zamówienia oraz polega na zdolności
+podwykonawców na potrzeby realizacji tej
+części, to należy wypełnić odrębny jednolity
+dokument dla tych podwykonawców (zob.
+powyżej, część II sekcja C).  W przypadkach,
+w których wykonawca nie polega na
+zasobach podwykonawców , przedkłada
+odrębny jednolity dokument podwykonawcy
+wypełniony tylko w zakresie podstaw
+wykluczenia  i tylko  w sytuacji , gdy wymaga
+tego zamawiający.
+11) W odniesieniu do zamówień publicznych na
+dostawy
+Wykonawca dostarczy wymagane próbki, opisy
+lub fotografie produktów, które mają być
+dostarczone i którym nie musi towarzyszyć
+świadectwo autentyczności .
+Wykonawca oświadcza ponadto, że w
+stosownych przypadkach przedstawi wymagane
+[] Tak [] Nie
+[] Tak [] Nie
+W tym miejscu formularza wykonawca składa
+oświadczenie dotyczące możliwości
+dostarczenia przez niego  próbek, opis ów lub
+fotografi i produktów  składanych w
+charakterze podmiotowych środków
+dowodowych potwierdzających zdolność
+techniczną wykonawcy . W tym miejscu
+formularza mamy jednak do czynienia
+jedynie ze wstępnym oświadczeniem
+43 Nale ży zauważyć, że jeżeli wykonawca postanowił  zlecić podwykonawcom realizację części zamówienia oraz  polega na zdolności podwykonawców na potrzeby realizacji tej części, to należy wypełnić odrębny
+jednolity europejski dokument zamówienia dla tych podwykonawc ów (zob. powyżej, część II sekcja C).
+świadectwa autentyczności.
+Jeżeli odnośna dokumentacja jest dostępna w
+formie elektronicznej, proszę wskazać:
+(adres internetowy, wydający urz ąd lub organ,
+dokładne dane referencyjne dokumentacji):
+[……][……][……]  wykonawcy dotyczącym w   ogóle możliwości
+złożenia  przez niego , w  stosownych
+przypadkach, takich podmiotowych środków
+dowodowych . Rubryka ta nie dotyczy
+natomiast próbek, opisów lub fotografii
+produktów składanych wraz z ofertą  w
+charakterze przedmiotowych środków
+dowodowych .
+12) W odniesieniu do zamówień publicznych na
+dostawy
+Czy wykonawca może przedstawić wymagane
+zaświadczenia  sporządzone przez urzędowe
+instytuty  lub agencje kontroli jakości  o uznanych
+kompetencjach, potwierdzające zgodność
+produktów poprzez wyraźne odniesienie do
+specyfikacji technicznych lub norm, które zostały
+określone w stosownym ogłoszeniu lub
+dokumentach zamówienia?
+Jeżeli nie , proszę wyjaśnić dlaczego, i wskazać,
+jakie inne środki dowodowe mogą zostać
+przedstawione:
+Jeżeli odnośna dokumentacja jest dostępna w
+formie elektronicznej, proszę wska zać:
+[] Tak [] Nie
+(adres internetowy, wydający urząd lub organ,
+dokładne dane referencyjne dokumentacji):
+[……][……][……]  W tym miejscu formularza wykonawca składa
+oświadczenie co do możliwości przedłożenia
+przez niego określonego podmiotowego
+środka dowodowego potwierdzającego
+zgodność oferowanych produktów z
+wymaganiami określonych norm lub
+specyfikacji technicznych . Oświad czenie ma
+charakter wstępny i odnosi się do możliwości
+wykonawcy przedłożenia takiego
+podmiotowego środka dowodowego
+zamawiającemu.
+W przypadku braku możliwości
+przedstawienia takich dokumentów
+wykonawca powinien w formularzu określić
+przyczyny tego stanu rzeczy i przywołać
+określone środki dowodowe potwierdzające
+określoną certyfikację produktu,
+uwzględniającą wymogi kontroli jakości
+określone w tym zakresie przez
+zamawiającego
+D: SYSTEMY ZAPEWNIANIA JAKOŚCI I NORMY ZARZĄDZANIA ŚRODOWISKOWEGO
+Wykonawca powinien przedstawić informacje jedynie w przypadku gdy instytucja zamawiająca lub
+podmiot zamawiający wymagają systemów zapewniania jakości lub norm zarządzania
+środowiskowego w stosownym ogłoszeniu lub w dokumentach zamówienia, o których mowa w
+ogłoszeniu.
+Systemy zapewniania jakości i normy
+zarządzania środowiskowego  Odpowiedź:
+Czy wykonawca będzie w stanie przedstawić
+zaświadczenia  sporządzone przez niezależne
+jednostki, poświadczające spełnienie przez
+wykonawcę wymaganych norm zapewniania
+jakości , w tym w zakresie dostępności dla osób
+niepełnosprawnych?
+Jeżeli nie , proszę wyjaśnić dlaczego, i określić,
+jakie inne środki dowodowe do tyczące systemu
+zapewniania jakości mogą zostać przedstawione:
+Jeżeli odnośna dokumentacja jest dostępna w
+formie elektronicznej, proszę wskazać:  [] Tak [] Nie
+(adres internetowy, wydający urząd lub organ,
+dokładne dane referencyjne dokume ntacji):
+[……][……][……]  Na podstawie art. 116 ust. 1 zdanie drugie
+ustawy Pzp, oceniając zdolność techniczną
+lub zawodową wykonawcy, zamawiający
+może wymagać, aby wykonawcy spełniali
+wymagania odpowiednich norm zarządzania
+jakością, w tym w zakresie dostępno ści dla
+osób niepełnosprawnych, oraz systemów lub
+norm zarządzania środowiskowego,
+wskazanych przez zamawiającego w
+ogłoszeniu o zamówieniu lub w dokumentach
+zamówienia.
+Wykonawca powinien przedstawić informacje
+wymagane w tej sekcji jedynie w przypadku
+gdy zamawiający określa dane warunki
+udziału w postępowaniu w stosownym
+ogłoszeniu lub w dokumentach zamówienia
+(specyfikacja).
+W przypadku informacji wykonawcy o braku
+możliwości złożenia takich dokumentów , o ile
+ich wymagał zamawiający, powinien on
+dodatko wo określić przyczyny takiego stanu
+rzeczy i jednocześnie wskazać inne
+podmiotowe  środki dowodowe
+potwierdzające, że stosowane przez niego
+środki zapewnienia jakości są zgodne z
+wymaganymi normami zarządzania jakością .
+Czy wykonawca będzie w stanie przedstawić
+zaświadczenia  sporządzone przez niezależne
+jednostki, poświadczające spełnienie przez
+wykonawcę wymogów określonych systemów
+lub norm zarządzania środowiskowego ?
+Jeżeli nie , proszę wyjaśnić dlaczego, i określić,
+jakie inne środki dowodowe dotyczące systemów
+lub norm zarządzania środowiskowego  mogą
+zostać przedstawione:
+Jeżeli odnośna dokumentacja jest dostępna w
+formie elektronicznej, proszę wskazać:  [] Tak [] Nie
+(adres internetowy, wydający urząd lub organ,
+dokładne dane referencyjne dokumentacji):
+[……][……][……]  W tym miejscu formularza wykonawca składa
+oświadczenie dotyczące posiadania i
+możliwości przedłożenia zamawiającemu
+określonego zaświadczenia
+potwierdzającego spełnienie przez
+wykonawcę wyma gań określonych systemów
+lub norm zarządzania środowiskowego.
+W  przypadku braku możliwości przedłożenia
+takich dokumentów wykonawca ma
+obowiązek wskazać powody takiego stanu
+rzeczy i przywołać inne środki dowodowe
+w  tym zakresie.
+Zgodnie z rozporządzeniem w sprawie
+EMAS system zarządzania środowiskowego
+oznacza część ogólnego systemu
+zarządzania, która obejmuje strukturę
+organizacyjną, czynności planowania, zakres
+odpowiedzialności, praktyki, procedury,
+procesy i   zasoby służące rozwijaniu,
+wdrażaniu, osiąganiu, przeglądowi
+i  utrzymaniu polityki środowi skowej oraz
+zarzą dzaniu aspektami środowiskowymi.
+Oznacza to innymi słowy system zarządzania
+organizacją, którego celem jest zapobieganie
+lub ograniczanie negatywnego wpływu
+działalności tej organizacji na środowisko ; nie
+może być więc utożsamiane z system em
+zarządzania środowiskiem, które jest
+pojęciem szerszym i definiowane jest
+najczęściej jako zarządzanie  użytkowaniem,
+ochroną i kształtowaniem  środowiska .
+W przypadku informacji wykonawcy o braku
+możliwości złożenia takich dokumentów , o ile
+ich wymagał zamawiający, powinien on
+dodatkowo określić przyczyny takiego stanu
+rzeczy i jednocześnie wskazać inne
+podmiotowe  środki dowodowe
+potwierdzające, że  stosowane przez niego
+środki zarządzania środowiskowego są
+równoważne środkom wymaganym na mocy
+mającego zastosowanie systemu  lub normy
+zarządzania środowiskoweg o.
+Część V: Ograniczanie liczby kwalifikujących się kandydatów
+Wykonawca powinien przedstawić informacje jedynie w przypadku gdy instytucja zamawiająca lub podmiot zamawiający określiły ob iektywne i
+niedyskryminacyjne kryteria lub zasady, które mają być stosowane w celu ograniczenia liczby kandydatów, którzy zostaną zaproszeni do złożenia ofert
+lub prowadzenia dialogu. Te informacje, którym mogą towarzyszyć wymogi dotyczące (rodzajów) zaświadczeń lub rodzajów dowodów w formie
+dokumentów, które ewentualnie  należy przedstawić, określono w stosownym ogłoszeniu lub w dokumentach zamówienia, o których mowa w
+ogłoszeniu.
+Dotyczy jedynie procedury ograniczonej, procedury konkurencyjnej z negocjacjami, dialogu konkurencyjnego i partnerstwa innowa cyjnego:
+Wykonawca  oświadcza, że:
+Ograniczanie liczby kandydatów  Odpowiedź:  Ta część formularza dotyczy kryteri ów
+selekcji, o których mowa w art. 148 ust. 2,
+art. 159 ust. 2, art. 177 ust. 2  i art. 195 ust. 1
+ustawy  Pzp.
+W myśl tych przepisów, w przypadku trybów:
+przetargu ograniczone go, negocja cji z
+ogłoszeniem , dialogu konkurencyjnego i
+partnerstwa innowacyjnego , jeżeli liczba
+wykonawców, którzy spełniają warunki
+udziału w postępowaniu, jest większa niż
+określona w ogłoszeniu, zamawiający
+zaprasza do składania ofert albo ofert
+wstępnych albo do dialogu wykonawców
+wyłonionych na podstawie obiektywnych i
+niedyskryminacyjnych kryteriów  zwanych
+kryteriami selekcji . W następujący sposób spełnia  obiektywne i
+niedyskryminacyjne kryteria lub zasady, które
+mają być stosowane w celu ograniczenia liczby
+kandydatów:
+W przypadku gdy wymagane są określone
+zaświadczenia lub inne rodzaje dowodów w
+formie dokumentów, proszę wskazać dla
+każdego  z nich, czy w ykonawca posiada
+wymagane dokumenty:
+Jeżeli niektóre z tych zaświadczeń lub rodzajów
+dowodów w formie dokumentów są dostępne w
+postaci elektronicznej  (44), proszę wskazać dla
+każdego  z nich:  [….]
+[] Tak [] Nie  (45)
+(adres internetowy, wydający urząd lub organ,
+dokładne dane referencyjne dokumentacji):
+[……][……][……]  (46)
+44 Proszę jasno wskazać, do której z pozycji odnosi się odpowiedź.
+45 Proszę powtórzyć tyle razy, ile jest to konieczne.
+46 Proszę powtórzyć tyle razy, ile jest to konieczne.
+Wykonawca powinien przedstawić informacje
+wymagane w tej sekcji jedynie w przypadku
+gdy zamawiający wymaga danych warunków
+udziału w postępowaniu w stosownym
+ogłoszeni u lub w dokumentach zamówienia
+(specyfikacja) .
+Należy jasno wskazać, do które go z
+kryteriów  odnosi się odpowiedź , powtarzając
+tę cz ęść tyle razy, ile to konieczne.
+Część VI: Oświadczenia końcowe
+Niżej podpisany( -a)(-i) oficjalnie oświadcza( -ją), że informacje podane powyżej w częściach II –V są dokładne i prawidłowe oraz że zost ały przedstawione z
+pełną świadomością konsekwencji poważnego wprowadzenia w błąd.
+Niżej podpisany( -a)(-i) oficjalnie oświadcza( -ją), że jest (są) w stanie, na żądanie i bez zwłoki, przedstawić zaświadczenia i inne rodzaje dowodów w formie
+dokumentów, z wyjątkiem przypadków, w których:
+a) instytucja zamawiająca lub podmiot zamawiający ma możliwość uzyskania odpowiednich dokumentów potwierdzających bezpośredni o za pomocą
+bezpłatnej krajowej bazy danych w dowolnym państwie członkowskim  (47), lub
+b) najpóźniej od dnia 18 kwietnia 2018 r.  (48), instytucja zamawiająca lub podmiot zamawiający już posiada odpowiednią dokumentację .
+Niżej podpisany( -a)(-i) oficjalnie wyraża( -ją) zgodę na to, aby [wskazać instytucję zamawiającą lub podmiot zamawiający określone w części I, sekcja A]
+uzyskał( -a)(-o) dostęp do dokumentów potwierdzających informacje, które zostały przedstawione w [wskazać  część/sekcję/punkt( -y), których to dotyczy]
+niniejszego jednolitego europejskiego dokumentu zamówienia, na potrzeby [określić postępowanie o udzielenie zamówienia: (skrócony opis, adres
+publikacyjny w Dzienniku Urzędowym Unii Europejskiej , numer referency jny)].
+Data, miejscowość oraz – jeżeli jest to wymagane lub konieczne – podpis( -y): [……]
+Oświadczenia końcowe zawarte w tej części formularza maj ą istotne znaczenie dla oceny wykonawcy. Stanowią one niejako podsumowanie
+całej treści formularza i złożony ch w nim oświadczeń. Dodatkowo złożenie tych szczegółowych , końcowych oświadczeń ma znaczenie z punktu
+widzenia odpowiedzialności podmiotów je składających za treść szczegółowych oświadczeń zawartych w formularzu. Jednocześnie t eż
+oświadczenia końcowe zwra cają uwagę na konieczność korzystania przez zamawiającego z bezpłatnych, ogólnodostępnych baz danych oraz
+dotyczą wyrażeni a zgody przez wykonawcę na możliwość korzystania przez zamawiającego z informacji zawartych w formularzu .
+Dokument łącznie z w/w w tre ści formularz a oświadczeniami powinien być podpisany przez wykonawcę, podmiot trzeci, podwykonawcę,
+odpowiednio przez tego , kogo dotyczy składany formularz JEDZ. Dla skutecznego złożenia oświadczenia formularz muszą podpisać właściwe ,
+47 Pod warunkiem że wykonawca przekazał niezbędne informacje (adres internetowy, dane wydającego urzędu lub organu, dokładne dan e referencyjne dokumentacji) umożliwiające instytucji zamawiającej
+lub podmiotowi zamawiającemu tę czynność. W razie potrzeby musi temu towarzyszyć odpowiednia zgoda na uzyskanie takiego dostępu.
+48 W zależności od wdrożenia w danym kraju artykułu 59 ust. 5 akapit drugi dyrektywy 2014/24/UE.
+umocowane  osoby , tj. uprawnione do reprezentacji albo upoważni one na podstawie odrębnie udzielonego pełnomocnictwa. W przypadku
+formularza składanego przez wykonawców wspólnie ubiegających się o udzielenie zamówienia formularz powinien podpisać każdy z
+wykonawców, który składa  dany formularz .
+Załącznik:
+Wykaz przestępstw, o których mowa w art. 108 ust. 1 pkt 1 ustawy
+(w kolejności, w jakiej zostały wymienione w tym przepisie)
+przestępstwo  brzmienie przepisu  rubryka formularza jednolitego dokumentu
+udział  w zorganizowanej
+grupie przestępczej albo
+związku mającym na celu
+popełnienie przestępstwa
+lub przestępstwa
+skarbowego, o którym
+mowa w  art. 258  Kodeksu
+karnego  Art. 258 § 1. Kto bierze udział w zorganizowanej grupie albo związku
+mających na celu popełnie nie przestępstwa lub przestępstwa skarbowego,
+podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 2. Jeżeli grupa albo związek określone w § 1 mają charakter zbrojny albo
+mają na celu popełnienie przestępstwa o charakterze terrorystycznym,
+sprawca
+podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+§ 3. Kto grupę albo związek określone w § 1 w tym mające charakter zbrojny
+zakłada lub taką grupą albo związkiem kieruje,
+podlega karze pozbawienia wolności od roku do lat 10.
+§ 4. Kto grupę albo związek mające na celu popełnienie przestępstwa o
+charakterze terrorystycznym zakłada lub taką grupą lub związkiem kieruje,
+podlega karze pozbawienia wolności na czas nie krótszy od lat 3.  III.A pkt 1
+hand el ludźmi, o którym
+mowa w  art. 189a  Kodeksu
+karne go Art. 189a  § 1. Kto dopuszcza się handlu ludźmi, podlega karze pozbawienia
+wolności na czas nie krótszy od lat 3.
+§ 2. Kto czyni przygotowania do popełnienia przestępstwa określonego w §
+1, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.  III.A pkt 6
+przestępstwo , o którym
+mowa w art. 228 -230a
+Kodeksu karnego
+[korupcja]  Art. 228. § 1. Kto, w związku z pełnieniem funkcji publicznej, przyjmuje
+korzy ść majątkową lub osobistą albo jej obietnicę, podlega karze
+pozbawienia wolności od 6 miesięcy  do lat 8.
+§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze
+ograniczenia wolności albo pozbawienia wolności do lat 2.
+§ 3. Kto, w związku z pełnieniem funkcji publicznej, przyjmuje korzyść
+majątkową lub osobistą albo jej obietnicę za zachowanie stanowiące
+naruszenie przepisów prawa, podlega karze pozbawienia wolności od roku
+do lat 10.
+§ 4. Karze określonej w § 3 podlega także ten, kto, w związku z
+pełnieniem funkcji publicznej, uzależnia wykonanie czynności służbowej od
+otrzymania kor zyści majątkowej lub osobistej albo jej obietnicy lub takiej
+korzyści żąda.
+§ 5. Kto, w związku z pełnieniem funkcji publicznej, przyjmuje korzyść
+majątkową znacznej wartości albo jej obietnicę, podlega karze pozbawienia
+wolności od lat 2 do 12.
+§ 6. Karom  określonym w § 1 -5 podlega odpowiednio także ten, kto, w
+związku z pełnieniem funkcji publicznej w państwie obcym lub w organizacji
+międzynarodowej, przyjmuje korzyść majątkową lub osobistą albo jej III.A pkt 2
+obietnicę lub takiej korzyści żąda, albo uzależnia wykon anie czynności
+służbowej od jej otrzymania.
+Art. 229. § 1. Kto udziela albo obiecuje udzielić korzyści majątkowej lub
+osobistej osobie pełniącej funkcję publiczną w związku z pełnieniem tej
+funkcji, podlega karze pozbawienia wolności od 6 miesięcy do lat 8 .
+§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze
+ograniczenia wolności albo pozbawienia wolności do lat 2.
+§ 3. Jeżeli sprawca czynu określonego w § 1 działa, aby skłonić osobę
+pełniącą funkcję publiczną do naruszenia przepisów prawa lub udziela albo
+obiecuje udzielić takiej osobie korzyści majątkowej lub osobistej za
+naruszenie przepisów prawa,
+podlega karze pozbawienia wolności od roku do lat 10.
+§ 4. Kto osobie pełniącej funkcję publiczną, w związku z pełnieniem tej
+funkcji, udziela albo obiecuje udzielić korzyści majątkowej znacznej wartości,
+podlega karze pozbawienia wolności od lat 2 do 12.
+§ 5. Karom określonym w § 1 -4 podlega odpowiednio także ten, kto
+udziela albo obiecuje udzielić korzyści majątkowej lub osobistej osobi e
+pełniącej funkcję publiczną w państwie obcym lub w organizacji
+międzynarodowej, w związku z pełnieniem tej funkcji.
+§ 6. Nie podlega karze sprawca przestępstwa określonego w § 1 -5,
+jeżeli korzyść majątkowa lub osobista albo ich obietnica zostały przyjęte
+przez osobę pełniącą funkcję publiczną, a sprawca zawiadomił o tym fakcie
+organ powołany do ścigania przestępstw i ujawnił wszystkie istotne
+okoliczności przestępstwa, zanim organ ten o nim się dowiedział.
+Art. 230. § 1. Kto, powołując się na wpływy w ins tytucji państwowej,
+samorządowej, organizacji międzynarodowej albo krajowej lub w
+zagranicznej jednostce organizacyjnej dysponującej środkami publicznymi
+albo wywołując przekonanie innej osoby lub utwierdzając ją w przekonaniu o
+istnieniu takich wpływów, p odejmuje się pośrednictwa w załatwieniu sprawy
+w zamian za korzyść majątkową lub osobistą albo jej obietnicę, podlega
+karze pozbawienia wolności od 6 miesięcy do lat 8.
+§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze
+ograniczenia wolności al bo pozbawienia wolności do lat 2.
+Art. 230a.  § 1. Kto udziela albo obiecuje udzielić korzyści majątkowej lub
+osobistej w zamian za pośrednictwo w załatwieniu sprawy w instytucji
+państwowej, samorządowej, organizacji międzynarodowej albo krajowej lub
+w zagr anicznej jednostce organizacyjnej dysponującej środkami publicznymi,
+polegające na bezprawnym wywarciu wpływu na decyzję, działanie lub
+zaniechanie osoby pełniącej funkcję publiczną, w związku z pełnieniem tej
+funkcji, podlega karze pozbawienia wolności od  6 miesięcy do lat 8.
+§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze
+ograniczenia wolności albo pozbawienia wolności do lat 2.
+§ 3. Nie podlega karze sprawca przestępstwa określonego w § 1 albo w § 2,
+jeżeli korzyść majątkowa lub osobista a lbo ich obietnica zostały przyjęte, a
+sprawca zawiadomił o tym fakcie organ powołany do ścigania przestępstw i
+ujawnił wszystkie istotne okoliczności przestępstwa, zanim organ ten o nim
+się dowiedział.
+przestępstwo , o którym
+mowa w art. 250a Kodeksu
+karnego
+[korupcja wyborcza i
+referendalna]  Art. 250a § 1. Kto, będąc uprawniony do głosowania, przyjmuje korzyść
+majątkową lub osobistą albo takiej korzyści żąda za głosowanie w określony
+sposób, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 2. Tej samej karze podlega, kto udziela korzyści majątkowej lub
+osobistej osobie uprawnionej do głosowania, aby skłonić ją do głosowania w
+określony sposób lub za głosowanie w określony sposób.
+§ 3. W wypadku mniejszej wa gi, sprawca czynu określonego w § 1 lub
+2 podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności
+do lat 2.
+§ 4. Jeżeli sprawca przestępstwa określonego w § 1 albo w § 3 w związku z
+§ 1 zawiadomił organ powołany do ścigania o fakcie przestępstwa i
+okolicznościach jego popełnienia, zanim organ te n o nich się dowiedział, sąd
+stosuje nadzwyczajne złagodzenie kary, a nawet może odstąpić od jej
+wymierzenia.  III.A pkt 2
+przestępstwo, o którym
+mowa w art. 46 ustawy o
+sporcie
+[korupcja w sporcie:
+przestępstwo sprzedajności
+sportowej (art. 46 ust. 1)
+oraz przestępstwo
+przekupstwa sportowego
+(art. 46 ust. 2 )] Art. 46. 1. Kto, w związku z zawodami sportowymi organizowanymi przez
+polski związek sportowy lub podmiot działający na po dstawie umowy
+zawartej z tym związkiem, lub podmiot działający z jego upoważnienia,
+przyjmuje korzyść majątkową lub osobistą albo jej obietnicę lub takiej
+korzyści albo jej obietnicy żąda w zamian za nieuczciwe zachowanie,
+mogące mieć wpływ na wynik lub pr zebieg tych zawodów, podlega karze
+pozbawienia wolności od 6 miesięcy do lat 8.
+2. Tej samej karze podlega, kto w wypadkach określonych w ust. 1
+udziela albo obiecuje udzielić korzyści majątkowej lub osobistej.
+3. W wypadku mniejszej wagi, sprawca czynu ok reślonego w ust. 1 lub
+podlega grzywnie, karze ograniczenia wolności albo pozbawienia
+wolności do lat 2.
+4. Jeżeli sprawca czynu określonego w ust. 1 lub 2 przyjmuje korzyść
+majątkową znacznej wartości albo jej obietnicę lub udziela takiej korzyści
+albo jej obietnicy lub takiej korzyści albo jej obietnicy żąda, podlega karze
+pozbawienia wolności od roku do lat 10.  III.A pkt 2
+przestępstwo, o którym
+mowa w art. 47 ustawy o
+sporcie
+[wykorzystywanie wiedzy o
+czynie zabronionym z art. Art. 47 Kto, mając wiadomość o popełnieniu czynu zabronionego
+określonego w art. 46, bierze udział w zakładach wzajemnych dotyczących
+zawodów sportowych, do których odnosi się ta wiadomość, lub ujawnia tę
+wiedzę w celu wzięcia udziału przez inną osobę w takich zakładach,
+podlega karze pozbawienia wolności od 3 miesięcy do lat 5.  III.D
+46 w zakładach
+wzajemnych ]
+przestępstwo, o którym
+mowa w art. 48 ustawy o
+sporcie
+[korupcja w sporcie:
+przestępstwo płatnej
+protekcji w sporcie (art. 48
+ust. 1) oraz przestępstwo
+przekupstwa za płatną
+protekcję w sporcie (art. 48
+ust. 2) ] Art. 48. 1. Kto, powołując się na wpływy w polskim związku sportowym lub
+podmiocie działającym na podstawie umowy zawart ej z tym związkiem, lub
+podmiocie działającym z jego upoważnienia albo wywołując przekonanie
+innej osoby o istnieniu takich wpływów, lub utwierdzając ją w przekonaniu o
+istnieniu takich wpływów, podejmuje się pośrednictwa w ustaleniu
+określonego wyniku lub  przebiegu zawodów sportowych w zamian za
+korzyść majątkową lub osobistą albo jej obietnicę, podlega karze
+pozbawienia wolności od 6 miesięcy do lat 8.
+2. Tej samej karze podlega, kto udziela albo obiecuje udzielić korzyści
+majątkowej lub osobistej w zamian za pośrednictwo w ustaleniu określonego
+wyniku lub przebiegu zawodów sportowych polegające na bezprawnym
+wywarciu wpływu na zachowanie osoby pełniącej funkcję w polskim związku
+sportowym lub podmiocie działającym na podstawie umowy zawar tej z tym
+związkiem, lub podmiocie działającym z jego upoważnienia w związku z
+pełnieniem tej funkcji.
+3. W wypadku mniejszej wagi, sprawca czynu określonego w ust. 1 lub 2
+podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności
+do lat 2.  III.A pkt 2
+przestępstwo, o którym
+mowa w art. 54 ust. 1 -4
+ustawy z dnia 12 maja 2011
+r. o refundacji leków,
+środków spożywczych
+specjalnego przeznaczenia
+żywieniowego oraz
+wyrobów medycznych
+[przyjęcie korzyści
+majątkowej lub osobistej ] Art. 54 . 1. Kto, zajmując się wytwarzaniem lub obrotem lekami, środkami
+spożywczymi specjalnego przeznaczenia żywieniowego lub wyrobami
+medycznymi podlegającymi refundacji ze środków publicznych, przyjmuje
+korzyść majątkową lub osobistą albo jej obietnicę lub takiej k orzyści żąda w
+zamian za zachowanie wywierające wpływ na:
+1) poziom obrotu lekami, środkami spożywczymi specjalnego przeznaczenia
+żywieniowego lub wyrobami medycznymi podlegającymi refundacji ze
+środków publicznych;
+2) obrót lub powstrzymanie się od obrotu  konkretnym lekiem, środkiem
+spożywczym specjalnego przeznaczenia żywieniowego lub wyrobem
+medycznym podlegającym refundacji ze środków publicznych;
+- podlega karze pozbawienia wolności od 6 miesięcy do 8 lat.
+2. Tej samej karze podlega, kto będąc osobą up rawnioną do wystawiania
+recept na leki, środki spożywcze specjalnego przeznaczenia żywieniowego
+lub wyroby medyczne, podlegające refundacji ze środków publicznych lub
+zleceń, o których mowa w art. 38 ust. 1, żąda lub przyjmuje korzyść
+majątkową lub osobist ą albo jej obietnicę w zamian za wystawienie recepty
+lub zlecenia lub powstrzymanie się od ich wystawienia.
+3. Tej samej karze podlega, kto będąc osobą zaopatrującą
+świadczeniodawcę w leki, środki spożywcze specjalnego przeznaczenia
+żywieniowego lub wyroby  medyczne albo będąc świadczeniodawcą lub
+osobą reprezentującą świadczeniodawcę żąda  lub przyjmuje korzyść III.A pkt 2
+majątkową lub osobistą, w zamian za zakup leku, środka spożywczego
+specjalnego przeznaczenia żywieniowego lub wyrobu medycznego
+podlegającego refunda cji ze środków publicznych.
+4. Tej samej karze podlega, kto w przypadkach określonych w ust. 1 -3
+udziela lub obiecuje udzielić korzyści majątkowej lub osobistej.
+finansowanie przestępstwa
+o charakterze
+terrorystycznym, o którym
+mowa w art. 165a Kodeksu
+karnego  Art. 165a Kto gromadzi, przekazuje lub oferuje środki płatnicze, instrumenty
+finansowe, papiery wartościowe, wartości dewizowe, prawa majątkowe lub
+inne mienie ruchome lub nieruchomości w zamiarze sfinansowania
+przestępstwa o charakter ze terrorystycznym albo udostępnienia ich
+zorganizowanej grupie lub związkowi mającym na celu popełnienie takiego
+przestępstwa lub osobie biorącej udział w takiej grupie lub związku, podlega
+karze pozbawienia wolności od lat 2 do 12.  III.A pkt 5
+udaremnianie lub
+utrudnianie stwierdzenia
+przestępnego pochodzenia
+pieniędzy lub ukrywania ich
+pochodzenia, o którym
+mowa w  art. 299  Kodeksu
+karnego
+[pranie brudnych pieniędzy]  Art. 299 § 1. Kto środki płatnicze, instrumenty finansowe, papiery
+wartościowe,  wartości dewizowe, prawa majątkowe lub inne mienie ruchome
+lub nieruchomości, pochodzące z korzyści związanych z popełnieniem czynu
+zabronionego, przyjmuje, posiada, używa, przekazuje lub wywozi za granicę,
+ukrywa, dokonuje ich transferu lub konwersji, po maga do przenoszenia ich
+własności lub posiadania albo podejmuje inne czynności, które mogą
+udaremnić lub znacznie utrudnić stwierdzenie  ich przestępnego pochodzenia
+lub miejsca umieszczenia, ich wykrycie, zajęcie albo orzeczenie przepadku,
+podlega karze p ozbawienia wolności od 6 miesięcy do lat 8.
+§ 2. Karze określonej w § 1 podlega, kto będąc pracownikiem lub działając w
+imieniu lub na rzecz banku, instytucji finansowej lub kredytowej lub innego
+podmiotu, na którym na podstawie przepisów prawa ciąży obowi ązek
+rejestracji transakcji i osób dokonujących transakcji, przyjmuje, wbrew
+przepisom, środki płatnicze, instrumenty finansowe, papiery wartościowe,
+wartości dewizowe, dokonuje ich transferu lub konwersji, lub przyjmuje je w
+innych okolicznościach wzbudza jących uzasadnione podejrzenie, że
+stanowią one przedmiot czynu określonego w § 1, lub świadczy inne usługi
+mające ukryć ich przestępne pochodzenie lub usługi w zabezpieczeniu przed
+zajęciem.
+§ 3. (uchylony)
+§ 4.(uchylony)
+§ 5. Jeżeli sprawca dopuszcza się czynu określonego w § 1 lub 2, działając
+w porozumieniu z innymi osobami,
+podlega karze pozbawienia wolności od roku do lat 10.
+§ 6. Karze określonej w § 5 podlega sprawca, jeżeli dopuszczając się czynu
+określonego w § 1 lub 2, osiąga znaczną  korzyść majątkową.
+§ 6a. Kto czyni przygotowania do przestępstwa określonego w § 1 lub 2,
+podlega karze pozbawienia wolności do lat 3.
+§ 7. W razie skazania za przestępstwo określone w § 1 lub 2, sąd orzeka
+przepadek przedmiotów pochodzących bezpośrednio albo pośrednio z
+przestępstwa, a także korzyści z tego przestępstwa lub ich równowartość, III.A pkt 5
+chociażby nie stanowiły one własności sprawcy. Przepadku nie orzeka się w
+całości lub w części, jeżeli przedmiot, korzyść lub jej równowartość podlega
+zwrotowi pokrzy wdzonemu lub innemu podmiotowi.
+§ 8. Nie podlega karze za przestępstwo określone w § 1 lub 2, kto
+dobrowolnie ujawnił wobec organu powołanego do ścigania przestępstw
+informacje dotyczące osób uczestniczących w popełnieniu przestępstwa
+oraz okoliczności jeg o popełnienia, jeżeli zapobiegło to popełnieniu innego
+przestępstwa; jeżeli sprawca czynił starania zmierzające do ujawnienia tych
+informacji i okoliczności, sąd stosuje nadzwyczajne złagodzenie kary.
+przestępstwo  o charakterze
+terrorystycznym , o którym
+mowa w art. 115 § 20
+Kodeksu karnego , lub
+mające na celu popełnienie
+tego przestępstwa  Art. 115.  § 20. Przestępstwem o charakterze terrorystycznym jest czyn
+zabroniony zagrożony karą pozbawienia wolności, której gór na granica
+wynosi co najmniej 5 lat, popełniony w celu:
+1) poważnego zastraszenia wielu osób,
+2) zmuszenia organu władzy publicznej Rzeczypospolitej Polskiej
+lub innego państwa albo organu organizacji międzynarodowej do podjęcia
+lub zaniechania określonych  czynności,
+3) wywołania poważnych zakłóceń w ustroju lub gospodarce
+Rzeczypospolitej Polskiej, innego państwa lub organizacji międzynarodowej
+– a także groźba popełnienia takiego czynu.  III.A pkt 4
+powierzeni e wykonywania
+pracy małoletniemu
+cudzoziemcowi, o którym
+mowa w  art. 9 ust. 2  ustawy
+z dnia 15 czerwca 2012 r. o
+skutkach powierzania
+wykonywania pracy
+cudzoziemcom
+przebywającym wbrew
+przepisom na terytorium
+Rzeczypospolitej Polskiej
+(Dz.U.  poz. 769 ) Art. 9. 2. Tej samej karze podlega, kto powierza wykonywanie pracy
+małoletniemu cudzoziemcowi przebywającemu bez ważnego dokumentu
+uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej.  III.A pkt 6
+przestępstwa przeciwko
+obrotowi gospodarczemu,
+o  których mowa art. 296 -
+307 Kodeksu karnego
+z wyjątkiem art. 299  Art. 296.  § 1. Kto, będąc obowiązany na podstawie przepisu ustawy, decyzji
+właściwego organu lub umowy do zajmowania się sprawami majątkowymi
+lub działalnością gospodarczą oso by fizycznej, prawnej albo jednostki
+organizacyjnej nie mającej osobowości prawnej, przez nadużycie
+udzielonych mu uprawnień lub niedopełnienie ciążącego na nim obowiązku,
+wyrządza jej znaczną szkodę majątkową, podlega karze pozbawienia
+wolności od 3 miesi ęcy do lat 5.
+§ 1a. Jeżeli sprawca, o którym mowa w § 1, przez nadużycie
+udzielonych mu uprawnień lub niedopełnienie ciążącego na nim obowiązku, III.D
+sprowadza bezpośrednie niebezpieczeństwo wyrządzenia znacznej szkody
+majątkowej, podlega karze pozbawienia woln ości do lat 3.
+§ 2. Jeżeli sprawca przestępstwa określonego w § 1 lub 1a działa w
+celu osiągnięcia korzyści majątkowej, podlega karze pozbawienia wolności
+od 6 miesięcy do lat 8.
+§ 3. Jeżeli sprawca przestępstwa określonego w § 1 lub 2 wyrządza
+szkodę mają tkową w wielkich rozmiarach, podlega karze pozbawienia
+wolności od roku do lat 10.
+§ 4. Jeżeli sprawca przestępstwa określonego w § 1 lub 3 działa
+nieumyślnie, podlega karze pozbawienia wolności do lat 3.
+§ 4a. Jeżeli pokrzywdzonym nie jest Skarb Państwa, ściganie
+przestępstwa określonego w
+1a następuje na wniosek pokrzywdzonego.
+§ 5. Nie podlega karze, kto przed wszczęciem postępowania
+karnego dobrowolnie naprawił w całości wyrządzoną szkodę.
+Art. 296a.  § 1. Kto, pełniąc funkcję kierowniczą w jednostce or ganizacyjnej
+wykonującej działalność gospodarczą lub pozostając z nią w stosunku pracy,
+umowy zlecenia lub umowy o dzieło, żąda lub przyjmuje korzyść majątkową
+lub osobistą albo jej obietnicę, w zamian za nadużycie udzielonych mu
+uprawnień lub niedopełnien ie ciążącego na nim obowiązku mogące
+wyrządzić tej jednostce szkodę majątkową albo stanowiące czyn nieuczciwej
+konkurencji lub niedopuszczalną czynność preferencyjną na rzecz nabywcy
+lub odbiorcy towaru, usługi lub świadczenia, podlega karze pozbawienia
+wolności od 3 miesięcy do lat 5.
+§ 2. Tej samej karze podlega, kto w wypadkach określonych w § 1
+udziela albo obiecuje udzielić korzyści majątkowej lub osobistej.
+§ 3. W wypadku mniejszej wagi, sprawca czynu określonego w § 1
+lub 2 podlega grzywnie, karze og raniczenia wolności albo pozbawienia
+wolności do lat 2.
+§ 4. Jeżeli sprawca czynu określonego w § 1 wyrządza znaczną
+szkodę majątkową, podlega karze pozbawienia wolności od 6 miesięcy do
+lat 8.
+§ 5. Nie podlega karze sprawca przestępstwa określonego w § 2
+albo w § 3 w związku z § 2, jeżeli korzyść majątkowa lub osobista albo ich
+obietnica zostały przyjęte, a sprawca zawiadomił o tym fakcie organ
+powołany do ścigania przestępstw i ujawnił wszystkie istotne okoliczności
+przestępstwa, zanim organ ten o nim się  dowiedział.
+Art. 296b. (uchylony).
+Art. 297.  § 1. Kto, w celu uzyskania dla siebie lub kogo innego, od banku lub
+jednostki organizacyjnej prowadzącej podobną działalność gospodarczą na
+podstawie ustawy albo od organu lub instytucji dysponujących środkami
+publicznymi – kredytu, pożyczki pieniężnej, poręczenia, gwarancji,
+akredytywy, dotacji, subwencji, potwierdzenia przez bank zobowiązania
+wynikającego z poręczenia lub z gwarancji lub podobnego świadczenia
+pieniężnego na określony cel gospodarczy, instrumen tu płatniczego lub
+zamówienia publicznego, przedkłada podrobiony, przerobiony,
+poświadczający nieprawdę albo nierzetelny dokument albo nierzetelne,
+pisemne oświadczenie dotyczące okoliczności o istotnym znaczeniu dla
+uzyskania wymienionego wsparcia finanso wego, instrumentu płatniczego lub
+zamówienia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 2. Tej samej karze podlega, kto wbrew ciążącemu obowiązkowi,
+nie powiadamia właściwego podmiotu o powstaniu sytuacji mogącej mieć
+wpływ na wstrzymani e albo ograniczenie wysokości udzielonego wsparcia
+finansowego, określonego w § 1, lub zamówienia publicznego albo na
+możliwość dalszego korzystania z instrumentu płatniczego.
+§ 3. Nie podlega karze, kto przed wszczęciem postępowania
+karnego dobrowolnie zapobiegł wykorzystaniu wsparcia finansowego lub
+instrumentu płatniczego, określonych w § 1, zrezygnował z dotacji lub
+zamówienia publicznego albo zaspokoił roszczenia pokrzywdzonego.
+Art. 298.  § 1. Kto, w celu uzyskania odszkodowania z tytułu umowy
+ubezpieczenia, powoduje zdarzenie będące podstawą do wypłaty takiego
+odszkodowania, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 2. Nie podlega karze, kto przed wszczęciem postępowania
+karnego dobrowolnie zapobiegł wypłacie odszkodowania.
+Art. 300.  § 1. Kto, w razie grożącej mu niewypłacalności lub upadłości,
+udaremnia lub uszczupla zaspokojenie swojego wierzyciela przez to, że
+usuwa, ukrywa, zbywa, darowuje, niszczy, rzeczywiście lub pozornie obciąża
+albo uszkadza składniki swojego majątku, podlega karze pozbawienia
+wolności do lat 3.
+§ 2. Kto, w celu udaremnienia wykonania orzeczenia sądu lub
+innego organu państwowego, udaremnia lub uszczupla zaspokojenie
+swojego wierzyciela przez to, że usuwa, ukrywa, zbywa, darowuje, niszc zy,
+rzeczywiście lub pozornie obciąża albo uszkadza składniki swojego majątku
+zajęte lub zagrożone zajęciem, bądź usuwa znaki zajęcia,
+podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 3. Jeżeli czyn określony w § 1 wyrządził szkodę wielu
+wierzy cielom, sprawca podlega karze pozbawienia wolności od 6 miesięcy
+do lat 8.
+§ 4. Jeżeli pokrzywdzonym nie jest Skarb Państwa, ściganie
+przestępstwa określonego w § 1 następuje na wniosek pokrzywdzonego.
+Art. 301.  § 1. Kto będąc dłużnikiem kilku wierzycieli udaremnia lub ogranicza
+zaspokojenie ich należności przez to, że tworzy w oparciu o przepisy prawa
+nową jednostkę gospodarczą i przenosi na nią składniki swojego majątku,
+podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+§ 2. Tej samej karze podle ga, kto będąc dłużnikiem kilku wierzycieli
+doprowadza do swojej upadłości lub niewypłacalności.
+§ 3. Kto będąc dłużnikiem kilku wierzycieli w sposób lekkomyślny
+doprowadza do swojej upadłości lub niewypłacalności, w szczególności
+przez trwonienie części sk ładowych majątku, zaciąganie zobowiązań lub
+zawieranie transakcji oczywiście sprzecznych z zasadami gospodarowania,
+podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności
+do lat 2.
+Art. 302.  § 1. Kto, w razie grożącej mu niewypłacalności l ub upadłości, nie
+mogąc zaspokoić wszystkich wierzycieli, spłaca lub zabezpiecza tylko
+niektórych, czym działa na szkodę pozostałych, podlega grzywnie, karze
+ograniczenia wolności albo pozbawienia wolności do lat 2.
+§ 2. Kto wierzycielowi udziela lub obiec uje udzielić korzyści
+majątkowej za działanie na szkodę innych wierzycieli w związku z
+postępowaniem upadłościowym lub  zmierzającym do zapobiegnięcia
+upadłości, podlega karze pozbawienia wolności do lat 3.
+§ 3. Tej samej karze podlega wierzyciel, który w związku z
+określonym w § 2 postępowaniem przyjmuje korzyść za działanie na szkodę
+innych wierzycieli albo takiej korzyści żąda.
+Art. 303.  § 1. Kto wyrządza szkodę majątkową osobie fizycznej, prawnej
+albo jednostce organizacyjnej nie mającej osobowości praw nej, przez
+nieprowadzenie dokumentacji działalności gospodarczej albo prowadzenie
+jej w sposób nierzetelny lub niezgodny z prawdą, w szczególności niszcząc,
+usuwając, ukrywając, przerabiając lub podrabiając dokumenty dotyczące tej
+działalności, podlega kar ze pozbawienia wolności do lat 3.
+§ 2. Jeżeli sprawca przestępstwa określonego w § 1 wyrządza
+znaczną szkodę majątkową, podlega karze pozbawienia wolności od 3
+miesięcy do lat 5.
+§ 3. W wypadku mniejszej wagi, sprawca przestępstwa określonego
+w § 1 podlega  grzywnie, karze ograniczenia wolności albo pozbawienia
+wolności do roku.
+§ 4. Jeżeli pokrzywdzonym nie jest Skarb Państwa, ściganie
+przestępstwa określonego w § 1 –3 następuje na wniosek pokrzywdzonego.
+Art. 304.  Kto, wyzyskując przymusowe położenie innej osoby fizycznej,
+prawnej albo jednostki organizacyjnej nie mającej osobowości prawnej,
+zawiera z nią umowę, nakładając na nią obowiązek świadczenia
+niewspółmiernego ze świadczeniem wzajemnym, podlega karze
+pozbawienia wolności do lat 3.
+Art. 305.  § 1. Kto,  w celu osiągnięcia korzyści majątkowej, udaremnia lub
+utrudnia przetarg publiczny albo wchodzi w porozumienie z inną osobą
+działając na szkodę właściciela mienia albo osoby lub instytucji, na rzecz
+której przetarg jest dokonywany, podlega karze pozbawieni a wolności do lat
+3.
+§ 2. Tej samej karze podlega, kto w związku z publicznym
+przetargiem rozpowszechnia informacje lub przemilcza istotne okoliczności
+mające znaczenie dla zawarcia umowy będącej przedmiotem przetargu albo
+wchodzi w porozumienie z inną oso bą, działając na szkodę właściciela
+mienia albo osoby lub instytucji, na rzecz której przetarg jest dokonywany.
+§ 3. Jeżeli pokrzywdzonym nie jest Skarb Państwa, ściganie
+przestępstwa określonego w § 1 lub 2 następuje na wniosek
+pokrzywdzonego.
+Art. 306.  Kto usuwa, podrabia lub przerabia znaki identyfikacyjne, datę
+produkcji lub datę przydatności towaru lub urządzenia, podlega karze
+pozbawienia wolności do lat 3.
+Art. 307.  § 1. Wobec sprawcy przestępstwa określonego w art. 296 lub 299 –
+305, który dobrowolnie  naprawił szkodę w całości, sąd może zastosować
+nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.
+§ 2. Wobec sprawcy przestępstwa wymienionego w § 1, który
+dobrowolnie naprawił szkodę w znacznej części, sąd może zastosować
+nadzwyczajne zł agodzenie kary.
+przestępstwo oszustwa,
+o  którym mowa w art. 286
+Kodeksu karnego  Art. 286.  § 1. Kto, w celu osiągnięcia korzyści majątkowej, doprowadza inną
+osobę do niekorzystnego rozporządzenia własnym lub cudzym mieniem za
+pomocą wprowadzenia jej w błąd albo wyzyskania błędu lub niezdolności do
+należytego pojmowania przedsiębranego działania , podlega karze
+pozbawienia wolności od 6 miesięcy do lat 8.
+§ 2. Tej samej karze podlega, kto żąda korzyści majątkowej w
+zamian za zwrot bezprawnie zabranej rzeczy.
+§ 3. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze
+ograniczenia wolności albo pozbawienia wolności do lat 2.
+§ 4. Jeżeli czyn określony w § 1 –3 popełniono na szkodę osoby
+najbliższej, ściganie następuje na wniosek pokrzywdzonego.  III.A pkt 3
+przestępstwa przeciwko
+wiarygodności
+dokumentów, o których
+mowa w art. 270 -277
+Kodeksu karn ego Art. 270.  § 1. Kto, w celu użycia za autentyczny, podrabia lub przerabia
+dokument lub takiego dokumentu jako autentycznego używa, podlega
+grzywnie, karze ograniczenia wolności albo pozbawienia wolności od 3
+miesięcy do lat 5.
+§ 2. Tej samej karze podlega, kto wypełnia blankiet, zaopatrzony
+cudzym podpisem, niezgodnie z wolą podpisanego i na jego szkodę albo
+takiego dokumentu używa.
+§ 2a. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze
+ograniczenia wolności albo pozbawienia wolności do lat  2.
+§ 3. Kto czyni przygotowania do przestępstwa określonego w § 1,
+podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności
+do lat 2.
+Art. 270a. § 1. Kto, w celu użycia za autentyczną, podrabia lub
+przerabia fakturę  w zakresie okoliczności faktycznych mogących mieć
+znaczenie dla określenia  wysokości należności publicznoprawnej lub jej
+zwrotu albo zwrotu innej należności  o charakterze podatkowym lub takiej III.D
+faktury jako autentycznej używa,  podlega karze pozbawienia wolności od 6
+miesięcy do lat 8.
+§ 2. Jeżeli sprawca dopuszcza się czynu określonego w § 1 wobec
+faktury lub  faktur, zawierających kwotę należności ogółem, której wartość lub
+łączna wartość jest  większa niż pięciokrotność kwoty określającej mienie
+wielkiej wartości, albo  z popełnienia przestępstwa uczynił sobie stałe źródło
+dochodu,  podlega karze pozbawienia wolności na czas nie krótszy od lat 3.
+§ 3. W wypadku mniejszej wagi, sprawca czynu określonego w § 1
+lub 2  podlega grzywnie, karze ograniczenia wolności albo pozbawi enia
+wolności do  lat 2.
+Art. 271.  § 1. Funkcjonariusz publiczny lub inna osoba uprawniona do
+wystawienia dokumentu, która poświadcza w nim nieprawdę co do
+okoliczności mającej znaczenie prawne, podlega karze pozbawienia
+wolności od 3 miesięcy do lat 5.
+§ 2. W wypadku mniejszej wagi, sprawca podlega grzywnie albo
+karze ograniczenia wolności.
+§ 3. Jeżeli sprawca dopuszcza się czynu określonego w § 1 w celu
+osiągnięcia korzyści majątkowej lub osobistej, podlega karze pozbawienia
+wolności od 6 miesięcy do lat 8 .
+Art. 272.  Kto wyłudza poświadczenie nieprawdy przez podstępne
+wprowadzenie w błąd funkcjonariusza publicznego lub innej osoby
+upoważnionej do wystawienia dokumentu, podlega karze pozbawienia
+wolności do lat 3.
+Art. 273.  Kto używa dokumentu określonego w art. 271 lub 272, podlega
+grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+Art. 274.  Kto zbywa własny lub cudzy dokument stwierdzający tożsamość,
+podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności
+do lat 2.
+Art. 275.  § 1. Kto posługuje się dokumentem stwierdzającym tożsamość
+innej osoby albo jej prawa majątkowe lub dokument taki kradnie lub go
+przywłaszcza, podlega grzywnie, karze ograniczenia wolności albo
+pozbawienia wolności do lat 2.
+§ 2. Tej samej karze pod lega, kto bezprawnie przewozi, przenosi
+lub przesyła za granicę dokument stwierdzający tożsamość innej osoby albo
+jej prawa majątkowe.
+Art. 276.  Kto niszczy, uszkadza, czyni bezużytecznym, ukrywa lub usuwa
+dokument, którym nie ma prawa wyłącznie rozporządz ać, podlega grzywnie,
+karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+Art. 277.  Kto znaki graniczne niszczy, uszkadza, usuwa, przesuwa lub czyni
+niewidocznymi albo fałszywie wystawia, podlega grzywnie, karze
+ograniczenia wolności albo pozba wienia wolności do lat 2.
+przestępstwa skarbowe  [Zgodnie z art. 53 § 2 ustawy z dnia 10 września 1999 r. – Kodeks karny
+skarbowy  (Dz. U. z 2020 r. poz. 19 ze zm.) p rzestępstwo skarbowe to czyn III.A pkt 3
+zabroniony przez ten kodeks pod groźbą kary grzywny w stawkach
+dziennych, kary ograniczenia wolności lub kary pozbawienia wolności ]
+art. 9 ust. 1 i 3 lub art.  10
+ustawy o skutkach
+powierzania wykonywania
+pracy cudzoziemcom
+przebywającym wbrew
+przepisom na terytorium
+Rzeczypospolitej Pol skiej Art. 9. 1. Kto powierza, w tym samym czasie, wykonywanie pracy wielu
+cudzoziemcom przebywającym bez ważnego dokumentu uprawniającego do
+pobytu na terytorium Rzeczypospolitej Pols kiej, podlega grzywnie albo karze
+ograniczenia wolności.
+3. Karze o kreśl onej w ust. 1 podlega, kto w związku prowadzoną
+działalnością gospodarczą uporczywie powierza wykonywanie pracy
+cudzoziemcowi przebywającemu bez ważnego dokumentu uprawniającego
+do pobytu na terytorium Rzeczypospolitej Polskiej.
+Art. 10.  1. Kto powierza wykonywanie pracy cudzoziemcowi
+przebywającemu bez ważnego dokumentu uprawniającego do pobytu na
+terytorium Rzeczypospolitej Polskiej w warunkach szczególnego
+wykorzystania, podlega karze pozbawienia wolności do lat 3.
+2. Tej samej karze p odlega, kto powierza wykonywanie pracy
+cudzoziemcowi przebywającemu bez ważnego dokumentu uprawniającego
+do pobytu na terytorium Rzeczypospolitej Polskiej, będącemu
+pokrzywdzonym przestępstwem określonym w art. 189a § 1 ustawy z dnia 6
+czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.3)).  III.C rubryka dotycząca prawa środowiska,
+prawa socjalnego i  prawa pracy

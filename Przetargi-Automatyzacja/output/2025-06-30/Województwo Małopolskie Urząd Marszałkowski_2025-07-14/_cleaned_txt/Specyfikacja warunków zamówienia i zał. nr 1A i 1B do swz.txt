@@ -1,0 +1,371 @@
+SPECYFIKACJA WARUNKÓW ZAMÓWIENIA (zwana dalej swz)
+Województwo Małopolskie z siedzibą w Krakowie przy ul. Basztowej 22, zwane w dalszej części Zamawiającym, zaprasza do składania ofert w postępowaniu o udzielenie zamówienia publicznego pn.: Dostawa i wdrożenie systemu EZD sprzętu serwerowego, licencji i wsparcia dla projektu pn.: „Wdrożenie elektronicznego zarządzania dokumentacją w podmiotach zależnych od Województwa Małopolskiego”
+Informacje o Zamawiającym
+Województwo Małopolskie, ul. Basztowa 22, 31-156 Kraków
+Numer telefonu: 12 63 03 372
+Adres poczty elektronicznej: przetargi@umwm.malopolska.pl
+Główny adres: https://www.malopolska.pl/
+Adres profilu nabywcy (BIP): https://bip.malopolska.pl/umwm/
+Adres strony internetowej, na której udostępniane będą zmiany i wyjaśnienia treści swz oraz inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia:
+Adres strony internetowej prowadzonego postępowania (link prowadzący bezpośrednio do widoku postępowania na Platformie e-Zamówienia):
+https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-f77e81a8-f2d2-4d16-b0c5-4fe1b755ce0b
+Postępowanie można wyszukać również ze strony głównej Platformy e-Zamówienia (przycisk „Przeglądaj postępowania/konkursy”).
+Identyfikator (ID) postępowania na Platformie e-Zamówienia:
+ocds-148610-f77e81a8-f2d2-4d16-b0c5-4fe1b755ce0b
+Tryb udzielenia zamówienia
+Zamówienie publiczne udzielane jest w trybie przetargu nieograniczonego zgodnie z art. 132 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (t.j. Dz.U. z 2024 poz. 1320 z późn. zm.), zwaną dalej ustawą.
+Zamawiający zgodnie z art. 139 i nast. ustawy najpierw dokona badania i oceny ofert, a następnie dokona kwalifikacji podmiotowej wykonawcy, którego oferta została najwyżej oceniona, w zakresie braku podstaw wykluczenia oraz spełniania warunków udziału w postępowaniu.
+Opis przedmiotu zamówienia, w tym opis części zamówienia
+Przedmiotem zamówienia jest dostawa i wdrożenie systemu EZD, sprzętu serwerowego, licencji i wsparcia dla projektu pn.: „Wdrożenie elektronicznego zarządzania dokumentacją w podmiotach zależnych od Województwa Małopolskiego.
+Przedmiot zamówienia składa się z trzech części:
+I część – Dostawa serwerów, przełączników, zapór sieciowych UPS, szaf RACK wraz z oprogramowaniem systemowym, wirtualizacyjnym i zarzadzania środowiskiem kubernetes wraz ze wsparciem i licencjami na 5 lat wraz ze szkoleniem dla administratorów. Dostawa odbędzie się do następujących Jednostek Organizacyjnych Województwa:
+Szczegóły dotyczące pomieszczeń, w których rozlokowany będzie dostarczony sprzęt i dostępu do nich określono w załączniku nr 7 do wzoru umowy stanowiącej załącznik nr 1C do swz oraz Załączniku nr 1I – opis miejsca montażu.
+II część – Dostawa laptopów, stacji dokujących i monitorów wraz z oprogramowaniem, licencjami i wsparciem.
+III część – Dostawa urządzeń wielofunkcyjnych, drukarek i czytników kodów kreskowych wraz z oprogramowaniem, licencjami i wsparciem na 5 lat.
+Warunki realizacji zamówienia zawarte są w projektowanych postanowieniach umowy w sprawie zamówienia publicznego, które zostaną wprowadzone do umowy w sprawie zamówienia publicznego – wzorze umowy i stanowią odpowiednio załącznik nr 1C dla części pierwszej, załącznik nr 1D dla części drugiej i załącznik nr 1E dla części trzeciej do swz (zwane są dalej wzorem umowy).
+Szczegółowy opis przedmiotu zamówienia (SOPZ) zawierający Szczegółową specyfikacje techniczną stanowi odpowiednio załącznik nr 1F dla części pierwszej, załącznik nr 1G dla części drugiej i załącznik nr 1H dla części trzeciej do swz .
+Przedmiot umowy jest współfinansowany ze środków: Unii Europejskiej w ramach programu Fundusze Europejskie dla Małopolski 2021-2027 w ramach Europejskiego Funduszu Rozwoju Regionalnego (EFRR).
+Oznaczenie wg CPV: 30236000-2 - Różny sprzęt komputerowy.
+Składanie ofert częściowych
+Zamawiający dopuszcza możliwość składania ofert częściowych.
+Wykonawca może złożyć jedną ofertę na daną część zamówienia.
+Wykonawca może złożyć ofertę na jedną część zamówienia (dowolną) lub dwie części zamówienia lub trzy części zamówienia. Zamawiający nie wprowadza ograniczenia w tym zakresie.
+Informacja o przedmiotowych środkach dowodowych
+Zamawiający nie wymaga, aby wykonawca wraz z ofertą składał przedmiotowe środki dowodowe.
+Termin wykonania zamówienia
+Zamówienie należy wykonać w terminie:
+I część: do 70 dni roboczych od daty zawarcia umowy,
+II część: do 20 dni roboczych od daty zawarcia umowy,
+III część: do 20 dni roboczych od daty zawarcia umowy,
+Podstawy wykluczenia, o których mowa w art. 108 oraz w art. 109 ust. 1 oraz informacje o warunkach udziału w postępowaniu o udzielenie zamówienia
+O udzielenie zamówienia mogą ubiegać się wykonawcy, którzy:
+nie podlegają wykluczeniu z postępowania na podstawie art. 108 ust. 1 oraz art. 109 ust. 1 pkt 2) lit a) i lit. b), pkt. 3), pkt 8) i pkt 10) ustawy.
+Z uwagi na wartość zamówienia Zamawiający odstępuje od przesłanki wykluczania wykonawcy z postępowania, o której mowa w art. 108 ust. 2 ustawy, ponieważ nie ma ona zastosowania w niniejszym postępowaniu.
+Nie podlega wykluczeniu z postępowania na podstawie art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspierania agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego,
+Nie podlega zakazowi udzielania lub dalszego wykonywania wszelkich zamówień publicznych na podstawie art. 5k ust.1 Rozporządzenia Rady (UE) NR 833/2014 z dnia 31 lipca 2014r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz.Urz. UE L229 z 31.07.2014, str.1 z póź. zm.).
+spełniają warunki udziału w postępowaniu dotyczące zdolności technicznej lub zawodowej:
+część I zamówienia:
+warunek udziału w postępowaniu zostanie uznany za spełniony, gdy wykonawca wykaże, że należycie wykonał (lub wykonuje – w przypadku świadczeń powtarzających się lub ciągłych) w okresie ostatnich 3 lat, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie, co najmniej jedną dostawę odpowiadającą swoim rodzajem i wartością dostawie stanowiącej przedmiot zamówienia.
+Za dostawę odpowiadającą swoim rodzajem i wartością dostawie, stanowiącej przedmiot zamówienia uważa się dostawę serwerów wraz z wymaganym osprzętem sieciowym i/lub przełączników wraz z wymaganym osprzętem sieciowym i/lub zapór sieciowych, wraz z oprogramowaniem systemowym i/lub wirtualizacyjnym, o wartości dostawy minimum 2 000 000,00 zł brutto.
+Okresy wyrażone w latach, o których mowa powyżej, liczy się wstecz od dnia, w którym upływa termin składania ofert w postępowaniu.
+Przez „dostawę” Zamawiający rozumie wykonanie dostawy obejmującej ww. zakres w ramach jednej umowy / zamówienia / zlecenia.
+Wykonawca może w celu potwierdzenia spełniania warunków udziału w postępowaniu polegać na zdolnościach technicznych lub zawodowych podmiotów udostępniających zasoby na zasadach określonych w art. 118 ustawy.
+Wykonawcy wspólnie ubiegający się o udzielenie zamówienia ustanawiają pełnomocnika do reprezentowania ich w postępowaniu o udzielenie zamówienia albo do reprezentowania w postępowaniu i zawarcia umowy w sprawie zamówienia publicznego (do oferty należy załączyć odpowiednie pełnomocnictwo) chyba, że w przypadku spółki cywilnej, z umowy tej spółki wynika sposób jej reprezentowania (do stwierdzenia, czego niezbędne jest załączenie do oferty umowy spółki cywilnej). Wszelka korespondencja oraz rozliczenia dokonywane będą wyłącznie z podmiotem występującym, jako pełnomocnik pozostałych. Oferta musi być podpisana w taki sposób, by prawnie zobowiązywała wszystkie podmioty występujące wspólnie. Wykonawcy wspólnie ubiegający się o udzielenie zamówienia, ponoszą solidarną odpowiedzialność za wykonanie umowy.
+Wykaz podmiotowych środków dowodowych oraz innych dokumentów lub oświadczeń jakich będzie żądał zamawiający od wykonawcy
+Dokumenty i oświadczenia składane wraz z ofertą
+Wykonawcy wspólnie ubiegający się o udzielenie zamówienia dołączają do oferty oświadczenie, z którego wynika, które dostawy wykonają poszczególni wykonawcy, o którym mowa w pkt. 8 ust. 4 swz.
+Wykonawca, który polega na zdolnościach lub sytuacji podmiotów udostępniających zasoby na zasadach określonych w art. 118 ustawy składa wraz z ofertą, zobowiązanie podmiotu udostępniającego zasoby do oddania mu do dyspozycji niezbędnych zasobów na potrzeby realizacji danego zamówienia lub inny podmiotowy środek dowodowy potwierdzający, że wykonawca realizując zamówienie, będzie dysponował niezbędnymi zasobami tych podmiotów. Zamawiający zaleca złożenie zobowiązania wg wzoru stanowiącego załącznik nr 2F do swz.
+W celu potwierdzenia, że osoba działająca w imieniu wykonawcy jest umocowana do jego reprezentowania, Zamawiający wymaga od wykonawcy złożenia wraz z ofertą odpisu lub informacji z Krajowego Rejestru Sądowego, Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub innego właściwego rejestru.
+Wykonawca nie jest zobowiązany do złożenia dokumentów, o których mowa w ust. 3, jeżeli Zamawiający może je uzyskać za pomocą bezpłatnych i ogólnodostępnych baz danych, o ile wykonawca wskazał dane umożliwiające dostęp do tych dokumentów.
+Jeżeli w imieniu wykonawcy działa osoba, której umocowanie do jego reprezentowania nie wynika z dokumentów, o których mowa w ust. 3, Zamawiający żąda od wykonawcy pełnomocnictwa lub innego dokumentu potwierdzającego umocowanie do reprezentowania wykonawcy.
+Zapis ust. 5 stosuje się odpowiednio do osoby działającej w imieniu wykonawców wspólnie ubiegających się o udzielenie zamówienia publicznego.
+Zapis ust. 3 – 5 stosuje się odpowiednio do osoby działającej w imieniu podmiotu udostępniającego zasoby na zasadach określonych w art. 118 ustawy.
+Wszelkie pełnomocnictwa winny być załączone do oferty w formie oryginału lub urzędowo poświadczonego odpisu pełnomocnictwa (notarialnie – art. 96 ustawy z 14 lutego 1991 r.– Prawo o notariacie /tekst jednolity Dz. U. z 2024 poz. 1001/), z zastrzeżeniem innych zasad opisanych w niniejszej swz lub wynikających z przepisów prawa powszechnie obowiązującego.
+Z uwagi na zastosowanie w niniejszym postępowaniu przepisów, o których mowa w art. 139 ustawy, wykonawcy nie są obowiązani do złożenia wraz z ofertą oświadczenia o niepodleganiu wykluczeniu, spełnianiu warunków udziału w postępowaniu na formularzu jednolitego dokumentu, ponieważ Zamawiający przewiduje możliwość żądania tego oświadczenia wyłącznie od wykonawcy, którego oferta została najwyżej oceniona.
+Zamawiający wymaga złożenia przez Wykonawcę wraz z ofertą oświadczenia, że Wykonawca:
+nie podlega wykluczeniu z postępowania na podstawie art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspierania agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego,
+nie podlega zakazowi udzielania lub dalszego wykonywania wszelkich zamówień publicznych na podstawie artykułu 5k ust. 1 Rozporządzenia Rady (UE) Nr 833/2014 z dnia 31 lipca 2014r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz.Urz.UE L 229 z 31.07.2014, str. 1, z póź. zm.),
+- oświadczenia są ujęte w załączniku nr 2E do swz.
+W przypadku wspólnego ubiegania się o zamówienie przez Wykonawców, oświadczenie, o którym mowa w ust. 10, składa każdy z Wykonawców.
+Wykonawca, który polega na zdolnościach lub sytuacji podmiotów udostępniających zasoby na zasadach określonych w art. 118 ustawy przedstawia, wraz z oświadczeniem, o którym mowa w ust. 10, także oświadczenie, o którym mowa w ust. 10 podmiotu udostępniającego zasoby.
+Podmiotowe środki dowodowe składane na wezwanie Zamawiającego
+Przed wyborem najkorzystniejszej oferty Zamawiający wezwie wykonawcę, którego oferta została najwyżej oceniona, do złożenia w wyznaczonym terminie:
+Oświadczenia o niepodleganiu wykluczeniu, spełnianiu warunków udziału w postępowaniu, w zakresie wskazanym przez Zamawiającego. Oświadczenie, stanowi dowód potwierdzający brak podstaw wykluczenia, spełnianie warunków udziału w postępowaniu na dzień składania ofert, tymczasowo zastępujący wymagane przez Zamawiającego podmiotowe środki dowodowe.
+Oświadczenie, o którym mowa w ust. 1, składa się na formularzu jednolitego europejskiego dokumentu zamówienia, sporządzonym zgodnie ze wzorem standardowego formularza określonego w rozporządzeniu wykonawczym Komisji (UE) 2016/7 z dnia 5 stycznia 2016 r. Ustanawiającym standardowy formularz jednolitego europejskiego dokumentu zamówienia (Dz. Urz. UE L 3 z 06.01.2016, str. 16), zwanym dalej „jednolitym dokumentem lub JEDZ”, którego wzór stanowi załącznik nr 3 do swz.
+Zamawiający informuje, że wykonawca wypełnia oświadczenie w zakresie wskazanym przez Zamawiającego, w części IV może ograniczyć się do wypełnienia sekcji α (alfa): Ogólne oświadczenie dotyczące wszystkich kryteriów kwalifikacji i nie musi wypełniać żadnej z pozostałych sekcji w części IV JEDZ.
+Instrukcja wypełniania JEDZ jest zamieszczona na stronie internetowej Urzędu Zamówień Publicznych, pod adresem:  https://www.gov.pl/web/uzp/jednolity-europejski-dokument-zamowienia2
+UWAGA! Zamawiający zaleca wypełnienie formularza JEDZ (ESPD) za pomocą serwisu dostępnego pod adresem: https://espd.uzp.gov.pl/. W tym celu przygotowany przez Zamawiającego jednolity europejski dokument zamówienia (ESPD) w formacie *xml, stanowiący załącznik nr 3A do swz należy pobrać ze strony prowadzonego postępowania (e-Zamówienia), zapisać na dysku, a następnie zaimportować do wyżej wymienionego serwisu oraz postępując zgodnie z zamieszczoną tam instrukcją wypełnić wzór elektronicznego formularza ESPD. Serwis ESPD nie archiwizuje plików.
+W przypadku wspólnego ubiegania się o zamówienie przez wykonawców, oświadczenie, o którym mowa w ust. 1, składa każdy z wykonawców. Oświadczenia te potwierdzają brak podstaw wykluczenia oraz spełnianie warunków udziału w postępowaniu w zakresie, w jakim każdy z wykonawców wykazuje spełnianie warunków udziału w postępowaniu.
+Wykonawca, który polega na zdolnościach lub sytuacji podmiotów udostępniających zasoby na zasadach określonych w art. 118 ustawy przedstawia, wraz z oświadczeniem, o którym mowa w ust. 1, także oświadczenie JEDZ podmiotu udostępniającego zasoby, potwierdzające brak podstaw wykluczenia tego podmiotu oraz odpowiednio spełnianie warunków udziału w postępowaniu, w zakresie, w jakim wykonawca powołuje się na jego zasoby.
+Wykonawca może wykorzystać jednolity dokument złożony w odrębnym postępowaniu o udzielenie zamówienia, jeżeli potwierdzi, że informacje w nim zawarte pozostają prawidłowe.
+Na potwierdzenie braku podstaw wykluczenia:
+informacji z Krajowego Rejestru Karnego, sporządzonej nie wcześniej niż 6 miesięcy przed jej złożeniem, w zakresie:
+art. 108 ust. 1 pkt 1 i 2 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, zwanej dalej „ustawą”,
+art. 108 ust. 1 pkt 4 ustawy, dotyczącej orzeczenia zakazu ubiegania się o zamówienie publiczne tytułem środka karnego,
+art. 109 ust. 1 pkt 2 lit. a ustawy,
+art. 109 ust. 1 pkt 2 lit. b ustawy, dotyczącej ukarania za wykroczenie, za które wymierzono karę aresztu,
+art. 109 ust. 1 pkt 3 ustawy, dotyczącej skazania za przestępstwo lub ukarania za wykroczenie, za które wymierzono karę aresztu;
+oświadczenia wykonawcy, w zakresie art. 108 ust. 1 pkt 5 ustawy, o braku przynależności do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 594), z innym wykonawcą, który złożył odrębną ofertę w postępowaniu, albo oświadczenia o przynależności do tej samej grupy kapitałowej wraz z dokumentami lub informacjami potwierdzającymi przygotowanie oferty w postępowaniu niezależnie od innego wykonawcy należącego do tej samej grupy kapitałowej.
+Wzór oświadczenia stanowi załącznik nr 4 do swz;
+oświadczenia wykonawcy o aktualności informacji zawartych w oświadczeniu, o którym mowa w ust. 1, w zakresie podstaw wykluczenia z postępowania wskazanych przez
+Zamawiającego, o których mowa w:
+art. 108 ust. 1 pkt 3 ustawy,
+art. 108 ust. 1 pkt 4 ustawy, dotyczących orzeczenia zakazu ubiegania się o zamówienie publiczne tytułem środka zapobiegawczego,
+art. 108 ust. 1 pkt 5 ustawy, dotyczących zawarcia z innymi wykonawcami porozumienia mającego na celu zakłócenie konkurencji,
+art. 108 ust. 1 pkt 6 ustawy,
+art. 109 ust. 1 pkt 2 lit. b ustawy, dotyczących ukarania za wykroczenie, za które wymierzono karę ograniczenia wolności lub karę grzywny,
+art. 109 ust. 1 pkt 3 ustawy, dotyczących ukarania za wykroczenie, za które wymierzono karę ograniczenia wolności lub karę grzywny,
+art. 109 ust. 1 pkt 8 i 10) ustawy,
+- wzór oświadczenia stanowi załącznik nr 5 do swz.
+Jeżeli wykonawca ma siedzibę lub miejsce zamieszkania poza granicami Rzeczypospolitej Polskiej, zamiast informacji z Krajowego Rejestru Karnego, o której mowa w ust. 6 pkt 1) – składa informację z odpowiedniego rejestru, takiego jak rejestr sądowy, albo, w przypadku braku takiego rejestru, inny równoważny dokument wydany przez właściwy organ sądowy lub administracyjny kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania, lub miejsce zamieszkania ma osoba, której dotyczy informacja albo dokument, w zakresie, o którym mowa w ust. 6 pkt 1).
+Dokument, o którym mowa w ust. 7 powinien być wystawiony nie wcześniej niż 6 miesięcy przed jego złożeniem.
+Jeżeli w kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dokument dotyczy, nie wydaje się dokumentów, o których mowa w ust. 7, lub gdy dokumenty te nie odnoszą się do wszystkich przypadków, o których mowa w art. 108 ust. 1 pkt 1, 2 i 4, art. 109 ust. 1 pkt 2 lit. a i b oraz pkt 3 ustawy, zastępuje się je odpowiednio w całości lub w części dokumentem zawierającym odpowiednio oświadczenie wykonawcy, ze wskazaniem osoby albo osób uprawnionych do jego reprezentacji, lub oświadczenie osoby, której dokument miał dotyczyć, złożone pod przysięgą, lub, jeżeli w kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dokument miał dotyczyć, nie ma przepisów o oświadczeniu pod przysięgą, złożone przed organem sądowym lub administracyjnym, notariuszem, organem samorządu zawodowego lub gospodarczego, właściwym ze względu na siedzibę lub miejsce zamieszkania wykonawcy lub miejsce zamieszkania ma osoba, której dokument miał dotyczyć. Przepis ust. 8 stosuje się.
+W przypadku wykonawców wspólnie ubiegających się o udzielenie zamówienia, podmiotowe środki dowodowe na potwierdzenie braku podstaw wykluczenia wymienione w ust. 6 składa każdy z wykonawców wspólnie ubiegających się o udzielenie zamówienia.
+Na potwierdzenie spełniania warunków udziału w postępowaniu:
+w celu potwierdzenia spełniania przez wykonawcę warunków udziału w postępowaniu dotyczących zdolności technicznej lub zawodowej, Zamawiający żąda następujących podmiotowych środków dowodowych:
+wykazu dostaw wykonanych, a w przypadku świadczeń powtarzających się lub ciągłych również wykonywanych, w okresie ostatnich 3 lat, a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie, wraz z podaniem ich wartości, przedmiotu, dat wykonania i podmiotów, na rzecz których dostawy zostały wykonane lub są wykonywane, oraz załączeniem dowodów określających, czy te dostawy zostały wykonane lub są wykonywane należycie, przy czym dowodami, o których mowa, są referencje bądź inne dokumenty sporządzone przez podmiot, na rzecz którego dostawy zostały wykonane, a w przypadku świadczeń powtarzających się lub ciągłych są wykonywane, a jeżeli wykonawca z przyczyn niezależnych od niego nie jest w stanie uzyskać tych dokumentów – oświadczenie wykonawcy; w przypadku świadczeń powtarzających się lub ciągłych nadal wykonywanych referencje bądź inne dokumenty potwierdzające ich należyte wykonywanie powinny być wystawione w okresie ostatnich 3 miesięcy.
+Wykaz dostaw wykonanych stanowi załącznik nr 6 do swz (część I zamówienia).
+Okresy wyrażone w latach lub miesiącach, o których mowa powyżej, liczy się wstecz od dnia w którym upływa termin składania ofert w postępowaniu.
+Jeżeli wykonawca powołuje się na doświadczenie w realizacji dostaw wykonywanych wspólnie z innymi wykonawcami, wykaz dostaw wykonanych, o którym mowa powyżej dotyczy dostaw, w których wykonaniu wykonawca ten bezpośrednio uczestniczył, a w przypadku świadczeń powtarzających się lub ciągłych, w których wykonywaniu bezpośrednio uczestniczył lub uczestniczy.
+Wykonawca nie jest zobowiązany do złożenia podmiotowych środków dowodowych, które Zamawiający posiada, jeżeli wykonawca wskaże te środki oraz potwierdzi ich prawidłowość i aktualność.
+Zamawiający nie wezwie wykonawcy do złożenia podmiotowych środków dowodowych,
+jeżeli może je uzyskać za pomocą bezpłatnych i ogólnodostępnych baz danych, w szczególności rejestrów publicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, o ile wykonawca wskazał w jednolitym dokumencie lub w formularzu oferty dane umożliwiające dostęp do tych środków.
+Forma składanych podmiotowych środków dowodowych, innych dokumentów lub oświadczeń
+Podmiotowe środki dowodowe oraz inne dokumenty lub oświadczenia, o których mowa w rozporządzeniu w sprawie podmiotowych środków dowodowych oraz innych dokumentów lub oświadczeń, jakich może żądać zamawiający od wykonawcy (Dz. U. z 2020 r. poz. 2415), składa się w formie przewidzianej w tym Rozporządzeniu, w zakresie i w sposób określony w przepisach wydanych na podstawie art. 70 ustawy.
+Oświadczenie, o którym mowa w pkt 9.2) ust. 1 swz składa się pod rygorem nieważności w formie elektronicznej.
+Oferty, oświadczenia o niepodleganiu wykluczeniu, spełnianiu warunków udziału w postępowaniu, podmiotowe środki dowodowe, w tym oświadczenie wykonawców wspólnie ubiegających się o udzielenie zamówienia, z którego wynika, które dostawy wykonają poszczególni wykonawcy, oraz zobowiązanie podmiotu udostępniającego zasoby, o którym mowa w art. 118 ust. 3 ustawy, zwane dalej zobowiązaniem podmiotu udostępniającego zasoby, przedmiotowe środki dowodowe, pełnomocnictwo sporządza się w postaci elektronicznej, w formatach danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 307 z późn. zm.), z uwzględnieniem rodzaju przekazywanych danych.
+Informacje, oświadczenia lub dokumenty, inne niż określone w ust. 3, przekazywane w postępowaniu, sporządza się w postaci elektronicznej, w formatach danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne lub jako tekst wpisany bezpośrednio do wiadomości przekazywanej przy użyciu środków komunikacji elektronicznej, o których mowa w pkt 10) swz.
+Dokumenty elektroniczne przekazuje się w postępowaniu przy użyciu środków komunikacji elektronicznej wskazanych w pkt. 10) swz.
+Podmiotowe środki dowodowe, przedmiotowe środki dowodowe oraz inne dokumenty lub oświadczenia, sporządzone w języku obcym przekazuje się wraz z tłumaczeniem na język polski.
+W przypadku gdy podmiotowe środki dowodowe, przedmiotowe środki dowodowe, inne dokumenty, lub dokumenty potwierdzające umocowanie do reprezentowania odpowiednio wykonawcy, wykonawców wspólnie ubiegających się o udzielenie zamówienia publicznego lub podmiotu udostępniającego zasoby na zasadach określonych w art. 118 ustawy, zwane dalej „dokumentami potwierdzającymi umocowanie do reprezentowania”, zostały wystawione przez upoważnione podmioty inne niż wykonawca, wykonawca wspólnie ubiegający się o udzielenie zamówienia lub podmiot udostępniający zasoby, zwane dalej „upoważnionymi podmiotami”, jako dokument elektroniczny, przekazuje się ten dokument.
+W przypadku gdy podmiotowe środki dowodowe, przedmiotowe środki dowodowe, inne dokumenty, lub dokumenty potwierdzające umocowanie do reprezentowania, zostały wystawione przez upoważnione podmioty jako dokument w postaci papierowej, przekazuje się cyfrowe odwzorowanie tego dokumentu opatrzone kwalifikowanym podpisem elektronicznym, poświadczające zgodność cyfrowego odwzorowania z dokumentem w postaci papierowej.
+Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o którym mowa w ust. 8, dokonuje w przypadku:
+podmiotowych środków dowodowych oraz dokumentów potwierdzających umocowanie do reprezentowania – odpowiednio wykonawca, wykonawca wspólnie ubiegający się o udzielenie zamówienia lub podmiot udostępniający zasoby, w zakresie podmiotowych środków dowodowych lub dokumentów potwierdzających umocowanie do reprezentowania, które każdego z nich dotyczą;
+przedmiotowych środków dowodowych – odpowiednio wykonawca lub wykonawca wspólnie ubiegający się o udzielenie zamówienia;
+innych dokumentów – odpowiednio wykonawca lub wykonawca wspólnie ubiegający się o udzielenie zamówienia, w zakresie dokumentów, które każdego z nich dotyczą.
+Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o którym mowa w ust. 8 i ust. 13, może dokonać również notariusz.
+Przez cyfrowe odwzorowanie, należy rozumieć dokument elektroniczny będący kopią elektroniczną treści zapisanej w postaci papierowej, umożliwiający zapoznanie się z tą treścią i jej zrozumienie, bez konieczności bezpośredniego dostępu do oryginału.
+Podmiotowe środki dowodowe, w tym oświadczenie wykonawców wspólnie ubiegających się o udzielenie zamówienia, z którego wynika, które dostawy wykonają poszczególni wykonawcy, oraz zobowiązanie podmiotu udostępniającego zasoby, przedmiotowe środki dowodowe, niewystawione przez upoważnione podmioty, oraz pełnomocnictwo przekazuje się w postaci elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym.
+W przypadku gdy podmiotowe środki dowodowe, w tym oświadczenie wykonawców wspólnie ubiegający się o udzielenie zamówienia, z którego wynika, które dostawy wykonają poszczególni wykonawcy, oraz zobowiązanie podmiotu udostępniającego zasoby, przedmiotowe środki dowodowe, niewystawione przez upoważnione podmioty lub pełnomocnictwo, zostały sporządzone jako dokument w postaci papierowej i opatrzone własnoręcznym podpisem, przekazuje się cyfrowe odwzorowanie tego dokumentu opatrzone kwalifikowanym podpisem elektronicznym, poświadczającym zgodność cyfrowego odwzorowania z dokumentem w postaci papierowej.
+Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o którym mowa w ust. 13, dokonuje w przypadku:
+podmiotowych środków dowodowych – odpowiednio wykonawca, wykonawca wspólnie ubiegający się o udzielenie zamówienia lub podmiot udostępniający zasoby, w zakresie podmiotowych środków dowodowych, które każdego z nich dotyczą;
+przedmiotowego środka dowodowego, oświadczenia wykonawców wspólnie ubiegających się o udzielenie zamówienia, z którego wynika, które usługi wykonają poszczególni wykonawcy, lub zobowiązania podmiotu udostępniającego zasoby – odpowiednio wykonawca lub wykonawca wspólnie ubiegający się o udzielenie zamówienia;
+pełnomocnictwa – mocodawca.
+W przypadku przekazywania w postępowaniu dokumentu elektronicznego w formacie poddającym dane kompresji, opatrzenie pliku zawierającego skompresowane dokumenty kwalifikowanym podpisem elektronicznym, jest równoznaczne z opatrzeniem wszystkich dokumentów zawartych w tym pliku odpowiednio kwalifikowanym podpisem elektronicznym.
+Informacje o środkach komunikacji elektronicznej, przy użyciu których zamawiający będzie komunikował się z wykonawcami, oraz informacje o wymaganiach technicznych i organizacyjnych sporządzania, wysyłania i odbierania korespondencji elektronicznej
+Komunikacja między Zamawiającym a wykonawcami odbywa się przy użyciu: Platformy e-Zamówienia, która jest dostępna pod adresem https://ezamowienia.gov.pl/
+Wykonawca zamierzający wziąć udział w postępowaniu o udzielenie zamówienia publicznego musi posiadać konto podmiotu „Wykonawca” na Platformie e-Zamówienia. Szczegółowe informacje na temat zakładania kont podmiotów oraz zasady i warunki korzystania z Platformy e-Zamówienia określa Regulamin Platformy e-Zamówienia dostępny na stronie internetowej https://ezamowienia.gov.pl/ oraz informacje zamieszczone w zakładce „Centrum Pomocy”.
+Korzystanie z Platformy e-Zamówienia jest bezpłatne.
+Przeglądanie i pobieranie publicznej treści dokumentacji postępowania nie wymaga posiadania konta na Platformie e-Zamówienia ani logowania.
+Sposób sporządzenia dokumentów elektronicznych lub dokumentów elektronicznych będących kopią elektroniczną treści zapisanej w postaci papierowej (cyfrowe odwzorowania) musi być zgodny z wymaganiami określonymi w rozporządzeniu Prezesa Rady Ministrów w sprawie wymagań dla dokumentów elektronicznych.
+Dokumenty elektroniczne, o których mowa w § 2 ust. 1 rozporządzenia Prezesa Rady Ministrów w sprawie wymagań dla dokumentów elektronicznych, sporządza się w postaci elektronicznej, w formatach danych określonych w przepisach rozporządzenia Rady Ministrów w sprawie Krajowych Ram Interoperacyjności, z uwzględnieniem rodzaju przekazywanych danych i przekazuje się jako załączniki.
+W przypadku formatów, o których mowa w art. 66 ust. 1 ustawy, ww. regulacje nie będą miały bezpośredniego zastosowania.
+Informacje, oświadczenia lub dokumenty, inne niż wymienione w § 2 ust. 1 rozporządzenia Prezesa Rady Ministrów w sprawie wymagań dla dokumentów elektronicznych, przekazywane w postępowaniu sporządza się w postaci elektronicznej:
+w formatach danych określonych w przepisach rozporządzenia Rady Ministrów w sprawie Krajowych Ram Interoperacyjności (i przekazuje się jako załącznik), lub
+jako tekst wpisany bezpośrednio do wiadomości przekazywanej przy użyciu środków komunikacji elektronicznej (np. w treści wiadomości e-mail lub w treści „Formularza do komunikacji”).
+Dokumenty elektroniczne, przekazywane przy użyciu środków komunikacji elektronicznej, zawierają informacje stanowiące tajemnicę przedsiębiorstwa w rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233) wykonawca, w celu utrzymania w poufności tych informacji, przekazuje je w wydzielonym i odpowiednio oznaczonym pliku, wraz z jednoczesnym zaznaczeniem w nazwie pliku „Dokument stanowiący tajemnicę przedsiębiorstwa”.
+Komunikacja w postępowaniu, z wyłączeniem składania ofert w postępowaniu, odbywa się drogą elektroniczną za pośrednictwem formularzy do komunikacji dostępnych w zakładce „Formularze” („Formularze do komunikacji”). Za pośrednictwem „Formularzy do komunikacji” odbywa się w szczególności przekazywanie wezwań i zawiadomień, zadawanie pytań i udzielanie odpowiedzi. Formularze do komunikacji umożliwiają również dołączenie załącznika do przesyłanej wiadomości (przycisk „dodaj załącznik”). W przypadku załączników, które są zgodnie z ustawą Pzp lub rozporządzeniem Prezesa Rady Ministrów w sprawie wymagań dla dokumentów elektronicznych opatrzone kwalifikowanym podpisem elektronicznym, mogą być opatrzone, zgodnie z wyborem wykonawcy/wykonawcy wspólnie ubiegającego się o udzielenie zamówienia/podmiotu udostępniającego zasoby, podpisem zewnętrznym lub wewnętrznym. W zależności od rodzaju podpisu i jego typu (zewnętrzny, wewnętrzny) dodaje się do przesyłanej wiadomości uprzednio podpisane dokumenty wraz z wygenerowanym plikiem podpisu (typ zewnętrzny) lub dokument z wszytym podpisem (typ wewnętrzny).
+Możliwość korzystania w postępowaniu z „Formularzy do komunikacji” w pełnym zakresie wymaga posiadania konta „Wykonawcy” na Platformie e-Zamówienia oraz zalogowania się na Platformie e-Zamówienia. Do korzystania z „Formularzy do komunikacji” służących do zadawania pytań dotyczących treści dokumentów zamówienia wystarczające jest posiadanie tzw. konta uproszczonego na Platformie e-Zamówienia.
+Wszystkie wysłane i odebrane w postępowaniu przez wykonawcę wiadomości widoczne są po zalogowaniu w podglądzie postępowania w zakładce „Komunikacja”.
+Maksymalny rozmiar plików przesyłanych za pośrednictwem „Formularzy do komunikacji” wynosi 25 MB (wielkość ta dotyczy plików przesyłanych jako załączniki do jednego formularza).
+Minimalne wymagania techniczne dotyczące sprzętu używanego w celu korzystania z usług Platformy e-Zamówienia oraz informacje dotyczące specyfikacji połączenia określa Regulamin Platformy e-Zamówienia.
+W przypadku problemów technicznych i awarii związanych z funkcjonowaniem Platformy e-Zamówienia użytkownicy mogą skorzystać ze wsparcia technicznego dostępnego pod numerem telefonu (22) 458 77 99  lub drogą elektroniczną poprzez formularz udostępniony na stronie internetowej https://ezamowienia.gov.pl/ w zakładce „Zgłoś problem”.
+W szczególnie uzasadnionych przypadkach uniemożliwiających komunikację wykonawcy i Zamawiającego za pośrednictwem Platformy e-Zamówienia, Zamawiający dopuszcza komunikację za pomocą poczty elektronicznej na adres e-mail: przetargi@umwm.malopolska.pl (nie dotyczy składania ofert w postępowaniu).
+Wskazanie osób uprawnionych do komunikowania się z wykonawcami
+Osobą uprawnioną do porozumiewania się z wykonawcami jest:
+Maciej Łysikowski, tel. 12 39 74 419, Zespół Zamówień Publicznych, Departament Prawny.
+Termin związania ofertą
+Termin związania ofertą upływa 11.10.2025 r.
+Opis sposobu przygotowywania oferty
+Na ofertę składają się następujące dokumenty:
+Wypełniony i podpisany Formularz Oferty – załącznik nr 2A do swz.
+Wypełniony i podpisany Wykaz Sprzętu – załącznik nr 2B, 2C, 2D do swz odpowiednio dla części na którą Wykonawca składa ofertę.
+Brak któregokolwiek z ww. dokumentów stanowiących treść oferty lub niewypełnienie wszystkich wymaganych pozycji w tych dokumentach będzie skutkował odrzuceniem oferty wykonawcy, z zastrzeżeniem art. 223 ust. 1 ustawy.
+Zamawiający zwraca uwagę, że ww. dokumenty nie będą podlegały procedurze uzupełniania.
+W formularzu oferty oprócz ceny brutto wykonania zamówienia, należy podać:
+Cenę jednostkową brutto za każdy rodzaj sprzętu odpowiednio dla danej części zamówienia.
+Brak podania Ceny jednostkowej brutto za każdy rodzaj sprzętu będzie skutkować odrzuceniem oferty Wykonawcy w ramach poszczególnych części zamówienia, z zastrzeżeniem art. 223 ustawy;
+Warunki wykonania zamówienia:
+W przypadku I części zamówienia:
+Cena brutto wykonania zamówienia
+Czas wykonania naprawy gwarancyjnej
+Dodatkowe funkcjonalności - możliwość uruchomienia maszyny wirtualnej producenta firewalla
+Dodatkowe funkcjonalności – Zaoferowany przełącznik wspiera funkcjonalność taką jak QoS
+W przypadku II części zamówienia:
+Czas wykonania naprawy gwarancyjnej
+W przypadku części III zamówienia:
+Czas wykonania naprawy gwarancyjnej
+Jeżeli wykonawca składa ofertę, której wybór prowadziłby do powstania u Zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług, dla celów zastosowania kryterium ceny Zamawiający doliczy do przedstawionej w tej ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć.
+W ofercie, o której mowa w ust. 3, wykonawca ma obowiązek:
+poinformowania Zamawiającego, że wybór jego oferty będzie prowadził do powstania u Zamawiającego obowiązku podatkowego;
+wskazania nazwy (rodzaju) towaru lub usługi, których dostawa lub świadczenie będą prowadziły do powstania obowiązku podatkowego;
+wskazania wartości towaru lub usługi objętego obowiązkiem podatkowym Zamawiającego, bez kwoty podatku;
+wskazania stawki podatku od towarów i usług, która zgodnie z wiedzą wykonawcy, będzie miała zastosowanie.
+Do oferty wykonawca dołącza dokumenty i oświadczenia wymienione w pkt 9.1) swz.
+W formularzu oferty wykonawca może wskazać podmiotowe środki dowodowe, które Zamawiający posiada oraz potwierdzić ich prawidłowość i aktualność a także podać dane umożliwiające dostęp do tych środków jeżeli Zamawiający może je uzyskać za pomocą bezpłatnych i ogólnodostępnych baz danych, w szczególności rejestrów publicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+Pozostałe informacje dotyczące przygotowania oferty:
+Wykonawca może złożyć tylko jedną ofertę do postępowania.
+Oferta winna być podpisana kwalifikowanym podpisem elektronicznym przez osoby uprawnione lub upoważnione do reprezentowania wykonawcy.
+Szczegółowe zasady składania ofert oraz dokumentów składanych z ofertą zawiera pkt 14) oraz 9.1), 9.3) swz.
+Sposób oraz termin składania ofert
+Oferty należy składać nie później niż do dnia 14.07.2025 r. do godz. 10:00
+Wykonawca zamierzający wziąć udział w postępowaniu o udzielenie zamówienia publicznego musi posiadać konto podmiotu „Wykonawca” na Platformie e-Zamówienia. Szczegółowe informacje na temat zakładania kont podmiotów oraz zasady i warunki korzystania z Platformy e-Zamówienia określa Regulamin Platformy e-Zamówienia dostępny na stronie internetowej https://ezamowienia.gov.pl oraz zakładka „Centrum Pomocy”.
+Wykonawca przygotowuje ofertę korzystając z „Formularza oferty – załącznika nr 2A do swz i „Wykazu Sprzętu” – załącznik odpowiednio nr 2B do swz dla części pierwszej, 2C do swz dla części drugiej, 2D do swz dla części trzeciej zamówienia udostępnionych przez Zamawiającego na Platformie e-Zamówienia i zamieszczonych w podglądzie postępowania w zakładce „Informacje podstawowe”. Zamawiający nie posługuje się interaktywnym formularzem ofertowym przewidzianym przez Platformę e-Zamówienia.
+Wykonawca winien pobrać „Formularz oferty – załącznik nr 2A do swz” i „Wykaz Sprzętu” – odpowiednio załącznik nr 2B, 2C, 2D do swz i uzupełnić danymi wymaganymi przez Zamawiającego oraz podpisać odpowiednim rodzajem podpisu elektronicznego, zgodnie z ust. 8.
+Wykonawca składa ofertę za pośrednictwem zakładki „Oferty/wnioski”, widocznej w podglądzie postępowania po zalogowaniu się na konto Wykonawcy. Po wybraniu przycisku „Złóż ofertę” system prezentuje okno składania oferty umożliwiające przekazanie dokumentów elektronicznych, w którym znajdują się dwa pola drag&drop („przeciągnij” i „upuść”) służące do dodawania plików.
+Wykonawca dodaje uprzednio podpisany „Formularz oferty” w pierwszym polu („Wypełniony formularz oferty”). W kolejnym polu („Załączniki i inne dokumenty przedstawione w ofercie przez Wykonawcę”) wykonawca dodaje pozostałe pliki stanowiące ofertę lub składane wraz z ofertą.
+Jeżeli wraz z ofertą składane są dokumenty zawierające tajemnicę przedsiębiorstwa wykonawca, w celu utrzymania w poufności tych informacji, przekazuje je w wydzielonym i odpowiednio oznaczonym pliku, wraz z jednoczesnym zaznaczeniem w nazwie pliku „Dokument stanowiący tajemnicę przedsiębiorstwa”. Zarówno załącznik stanowiący tajemnicę przedsiębiorstwa jak i uzasadnienie zastrzeżenia tajemnicy przedsiębiorstwa należy dodać w polu „Załączniki i inne dokumenty przedstawione w ofercie przez Wykonawcę”.
+Formularz ofertowy podpisuje się kwalifikowanym podpisem elektronicznym. Rekomendowanym wariantem podpisu jest typ wewnętrzny. Podpis formularza ofertowego wariantem podpisu w typie zewnętrznym również jest możliwy, tylko w tym przypadku, powstały oddzielny plik podpisu dla tego formularza należy załączyć w polu „Załączniki i inne dokumenty przedstawione w ofercie przez Wykonawcę”.
+Pozostałe dokumenty wchodzące w skład oferty lub składane wraz z ofertą, które są zgodne z ustawą lub rozporządzeniem Prezesa Rady Ministrów w sprawie wymagań dla dokumentów elektronicznych opatrzone kwalifikowanym podpisem elektronicznym, mogą być zgodnie z wyborem wykonawcy/wykonawcy wspólnie ubiegającego się o udzielenie zamówienia/podmiotu udostępniającego zasoby opatrzone podpisem typu zewnętrznego lub wewnętrznego. W zależności od rodzaju podpisu i jego typu (zewnętrzny, wewnętrzny) w polu „Załączniki i inne dokumenty przedstawione w ofercie przez Wykonawcę” dodaje się uprzednio podpisane dokumenty wraz z wygenerowanym plikiem podpisu (typ zewnętrzny) lub dokument z wszytym podpisem (typ wewnętrzny).
+W przypadku przekazywania dokumentu elektronicznego w formacie poddającym dane kompresji, opatrzenie pliku zawierającego skompresowane dokumenty kwalifikowanym podpisem elektronicznym jest równoznaczne z opatrzeniem wszystkich dokumentów zawartych w tym pliku kwalifikowanym podpisem elektronicznym.
+System sprawdza, czy złożone pliki są podpisane i automatycznie je szyfruje, jednocześnie informując o tym wykonawcę. Potwierdzenie czasu przekazania i odbioru oferty znajduje się w Elektronicznym Potwierdzeniu Przesłania (EPP) i Elektronicznym Potwierdzeniu Odebrania (EPO). EPP i EPO dostępne są dla zalogowanego Wykonawcy w zakładce „Oferty/Wnioski”.
+Oferta może być złożona tylko do upływu terminu składania ofert.
+Wykonawca może przed upływem terminu składania ofert wycofać ofertę. Wykonawca wycofuje ofertę w zakładce „Oferty/wnioski” używając przycisku „Wycofaj ofertę”.
+Maksymalny łączny rozmiar plików stanowiących ofertę lub składanych wraz z ofertą to 250 MB.
+Ofertę należy sporządzić w języku polskim.
+Ofertę składa się, pod rygorem nieważności, w formie elektronicznej.
+Termin otwarcia ofert
+Otwarcie ofert nastąpi w dniu 14.07.2025 r. o godz. 10:05
+Otwarcie ofert następuje przez Platformę e-Zamówienia
+Ponieważ otwarcie ofert będzie następować przy użyciu systemu teleinformatycznego to Zamawiający informuje, że w przypadku awarii tego systemu powodującej brak możliwości otwarcia ofert w terminie określonym powyżej, otwarcie ofert nastąpi niezwłocznie po usunięciu awarii.
+Zamawiający poinformuje o zmianie terminu otwarcia ofert na stronie internetowej prowadzonego postępowania.
+Zamawiający, najpóźniej przed otwarciem ofert, udostępni na stronie internetowej prowadzonego postępowania informację o kwocie, jaką zamierza przeznaczyć na sfinansowanie zamówienia.
+Niezwłocznie po otwarciu ofert Zamawiający udostępni na stronie internetowej prowadzonego postępowania informacje o:
+nazwach albo imionach i nazwiskach oraz siedzibach lub miejscach prowadzonej działalności gospodarczej albo miejscach zamieszkania wykonawców, których oferty zostały otwarte,
+cenach zawartych w ofertach.
+Zamawiający nie przewiduje prowadzenia transmisji z otwarcia ofert.
+Sposób obliczenia ceny
+Wykonawcy zobowiązani są do bardzo starannego zapoznania się z przedmiotem zamówienia, warunkami wykonania i wszystkimi czynnikami mogącymi mieć wpływ na cenę zamówienia.
+Cena za wykonanie przedmiotu zamówienia podana w ofercie, musi być ceną brutto (razem z podatkiem VAT). Cena winna uwzględniać wszystkie koszty związane z wykonaniem zamówienia, jak również cła, podatki i inne opłaty.
+Cenę brutto wykonania zamówienia należy obliczyć i podać w tabeli zamieszczonej odpowiednio dla każdej z części zamówienia tj. odpowiednio w pkt 3 dla części pierwszej zamówienia, pkt 4 dla części drugiej zamówienia i pkt 5 dla części trzeciej zamówienia w zał. 2A do swz „Formularz oferty”.
+Wykonawca zobowiązany jest do obliczenia i podania w kolumnie IV ceny jednostkowej brutto za każdy rodzaj sprzętu w zależności od części postępowania, na którą składa ofertę, a następnie winien pomnożyć ją przez liczbę sztuk (z kol. III) odpowiednio dla każdej pozycji wynik wpisując w kolumnie V – cena pozycji brutto.
+Na końcu tabeli dla każdej z części zamówienia, Wykonawca winien obliczyć CENĘ BRUTTO WYKONANIA ZAMÓWIENIA poprzez zsumowanie cen pozycji brutto ze wszystkich pozycji tabeli odpowiednio dla części dla której składana jest oferta (suma pozycji z kolumny V danej tabeli).
+Cena brutto wykonania zamówienia będzie służyć do porównania ofert w celu wyboru oferty najkorzystniejszej i jednocześnie będzie stanowiła całkowitą wartość umowy.
+Wszystkie ceny, w tym cena oferty brutto (cena brutto wykonanie zamówienia) winny być podane w złotych polskich, do dwóch miejsc po przecinku.
+W przypadku podania przez Wykonawcę ceny/cen jednostkowych o więcej niż dwóch miejscach po przecinku, Zamawiający, dokona zaokrąglenia zaoferowanej ceny/cen jednostkowych według następującej zasady:
+w przypadku zaokrąglenia liczby do drugiego miejsca po przecinku, weźmie pod uwagę kolejną cyfrę niższego rzędu (na trzecim miejscu po przecinku, natomiast cyfry na miejscu czwartym, piątym itp. zostaną odcięte), i jeśli jest nią 0,1,2,3 lub 4, to pozostawi bez zmiany, jeśli natomiast 5,6,7,8 lub 9 - wtedy zaokrągli w górę.
+Opis kryteriów oceny ofert wraz z podaniem wag tych kryteriów i sposobu oceny ofert
+Oferty w części I będą oceniane według poniższych kryteriów:
+Sposób oceny ofert:
+Ocena ofert w kryterium „Cena brutto wykonania zamówienia” zostanie dokonana według wzoru:
+Ocena ofert w kryterium „Czas wykonania naprawy gwarancyjnej” zostanie dokonana według następujących zasad:
+Jeśli wykonawca zaoferuje czas wykonania naprawy gwarancyjnej:
+a)	do 3 dni roboczych – 20 pkt,
+b)	4 dni robocze – 15 pkt,
+c)	5 dni robocze – 10 pkt,
+6 dni roboczych – 5 pkt,
+e) 	7 dni roboczych - 0 pkt,
+W przypadku zaoferowania czasu wykonania naprawy gwarancyjnej powyżej 7 dni roboczych od zgłoszenia, oferta zostanie odrzucona.
+Czas wykonania naprawy gwarancyjnej będzie liczony od przesłania do Wykonawcy zgłoszenia gwarancyjnego.
+W przypadku braku odpowiedzi Zamawiający przyjmie, że wykonawca oferuje 7 dni roboczych na czas naprawy gwarancyjnej i jego oferta otrzyma 0 pkt.
+W przypadku zaoferowania przez Wykonawcę przedziału czasowego naprawy (np. od 3 do 4 dni roboczych), Zamawiający przyjmie, że Wykonawca zaoferował krótszy czas z zadeklarowanej propozycji i oferta w tym kryterium otrzyma przewidzianą ilość punktów dla tego zakresu.
+Ocena ofert w kryterium „Dodatkowe funkcjonalności - możliwość uruchomienia maszyny wirtualnej producenta firewalla” zostanie dokonana według następujących zasad:
+Jeśli wykonawca zadeklaruje, poprzez zaznaczenie odpowiedzi TAK lub NIE, że na wdrożonej infrastrukturze teleinformatycznej jest możliwość uruchomienia maszyny wirtualnej producenta firewalla, który oferuje zarządzanie systemem firewall oraz zbieraniem logów, maszyna wirtualna musi umożliwiać minimum zarządzanie/monitorowanie dla minimum dwóch firewalli, to:
+w przypadku zaznaczenia odpowiedzi
+•	TAK – oferta otrzyma 10 pkt;
+•	NIE – oferta otrzyma 0 pkt.
+W przypadku, gdy Wykonawca nie wskaże żadnej odpowiedzi lub wskaże więcej niż jedną odpowiedź, Zamawiający przyjmie, iż Wykonawca nie zaoferował, że na wdrożonej infrastrukturze teleinformatycznej jest możliwość uruchomienia maszyny wirtualnej producenta firewalla, który oferuje zarządzanie systemem firewall oraz zbieraniem logów i jego oferta otrzyma 0 pkt w tym kryterium.
+Ocena ofert w kryterium „Dodatkowe funkcjonalności – Zaoferowany przełącznik wspiera funkcjonalność taką jak QoS zostanie dokonana według następujących zasad:
+Jeśli zaoferowany przez Wykonawcę przełącznik wspiera funkcjonalność taką jak QoS (Quality of Service), która łącznie:
+a.	Oferuje minimum 8 kolejek i,
+b.	Obsługuję klasyfikację ruchu wykorzystując mechanizm 802.1p i ,
+c.	Wspiera mechanizmy schedulingu (haromnogramowania), to:
+w przypadku zaznaczenia odpowiedzi
+•	TAK – oferta otrzyma 10 pkt;
+•	NIE – oferta otrzyma 0 pkt.
+W przypadku, gdy Wykonawca nie wskaże żadnej odpowiedzi lub wskaże więcej niż jedną odpowiedź, Zamawiający przyjmie, że zaoferowany przez Wykonawcę przełącznik nie wspiera funkcjonalność takiej jak QoS i oferta otrzyma 0 pkt w tym kryterium.
+Oferty w części II będą oceniane według poniższych kryteriów:
+Sposób oceny ofert:
+Ocena ofert w kryterium „Cena brutto wykonania zamówienia” zostanie dokonana według wzoru:
+Ocena ofert w kryterium „Czas wykonania naprawy gwarancyjnej” zostanie dokonana według następujących zasad:
+Jeśli wykonawca zaoferuje czas wykonania naprawy gwarancyjnej:
+a)	do 3 dni roboczych – 40 pkt,
+b)	od 4 do 5 dni roboczych – 20 pkt,
+c)	6 dni roboczych – 10 pkt,
+d) 	7 dni roboczych - 0 pkt,
+W przypadku zaoferowania czasu wykonania naprawy gwarancyjnej powyżej 7 dni roboczych liczonych następnego dnia roboczego po wysłaniu przez Zamawiającego od zgłoszenia, oferta zostanie odrzucona. Czas wykonania naprawy gwarancyjnej będzie liczony od następnego dnia roboczego* po wysłaniu przez Zamawiającego zgłoszenia gwarancyjnego.
+W przypadku braku odpowiedzi Zamawiający przyjmie, że wykonawca oferuje 7 dni roboczych czas naprawy gwarancyjnej i jego oferta otrzyma 0 pkt.
+W przypadku zaoferowania przez Wykonawcę przedziału czasowego naprawy (np. od 3 do 5 dni roboczych), Zamawiający przyjmie, że Wykonawca zaoferował krótszy czas z zadeklarowanej propozycji i oferta w tym kryterium otrzyma przewidzianą ilość punktów dla tego zakresu.
+*Przez dni robocze należy rozumieć dni od poniedziałku do piątku w godzinach: od 8.00 do 16.00, z wyłączeniem dni ustawowo wolnych od pracy.
+Oferty w części III będą oceniane według poniższych kryteriów:
+Sposób oceny ofert:
+Ocena ofert w kryterium „Cena brutto wykonania zamówienia” zostanie dokonana według wzoru:
+Ocena ofert w kryterium „Czas wykonania naprawy gwarancyjnej” zostanie dokonana według następujących zasad:
+Jeśli wykonawca zaoferuje czas wykonania naprawy gwarancyjnej:
+a)	do 3 dni roboczych – 40 pkt,
+b)	od 4 do 5 dni roboczych – 20 pkt,
+c)	6 dni roboczych – 10 pkt,
+d) 	7 dni roboczych - 0 pkt,
+W przypadku zaoferowania czasu wykonania naprawy gwarancyjnej powyżej 7 dni roboczych liczonych następnego dnia roboczego po wysłaniu przez Zamawiającego  zgłoszenia, oferta zostanie odrzucona.
+Czas wykonania naprawy gwarancyjnej będzie liczony od następnego dnia roboczego* po wysłaniu przez Zamawiającego zgłoszenia gwarancyjnego.
+W przypadku braku odpowiedzi Zamawiający przyjmie, że wykonawca oferuje 7 dni roboczych czas naprawy gwarancyjnej i jego oferta otrzyma 0 pkt.
+W przypadku zaoferowania przez Wykonawcę przedziału czasowego naprawy (np. od 3 do 5 dni roboczych), Zamawiający przyjmie, że Wykonawca zaoferował krótszy czas z zadeklarowanej propozycji i oferta w tym kryterium otrzyma przewidzianą ilość punktów dla tego zakresu.
+*Przez dni robocze należy rozumieć dni od poniedziałku do piątku w godzinach: od 8.00 do 16.00, z wyłączeniem dni ustawowo wolnych od pracy.
+Obliczenia punktacji, zgodnie z wyżej wskazanymi kryteriami, będą dokonywane z dokładnością do dwóch miejsc po przecinku.
+Jako najkorzystniejsza zostanie uznana oferta, która nie podlega odrzuceniu oraz uzyska najwyższą łączną ocenę w wyżej wymienionych kryteriach oceny ofert.
+Informacja o przewidywanych zamówieniach, o których mowa w art. 214 ust. 1 pkt 8
+Zamawiający nie przewiduje udzielania zamówień, o których mowa w art. 214 ust. 1 pkt 8 ustawy.
+Wymagania dotyczące wadium
+Przed upływem terminu składania ofert wykonawca zobowiązany jest do wniesienia wadium i utrzymania go nieprzerwanie do dnia upływu terminu związania ofertą, z wyjątkiem przypadków, o których mowa w art. 98 ust. 1 pkt 2 i 3 oraz ust. 2 ustawy.
+Zamawiający określa kwotę wadium w wysokości:
+Dla pierwszej części zamówienia 100 000,00 zł, słownie złotych: sto tysięcy 00/100.
+Dla drugiej części zamówienia 1 500,00 zł, słownie złotych: jeden tysiąc pięćset 00/100.
+Dla trzeciej części zamówienia 4 000,00 zł, słownie złotych: cztery tysiące złotych 00/100.
+Wadium może być wnoszone w jednej lub kilku formach wymienionych w art. 97 ust 7 ustawy.
+Wadium wnoszone w pieniądzu wpłaca się przelewem na rachunek bankowy, którego właścicielem jest Urząd Marszałkowski Województwa Małopolskiego, Basztowa 22, Kraków: 07 1020 2892 0000 5802 0667 3828 z dopiskiem:
+Dla części pierwszej zamówienia: „Wpłata wadium w postępowaniu pn. Dostawa serwerów - część 1”.
+Dla części drugiej zamówienia: „Wpłata wadium w postępowaniu pn. Dostawa laptopów - część 2”.
+Dla części trzeciej zamówienia: „Wpłata wadium w postępowaniu pn. Dostawa urządzeń wielofunkcyjnych - część 3”.
+Jeżeli wadium jest wnoszone w formie gwarancji lub poręczenia, wykonawca przekazuje Zamawiającemu oryginał gwarancji lub poręczenia, w postaci elektronicznej.
+Wadium w formie gwarancji lub poręczenia należy złożyć przed upływem terminu składania ofert w sposób podany w pkt. 14) swz (wraz z ofertą) lub za pomocą formularza do komunikacji na stronie prowadzonego postępowania (eZamówienia).
+Wadium winno gwarantować Zamawiającemu wypłatę wadium, w przypadku zaistnienia okoliczności wskazanych w art. 98 ust 6 ustawy.
+Niedopuszczalne jest wprowadzanie jakichkolwiek warunków ograniczających Zamawiającemu wypłacenie wadium.
+Zamawiający nie dopuszcza postanowień określających m.in. że zwrot przez podmiot inny niż Zamawiający dokumentu ustanawiającego wadium wnoszonego w formie gwarancji lub poręczenia, powoduje wygaśnięcie tego wadium, w sytuacji, gdy Zamawiający nie dokonał zwrotu tego wadium zgodnie z wymaganiami określonymi w ustawie.
+Wykonawca może złożyć wniosek o zwrot wadium, o którym mowa w art. 98 ust. 2 ustawy, który powoduje rozwiązanie stosunku prawnego z wykonawcą wraz z utratą przez niego prawa do korzystania ze środków ochrony prawnej, o których mowa w dziale IX ustawy.
+Zamawiający zwraca lub zatrzymuje wadium na zasadach i w trybie art. 98 ustawy.
+Informacje dotyczące zabezpieczenia należytego wykonania umowy
+Zamawiający nie wymaga wniesienia zabezpieczenia należytego wykonania umowy.
+Projektowane postanowienia umowy w sprawie zamówienia publicznego, które zostaną wprowadzone do umowy w sprawie zamówienia publicznego
+Projektowane postanowienia umowy w sprawie zamówienia publicznego, które zostaną wprowadzone do umowy w sprawie zamówienia publicznego – wzór umowy zawarte są odpowiednio w załączniku nr 1C do swz dla pierwszej części zamówienia i 1D dla drugiej części zamówienia i 1E dla trzeciej części zamówienia.
+Zamawiający może dokonać zmian umowy bez przeprowadzania nowego postępowania o udzielenie zamówienia publicznego na podstawie przesłanek, o których mowa w art. 455 ustawy i ponadto dopuszcza zmiany postanowień zawartej umowy w stosunku do treści oferty, na podstawie której dokonano wyboru Wykonawcy, na zasadach określonych we wzorze umowy stanowiącym załącznik nr 1C, 1D, 1E do swz.
+Informacje o formalnościach, jakie muszą zostać dopełnione po wyborze oferty w celu zawarcia umowy w sprawie zamówienia publicznego
+O wyborze najkorzystniejszej oferty Zamawiający poinformuje niezwłocznie wykonawców, którzy złożyli oferty, na zasadach i w trybie art. 253 ustawy.
+Umowa zostanie zawarta na warunkach określonych w projektowanych postanowieniach umowy w sprawie zamówienia publicznego – wzorze umowy stanowiącym odpowiednio załącznik nr 1C, 1D, 1E do swz.
+Przed zawarciem umowy Wykonawca zobowiązany jest do przedłożenia Zamawiającemu następujących dokumentów:
+pełnomocnictw, chyba że dokumentach postępowania znajdują się dokumenty lub pełnomocnictwa upoważaniające osoby lub osobę do podpisania umowy w sprawie udzielenia zamówienia publicznego w imieniu wykonawcy lub w imieniu wykonawców wspólnie ubiegających się o udzielenie zamówienia publicznego,
+umowy regulującej współpracę wykonawców wspólnie ubiegających się o zamówienie.
+Wybrany wykonawca zostanie powiadomiony o miejscu i terminie zawarcia umowy jak również o wszelkich ewentualnych dodatkowych formalnościach, jakie winny zostać dopełnione w celu zawarcia umowy.
+Pozostałe informacje niezbędne dla prowadzonego postępowania
+Zamawiający nie wymaga i nie dopuszcza składania ofert wariantowych.
+Zamawiający nie prowadzi postępowania w celu zawarcia umowy ramowej.
+Zamawiający nie wymaga odbycia przez wykonawcę wizji lokalnej lub sprawdzenia dokumentów niezbędnych do realizacji zamówienia dostępnych na miejscu u Zamawiającego.
+Zamawiający nie przewiduje rozliczania w walutach obcych, rozliczenia będą dokonywane w złotych polskich.
+Zamawiający nie przewiduje wyboru najkorzystniejszej oferty z zastosowaniem aukcji elektronicznej.
+Zamawiający nie przewiduje zwrotu kosztów udziału w postępowaniu.
+Zamawiający informuje, że jeżeli przewiduje wymagania w zakresie:
+zatrudnienia na podstawie stosunku pracy, w okolicznościach, o których mowa w art. 95 ustawy,
+zatrudnienia osób, o których mowa w art. 96 ust. 2 pkt 2 ustawy,
+możliwości ubiegania się o udzielenie zamówienia wyłącznie przez wykonawców, o których mowa w art. 94 ustawy,
+to wymagania te zostały zamieszczone w opisie przedmiotu zamówienia w pkt. 4 swz.
+Zamawiający nie zastrzega obowiązku osobistego wykonania przez wykonawcę kluczowych zadań, zgodnie z art. 60 i art. 121 ustawy.
+Zamawiający nie wymaga i nie dopuszcza złożenia ofert w postaci katalogów elektronicznych lub dołączenia katalogów elektronicznych do oferty, w sytuacji określonej w art. 93 ustawy.
+Wykonawca może powierzyć wykonanie części zamówienia podwykonawcy. Zamawiający nie wymaga wskazania przez wykonawcę, w ofercie, części zamówienia, których wykonanie zamierza powierzyć podwykonawcom, ani podania nazw ewentualnych podwykonawców, jeżeli są już znani.
+Informacje dotyczące przetwarzania danych osobowych zgodnie z RODO:
+1.	Klauzule informacyjne z art. 13 i 14 RODO ujęte są w załącznikach nr 1A i 1B do swz.
+2.	Zamawiający wymaga złożenia przez Wykonawcę wraz z ofertą oświadczenia o wypełnieniu obowiązków informacyjnych, przewidzianych w art. 13 oraz jeśli dotyczy art. 14 RODO – oświadczenie jest ujęte w Formularzu oferty.
+Pouczenie o środkach ochrony prawnej przysługujących wykonawcy
+Wykonawcy oraz innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez Zamawiającego przepisów ustawy przysługują środki ochrony prawnej.
+Środki ochrony prawnej wobec ogłoszenia wszczynającego postępowanie o udzielenie zamówienia oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę, o której mowa w art. 469 pkt 15 ustawy, oraz Rzecznikowi Małych i Średnich Przedsiębiorców.
+Przepisy dotyczące środków ochrony prawnej są określone w dziale IX ustawy.
+Odwołanie przysługuje na niezgodną z przepisami ustawy czynność Zamawiającego, podjętą w postępowaniu o udzielenie zamówienia, w tym na projektowane postanowienie umowy oraz zaniechanie czynności w postępowaniu o udzielenie zamówienia, do której Zamawiający był obowiązany na podstawie ustawy.
+Na orzeczenie Izby oraz postanowienie Prezesa Izby, o którym mowa w art. 519 ust. 1 ustawy, stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do sądu.
+Załączniki do swz:
+Załącznik nr 1A i 1B	Klauzule informacyjne z art. 13 i art. 14 RODO
+Załącznik nr 1C 	Projektowane postanowienia umowy w sprawie zamówienia publicznego, które zostaną wprowadzone do umowy w sprawie zamówienia publicznego – wzór umowy dla części pierwszej
+Załącznik nr 1D 	Projektowane postanowienia umowy w sprawie zamówienia publicznego, które zostaną wprowadzone do umowy w sprawie zamówienia publicznego – wzór umowy dla części drugiej
+Załącznik nr 1E	Projektowane postanowienia umowy w sprawie zamówienia publicznego, które zostaną wprowadzone do umowy w sprawie zamówienia publicznego – wzór umowy dla części trzeciej
+Załącznik nr 1F 	Szczegółowy opis przedmiotu zamówienia dla części pierwszej
+Załącznik nr 1G	Szczegółowy opis przedmiotu zamówienia dla części drugiej
+Załącznik nr 1H	Szczegółowy opis przedmiotu zamówienia dla części trzeciej
+Załącznik nr 1I	Opis miejsca montażu
+Załącznik nr 2A	Formularz oferty
+Załącznik nr 2B	Wykaz sprzętu dla części pierwszej
+Załącznik nr 2C	Wykaz sprzętu dla części drugiej
+Załącznik nr 2D	Wykaz sprzętu dla części trzeciej
+Załącznik nr 2E	Oświadczenie o niepodleganiu wykluczeniu na podstawie art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego oraz o niepodleganiu zakazowi udzielania lub dalszego wykonywania wszelkich zamówień publicznych na podstawie artykułu 5k ust. 1 rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie)
+Załącznik nr 2F	Wzór zobowiązania podmiotu udostępniającego zasoby
+Załącznik nr 3	Oświadczenie o niepodleganiu wykluczeniu, spełnianiu warunków udziału w postępowaniu (jednolity dokument/JEDZ)
+Załącznik nr 3A	Jednolity europejski dokument zamówienia (JEDZ/ESPD) w formacie *xml
+Załącznik nr 4	Oświadczenie o przynależności lub braku przynależności do tej samej grupy kapitałowej
+Załącznik nr 5	Oświadczenie o aktualności informacji zawartych w oświadczeniu o niepodleganiu wykluczeniu, spełnianiu warunków udziału w postępowaniu
+Załącznik nr 6	Wykaz wykonanych dostaw
+Klauzula informacyjna – załącznik nr 1A do swz
+- KLAUZULA INFORMACYJNA NA PODSTAWIE ARTYKUŁU 13 RODO
+(rozporządzenia o ochronie danych osobowych)
+ZAWIERA INFORMACJE O WARUNKACH PRZETWARZANIA DANYCH OSOBOWYCH,
+GDY DANE TE ZBIERANE SĄ OD OSOBY, KTÓREJ DOTYCZĄ.
+Klauzula informacyjna – załącznik nr 1B do swz
+KLAUZULA INFORMACYJNA NA PODSTAWIE ARTYKUŁU 14 RODO
+(rozporządzenia o ochronie danych osobowych)
+ZAWIERA INFORMACJE O WARUNKACH PRZETWARZANIA DANYCH OSOBOWYCH,
+GDY DANE TE ZBIERANE SĄ Z INNYCH ŹRÓDEŁ NIŻ OD OSOBY, KTÓREJ DOTYCZĄ.

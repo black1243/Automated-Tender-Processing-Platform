@@ -1,0 +1,533 @@
+Załącznik Nr 5 do SWZ
+Projektowane postanowienia umowy
+Umowa Nr NBP-DKRZ-WPI-2-KS-241-……-2025
+zawarta/ zawarta w dniu …………………… 2025 roku  w Warszawie pomiędzy:
+Narodowym Bankiem Polskim (NBP) z siedzibą w Warszawie, przy ul. Świętokrzyskiej 11/21,
+00-919 Warszawa, działającym na podstawie ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz.U. z 2022 r., poz. 2025), posiadającym NIP 525-000-81-98 oraz numer REGON 000002223, będącym podatnikiem podatku od towarów i usług (VAT) czynnym oraz podatnikiem VAT na potrzeby dokonywania transakcji wewnątrzwspólnotowych pod NIP PL 525-000-81-98, zwanym dalej: „Zamawiającym” lub „NBP”, w imieniu i na rzecz którego działają:
+……………………	- Zastępca Dyrektora Departamentu Informatyki i Telekomunikacji,
+……………………	- Zastępca Dyrektora Departamentu Koordynacji i Realizacji Zakupów,
+a
+gdy stroną jest Wykonawca krajowy, który jest reprezentowany przy podpisaniu Umowy i jest wpisany do właściwego rejestru: ……….. (nazwa Wykonawcy lub imię i nazwisko), z siedzibą / miejscem prowadzenia działalności / miejscem zamieszkania dla celów podatkowych w …………. (adres siedziby / miejsca prowadzenia działalności / miejsca zamieszkania), NIP …………., wpisanym do (rodzaj lub nazwa rejestru) prowadzonego przez ……….. pod numerem ………… – z którego wyciąg / odpis / wydruk z ……… sporządzony na dzień …… stanowi Załącznik nr 7 do Umowy – zwanym dalej: „Wykonawcą”, w imieniu którego działa / działają łącznie: …………;
+gdy stroną jest Wykonawca krajowy, który działa osobiście przy podpisaniu Umowy i jest wpisany do właściwego rejestru: ……….. (imię i nazwisko i nazwa, pod którą Wykonawca prowadzi działalność gospodarczą), z miejscem prowadzenia działalności w …………. (adres miejsca prowadzenia działalności / miejsca zamieszkania dla celów podatkowych), NIP …………., wpisanym do (rodzaj lub nazwa rejestru) prowadzonego przez ……….. pod numerem ……………. – z którego wyciąg / odpis / wydruk z ……… sporządzony na dzień …… stanowi Załącznik nr 7 do Umowy – zwanym dalej: „Wykonawcą”, działającego przy niniejszym osobiście;
+gdy stroną jest Wykonawca krajowy, który jest reprezentowany przy podpisaniu Umowy i nie jest wpisany do rejestru: ……….. (nazwa Wykonawcy lub imię i nazwisko), z miejscem prowadzenia działalności / miejscem zamieszkania dla celów podatkowych w …………. (adres miejsca prowadzenia działalności / miejsca zamieszkania), NIP (w przypadku osoby fizycznej – zamiennie z nr PESEL) …………. – zwanym dalej: „Wykonawcą”, w imieniu którego działa / działają łącznie: (imiona i nazwiska i podstawa do działania – np. pełnomocnictwo z dnia … udzielone przez …..);
+gdy stroną jest Wykonawca krajowy, który działa osobiście przy podpisaniu Umowy i nie jest wpisany do rejestru: ……….. (nazwa Wykonawcy lub imię i nazwisko), z miejscem zamieszkania dla celów podatkowych w …………. (adres miejsca zamieszkania) NIP (w przypadku osoby fizycznej niebędącej zarejestrowanym podatnikiem VAT – zamiennie z nr PESEL) …………. – zwanym dalej: „Wykonawcą”, działającego przy zawarciu Umowy osobiście;
+gdy stroną jest Wykonawca zagraniczny, który jest reprezentowany przy podpisaniu Umowy i jest wpisany do właściwego rejestru: ……….. (nazwa Wykonawcy), z siedzibą / miejscem prowadzenia działalności / miejscem zamieszkania dla celów podatkowych w …………. (adres siedziby / miejsca prowadzenia działalności / miejsca zamieszkania, wraz z nazwą państwa), wpisanym do (rodzaj lub nazwa rejestru) prowadzonego przez ……….. pod numerem ……………. – z którego wyciąg sporządzony na dzień …… oraz jego tłumaczenie na język angielski / polski zawiera Załącznik nr 7 do Umowy – zwanym dalej: Wykonawcą, w imieniu którego działa / działają łącznie: (imiona i nazwiska i podstawa do działania – tj. pełniona funkcja – np. Prezes Zarządu albo oznaczenie dokumentu, z którego wynika umocowanie – np. pełnomocnictwo z dnia … udzielone przez …..) - oświadczając przy tym, że ich / jego uprawnienia do reprezentacji ……….. wynikają z przepisów prawa obowiązującego w Państwie ……… oraz że nie występują żadne ograniczenia, przeszkody lub wymogi faktyczne lub prawne, które mogłyby skutkować nieważnością, niezgodnością z prawem Państwa ……. lub bezskutecznością wobec „………..” któregokolwiek z oświadczeń składanych przez nich / niego w ramach Umowy;
+gdy stroną jest Wykonawca zagraniczny, który działa osobiście przy podpisaniu Umowy i jest wpisany do właściwego rejestru: ……….. (imię i nazwisko i nazwa, pod którą Wykonawca prowadzi działalność gospodarczą), z miejscem prowadzenia działalności w …………. (adres miejsca prowadzenia działalności / miejsca zamieszkania dla celów podatkowych, wraz z nazwą państwa), wpisanym do (rodzaj lub nazwa rejestru) prowadzonego przez ……….. pod numerem ……………. – z którego wyciąg sporządzony na dzień …… oraz jego tłumaczenie na język angielski / polski zawiera Załącznik nr 7 do Umowy – zwanym dalej: ………….., działającego przy niniejszym osobiście – oświadczając przy tym, że nie występują żadne ograniczenia, przeszkody lub wymogi faktyczne lub prawne, które mogłyby skutkować nieważnością, niezgodnością z prawem Państwa ……. któregokolwiek z oświadczeń składanych przez niego w ramach Umowy;
+gdy stroną jest Wykonawca zagraniczny, który jest reprezentowany przy podpisaniu Umowy i nie jest wpisany do rejestru: ……….. (nazwa Wykonawcy lub imię i nazwisko), z miejscem prowadzenia działalności / miejscem zamieszkania dla celów podatkowych w …………. (adres miejsca prowadzenia działalności / miejsca zamieszkania, wraz z nazwą państwa) – zwanym dalej: ………….., w imieniu którego działa / działają łącznie: (imiona i nazwiska i podstawa do działania – np. pełnomocnictwo z dnia … udzielone przez …..) - oświadczając przy tym, że ich / jego uprawnienia do reprezentacji ……….. wynikają z przepisów prawa obowiązującego w Państwie ……… oraz że nie występują żadne ograniczenia, przeszkody lub wymogi faktyczne lub prawne, które mogłyby skutkować nieważnością, niezgodnością z prawem Państwa ……. lub bezskutecznością wobec ……….. któregokolwiek z oświadczeń składanych przez nich / niego w ramach Umowy;
+gdy stroną jest Wykonawca zagraniczny, który działa osobiście przy podpisaniu Umowy i nie jest wpisany do rejestru: ……….. (nazwa kontrahenta lub imię i nazwisko), z miejscem zamieszkania dla celów podatkowych w …………. (adres miejsca zamieszkania, wraz z nazwą państwa) – zwanym dalej: „…………..”, działającego przy niniejszym osobiście – oświadczając przy tym, że nie występują żadne ograniczenia, przeszkody lub wymogi faktyczne lub prawne, które mogłyby skutkować nieważnością, niezgodnością z prawem Państwa ……. któregokolwiek z oświadczeń składanych przez niego w ramach Umowy.
+zwanymi dalej łącznie „Stronami”, a oddzielnie „Stroną”.
+Wykonawca oświadcza, że:
+jest zarejestrowany jako podatnik VAT „czynny” / „zwolniony” / nie jest podatnikiem VAT,
+posiada/nie posiada w Polsce stałe miejsce prowadzenia działalności gospodarczej, uczestniczące w wykonaniu przedmiotu Umowy;
+zawierając Umowę działa w ramach prowadzonej działalności gospodarczej,
+zawierając Umowę działa we własnym imieniu i na własny rachunek,
+jest rezydentem podatkowym ………… (kraj rezydencji podatkowej) oraz nie jest podmiotem transparentnym podatkowo / jest podmiotem transparentnym podatkowo, którego wspólnicy są rezydentami podatkowymi …………… (kraje rezydencji podatkowej poszczególnych wspólników);
+jest / nie jest wyłącznym uprawnionym odbiorcą (beneficial owner) wszelkich płatności,
+w szczególności wynagrodzenia, o którym mowa w § 8 Umowy, wypłacanych przez Zamawiającego na podstawie Umowy,
+jest zidentyfikowany dla celów podatkowych w państwie, w którym ma siedzibę / miejsce zamieszkania, pod numerem … ,
+jest podatnikiem podatku od wartości dodanej  lub podatku o podobnym charakterze / nie jest podatkiem podatku od wartości dodanej ani podatku o podobnym charakterze,
+jest zarejestrowany jako podatnik VAT UE pod numerem … (numer VAT UE ) / nie jest zarejestrowany jako podatnik VAT UE.
+W wyniku przeprowadzonego postępowania o udzielenie zamówienia publicznego pn. „Zakup sprzętu do systemu GS1” w trybie przetargu nieograniczonego na podstawie przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz.U. z 2024 r. poz. 1320), zwanej dalej także „Ustawą”, Strony zawarły umowę, zwaną dalej „Umową” o następującej treści:
+§ 1
+Definicje
+Zastosowane w Umowie terminy oznaczają:
+Dzień roboczy - dni od poniedziałku do piątku z wyłączeniem dni ustawowo wolnych od pracy przypadających w te dni określonych w art. 1 ustawy z dnia 18 stycznia 1951 r. o dniach wolnych od pracy (Dz. U. z 2020 r. poz. 1920) oraz dni uznanych za wolne od pracy w Polsce określonych ustawą wchodzącą w życie w trakcie obowiązywania Umowy. Natomiast jeśli w Umowie terminy są podane w dniach, są to dni kalendarzowe.
+Forma elektroniczna – postać elektroniczna dokumentu opatrzonego kwalifikowanym podpisem elektronicznym w rozumieniu art. 781 w zw. z art. 773 ustawy Kodeks cywilny (Dz.U. z 2024 r. poz. 1061 z późn. zm.). Zastrzeżenie to nie obejmuje formy elektronicznej faktury – o której mowa w § 8 ust. 11 Umowy;
+Lokalizacje Zamawiającego – jednostki organizacyjne Zamawiającego objęte świadczeniem usług gwarancyjnych określone w Załączniku nr 3 do Umowy.
+Urządzenia – urządzenia do obsługi systemu GS1 przeznaczonego do zliczania i ewidencji wartości pieniężnych, z zainstalowanym na nich oprogramowaniem systemowym (dalej „Oprogramowanie”) oraz niezbędnymi licencjami na korzystanie z  oprogramowania, wraz z wyposażeniem, których specyfikacja techniczna, w tym specyfikacja wymagań Oprogramowania, została określona w Załączniku nr 1 do Umowy.
+§ 2
+Przedmiot Umowy
+Przedmiotem Umowy jest sprzedaż i dostarczenie do siedziby Zamawiającego, fabrycznie nowych i nieużywanych, wolnych od wad fizycznych i prawnych Urządzeń spełniających wymagania określone w Załączniku nr 1 do Umowy i wskazanych w ofercie Wykonawcy stanowiącej Załącznik nr 2 do Umowy oraz udzielenie gwarancji na dostarczone Urządzenia na zasadach określonych w § 5 Umowy.
+Szczegółowy opis Przedmiotu Umowy stanowi Załącznik nr 1 do Umowy.
+§ 3
+Termin realizacji Umowy
+Dostawa Urządzeń zostanie zrealizowana przez Wykonawcę w terminie do 3 tygodni od dnia zawarcia Umowy.
+Gwarancja zostanie udzielona przez Wykonawcę na okres 36 miesięcy od daty podpisania przez Strony bez zastrzeżeń Protokołu Odbioru, o którym mowa w § 4 ust. 1 Umowy, potwierdzającego odbiór Urządzeń.
+§ 4
+Zasady realizacji i odbioru Przedmiotu Umowy
+Urządzenia, w ramach wynagrodzenia, o którym mowa w § 8 ust. 1 Umowy, zostaną dostarczone do siedziby Zamawiającego na koszt i ryzyko Wykonawcy. Dostawę uważa się za wykonaną po podpisaniu przez Strony bez zastrzeżeń Protokołu Odbioru, którego wzór stanowi Załącznik nr 4 do Umowy (dalej „Protokół Odbioru”).
+Wraz z Urządzeniami Wykonawca dostarczy dokumentację obejmującą co najmniej:
+deklaracje zgodności, certyfikaty dopuszczające na rynek polski dla dostarczonych Urządzeń;
+instrukcje użytkowania poszczególnych Urządzeń w języku polskim;
+zalecenia producenta Urządzeń w zakresie ich konserwacji w języku polskim;
+kopie kart gwarancyjnych wystawionych przez producentów Urządzeń.
+Powyższe dokumenty Wykonawca  dostarczy w formie wydruku (2 egzemplarze) oraz w formie elektronicznej na płycie CD/DVD (pliki w formacie *.pdf i *.doc).
+W przypadku stwierdzenia w trakcie odbioru, że Urządzenia nie spełniają wymagań zawartych w  Załączniku nr 1 oraz Załączniku nr 2 do Umowy lub stwierdzenia, że jakiekolwiek Urządzenie lub zainstalowane na nim Oprogramowanie jest uszkodzone, niesprawne lub działa niezgodnie z założeniami, lub że dokumentacja, o której mowa w ust. 2 niniejszego paragrafu jest niekompletna, zastrzeżenia Zamawiającego będą uwidocznione w Protokole Odbioru. Protokół taki uznany będzie za protokół z zastrzeżeniami.
+Wykonawca zobowiązany jest do uwzględnienia zastrzeżeń zawartych w Protokole Odbioru, oraz usunięcia przyczyn stwierdzonych nieprawidłowości w ciągu 2 Dni roboczych od dnia podpisania przez Strony Protokołu Odbioru z zastrzeżeniami. W dniu usunięcia nieprawidłowości przez Wykonawcę, Strony przystąpią do ponownego odbioru. W przypadku nieuwzględnienia zastrzeżeń w terminie wskazanym w niniejszym ustępie, zastosowanie ma ust. 3 niniejszego paragrafu z zastrzeżeniem, że w przypadku ponownego stwierdzenia nieprawidłowości Zamawiającemu przysługuje prawo do odstąpienia od Umowy, o którym mowa w § 10 ust. 5 pkt. 5.2 Umowy, z przyczyn leżących po stronie Wykonawcy. Niezależnie od powyższego Zamawiającemu przysługuje prawo do naliczenia kary umownej, o której mowa w § 11 ust. 1 pkt 1.1 Umowy.
+W przypadku, gdy Urządzenia będą przywożone spoza terytorium Unii Europejskiej, Wykonawca odpowiedzialny jest za jego import, w tym za odprawę celną.
+O terminie dostawy Urządzeń Wykonawca zobowiązany jest powiadomić Zamawiającego w formie pisemnej lub za pośrednictwem poczty elektronicznej przy użyciu danych teleadresowych podanych w § 20 ust. 2 pkt 2.1 lub ust. 3 pkt 3.1 Umowy, co najmniej na 2 Dni robocze przed tym terminem.
+Wykonawca ponosi odpowiedzialność za Urządzenia, w tym ich uszkodzenie lub utratę oraz przypadkową utratę lub uszkodzenie, do momentu odbioru przez Zamawiającego dokonanego na podstawie podpisanego przez Strony Protokołu Odbioru.
+Po upływie okresu gwarancji, o którym mowa w § 3 ust. 2 Umowy, Strony sporządzą Protokół Odbioru Pogwarancyjnego, którego wzór stanowi Załącznik nr 6 do Umowy (dalej „Protokół Odbioru Pogwarancyjnego”). Podpisany przez Strony bez uwag Protokół Odbioru Pogwarancyjnego, z zastrzeżeniem dokonanych zgodnie z Umową potrąceń, stanowić będzie podstawę zwrotu wniesionego zabezpieczenia należytego wykonania Umowy, określonego w § 12 ust. 6 pkt 6.2 Umowy.
+Strony ustalają, że dokumentowanie czynności związanych z realizacją Przedmiotu Umowy określonego w § 2 Umowy odbywać się będzie w formie pisemnej lub w Formie elektronicznej i polegać będzie odpowiednio – na podpisaniu lub opatrzeniu kwalifikowanymi podpisami elektronicznymi następujących dokumentów:
+Protokół Odbioru;
+Protokół Naprawy/Wymiany , którego wzór stanowi Załącznik nr 5 do Umowy (dalej „Protokół Naprawy/Wymiany”);
+Protokół Odbioru Pogwarancyjnego.
+§ 5
+Gwarancja
+W ramach wynagrodzenia, o którym mowa w § 8 ust. 1 Umowy, Wykonawca udziela Zamawiającemu 36-miesięcznej gwarancji na Urządzenia (dalej „Gwarancja”), której bieg rozpoczyna się z dniem podpisania przez Strony bez uwag Protokołu Odbioru. Gwarancja udzielona przez Wykonawcę nie wyłącza uprawnień gwarancyjnych przyznanych przez producentów Urządzeń. W takim przypadku Wykonawca jest zobowiązany do realizacji tych korzystniejszych dla Zamawiającego warunków.
+Wykonawca gwarantuje, że Urządzenia będą działały zgodnie z dokumentacją Urządzeń i wymaganiami określonymi w Umowie oraz, że będą wolne od wad prawnych i fizycznych.
+Zamawiający, niezależnie od uprawnień wynikających z Gwarancji udzielonej zgodnie
+z postanowieniami ust. 1 oraz ust. 2 niniejszego paragrafu, zastrzega sobie prawo dochodzenia roszczeń z tytułu rękojmi za wady (uprawnienia z tytułu rękojmi nie są wyłączone ani ograniczone poprzez udzielenie Gwarancji), w okresie tożsamym z okresem Gwarancji.
+W okresie Gwarancji Wykonawca zobowiązuje się do usuwania ujawnionych usterek uniemożliwiających poprawne funkcjonowanie Urządzeń, zwanych dalej „wadami” lub dostarczenia Urządzeń wolnych od wad na zasadach określonych w Umowie.
+W przypadku wymiany przez Wykonawcę Urządzenia wadliwego na wolne od wad, Strony podpiszą Protokół Naprawy/Wymiany. Gwarancja na wymienione Urządzenie biegnie na nowo, liczona będzie od daty podpisania danego Protokołu Naprawy/Wymiany.
+Po trzykrotnych naprawach tego samego podzespołu Urządzenia w tym samym egzemplarzu Urządzenia Wykonawca zobowiązuje się wymienić wadliwy egzemplarz Urządzenia na nowy wolny od wad w przypadku, gdy w jakimkolwiek podzespole Urządzenia występuje wada.
+Zamawiający w okresie Gwarancji zgłasza wszelkie wady lub usterki techniczne Urządzeń do Wykonawcy (dalej „Zgłoszenie”).
+Zgłoszenia w ramach Gwarancji będą przyjmowane przez Wykonawcę w Dni robocze w godzinach od 8:00 do 18:00 pod adresem e-mail: ............
+Czas wymiany lub naprawy liczony jest od momentu przesłania przez Zamawiającego Zgłoszenia na adres e-mail Wykonawcy ….. do momentu wymiany wadliwego Urządzenia na Urządzenie wolne od wad lub odbioru naprawionego Urządzenia, potwierdzonego Protokołem Naprawy/Wymiany. Czas wymiany lub naprawy nie może przekroczyć:
+dla Urządzeń zlokalizowanych w Warszawie i najbliższych okolicach (do 40 km) – 8 godzin roboczych,
+dla Urządzeń w pozostałych Lokalizacjach Zamawiającego,– do końca następnego Dnia roboczego.
+Godziny robocze rozumiane są jako godziny od 8:00 do 18:00 w Dni robocze. Zgłoszenia awarii będą przyjmowane przez Wykonawcę w Dni robocze w godzinach od 8:00 do 18:00 pod adresem e-mail: ............
+W przypadku, gdy czas wymiany lub naprawy przekracza czas określony w ust. 9 niniejszego paragrafu lub z przyczyn technicznych wymiana lub naprawa nie może być wykonana w Lokalizacjach Zamawiającego, Wykonawca zobowiązuje się do dostarczenia, przed upływem umownego terminu na wymianę lub wykonanie naprawy, urządzenia zastępczego o takich samych lub wyższych parametrach, lub wymiany uszkodzonego Urządzenia na nowe o takich samych lub wyższych parametrach. Czas naprawy lub wymiany w tym przypadku nie może przekroczyć 14 Dni roboczych od dnia przesłania przez Zamawiającego Zgłoszenia na zasadach określonych w ust. 8-9 niniejszego paragrafu. Po upływie tego terminu Zamawiający ma prawo do otrzymania nowego Urządzenia, o takich samych lub wyższych parametrach, w miejsce uszkodzonego oraz do obciążenia Wykonawcy karami umownymi zgodnie z § 11 ust. 1 pkt 1.2 Umowy. Wykonawca po otrzymaniu od Zamawiającego zawiadomienia o przekroczeniu tego terminu, dostarczy Zamawiającemu w terminie 21 dni nowe Urządzenie, a Zamawiający dokona zwrotu Wykonawcy dotychczasowego Urządzenia. Odbiór przez Zamawiającego nowego Urządzenia nastąpi na zasadach określonych w ust. 9 niniejszego paragrafu.
+Każda wymiana Urządzenia lub podzespołu Urządzenia musi być potwierdzona Protokołem Naprawy/Wymiany podpisanym przez obie Strony.
+W okresie Gwarancji wszelkie koszty naprawy, w tym koszt transportu, ponosi Wykonawca.
+§ 6
+Oświadczenia i zobowiązania Wykonawcy
+Wykonawca jest zobowiązany współdziałać z Zamawiającym przy wykonywaniu Umowy w celu należytej realizacji zamówienia.
+Wykonawca oświadcza, że posiada do Przedmiotu Umowy wszelkie konieczne prawa, w tym prawo do sprzedaży Urządzeń i że zawierając Umowę nie narusza żadnych praw osób trzecich, w tym w zakresie własności intelektualnej i przemysłowej.
+Wykonawca jest odpowiedzialny względem Zamawiającego, jeżeli rzecz sprzedana ma wadę zmniejszającą jej wartość lub użyteczność ze względu na cel oznaczony w Umowie albo wynikający z okoliczności lub z przeznaczenia rzeczy, jeżeli rzecz nie ma właściwości, o których istnieniu zapewniał Zamawiającego.
+Wykonawca oświadcza, że jest producentem, albo posiada autoryzację producenta i w przypadku, gdy nie jest ich producentem ma prawo do dostarczenia Zamawiającemu Urządzeń wraz z Oprogramowaniem i licencjami na to oprogramowanie, w tym aktualizacji Oprogramowania oraz świadczenia lub zapewnienia świadczenia Gwarancji na podstawie zawartych umów, bądź innych ustaleń z producentem.
+Wykonawca oświadcza i zapewnia tym samym, że dostarczając Urządzenia i udzielając licencji na korzystanie z Oprogramowania nie narusza jakichkolwiek praw osób trzecich, w tym w szczególności autorskich praw majątkowych lub autorskich praw osobistych takich osób.
+Wykonawca oświadcza, że posiada niezbędną wiedzę i doświadczenie oraz dysponuje osobami zdolnymi do wykonania Przedmiotu Umowy jak również zobowiązuje się, że wszelkie czynności związane z Przedmiotem Umowy prowadzone będą z należytą starannością i profesjonalizmem.
+Wykonawca odpowiedzialny jest w szczególności za wszelkie szkody wynikłe z zaniechania, niedbalstwa, działania niezgodnego z przepisami bhp i p.poż.
+Wykonawca oświadcza, że Zamawiający nie poniesie żadnej odpowiedzialności w razie naruszenia przepisów dotyczących ochrony prawno-autorskiej przy wykonywaniu przez Wykonawcę jakichkolwiek czynności objętych Przedmiotem Umowy, jak i w przypadku późniejszego korzystania przez Zamawiającego z utworu lub przedmiotów praw pokrewnych, o ile Zamawiający korzystać będzie z utworu lub przedmiotów praw pokrewnych w zakresie w jakim nabył prawa od Wykonawcy.
+Wykonawca zapłaci Zamawiającemu za wszelkie poniesione przez niego koszty, w związku wykonaniem Przedmiotu Umowy przez Wykonawcę, w tym koszty postępowań sądowych, jak również przejmie wszelkie roszczenia osób trzecich kierowane przeciwko Zamawiającemu, w związku z naruszeniem jakichkolwiek praw osób trzecich, w szczególności patentów, praw autorskich, zarejestrowanych wzorów i innych praw własności intelektualnej, wynikłe z tego, że Wykonawca nie był uprawniony do przeniesienia praw, o których mowa powyżej, udzielenia Zamawiającemu licencji lub przy realizacji Umowy naruszył jakiekolwiek prawa osób trzecich oraz na własny koszt zapewni Zamawiającemu prawo do dalszego korzystania z utworu i innych praw własności intelektualnej, albo wymieni lub zmodyfikuje utwory lub inne prawa własności intelektualnej, lub ich części w celu uniknięcia naruszenia takich praw.
+W przypadku, gdy w związku wykonaniem Przedmiotu Umowy przez Wykonawcę, osoba trzecia wytoczy przeciwko Zamawiającemu proces o naruszenie praw autorskich, pokrewnych lub dóbr osobistych do utworu, lub innych praw własności intelektualnej, do których prawa Wykonawca przeniósł na Zamawiającego lub udzielił licencji, Wykonawca zobowiązany będzie pokryć koszty zastępstwa procesowego, koszty sądowe oraz zapłacić zasądzone odszkodowanie lub zadośćuczynienie albo pokryć wszystkie koszty polubownego załatwienia sprawy.
+Wykonawca zobowiązuje się uzyskać dla Zamawiającego na swój koszt prawo do dalszego używania Oprogramowania obciążonego wadami prawnymi lub wymienić go na inny, tego samego rodzaju w taki sposób, że przestanie on naruszać powyższe prawa.
+Jeżeli z powodu wady prawnej dostarczonych Urządzeń, Zamawiający będzie zmuszony wydać jakąkolwiek rzecz osobie trzeciej, Wykonawca zobowiązuje się zwrócić Zamawiającemu zapłatę otrzymaną za Urządzenie objęte tą wadą prawną.
+§ 7
+Zobowiązania Zamawiającego
+Zamawiający zobowiązany jest do:
+udostępnienia Wykonawcy informacji niezbędnych do wykonania Umowy;
+współdziałania z Wykonawcą w celu realizacji Umowy;
+zapłaty wynagrodzenia należnego Wykonawcy.
+§ 8
+Wartość Umowy i warunki płatności
+Wynagrodzenie za realizację Przedmiotu Umowy, o którym mowa w § 2 Umowy, zgodnie z ofertą Wykonawcy, której kopia stanowi Załącznik nr 2 do Umowy,  wynosi …………… zł brutto (słownie złotych: ……… i …/100) i uwzględnia wszystkie należne podatki, opłaty oraz inne obowiązkowe potrącenia, w tym VAT wg stawki właściwej na gruncie powszechnie obowiązujących przepisów prawa / nie uwzględnia VAT (dalej „Wynagrodzenie”).
+Wynagrodzenie obejmuje wszystkie koszty niezbędne do prawidłowego wykonania Umowy, w tym w szczególności koszty dostawy Urządzeń, koszty udzielenia licencji na Oprogramowanie oraz koszty udzielonej Gwarancji.
+Z zastrzeżeniem ust. 5 niniejszego paragrafu, wszelkie płatności wynikające z Umowy będą dokonywane przez Zamawiającego przelewem, w terminie 21 (dwudziestu jeden) dni od daty otrzymania przez Zamawiającego prawidłowo wystawionej faktury, po podpisaniu przez Strony, bez zastrzeżeń, Protokołu Odbioru. Zapłata nastąpi na rachunek bankowy Wykonawcy numer ………… prowadzony przez …………., który został ujęty w wykazie prowadzonym przez Szefa Krajowej Administracji Skarbowej na podstawie art. 96b ustawy z dnia 11 marca 2004 r. o VAT (tzw. biała lista podatników VAT).
+Zmiana rachunku bankowego właściwego do zapłaty wymaga zmiany Umowy w formie aneksu zawartego w formie pisemnej lub w Formie elektronicznej pod rygorem nieważności. Zapłatę uznaje się za dokonaną w dniu obciążenia rachunku bankowego Zamawiającego, na podstawie polecenia przelewu na wyżej wymieniony rachunek bankowy Wykonawcy.
+W przypadku, gdy Strony podpiszą bez uwag i zastrzeżeń Protokół Odbioru w terminie późniejszym niż data otrzymania faktury, Zamawiający dokona zapłaty wynagrodzenia należnego Wykonawcy w terminie 21 (dwudziestu jeden) dni kalendarzowych od daty podpisania przez Strony zastrzeżeń Protokół Odbioru.
+Jeżeli Zamawiający stwierdzi, że rachunek wskazany przez Wykonawcę nie znajduje się w elektronicznym wykazie, o którym mowa w ust. 3 niniejszego paragrafu, Zamawiający wstrzyma się z dokonaniem zapłaty za prawidłową realizację Przedmiotu Umowy do czasu wskazania przez Wykonawcę innego rachunku bankowego jako właściwego do zapłaty, który będzie umieszczony w powyższym wykazie. Wskazanie przez Wykonawcę rachunku bankowego powinno nastąpić w formie pisemnej albo w postaci dokumentu elektronicznego opatrzonego kwalifikowanym podpisem (podpisami) elektronicznym. W takim przypadku Wykonawca zrzeka się prawa do żądania odsetek za opóźnienie w płatności za okres od pierwszego dnia po upływie terminu płatności do 21 dnia następującego po dniu powiadomienia Zamawiającego o numerze rachunku bankowego jako właściwego do zapłaty, który będzie spełniał powyższy wymóg. Zamawiający oświadcza, że płatności na rzecz Wykonawcy za wystawione przez niego faktury, będzie realizował z zastosowaniem mechanizmu podzielonej płatności, tzw. split payment.
+Wykonawca zobowiązany jest podać na fakturze datę zawarcia Umowy i numer Umowy nadany przez Zamawiającego, której dotyczy wystawiana faktura. Wykonawca zobowiązany jest podać na fakturze termin zapłaty wynikający z Umowy.
+W przypadku opóźnienia w zapłacie kwoty wynikającej z faktury, Wykonawca jest uprawniony do żądania zapłaty przez Zamawiającego odsetek stosownie do obowiązujących przepisów za każdy dzień opóźnienia.
+W przypadku wystawienia faktury papierowej, faktura zostanie wystawiona na Zamawiającego, tj. Narodowy Bank Polski, 00-919 Warszawa, ul. Świętokrzyska 11/21 i zaadresowana: Narodowy Bank Polski - Departament Rozliczeń Gospodarki Własnej, 00-919 Warszawa, ul. Świętokrzyska 11/21.
+W przypadku wystawienia faktury elektronicznej, faktura zostanie wystawiona na Zamawiającego, tj. Narodowy Bank Polski, ul. Świętokrzyska 11/21, 00-919 Warszawa i przekazana w Formie elektronicznej z adresu poczty elektronicznej Wykonawcy: ……….. na adres poczty elektronicznej Zamawiającego: faktury.DIT@nbp.pl. Zamawiający nie będzie ponosił odpowiedzialności w przypadku braku zapłaty lub opóźnienia w zapłacie należności wynikającej z faktury, która została wysłana z innego adresu poczty elektronicznej niż wyżej wskazany. Zmiana powyższego adresu poczty elektronicznej wymaga zmiany Umowy w formie aneksu. W przypadku wystawienia faktury elektronicznej nie należy wystawiać jej w formie papierowej.
+Wykonawca może wystawić na NBP ustrukturyzowaną fakturę elektroniczną i przekazać ją za pomocą Platformy Elektronicznego Fakturowania (PEF), o której mowa w art. 1 pkt 1 ustawy z dnia 9 listopada 2018 r. o elektronicznym fakturowaniu w zamówieniach publicznych, koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prywatnym (Dz.U. z 2020, poz. 1666), z zastosowaniem numeru GLN 5903351900102.
+Wykonawca korzystający z podwykonawstwa przy realizacji Umowy, zobowiązany jest do zapłaty podwykonawcy, należnego mu wynagrodzenia z tytułu wykonania zleconych podwykonawcy dostaw lub usług, w terminie nie dłuższym niż 21 dni od dnia zapłaty wynagrodzenia Wykonawcy, zgodnie z postanowieniami ust. 3 niniejszego paragrafu. Wykonawca zobowiązany jest do przedstawienia Zamawiającemu, w terminie nie dłuższym niż 3 dni liczone od terminu, o którym mowa w zdaniu poprzedzającym potwierdzenia dokonania zapłaty wynagrodzenia należnego podwykonawcy.
+W przypadku zmiany stawki VAT przyjętej do określenia wysokości wynagrodzenia Wykonawcy zgodnie z ust. 1 niniejszego paragrafu, która zacznie obowiązywać po dniu zawarcia niniejszej Umowy, wynagrodzenie Wykonawcy, w ujęciu brutto, ulegnie odpowiedniej zmianie, poprzez zastosowanie zmienionej stawki VAT – bez sporządzania aneksu do Umowy. Zmianie ulegnie wysokość wynagrodzenia należnego Wykonawcy za wykonywanie Umowy w okresie od dnia obowiązywania zmienionej stawki VAT, przy czym zmiana dotyczyć będzie wyłącznie tej części wynagrodzenia Wykonawcy, do której zgodnie z przepisami prawa powinna być stosowana zmieniona stawka VAT.
+§ 9
+Zmiana Umowy
+Wszelkie zmiany w Umowie będą mogły być dokonywane wyłącznie w zakresie dopuszczonym Umową i Ustawą oraz wymagają zgodnej woli Stron oraz zachowania formy pisemnej lub Formy elektronicznej, pod rygorem nieważności, z zastrzeżeniem wyjątków przewidzianych w Umowie.
+Z zastrzeżeniem wyjątków przewidzianych w Umowie, istotna zmiana zawartej Umowy wymaga przeprowadzenia nowego postępowania o udzielenie zamówienia.
+Zmiana Umowy jest istotna, jeżeli powoduje, że charakter Umowy zmienia się w sposób istotny w stosunku do pierwotnej umowy, w szczególności, jeżeli zmiana:
+wprowadza warunki, które gdyby zostały zastosowane w postępowaniu o udzielenie zamówienia, to wzięliby w nim udział lub mogliby wziąć udział inni wykonawcy lub przyjęte zostałyby oferty innej treści;
+narusza równowagę ekonomiczną stron umowy na korzyść wykonawcy, w sposób nieprzewidziany w pierwotnej Umowie;
+w sposób znaczny rozszerza albo zmniejsza zakres świadczeń i zobowiązań wynikający z Umowy;
+polega na zastąpieniu wykonawcy, któremu zamawiający udzielił zamówienia, nowym wykonawcą w przypadkach innych, niż wskazane w art. 455 ust. 1 pkt 2 Ustawy.
+Jakakolwiek istotna zmiana postanowień Umowy w stosunku do treści oferty, na podstawie której dokonano wyboru Wykonawcy, będzie możliwa wyłączenie w następującym zakresie:
+jeżeli konieczna będzie zmiana terminu wykonania Umowy – w sytuacji, gdy konieczność taka wynika z przyczyn leżących po stronie Zamawiającego, termin realizacji przesuwa się o okres trwania przyczyny;
+jeżeli nastąpią zmiany w strukturze organizacyjnej Zamawiającego;
+jeżeli nastąpi zmiana sposobu fakturowania ze względu na zmiany organizacyjne Zamawiającego;
+wystąpi zmiana powszechnie obowiązujących przepisów prawa, w zakresie mającym istotny wpływ na realizację Przedmiotu Umowy.
+Jakakolwiek istotna zmiana postanowień Umowy w stosunku do treści oferty, na podstawie której dokonano wyboru Wykonawcy, będzie możliwa wyłącznie w zakresie i na warunkach określonych w ust. 4 niniejszego paragrafu. Zmiany, o których mowa w ust. 4, wymagają sporządzenia pod rygorem nieważności aneksu do Umowy, zawartego w formie pisemnej lub w Formie elektronicznej.
+Dopuszczalna jest zmiana Umowy, bez przeprowadzenia nowego postępowania o udzielenie zamówienia, w jednym z niżej wymienionych przypadków:
+gdy nowy wykonawca ma zastąpić dotychczasowego Wykonawcę:
+w wyniku sukcesji, wstępując w prawa i obowiązki Wykonawcy, w następstwie przejęcia, połączenia, podziału, przekształcenia, upadłości, restrukturyzacji, dziedziczenia lub nabycia dotychczasowego Wykonawcy lub jego przedsiębiorstwa, o ile nowy wykonawca spełnia warunki udziału w postępowaniu, nie zachodzą wobec niego podstawy wykluczenia oraz nie pociąga to za sobą innych istotnych zmian Umowy, a także nie ma na celu uniknięcia stosowania przepisów Ustawy, lub
+w wyniku przejęcia przez Zamawiającego zobowiązań Wykonawcy względem jego podwykonawców, w przypadku, o którym mowa w art. 465 ust. 1 Ustawy; lub
+jeżeli dotyczy realizacji, przez dotychczasowego Wykonawcę, dodatkowych usług, których nie uwzględniono w zamówieniu podstawowym, o ile stały się one niezbędne i zostały spełnione łącznie następujące warunki:
+zmiana Wykonawcy nie może zostać dokonana z powodów ekonomicznych lub technicznych, w szczególności dotyczących zamienności lub interoperacyjności wyposażenia, usług lub instalacji zamówionych w ramach zamówienia podstawowego,
+zmiana Wykonawcy spowodowałaby istotną niedogodność lub znaczne zwiększenie kosztów dla Zamawiającego,
+wzrost ceny spowodowany każdą kolejną zmianą nie przekracza 50% wartości pierwotnej umowy; lub
+jeżeli konieczność zmiany Umowy spowodowana jest okolicznościami, których Zamawiający, działając z należytą starannością, nie mógł przewidzieć, o ile zmiana nie modyfikuje ogólnego charakteru Umowy, a wzrost ceny spowodowany każdą kolejną zmianą nie przekracza 50% wartości pierwotnej Umowy; lub
+których łączna wartość jest mniejsza niż progi unijne oraz jest niższa niż 10% wartości pierwotnej Umowy, a zmiany te nie powodują zmiany ogólnego charakteru Umowy.
+W przypadkach, o których mowa w ust. 6 pkt 6.2. lub pkt 6.3 niniejszego paragrafu, nie można wprowadzać kolejnych zmian Umowy w celu uniknięcia stosowania przepisów Ustawy i po dokonaniu zmiany Umowy, zamieszczone zostanie ogłoszenie o zmianie Umowy w Biuletynie Zamówień Publicznych lub, w przypadku gdy wartość zmiany jest równa lub przekracza próg unijny, przekazane Urzędowi Publikacji Unii Europejskiej.
+Przez próg unijny należy rozumieć kwoty wartości zamówień, o których mowa w art. 3 ust. 1 Ustawy.
+Dopuszczalną wartość zmiany ceny, o której mowa w ust. 6 pkt. 6.2 ppkt 6.2.3 i pkt 6.3 niniejszego paragrafu lub dopuszczalną wartość zmiany Umowy, o której mowa w ust. 6 pkt. 6.4 niniejszego paragrafu – ustala się w oparciu o zmienioną cenę.
+§ 10
+Odstąpienie lub wypowiedzenie Umowy
+Zamawiający może odstąpić od Umowy:
+w terminie 30 dni od dnia powzięcia wiadomości o zaistnieniu istotnej zmiany okoliczności powodującej, że wykonanie Umowy nie leży w interesie publicznym, czego nie można było przewidzieć w chwili zawarcia Umowy, lub dalsze wykonywanie Umowy może zagrozić podstawowemu interesowi bezpieczeństwa państwa lub bezpieczeństwu publicznemu;
+jeżeli zachodzi co najmniej jedna z następujących okoliczności:
+dokonano zmiany Umowy z naruszeniem art. 454 i art. 455 Ustawy,
+Wykonawca w chwili zawarcia Umowy podlegał wykluczeniu na podstawie art. 108 Ustawy,
+Trybunał Sprawiedliwości Unii Europejskiej stwierdził, w ramach procedury przewidzianej w art. 258 Traktatu o funkcjonowaniu Unii Europejskiej, że Rzeczpospolita Polska uchybiła zobowiązaniom, które ciążą na niej na mocy Traktatów, dyrektywy 2014/24/UE, dyrektywy 2014/25/UE i dyrektywy 2009/81/WE, z uwagi na to, że zamawiający udzielił zamówienia z naruszeniem prawa Unii Europejskiej.
+W przypadku, o którym mowa w ust. 1 pkt 1.2. ppkt 1.2.1 niniejszego paragrafu, Zamawiający odstępuje od Umowy w części, której zmiana dotyczy.
+W przypadku, o którym mowa w ust. 1 pkt 1.2 niniejszego paragrafu prawo złożenia oświadczenia o odstąpieniu od Umowy przysługuje Zamawiającemu, w terminie 38 miesięcy od dnia zawarcia Umowy.
+W przypadkach, o których mowa w ust. 1 niniejszego paragrafu, Wykonawca może żądać wyłącznie wynagrodzenia należnego z tytułu wykonania części Umowy.
+Zamawiający może odstąpić od Umowy, w jednym z niżej wymienionych przypadków:
+Wykonawca realizuje Przedmiot Umowy niezgodnie z jej postanowieniami lub nie wywiązuje się z pozostałych obowiązków określonych w Umowie, przy czym prawo do odstąpienia może zostać wykonane, jeżeli Zamawiający wezwał Wykonawcę do zaprzestania naruszeń i usunięcia ich skutków, wyznaczając mu w tym celu odpowiedni termin nie krótszy niż 14 dni, a mimo upływu tego terminu Wykonawca nie zaprzestał naruszeń, ani nie usunął ich skutków;
+Zamawiający ponownie stwierdzi nieprawidłowości powstałe wskutek nieuwzględnienia przez Wykonawcę zastrzeżeń zawartych w Protokole Odbioru i nieusunięcia przyczyn stwierdzonych nieprawidłowości w terminie o którym mowa w § 4 ust. 4 Umowy;
+Wykonawca nie wykonuje zgodnie z postanowieniami zobowiązań wynikających z Gwarancji w szczególności poprzez co najmniej 3-krotne niewymienienie lub nienaprawienie Urządzenia lub co najmniej 3-krotne niezrealizowanie w terminie wymiany lub naprawy Urządzenia;
+w stosunku do Wykonawcy sąd odmówi ogłoszenia upadłości z uwagi na niewystarczające aktywa na prowadzenie upadłości, jeżeli Wykonawca zawrze z wierzycielami układ powodujący zagrożenie dla realizacji Umowy lub nastąpi likwidacja przedsiębiorstwa Wykonawcy oraz jeżeli w wyniku wszczętego postępowania egzekucyjnego nastąpi zajęcie majątku Wykonawcy lub jego znacznej części; odstąpienie od Umowy;
+wystąpi co najmniej 14 dniowa zwłoka w dostawie Urządzeń do siedziby Zamawiającego, względem terminu określonego w § 3 ust. 1 Umowy;
+łączna wysokości naliczonych przez Zamawiającego kar umownych będzie równa lub wyższa niż 30% wysokości wartości Wynagrodzenia;
+Wykonawca złożył nieprawdziwe oświadczenie, o którym mowa w § 6 ust. 4 lub ust. 5 Umowy;
+w przypadku, gdy Przedmiot Umowy ma wady prawne;
+w przypadku zaistnienia okoliczności, o których mowa w Załączniku nr 13 do Umowy, na zasadach w nim określonych.
+W przypadku wystąpienia co najmniej jednej okoliczności, o których mowa w ust. 5 niniejszego paragrafu, prawo złożenia oświadczenia o odstąpieniu od Umowy przysługuje Zamawiającemu w terminie 38 miesięcy od dnia zawarcia Umowy. W tym też przypadku, Wykonawca może żądać wyłącznie wynagrodzenia należnego z tytułu wykonania części Umowy, zgodnie z jej postanowieniami.
+Oświadczenie o wypowiedzeniu Umowy lub odstąpieniu od Umowy należy złożyć drugiej Stronie pod rygorem nieważności w formie pisemnej lub w Formie elektronicznej. Oświadczenie o wypowiedzeniu lub odstąpieniu od Umowy musi zawierać uzasadnienie.
+Powyższe uprawnienie Zamawiającego nie uchybia możliwości odstąpienia od Umowy lub jej wypowiedzenia przez którąkolwiek ze Stron, na podstawie przepisów Kodeksu cywilnego.
+W razie wypowiedzenia lub odstąpienia od Umowy przez Zamawiającego, Wykonawca zobowiązany jest do sporządzenia, w terminie 10 Dni roboczych, od dnia wypowiedzenia lub odstąpienia od Umowy przez Zamawiającego, protokołu inwentaryzacji dostawy lub usług będących w toku, na dzień wypowiedzenia lub odstąpienia i przedłożenia protokołu Zamawiającemu – do zatwierdzenia. Odmowa zatwierdzenia protokołu powinna zostać uzasadniona przez Zamawiającego.
+W przypadku wypowiedzenia lub odstąpienia od Umowy przez Zamawiającego Wykonawca może żądać wyłącznie wynagrodzenia należnego z tytułu faktycznie zrealizowanych dostaw lub wykonanych Usług przez Wykonawcę na podstawie Umowy. Podstawą określenia wysokości wynagrodzenia jest protokół, o którym mowa w ust. 9 niniejszego paragrafu, zatwierdzony przez Zamawiającego.
+Zabezpieczenie przerwanych dostaw lub usług następuje na koszt Wykonawcy.
+Wykonawca zrzeka się wszelkich roszczeń wobec Zamawiającego, jakie mogą powstać w związku z wypowiedzeniem lub częściowym wypowiedzeniem Umowy, oraz odstąpienia od Umowy, w tym uprawnień do żądania od Zamawiającego zwrotu wydatków poniesionych w celu należytego jej wykonania oraz uprawnień do żądania naprawienia szkody, gdyby na skutek wypowiedzenia albo częściowego wypowiedzenia Umowy, oraz odstąpienia od Umowy powstała szkoda, za którą Zamawiający mógł ponosić odpowiedzialność.
+§ 11
+Kary umowne i odszkodowania
+Zamawiający jest uprawniony do naliczenia kar umownych i żądania ich zapłaty przez Wykonawcę w następujących przypadkach i kwotach:
+za zwłokę w terminie dostawy Urządzeń Wykonawca zapłaci Zamawiającemu karę  w wysokości 0,1% Wynagrodzenia, za każdy rozpoczęty dzień zwłoki;
+w przypadku nieterminowego wywiązywania się z warunków Gwarancji lub rękojmi Wykonawca zapłaci Zamawiającemu karę w wysokości 0,1% Wynagrodzenia za każdy rozpoczęty dzień zwłoki;
+za złożenie przez Wykonawcę niezgodnego z prawdą oświadczenia, o którym mowa w § 6 ust. 4 i ust. 5 Umowy – w wysokości 20% Wynagrodzenia;
+w przypadku braku zapłaty lub nieterminowej zapłaty wynagrodzenia należnego podwykonawcy, z którym Wykonawca zawarł umowę, w terminie, o którym mowa w § 8 ust. 12 Umowy - w wysokości 0,01% wartości Wynagrodzenia, za każdy dzień zwłoki w wykonaniu tego zobowiązania, nie więcej jednak niż 20% Wynagrodzenia;
+za odstąpienie lub wypowiedzenie Umowy przez którąkolwiek ze Stron z przyczyn, za które Wykonawca ponosi odpowiedzialność w wysokości 10% Wynagrodzenia; uprawnienie do żądania przez Zamawiającego zapłaty kary umownej powstaje z dniem, w którym zostało złożone drugiej Stronie oświadczenie woli o wypowiedzeniu lub odstąpieniu, choćby jego skutek w tym dniu jeszcze nie nastąpił;
+niewywiązania się Wykonawcy z wykonania zobowiązań wynikających z § 15 Umowy – w wysokości 10.000,00 zł, za każde naruszenie.
+Łączna maksymalna wysokość kar umownych, których dochodzić może Zamawiający wynosi 50% wysokości wartości Wynagrodzenia to jest kwoty ……………………………………….. złotych (w przypadku, gdy wskazana wartość nie może być określona do pełnych groszy, zamawiający wpisze podaną wysokość zaokrągloną w dół).
+Wykonawca zapłaci karę umowną w terminie 14 dni od daty otrzymania od Zamawiającego żądania jej zapłaty, przelewem na rachunek bankowy wskazany przez Zamawiającego w żądaniu zapłaty.
+W przypadku, gdy wysokość szkody poniesionej przez Zamawiającego jest większa od kary umownej, a także w przypadku gdy szkoda powstała z przyczyn, dla których nie zastrzeżono kary umownej, Zamawiający jest uprawniony do żądania odszkodowania na zasadach ogólnych, wynikających z przepisów Kodeksu cywilnego – niezależnie od tego, czy realizuje uprawnienia do otrzymania kary umownej. W przypadku, gdy wysokość poniesionej szkody jest większa od kary umownej, Zamawiający może żądać odszkodowania przenoszącego wysokość zastrzeżonej kary umownej.
+Zamawiający jest uprawniony do potrącania wierzytelności wobec Wykonawcy z tytułu kar umownych z wierzytelności Wykonawcy wobec Zamawiającego z tytułu wynagrodzenia określonego w Umowie, a także z wierzytelności Wykonawcy wobec Zamawiającego z tytułu wniesionego zabezpieczenia należytego wykonania Umowy, na co Wykonawca wyraża zgodę.
+Zamawiający może dokonać potrącenia, o którym mowa w ust. 5 niniejszego paragrafu, w każdym przypadku powstania uprawnienia do żądania zapłaty kary umownej, choćby jego wierzytelność z tego tytułu nie była jeszcze wymagalna (nie upłynął jeszcze termin, w którym Wykonawca zobowiązany jest do zapłaty kary umownej).
+Dla wykonania prawa potrącenia nie jest niezbędne złożenie Wykonawcy przez Zamawiającego odrębnego oświadczenia woli, przy czym przyjmuje się, że Zamawiający wykonał prawo potrącenia w dniu, w którym upłynął najbliższy, przypadający po przekazaniu przez Zamawiającego żądania zapłaty kary umownej, termin do zapłaty wynagrodzenia należnego Wykonawcy na podstawie Umowy albo odpowiedniej części tego wynagrodzenia, a wynagrodzenie albo jego odpowiednia część nie zostało przez Zamawiającego zapłacone.
+§ 12
+Zabezpieczenie należytego wykonania Umowy
+Wykonawca przed zawarciem Umowy wniósł Zamawiającemu zabezpieczenie należytego wykonania Umowy, zwane dalej „Zabezpieczeniem”, w wysokości 2% Wynagrodzenia, tj. ……… zł (słownie złotych: …… i …/100).
+Wykonawca wniósł Zabezpieczenie według własnego wyboru w jednej lub w kilku formach, zgodnie z postanowieniami określonymi w art. 450 ust. 1 Ustawy, które w przypadku poręczeń lub gwarancji jest nieodwołalne, bezwarunkowe i płatne na pierwsze żądanie Zamawiającego i może być wykorzystane przez Zamawiającego w przypadku niewykonania lub nienależytego wykonania przez Wykonawcę Umowy w tym pokrycia roszczeń z tytułu rękojmi za wady oraz udzielonej Gwarancji.
+Zamawiający nie dopuszcza wniesienia Zabezpieczenia w innej formie, niż określona w art. 450 ust. 1 Ustawy.
+W trakcie realizacji Umowy Wykonawca może dokonać zmiany formy zabezpieczenia na jedną lub kilka form, o których mowa w ust. 2 niniejszego paragrafu.
+Zmiana formy zabezpieczenia jest dokonywana z zachowaniem ciągłości zabezpieczenia i bez zmniejszenia jego wysokości.
+Zamawiający, z zastrzeżeniem dokonanych zgodnie z Umową potrąceń, dokona zwrotu Zabezpieczenia w następujących wysokościach i terminach:
+80% kwoty Zabezpieczenia zostanie zwrócone w terminie 30 dni od dnia podpisania przez Strony bez zastrzeżeń Protokołu Odbioru,
+20% kwoty Zabezpieczenia zostanie zwrócone nie później, niż w 15 dniu po upływie okresu rękojmi za wady i Gwarancji jakości, na podstawie Protokołu Odbioru Pogwarancyjnego.
+Jeżeli Zabezpieczenie zostanie wniesione w pieniądzu, Zamawiający zwróci je wraz z odsetkami wynikającymi z umowy rachunku bankowego, na którym było ono przechowywane, pomniejszone o koszt prowadzenia rachunku oraz prowizji bankowej za przelew pieniędzy na rachunek bankowy Wykonawcy, a jeżeli zostanie wniesione w innej formie tj.:
+w postaci elektronicznej - zwrot nastąpi poprzez złożenie gwarantowi lub poręczycielowi oświadczenia o zwolnieniu zabezpieczenia;
+w postaci dokumentu papierowego – zwrot nastąpi tego dokumentu gwarantowi lub poręczycielowi.
+Zmiana formy zabezpieczenia jest dopuszczalna na zasadach określonych w art. 451 Ustawy i nie wymaga sporządzania aneksu do Umowy.
+Zabezpieczeniem objęty jest cały okres realizacji Umowy oraz okres Gwarancji i rękojmi za wady.
+W przypadku niewykonania lub nienależytego wykonania Umowy, Zabezpieczenie może zostać przekazane na poczet kar umownych lub odszkodowania, na co Wykonawca wyraża zgodę.
+§ 13
+Zasady dostępu do obiektów Zamawiającego oraz postępowania z danymi osobowymi zbieranymi w związku z kontrolą dostępu do tych obiektów
+Wykonawca oraz jego przedstawiciele, jak również inne osoby, jeśli Wykonawca będzie się nimi posługiwał przy wykonywaniu Umowy, w związku ze wstępem i przebywaniem na terenie obiektu Zamawiającego, będą przestrzegać Instrukcji kontroli ruchu osobowego i materiałowego w Lokalizacjach Zamawiającego, zwanej dalej „Instrukcją kontroli ruchu”, której egzemplarz zostaje mu użyczony na czas realizacji Umowy przez Wykonawcę oraz do zwrotu użyczonej Instrukcji kontroli ruchu. Oświadczenie potwierdzające otrzymanie egzemplarza Instrukcji kontroli ruchu oraz zobowiązania Wykonawcy w zakresie zapewnienia jej przestrzegania i zwrotu dokumentu, stanowi Załącznik nr 10 do Umowy.
+Wykonawca zapewnia przestrzeganie przepisów Instrukcji kontroli ruchu przez osoby wyznaczone do realizacji Umowy w Lokalizacjach Zamawiającego oraz zapoznanie każdej z tych osób z treścią przepisów Instrukcją kontroli ruchu przed ich pierwszym pobytem w Lokalizacji Zamawiającego.
+Wykonawca, w terminie do 7 dni od dnia podpisania Umowy przekaże, w formie pisemnej lub w Formie elektronicznej, listę swoich pracowników lub innych osób, którymi będzie się posługiwał przy wykonywaniu Umowy, zawierającą imię, nazwisko oraz serię i numer dowodu osobistego, w celu prawidłowej realizacji Umowy, w szczególności wydania przepustki uprawniającej do wstępu na teren Lokalizacji Zamawiającego. Wykonawca będzie w formie pisemnej lub w Formie elektronicznej informował Zamawiającego w przypadku potrzeby zmian osób, którym powinny być wydawane przepustki, przy czym w przypadku potrzeby cofnięcia przepustki, poinformuje o tym Zamawiającego niezwłocznie.
+§ 14
+Bezpieczeństwo pożarowe, bezpieczeństwo i higiena pracy
+Wykonawca zapewnia, że do realizacji Umowy zostaną wyznaczone osoby wykwalifikowane, które posiadają wiedzę z zakresu przepisów przeciwpożarowych. W przypadku braku takich osób, Wykonawca zapewnia, że zapozna osoby wyznaczone do realizacji Umowy z przepisami przeciwpożarowymi, przed ich pierwszym pobytem w danej Lokalizacji Zamawiającego.
+Wykonawca zobowiązuje się do przestrzegania przepisów „Instrukcji bezpieczeństwa pożarowego NBP”, której egzemplarz zostaje mu użyczony na czas realizacji Umowy przez Zamawiającego oraz do zwrotu użyczonej treści „Instrukcji bezpieczeństwa pożarowego NBP” niezwłocznie po zrealizowaniu Umowy. Oświadczenie potwierdzające otrzymanie egzemplarza powyższej instrukcji oraz zobowiązania Wykonawcy w zakresie zapewnienia jej przestrzegania i zwrotu dokumentu, zawiera Załącznik nr 10 do Umowy.
+Wykonawca zapewnia przestrzeganie przepisów „Instrukcji bezpieczeństwa pożarowego NBP” przez osoby wyznaczone do realizacji Umowy w Lokalizacji Zamawiającego oraz zapoznanie każdej z tych osób z treścią przepisów „Instrukcji bezpieczeństwa pożarowego NBP” przed ich pierwszym pobytem w Lokalizacji Zamawiającego.
+Wykonawca zapewnia, że osoby wyznaczone do realizacji Umowy wykonają wszelkie prace niebezpieczne pod względem pożarowym zgodnie z przepisami przeciwpożarowymi oraz treścią „Instrukcji bezpieczeństwa pożarowego NBP”, o ile wykonanie takich prac będzie konieczne i niezbędne dla prawidłowej realizacji Umowy.
+Wykonawca ponosi odpowiedzialność za szkody wynikłe z zaniechania lub niestarannego działania, niedbalstwa, nieprawidłowego zabezpieczenia urządzeń lub miejsca wykonywania usług oraz działań przy realizacji Umowy, w tym związanych z pracami niebezpiecznymi pod względem pożarowym, niezgodnych z przepisami przeciwpożarowymi oraz treścią „Instrukcji bezpieczeństwa pożarowego NBP” przez osoby wyznaczone do realizacji Umowy.
+Przepisy ust. 1 – 5 niniejszego paragrafu stosuje się odpowiednio do osób, które Wykonawca wyznaczy w uzgodnieniu z Zamawiającym dodatkowo lub w miejsce osób dotychczas realizujących Umowę.
+Postanowienia obejmujące ustalenia Stron z zakresu bezpieczeństwa i higieny pracy zawiera Załącznik nr 10a do Umowy.
+§ 15
+Zasady poufności
+Z zastrzeżeniem ust. 2 niniejszego paragrafu, Strony zobowiązują się do ochrony oraz do nieudostępniania innym osobom wszelkich informacji nieupublicznionych, zwłaszcza technicznych lub technologicznych, przekazywanych lub udostępnianych sobie wzajemnie w jakiejkolwiek postaci w związku z realizacją Umowy oraz wszelkiej dokumentacji wykonanej w ramach Umowy, na podstawie informacji posiadanych przez Stronę i przekazanych lub udostępnionych przez drugą Stronę w czasie trwania Umowy.
+Powyższe zobowiązanie nie dotyczy informacji objętych ochroną na mocy przepisów prawa, do których Strony będą stosować zasady ochrony oraz warunki i tryb udostępniania wynikające z właściwych przepisów.
+Informacje, których dotyczą zobowiązania określone w ust. 1 niniejszego paragrafu, Strony będą określać w ramach Umowy oraz jej wykonywania mianem „informacji objętych tajemnicą kontraktową”.
+Dla uniknięcia wątpliwości Strony ustalają, że oznaczenie nośnika informacji adnotacją o tym, że zawiera on informacje objęte tajemnicą kontraktową jest dopuszczalne w każdym przypadku, gdy Strona uzna to za stosowne, jednak wprowadzona adnotacja nie stanowi o kwalifikacji informacji, ani o sposobie postępowania z nimi.
+Wykonawca zobowiązuje się do przestrzegania zasad bezpieczeństwa wynikających
+z wewnętrznych przepisów obowiązujących u Zamawiającego, w tym dotyczących kontroli ruchu osobowego i materiałowego oraz zobowiąże swoich pracowników do złożenia pisemnego oświadczenia wobec Zamawiającego o uznawaniu informacji pozyskanych w związku z przebywaniem na terenie obiektów Zamawiającego, za informacje objęte tajemnicą kontraktową oraz o zobowiązaniu się do ich ochrony i nieudostępniania innym osobom – zgodnie ze wzorem stanowiącym Załącznik nr 11 do Umowy.
+Strony zobowiązują się do wykorzystywania informacji objętych tajemnicą kontraktową tylko dla prawidłowej realizacji Umowy oraz do ich należytego zabezpieczenia i ograniczenia dostępu do tych informacji jedynie dla osób upoważnionych. Wykonawca zobowiązuje się nie kopiować, nie powielać, ani w żaden inny sposób nie utrwalać informacji objętych tajemnicą kontraktową, ani nośników, na których zostały one zapisane, bez uprzedniej pisemnej lub w Formie elektronicznej zgody Zamawiającego.
+Strony zobowiązują się do usunięcia wszelkich informacji objętych tajemnicą kontraktową udostępnionych lub przekazanych sobie wzajemnie w celu prawidłowej realizacji Umowy lub do zwrotu drugiej Stronie ich materialnych nośników, w każdym przypadku, gdyby dalsze korzystanie z nich było niecelowe, jednak nie później niż z upływem czasu obowiązywania Umowy, chyba, że postanowienia Umowy lub przepisy prawa powszechnie obowiązującego stanowią inaczej.
+Strony zobowiązane są do zwrotu drugiej Stronie wszelkich kopii, odpisów, streszczeń etc., informacji objętych tajemnicą kontraktową, które zostały im przekazane lub udostępnione w celu prawidłowej realizacji Umowy.
+Strony zobowiązują się do wzajemnego pisemnego lub w Formie elektronicznej informowania o każdorazowym otrzymaniu żądania udostępnienia informacji objętych tajemnicą kontraktową, w celu uzyskania pisemnej lub w Formie elektronicznej zgody lub stanowiska o braku zgody Strony na ich udostępnienie, w czasie trwania Umowy, jak również w terminie 5 lat po jej rozwiązaniu lub wygaśnięciu.
+§ 16
+Podwykonawstwo
+Wykaz podwykonawców lub innych podmiotów udostępniających zasoby na których zdolności lub sytuacji Wykonawca polegał, na zasadach określonych w art. 118-120 Ustawy, w celu wykazania spełnienia warunków udziału w postępowaniu, o których mowa w art. 112 ust. 2 Ustawy, stanowi Załącznik nr 8 do Umowy.
+Zgodnie z treścią art. 462 ust. 7 Ustawy, jeżeli zmiana albo rezygnacja z podwykonawcy dotyczy podmiotu udostępniającego zasoby, na którego zasoby Wykonawca powoływał się, na zasadach określonych w art. 118 Ustawy, w celu wykazania spełniania warunków udziału w postępowaniu, o których mowa w art. 112 ust. 2 Ustawy, Wykonawca jest obowiązany wykazać Zamawiającemu, iż proponowany inny podwykonawca lub Wykonawca samodzielnie spełnia warunki udziału w postępowaniu o udzielenie zamówienia.
+Zmiana podwykonawcy umieszczonego w wykazie, o którym mowa w ust. 1 niniejszego paragrafu wymaga sporządzenia pod rygorem nieważności aneksu zawartego w formie pisemnej lub w Formie elektronicznej.
+W celu dokonania zmiany, o której mowa w ust. 3 niniejszego paragrafu, Wykonawca złoży wniosek o zmianę podwykonawcy przed przystąpieniem nowego podwykonawcy do realizacji części Umowy powierzonej podwykonawcy, w terminie umożliwiającym jego ocenę i zajęcie stanowiska, zgodnie z ust. 2 niniejszego paragrafu.
+Do wniosku, o którym mowa w ust. 4 niniejszego paragrafu, Wykonawca załączy dokumenty odpowiednio potwierdzające spełnianie warunków udziału w postępowaniu w stopniu nie mniejszym niż wymagany w trakcie tego postępowania, zgodnie z wymaganiami określonymi w Specyfikacji Warunków Zamówienia.
+W przypadku powierzenia wykonania prac składających się na Przedmiot Umowy wyspecjalizowanym podwykonawcom, Wykonawca za ich prace będzie odpowiadał przed Zamawiającym jak za działania własne. Nie narusza to uprawnienia Zamawiającego do skorzystania z wniesionego zabezpieczenia należytego wykonania Umowy służącego pokryciu roszczeń z tytułu niewykonania lub nienależytego wykonania Umowy.
+§ 17
+Licencje
+W ramach Wynagrodzenia Wykonawca udziela Zamawiającemu z dniem podpisania bez zastrzeżeń Protokołu Odbioru, niewyłącznej i nieprzenoszalnej licencji na korzystanie z Oprogramowania oraz każdej aktualizacji tego Oprogramowania – bez ograniczenia czasowego i terytorialnego, która umożliwi Zamawiającemu swobodne korzystanie z licencji, zgodnie z potrzebami Zamawiającego. Szczegółowe warunki korzystania z Oprogramowania, w tym wskazanie pól eksploatacji, określone przez producenta, regulują warunki licencji, których treść została przekazana przez Wykonawcę i stanowi Załącznik nr 9 do Umowy.
+W sytuacji, gdy prawa własności intelektualnej do Oprogramowania oraz każdej aktualizacji tego Oprogramowania lub prawo do udzielania licencji (sublicencji) na korzystanie z Oprogramowania oraz każdej aktualizacji tego Oprogramowania przysługują innym niż Wykonawca podmiotom, Wykonawca zobowiązuje się, że odpowiednia licencja (sublicencja) na korzystanie z Oprogramowania zarządzającego Urządzeniami zostanie Zamawiającemu przez inny podmiot udzielona w ramach Wynagrodzenia,  na warunkach określonych w ust. 1 niniejszego paragrafu oraz, że zawierając Umowę nie narusza żadnych praw do własności intelektualnej i przemysłowej osób trzecich.
+Wraz z udzieleniem licencji na korzystanie z Oprogramowania, o której mowa w ust. 1 niniejszego paragrafu, Wykonawca, w ramach Wynagrodzenia, przenosi na Zamawiającego prawo własności nośników, na których utrwalono Oprogramowanie, o ile będzie ono dostarczone Zamawiającemu na nośniku.
+Wykonawca jest zobowiązany do udzielenia lub zapewnienia udzielenia Zamawiającemu licencji (sublicencji) uprawniających do korzystania z nowych wersji Oprogramowania, jeżeli będą one instalowane na Urządzeniach posiadanych przez Zamawiającego (zgodnie z jego decyzją), włącznie z poprawkami oraz aktualizacjami, w każdym przypadku, gdy dla korzystania z nich będzie konieczne posiadanie licencji innej niż udzielona Zamawiającemu na podstawie ust. 1 niniejszego paragrafu. Powyższe zobowiązanie Wykonawca wykona najpóźniej w dniu instalacji nowej wersji Oprogramowania, bez konieczności ponoszenia przez Zamawiającego dodatkowych kosztów lub spełniania dodatkowych warunków lub wykonywania zobowiązań. Na żądanie Zamawiającego, Wykonawca dostarczy przed tym informacje i dokumenty potrzebne do zapoznania się Zamawiającego z warunkami licencji, która ma zostać udzielona.
+W przypadku ujawnienia nowego pola eksploatacji mającego znaczenie dla Zamawiającego, Wykonawca zobowiązuje się w ramach Wynagrodzenia udzielić licencji (sublicencji) Zamawiającemu, bez ograniczeń czasowych i terytorialnych na nowym polu eksploatacji, z tym zastrzeżeniem, że w przypadku sublicencji jej udzielenie na nowym polu eksploatacji będzie dopuszczalne w sytuacji gdy licencja (sublicencja) udzielona Wykonawcy przez inny niż Wykonawca podmiot, któremu przysługują prawa własności intelektualnej do Oprogramowania dopuszcza taką możliwość w takim zakresie.
+Wykonawca odpowiada za wady prawne Oprogramowania, w tym w zakresie udzielonej bądź zapewnionej licencji na korzystanie z Oprogramowania oraz każdej aktualizacji tego Oprogramowania, na zasadzie ryzyka.
+Prawo do korzystania z Oprogramowania Urządzeń stanowi licencję użytkownika końcowego (end-user). Zamawiający nie nabywa praw do przystosowania, rozpowszechniania, odsprzedaży lub udzielania dalszych sublicencji na korzystanie z Oprogramowania Urządzeń.
+Każda ze Stron Umowy będzie miała prawo do wypowiedzenia licencji z trzyletnim okresem wypowiedzenia ze skutkiem na koniec roku kalendarzowego. Wykonawca, w przypadku wskazanym powyżej, zobowiązuje się nie wypowiadać licencji z terminem upływającym wcześniej niż 40 miesięcy, od dnia zawarcia Umowy. W przypadku o którym mowa w ust. 4 niniejszego paragrafu Wykonawca zobowiązuje się zapewnić, iż podmiot, który udzielił Wykonawcy licencji  na podstawie, której z kolei udzielił sublicencji Zamawiającemu nie wypowie jej z terminem wypowiedzenia nie wcześniej niż 40 miesięcy, od dnia zawarcia Umowy.
+§ 18
+Postanowienia dotyczące informowania o zatrudnianiu osób niepełnosprawnych
+Postanowienia dotyczące informowania Zamawiającego przez Wykonawcę o zatrudnianiu osób niepełnosprawnych zawiera Załącznik nr 12 do Umowy.
+§ 19
+Warunki używania nazwy i logotypu NBP,
+wystawianie referencji oraz potwierdzenia należytego wykonania Umowy
+Wykonawca nie może posługiwać się logotypem Zamawiającego ani bez uprzedniej zgody Zamawiającego w formie pisemnej lub w Formie elektronicznej, wymieniać nazwy Narodowego Banku Polskiego w związku z działalnością Wykonawcy związaną z wykonywaniem Umowy. W przypadku zamiaru uzyskania zgody Zamawiającego w formie pisemnej lub w Formie elektronicznej na wymienianie nazwy Narodowego Banku Polskiego, w związku z działalnością Wykonawcy związaną z wykonywaniem Umowy, Wykonawca złoży wniosek w formie pisemnej lub w Formie elektronicznej w tej sprawie do Departamentu Komunikacji Zamawiającego.
+Zamawiający nie będzie wystawiał referencji, ani innego rodzaju opinii wyrażających ocenę realizacji Umowy przez Wykonawcę, z zastrzeżeniem ust. 3 niniejszego paragrafu.
+Na wniosek w formie pisemnej lub w Formie elektronicznej Wykonawcy, Zamawiający może wystawić dokument, w którym poświadczy wykonanie lub wykonywanie zamówienia, którego dotyczy Umowa. Określenie formy oraz treści powyższego dokumentu pozostaje do uznania Zamawiającego.
+Dokument obejmujący poświadczenie wykonania lub wykonywania zamówienia, wystawiony przez Zamawiającego, może być wykorzystywany wyłącznie na potrzeby postępowań o udzielenie zamówienia publicznego. Wykonawca zobowiązuje się do powstrzymania się od wykorzystywania powyższego dokumentu w inny sposób oraz do zapewnienia, że również inne podmioty nie będą się nim posługiwały poza postępowaniami o udzielenie zamówienia publicznego.
+Do posługiwania się przez Wykonawcę wystawionym przez Zamawiającego poświadczeniem wykonania lub wykonywania zamówienia, w zakresie określonym w ust. 4, nie mają zastosowania postanowienia określające zobowiązania Wykonawcy do powstrzymania się od wymieniania nazwy Narodowego Banku Polskiego oraz posługiwania się logotypem Zamawiającego, w związku z jego działalnością.
+§ 20
+Korespondencja, osoby do współdziałania przy wykonywaniu Umowy
+O ile Umowa nie stanowi inaczej, wszelkie oświadczenia i zawiadomienia dokonywane przez Strony, a wynikające z postanowień Umowy lub związane z jej zawarciem, wykonywaniem lub rozwiązaniem, winny być dokonywane wyłącznie w formie pisemnej lub w Formie elektronicznej, pod rygorem nieważności. Zawiadomienia i oświadczenia dokonywane w innej formie nie wywołują skutków prawnych ani faktycznych. Zawiadomienia i korespondencja powinny być kierowane do Stron na adresy podane poniżej.
+Z zastrzeżeniem § 25 ust. 3 Umowy, korespondencja pomiędzy Stronami będzie kierowana na adres:
+Zamawiającego: Narodowy Bank Polski, Departament Informatyki i Telekomunikacji, Warszawa ul. Świętokrzyska 11/21, kod 00-919, e-mail: sekretariat.dit@nbp.pl;
+Wykonawcy: adres: ………..…,  e-mail: …
+Za nadzór nad realizacją Umowy oraz koordynację współdziałania przy jej wykonywaniu, odpowiadają ze strony:
+Zamawiającego:
+……………..  –  tel. ………., e-mail: ……………;
+…………..…   – tel. ……….,  e-mail: ………........;
+Wykonawcy: … – tel. …, e-mail: … .
+Strony mają prawo do zmiany osób właściwych do koordynacji współdziałania w zakresie wykonywania Umowy, określonych w ust. 3 niniejszego paragrafu, lub ich danych kontaktowych. W celu dokonania powyższej zmiany wystarczające jest sporządzone w formie pisemnej albo w Formie elektronicznej, zawiadomienie drugiej Strony o dokonanej zmianie, bez konieczności zmiany Umowy.
+Zmiana adresu określonego w ust. 2 niniejszego paragrafu wymaga zawarcia aneksu w formie pisemnej albo w Formie elektronicznej, pod rygorem nieważności.
+§ 21
+Przetwarzanie danych osobowych przedstawicieli Stron
+i innych osób wskazanych w Umowie lub na jej podstawie
+Postanowienia odnoszące się do Wykonawcy oraz osób działających ze strony Zamawiającego stosowane w przypadku Umowy zawieranej z Wykonawcą nieprowadzącym jednoosobowej działalności gospodarczą albo niebędącym osobą fizyczną.
+Wykonawca i Zamawiający oświadczają, że są administratorami danych osobowych udostępnianych w treści Umowy, obejmujących dane osób reprezentujących Strony Umowy lub jako dane osób działających w imieniu Wykonawcy oraz Zamawiającego przy wykonywaniu Umowy.
+Oświadczenie, o którym mowa w ust. 1 niniejszego paragrafu, dotyczy również danych osobowych, które Strony Umowy przekażą sobie w ramach aktualizacji.
+Zamawiający zapewnia kontakt z inspektorem ochrony danych NBP za pośrednictwem adresu poczty elektronicznej iod@nbp.pl lub drogą pocztową pod adresem administratora danych osobowych. Szczegółowe informacje dotyczące inspektora ochrony danych znajdują się na stronie internetowej www.nbp.pl/RODO oraz w miejscu powszechnie dostępnym w siedzibie Zamawiającego.
+Wykonawca umożliwia kontakt ze swoim inspektorem ochrony danych za pośrednictwem adresu…., za pośrednictwem adresu poczty elektronicznej … lub telefoniczny pod numerem telefonu ………….. .
+(W przypadku gdy inspektor ochrony danych nie został powołany u Wykonawcy, to w tym miejscu podaje się ogólne dane kontaktowe Wykonawcy).
+Strony mają prawo do zmiany danych kontaktowych, o których mowa w ust. 3-4 niniejszego paragrafu. W celu dokonania powyższej zmiany wystarczające jest zawiadomienie drugiej Strony o dokonanej zmianie, sporządzone w formie pisemnej lub w Formie elektronicznej, bez konieczności zmiany Umowy.
+Postanowienia odnoszące się do Wykonawcy oraz osób działających ze strony Zamawiającego stosowane w przypadku umowy zawieranej z osobami fizycznymi prowadzącymi działalność gospodarczą lub z osobą fizyczną.
+Wykonawca i Zamawiający oświadczają, że są administratorami danych osobowych udostępnianych w treści Umowy, obejmujących dane Wykonawcy i dane osób działających w imieniu Zamawiającego przy wykonywaniu Umowy.
+Oświadczenie, o którym mowa w ust. 1 niniejszego paragrafu, dotyczy również danych osobowych, które Zamawiający przekaże Wykonawcy w ramach aktualizacji.
+Zamawiający zapewnia kontakt z inspektorem ochrony danych NBP za pośrednictwem adresu poczty elektronicznej iod@nbp.pl lub drogą pocztową pod adresem administratora danych osobowych. Szczegółowe informacje dotyczące inspektora ochrony danych znajdują się na stronie internetowej www.nbp.pl/RODO oraz w miejscu powszechnie dostępnym w siedzibie Zamawiającego.
+Strony udostępniają sobie dane osobowe w celu ustalenia uprawnień i zobowiązań, poprzez zawarcie Umowy oraz w celu jej wykonania oraz w celu dokonania rozliczeń zobowiązań publicznoprawnych związanych z zawarciem i wykonaniem Umowy.
+Zamawiający oświadcza, że podstawą prawną przetwarzania danych osobowych są przepisy art. 6 ust. 1 Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), zwane dalej „RODO”, tj.:
+lit. b): przetwarzanie jest niezbędne do wykonania umowy, której stroną jest osoba, której dane dotyczą lub do podjęcia działań na żądanie osoby, której dane dotyczą, przed zawarciem Umowy;
+lit. c): przetwarzanie jest niezbędne do wypełnienia obowiązku prawnego ciążącego na administratorze;
+lit. f): przetwarzanie jest niezbędne do celów wynikających z prawnie uzasadnionych interesów administratora, jakim jest zapewnienie rozliczalności działań związanych z realizacją Umowy.
+Strony oświadczają, że dane osobowe przekazywane w związku z zawarciem i wykonywaniem Umowy nie będą udostępniane innym odbiorcom danych w rozumieniu art. 4 pkt 9 RODO.
+Zamawiający oświadcza, że okres przechowywania danych osobowych pozyskanych w związku z zawarciem i wykonywaniem Umowy, w odniesieniu do danych osobowych:
+zawartych w Umowie, wynosi 6 lat licząc od dnia zakończenia wykonywania Umowy;
+zawartych w dokumentach stanowiących dowody księgowe wytworzone w związku z zawarciem i wykonywaniem Umowy, wynosi 5 lat licząc od roku następnego po roku, w którym zakończono rozliczenia finansowe związane z wykonywaniem Umowy;
+Wykonawca potwierdza, że jest mu wiadomo, iż ma prawo żądania dostępu do danych osobowych, sprostowania, usunięcia lub ograniczenia przetwarzania, a także prawo do przenoszenia danych, prawo wniesienia sprzeciwu wobec przetwarzania danych oraz możliwość wniesienia skargi do organu nadzorczego, Prezesa Urzędu Ochrony Danych Osobowych, z siedzibą przy ul. Stawki 2, 00-193 Warszawa.
+Zamawiający oświadcza, że przetwarzane dane osobowe nie będą wykorzystywane przez Zamawiającego do podejmowania zautomatyzowanych decyzji w indywidualnych przypadkach, w tym do profilowania.
+Wykonawca potwierdza, że jest mu wiadomo, iż przekazanie jego danych osobowych Zamawiającemu następuje dobrowolne, ale jest warunkiem zawarcia Umowy.
+§ 22
+Oświadczenie o rezydencji podatkowej Wykonawcy
+Oświadczenie Wykonawcy w zakresie miejsca siedziby i zarządu oraz formy prowadzenia działalności, złożone w związku z przepisami ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, zawiera Załącznik nr 14 do Umowy.
+W przypadku zmiany stanu faktycznego objętego oświadczeniem, o którym mowa w ust. 1 niniejszego paragrafu, Wykonawca niezwłocznie poinformuje o tym Zamawiającego, przekazując dokument zawierający odpowiednio zmienione oświadczenie, ze wskazaniem daty, od której zmiana nastąpiła, zwany dalej „Nowym oświadczeniem”.
+W przypadku gdy zmiana, o której mowa w ust. 2 niniejszego paragrafu, polegać będzie na rozpoczęciu prowadzenia przez Wykonawcę działalności poprzez położony na terytorium Rzeczypospolitej Polskiej „zagraniczny zakład”, Wykonawca w Nowym oświadczeniu wskaże, czy należności otrzymywane od Zamawiającego na podstawie Umowy mają związek z działalnością powyższego zakładu.
+Wykonawca przyjmuje na siebie pełną odpowiedzialność za wszelkie skutki, mogące wyniknąć w przypadku nieprzekazania Zamawiającemu Nowego oświadczenia, przed wypłatą należności na podstawie Umowy.
+§ 23
+Podatek u źródła
+W przypadku gdy, w związku z wypłatą przez Zamawiającego należności Wykonawcy na podstawie Umowy, powstanie obowiązek zapłaty zryczałtowanego podatku dochodowego, o którym mowa w art. 21 ustawy o podatku dochodowym od osób prawnych albo art. 29 ustawy o podatku dochodowym od osób fizycznych („Podatek u źródła”), należności wypłacane przez Zamawiającego będą uznawane za przychód Wykonawcy uzyskany na terytorium Rzeczypospolitej Polskiej.
+W przypadku, o którym mowa w ust. 1 niniejszego paragrafu, przyjmuje się, że Wynagrodzenie Wykonawcy zawiera kwotę podatku, którą Zamawiający pobierze z tego wynagrodzenia oraz wpłaci właściwemu organowi podatkowemu, działając jako płatnik tego podatku, z zastrzeżeniem postanowień ust. 3 niniejszego paragrafu.
+W przypadkach, w których, na podstawie przepisów prawa podatkowego obowiązującego na terytorium Rzeczypospolitej Polskiej („Prawo podatkowe”), możliwe będzie niepobranie Podatku u źródła bądź zastosowanie stawki tegoż podatku, wynikającej z właściwej umowy o unikaniu podwójnego opodatkowania, zostanie zastosowana stawka Podatku u źródła, wynikająca z właściwej umowy o unikaniu podwójnego opodatkowania albo nastąpi niepobranie tego podatku, zgodnie z taką umową – o ile Wykonawca dostarczy Zamawiającemu, przed dniem wypłaty należności, następujące dokumenty, w formie i o treści wymaganej przepisami Prawa podatkowego:
+wydany przez właściwe władze podatkowe certyfikat rezydencji podatkowej Wykonawcy, potwierdzający rezydencję podatkową Wykonawcy na dzień wypłaty należności;
+w przypadku prowadzenia przez Wykonawcę działalności przez zakład położony na terytorium Rzeczypospolitej Polskiej, oświadczenie, wskazujące czy należności otrzymywane od Zamawiającego na podstawie Umowy mają związek z działalnością powyższego zakładu.
+W przypadku zmiany danych Wykonawcy, zawartych w dokumentach, o których mowa w ust. 3 niniejszego paragrafu, Wykonawca zobowiązany jest dostarczyć Zamawiającemu dokumenty, których treść zgodna jest ze stanem faktycznym, przed dokonaniem wypłaty należności, pod rygorem zastosowania stawki Podatku u źródła wynikającej z przepisów Prawa podatkowego.
+Zamawiający nie będzie zobowiązany do:
+dokonania jakichkolwiek czynności zmierzających do odzyskania przez Wykonawcę Podatku u źródła, pobranego i wpłaconego przez Zamawiającego właściwym organom podatkowym;
+zwrotu kosztów prowadzenia przez Wykonawcę czynności, o których mowa w pkt 5.1 niniejszego ust.
+§ 24
+Obowiązek dostarczania Zamawiającemu certyfikatów rezydencji
+W przypadku, o którym mowa w § 23 ust. 3 Umowy, zostanie zastosowana stawka podatku wynikająca z właściwej umowy o unikaniu podwójnego opodatkowania albo nastąpi niepobranie podatku, zgodnie z taką umową – o ile Wykonawca udokumentuje certyfikatem rezydencji miejsce swojej siedziby dla celów podatkowych, zgodnie z postanowieniami ust. 3 i 4 niniejszego paragrafu.
+Uznaje się, iż na dzień zawarcia Umowy, miejsce siedziby Wykonawcy dla celów podatkowych zostało udokumentowane certyfikatem rezydencji stanowiącym Załącznik nr 14 do Umowy. Powyższy certyfikat rezydencji będzie uwzględniany przez Zamawiającego, nie dłużej jednak niż do dnia, w którym upływa termin jego ważności, a w przypadku certyfikatu rezydencji niezawierającego wskazania okresu jego ważności – do dnia, w którym upływa okres dwunastu miesięcy od dnia jego wydania albo udostępnienia.
+W dniu wypłaty każdej należności na podstawie Umowy, Zamawiający powinien posiadać aktualny (ważny) certyfikat rezydencji Wykonawcy. W tym celu, Wykonawca zobowiązuje się dostarczać Zamawiającemu kolejne certyfikaty rezydencji, w każdym przypadku gdy:
+upłynie termin ważności certyfikatu rezydencji określony w jego treści lub wynikający z przepisów obowiązujących w państwie, w którym został on wydany albo udostępniony lub decyzji organu, który go wydał albo udostępnił;
+upłynie okres dwunastu miesięcy od dnia wydania albo udostępnienia certyfikatu rezydencji niezawierającego wskazania okresu jego ważności;
+nastąpi zmiana miejsca siedziby Wykonawcy dla celów podatkowych.
+Wykonawca wykona powyższe obowiązki niezależnie od tego, czy w jego ocenie będzie istniał obowiązek podatkowy wynikający z przepisów Prawa podatkowego lub czy wystąpią przesłanki do uwzględnienia postanowień właściwej umowy o unikaniu podwójnego opodatkowania.
+Doręczony Zamawiającemu certyfikat rezydencji musi być oryginalnym dokumentem, wydanym albo udostępnionym przez właściwy organ administracji podatkowej państwa, w którym znajduje się siedziba Wykonawcy dla celów podatkowych, z zastrzeżeniem, że:
+Wykonawca doręczy Zamawiającemu certyfikat rezydencji w formie oryginalnego dokumentu materialnego, chyba że zachodzi przypadek określony w pkt 2 niniejszego ust.;
+w przypadku gdy certyfikat rezydencji został wydany (udostępniony) Wykonawcy przez właściwy organ wyłącznie w formie elektronicznej, Wykonawca doręczy go Zamawiającemu wyłącznie w formie elektronicznej;
+doręczony Zamawiającemu dokument będzie interpretowany zgodnie z prawem polskim, w szczególności w zakresie spełniania warunków dla uznania go za „certyfikat rezydencji”, określonych w przepisach Prawa Podatkowego.
+Wykonawca zapewnia, iż przekazany przez niego certyfikat rezydencji będzie potwierdzał stan faktyczny w zakresie miejsca jego siedziby dla celów podatkowych aktualny na dzień, w którym upływać będzie termin do zapłaty przez Zamawiającego należności stwierdzonej fakturą. Wykonawca przyjmuje na siebie pełną odpowiedzialność za wszelkie skutki, mogące wyniknąć w przypadku przekazania Zamawiającemu nieaktualnego certyfikatu rezydencji albo nieprzekazania nowego certyfikatu rezydencji, w przypadku gdy, po przekazaniu certyfikatu rezydencji, nastąpi zmiana stanu faktycznego w powyższym zakresie.
+Jeżeli Wykonawca, z jakichkolwiek przyczyn, nie doręczy Zamawiającemu certyfikatu rezydencji zgodnie z postanowieniami ust. 3 i 4 niniejszego paragrafu, uznaje się, że miejsce siedziby Wykonawcy dla celów podatkowych nie zostało udokumentowane i przy takim założeniu Zamawiający dokona poboru podatku z zastosowaniem stawek określonych zgodnie z przepisami Prawa podatkowego.
+§ 24a
+Obowiązek dostarczania Zamawiającemu certyfikatów rezydencji producenta
+W dniu wypłaty każdej należności na podstawie Umowy, Zamawiający powinien posiadać aktualny (ważny) certyfikat rezydencji producenta Urządzeń. W tym celu, Wykonawca zobowiązuje się dostarczać Zamawiającemu kolejne certyfikaty rezydencji producenta Urządzeń, w każdym przypadku, gdy:
+upłynie termin ważności certyfikatu rezydencji określony w jego treści lub wynikający z przepisów obowiązujących w państwie, w którym został on wydany albo udostępniony lub decyzji organu, który go wydał albo udostępnił;
+upłynie okres dwunastu miesięcy od dnia wydania albo udostępnienia certyfikatu rezydencji niezawierającego wskazania okresu jego ważności;
+nastąpi zmiana miejsca siedziby producenta Urządzeń dla celów podatkowych.
+Wykonawca wykona powyższe obowiązki niezależnie od tego, czy w jego ocenie będzie istniał obowiązek podatkowy wynikający z przepisów Prawa podatkowego lub czy wystąpią przesłanki do uwzględnienia postanowień właściwej umowy o unikaniu podwójnego opodatkowania.
+Doręczony Zamawiającemu certyfikat rezydencji musi być oryginalnym dokumentem, wydanym albo udostępnionym przez właściwy organ administracji podatkowej państwa, w którym znajduje się siedziba dla celów podatkowych producenta Urządzeń, z zastrzeżeniem, że:
+Wykonawca doręczy Zamawiającemu certyfikat rezydencji w formie oryginalnego dokumentu materialnego, chyba że zachodzi przypadek określony w pkt 2.2 niniejszego ust.;
+w przypadku gdy certyfikat rezydencji został wydany (udostępniony) przez właściwy organ wyłącznie w formie elektronicznej, Wykonawca doręczy go Zamawiającemu wyłącznie w formie elektronicznej;
+doręczony Zamawiającemu dokument będzie interpretowany zgodnie z prawem polskim,
+w szczególności w zakresie spełniania warunków dla uznania go za certyfikat rezydencji, określonych w ustawie o podatku dochodowym od osób prawnych.
+Wykonawca zapewnia, iż przekazany przez niego certyfikat rezydencji będzie potwierdzał stan faktyczny w zakresie miejsca siedziby producenta Urządzeń dla celów podatkowych aktualny na dzień, w którym upływać będzie termin do zapłaty przez Zamawiającego należności stwierdzonej fakturą. Wykonawca przyjmuje na siebie pełną odpowiedzialność za wszelkie skutki, mogące wyniknąć w przypadku przekazania Zamawiającemu nieaktualnego certyfikatu rezydencji albo nieprzekazania nowego certyfikatu rezydencji, w przypadku gdy, po przekazaniu certyfikatu rezydencji, nastąpi zmiana stanu faktycznego w powyższym zakresie.
+Jeżeli Wykonawca, z jakichkolwiek przyczyn, nie doręczy Zamawiającemu certyfikatu rezydencji zgodnie z postanowieniami ust. 2 i 3 niniejszego paragrafu, uznaje się, że miejsce siedziby uprawnionego odbiorcy należności dla celów podatkowych nie zostało udokumentowane i przy takim założeniu Zamawiający dokona poboru podatku z zastosowaniem stawek określonych w art. 21 ustawy o podatku dochodowym od osób prawnych.
+§ 25
+Postanowienia końcowe
+W sprawach nieuregulowanych Umową, będą miały zastosowanie powszechnie obowiązujące przepisy prawa polskiego.
+Strony ustalają, że dla ważności aneksu wymagane jest, aby dokument obejmujący jego treść został odpowiednio – podpisany albo opatrzony kwalifikowanymi podpisami elektronicznymi przez obie Strony.
+Strony ustalają, że w przypadku gdy aneks ma zostać zawarty w Formie elektronicznej, dokument elektroniczny obejmujący jego treść i opatrzony kwalifikowanym podpisem lub podpisami elektronicznymi, powinien zostać przekazany wyłącznie na odpowiednie, niżej wymienione adresy poczty elektronicznej Stron:
+NBP: ………….;
+Wykonawcę: …………...
+Strony będą stosować adresy poczty elektronicznej, o których mowa w ust. 3 niniejszego paragrafu, także do przesyłania innych niż aneksy dokumentów sporządzanych w Formie elektronicznej, zawierających oświadczenia woli składane w imieniu Stron.
+Wszelkie spory powstałe na tle wykonania Umowy, Strony zobowiązują się rozstrzygać polubownie, a w przypadku braku możliwości polubownego rozstrzygnięcia sporów, będą one rozstrzygane przez polski sąd powszechny właściwy dla siedziby Zamawiającego.
+Wykonawca bez zgody Zamawiającego wyrażonej w formie pisemnej lub w Formie elektronicznej, nie może przenosić na osoby trzecie praw i obowiązków wynikających z Umowy.
+Za działania i zaniechania osób pracujących na rzecz Wykonawcy przy wykonywaniu zobowiązań umownych, a w szczególności jego pracowników i pracowników podwykonawców, Wykonawca odpowiada jak za własne działania i zaniechania.
+Reprezentanci Wykonawcy podpisujący Umowę oświadczają, że są umocowani do reprezentacji, a złożone dokumenty wymienione na wstępie i dołączone do Umowy są zgodne ze stanem faktycznym Wykonawcy w momencie podpisywania Umowy.
+Umowę sporządzono w dwóch jednobrzmiących egzemplarzach, po jednym dla każdej ze Stron / Umowę sporządzono w Formie elektronicznej i podpisano przy wykorzystaniu kwalifikowanych podpisów elektronicznych.
+Integralną część Umowy stanowią następujące załączniki, które dla swej ważności zostały ponumerowane kolejną numeracją i oznaczone na każdej swej stronie jednakowym identyfikatorem „Załącznik nr ….. do Umowy Nr NBP-DKRZ-WPI-2-KS-241-…….-2025”.
+Wykaz Załączników:
+Wykonawca: 							Zamawiający:
+Załącznik nr 1 do Umowy Nr NBP-DKRZ-WPI-2-KS-241-………-2025
+Szczegółowy Opis Przedmiotu Umowy
+Załącznik nr 2 do Umowy Nr NBP-DKRZ-WPI-2-KS-241-……-2025
+Oferta
+(kopia Uszczegółowienia Formularza ofertowego)
+Załącznik nr 3 do Umowy Nr NBP-DKRZ-WPI-2-KS-241-………-2025
+Wykaz Lokalizacji Zamawiającego
+Załącznik nr 4 do Umowy Nr NBP-DKRZ-WPI-2-KS-241-………-2025
+PROTOKÓŁ ODBIORU (wzór)
+do Umowy Nr …………………………….. z dnia_______/_______/__________ r., zwanej w dalszej części protokołu „Umową”,
+sporządzony dnia _______/_______/__________ r. przy udziale przedstawicieli:
+Wykonawcy:				Zamawiającego:
+……………………………… 					Narodowy Bank Polski
+Imiona i nazwiska osób upoważnionych do odbioru Przedmiotu Umowy:
+1. ………………………………,				1. ……………………..…….,
+2. ……………………………....,				2. …………………….……...,
+Zamawiający i Wykonawca oświadczają, że:
+Termin wykonania Przedmiotu Umowy, o którym mowa w 3 ust. 1 Umowy, został dotrzymany*/ nie został dotrzymany*, a zwłoka w stosunku do terminu określonego w § 3 ust. 1 Umowy wynosi …………………….
+Wykonawca:
+dostarczył /nie dostarczył* Zamawiającemu fabrycznie nowe/nowych* Urządzenia/Urządzeń*  wraz z wyposażeniem, o których mowa w § 2 ust. 1 Umowy, zgodnie z poniższym zestawieniem:
+dostarczył / nie dostarczył* Zamawiającemu dokumenty/dokumentów* dotyczące/dotyczących* dostarczonych Urządzeń, o których mowa w § 2 ust. 1 Umowy.
+Podpisanie przez Zamawiającego i Wykonawcę niniejszego protokołu stanowi podstawę do zwrotu …..% kwoty zabezpieczenia należytego wykonania Umowy, tj. kwoty ………………………, z zastrzeżeniem potrąceń dokonanych zgodnie z Umową.
+Zastrzeżenia:
+* niepotrzebne skreślić
+** wymaganie w zakresie pieczęci nagłówkowej dotyczy formy pisemnej protokołu
+Załącznik nr 5 do Umowy Nr NBP-DKRZ-WPI-2-KS-241-……-2025
+Protokół Naprawy/Wymiany * (wzór)
+Podpisany w dniu …………… w siedzibie .....……………… na podstawie Umowy Nr NBP-DKRZ-WPI-2-KS-241-……….-2025 z dnia ………………………………..........
+Komisja w składzie:
+Ze strony Wykonawcy:	Ze strony Zamawiającego:
+potwierdza wymianę nw. części / dokonała odbioru Urządzeń na czas naprawy / dokonała odbioru wymiany Urządzeń*
+Uwagi:
+* niepotrzebne skreślić
+** wymaganie w zakresie pieczęci nagłówkowej dotyczy formy pisemnej protokołu
+Załącznik nr 6 do Umowy Nr NBP-DKRZ-WPI-2-KS-241-……-2025
+Protokół Odbioru Pogwarancyjnego (wzór)
+do Umowy Nr …………………………………. z dnia ............................
+sporządzony dnia ……………… przy udziale przedstawicieli:
+Strony oświadczają, że:
+Wykonawca należycie wywiązał się ze zobowiązań wynikających z ww. Umowy.
+Niniejszy protokół, z zastrzeżeniem dokonanych zgodnie z Umową potrąceń, stanowi podstawę do zwrotu/zwolnienia …….% kwoty zabezpieczenia należytego wykonania Umowy, tj. kwoty ……………
+* wymaganie w zakresie pieczęci nagłówkowej dotyczy formy pisemnej protokołu
+Załącznik nr 7 do Umowy Nr NBP-DKRZ-WPI-2-KS-241-…..-2025
+Dokument rejestrowy Wykonawcy
+Wydruk komputerowy pełnej informacji o podmiocie wpisanym do Krajowego Rejestru Sądowego /wydruk z systemu teleinformatycznego, w którym prowadzona jest Centralna Ewidencja i Informacja o Działalności Gospodarczej Rzeczypospolitej Polskiej, sporządzony na dzień ……… Jeżeli upoważnienie do podpisywania Umowy dla osób działających w imieniu Wykonawcy nie wynika z właściwego rejestru, należy załączyć pełnomocnictwo.
+Załącznik nr 8 do Umowy Nr NBP-DKRZ-WPI-2-KS-241-………-2025
+Wykaz podwykonawców
+Niniejszy załącznik zostanie wypełniony w przypadku, gdy Wykonawca, wykazując spełnianie warunków udziału w postępowaniu, o których mowa w art. 112 ust. 2 Ustawy, powoływał się na zasoby podmiotów udostępniających zasoby na zasadach określonych w art. 118-120 Ustawy
+Załącznik nr 9 do Umowy Nr NBP-DKRZ-WPI-2-KS-241-……-2025
+Warunki licencji Oprogramowania
+(kopia treści warunków licencji Oprogramowania)
+Załącznik nr 10 do Umowy Nr NBP-DKRZ-WPI-2-KS-241-….-2025
+Oświadczenie Wykonawcy
+potwierdzające otrzymanie egzemplarza „Instrukcji bezpieczeństwa pożarowego NBP” oraz „Instrukcji kontroli ruchu
+Wykonawca oświadcza, że otrzymał egzemplarz „Instrukcji bezpieczeństwa pożarowego NBP” oraz „Instrukcji kontroli ruchu” oraz zobowiązuje się do:
+przestrzegania jej postanowień,
+zapoznania pracowników wykonujących Umowę z postanowieniami „Instrukcji bezpieczeństwa pożarowego NBP” oraz „Instrukcji kontroli ruchu”,
+niezwłocznego zwrotu użyczonego egzemplarza „Instrukcji bezpieczeństwa pożarowego NBP” oraz egzemplarza „Instrukcji kontroli ruchu” po zakończeniu wykonywania Umowy.
+Wykonawca niniejszym potwierdza otrzymanie tekstu „Instrukcji bezpieczeństwa pożarowego NBP” oraz tekstu „Instrukcji kontroli ruchu” oraz przyjęcie na siebie powyższych zobowiązań.
+(podpis Wykonawcy)
+Załącznik nr 10a do Umowy nr NBP-DKRZ-WPI-2-KS-241-….-2025
+Postanowienia z zakresu bezpieczeństwa i higieny pracy
+Wykonawca będzie organizował i prowadził prace na terenie Zamawiającego zgodnie
+z przepisami i zasadami bezpieczeństwa i higieny pracy, w tym w szczególności:
+maszyny, urządzenia, narzędzia i substancje, które będą wprowadzane przez  Wykonawcę na teren Zamawiającego będą spełniały wymogi odpowiednich przepisów oraz będą bezpiecznie przechowywane i składowane, jak również odpowiednio zabezpieczone przed ich nieuprawnionym użyciem;
+prace będą wykonywane z zachowaniem ładu i porządku.
+Wykonawca zapewni, że osoby pracujące na jego rzecz nie będą wnosiły lub spożywały alkoholu na terenie Zamawiającego oraz, że palenie tytoniu będzie się odbywało jedynie w miejscach do tego wyznaczonych.
+Pracownik Wykonawcy odpowiedzialny za realizację Umowy obowiązany jest do
+niezwłocznego informowania pracownika Zamawiającego odpowiedzialnego za realizację Umowy o nieprzewidzianych zagrożeniach występujących w miejscu pracy lub innych zdarzeniach, takich jak, wypadek, zdarzenie potencjalnie wypadkowe, awaria.
+Zamawiającemu będzie przysługiwało prawo dokonywania kontroli przestrzegania przepisów i zasad bhp przez osoby pracujące na rzecz Wykonawcy. W razie stwierdzenia nieprzestrzegania powyższych przepisów i zasad, Zamawiający zastrzega sobie możliwość wstrzymania prac prowadzonych przez Wykonawcę, bez odszkodowania, do czasu zapewnienia przez Wykonawcę przestrzegania przepisów i zasad z zakresu bezpieczeństwa i higieny pracy.
+Za działania i zaniechania osób pracujących na rzecz Wykonawcy przy realizacji niniejszej Umowy, a w szczególności jego pracowników i podwykonawców, Wykonawca odpowiada jak za własne działania i zaniechania.
+Zamawiający dostarczy Wykonawcy, w celu przekazania przez niego swoim pracownikom realizującym Umowę na terenie NBP, informacje z zakresu bezpieczeństwa i higieny pracy, o których mowa w art. 2071 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. Zamawiający wykona powyższy obowiązek przed rozpoczęciem wykonywania przez Wykonawcę Umowy na terenie NBP, nie później jednak niż 5 dni od dnia zawarcia Umowy. Informacje te zostaną dostarczone Wykonawcy w formie pisemnej albo w Formie elektronicznej lub w formie dokumentowej.
+Wykonawca zobowiązuje się, że przed rozpoczęciem wykonywania Umowy na terenie NBP, przekaże wszystkim swoim pracownikom wyznaczonym do realizacji Umowy na tym terenie informacje otrzymane od Zamawiającego zgodnie z postanowieniem ust. 6. Wykonanie powyższego obowiązku Wykonawca udokumentuje przekazując Zamawiającemu, przed rozpoczęciem wykonywania Umowy, oświadczenie o treści:  zgodnej ze wzorem stanowiącym Załącznik nr 10b do Umowy.
+W przypadku zmiany pracowników realizujących Umowę na terenie NBP, Wykonawca zobowiązany jest przekazać każdemu z dodatkowych pracowników, którzy mają wykonywać Umowę na terenie NBP informacje, o których mowa w ust. 6.
+W przypadku potrzeby uzupełnienia informacji z zakresu bezpieczeństwa i higieny pracy przekazywanych pracownikom Wykonawcy, postanowienia ust. 6-8 stosuje się odpowiednio
+Załącznik nr 10b do Umowy Nr NBP-DKRZ-WPI-2-KS-241-….-2025
+Oświadczenie Wykonawcy potwierdzające przekazanie pracownikom informacji
+z zakresu bezpieczeństwa i higieny pracy
+Wykonawca oświadcza, że każda z osób, która będzie realizowała Umowę na terenie NBP, otrzymała informacje z zakresu bezpieczeństwa i higieny pracy, o których mowa w art. 2071 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (t.j. Dz. U. z 2023 r. poz. 1465), o treści zgodnej z informacją przekazaną nam w tym celu przez Narodowy Bank Polski.
+(data i czytelny podpis osoby składającej oświadczenie)
+Załącznik nr 11 do Umowy Nr NBP-DKRZ-WPI-2-KS-241-………-2025
+………. (miejscowość),  dnia …………
+Imię i nazwisko
+nr dokumentu tożsamości/PESEL
+(wpisać jedną z kategorii w zależności od
+postanowień umowy)
+Oświadczenie o zachowaniu poufności
+I.	Na podstawie § 15 ust. 5 Umowy Nr………………. zawartej w dniu………. pomiędzy Zamawiającym a …………………………………..…….., oświadczam, że zobowiązuję się do:
+zachowania w poufności wszelkich informacji, w tym chronionych przepisami powszechnie obowiązującego prawa (tajemnice prawnie chronione) , z którymi zapoznałem/-am* się w jakiejkolwiek formie w związku z realizacją postanowień Umowy;
+nieujawniania tych informacji na rzecz osób trzecich nieuprawnionych do ich pozyskania bez uprzedniej pisemnej zgody Zamawiającego, z zastrzeżeniem pkt II;
+powstrzymania się od jakichkolwiek działań i czynności skutkujących utrwaleniem tych informacji - bez wiedzy i zgody Zamawiającego - w celu ich dalszego wykorzystania.
+II.	Zachowanie w poufności informacji oraz zgoda Zamawiającego nie jest wymagana, jeśli przepisy powszechnie obowiązującego prawa stanowią inaczej lub informacja została już ujawniona albo upubliczniona przez Zamawiającego.
+Jednocześnie, przyjmuję do wiadomości, że naruszenie w jakikolwiek sposób pkt I niniejszego zobowiązania, skutkować będzie moją odpowiedzialnością karną na podstawie przepisów powszechnie obowiązującego prawa.
+Powyższe zobowiązanie obejmuje także okres po ustaniu Umowy, bez względu na tryb i formę jej zakończenia.
+(data i czytelny podpis osoby składającej oświadczenie)
+Załącznik nr 12 do Umowy Nr NBP-DKRZ-WPI-2-KS-241-….-2025
+Postanowienia dotyczące informowania o zatrudnianiu osób niepełnosprawnych
+Wykonawca oświadcza, że jest/nie jest* pracodawcą zatrudniającym osoby niepełnosprawne, o którym mowa w art. 21 ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (t.j. Dz. U. z 2024 r. poz. 44 ze zm.), zwanej w dalszej części niniejszego załącznika „Ustawą”.
+Wykonawca zobowiązuje się do zawiadomienia Zamawiającego, w formie pisemnej lub w Formie elektronicznej, w przypadku zmiany stanu faktycznego, którego dotyczy oświadczenie zawarte w ust. 1. Zawiadomienie powinno zostać doręczone NBP w terminie 7 dni od powyższej zmiany.
+Jeżeli Wykonawca jest „sprzedającym”, w rozumieniu art. 22 ust. 1 Ustawy, jest on zobowiązany wystawić i doręczyć NBP, sporządzoną w formie pisemnej lub w formie elektronicznej, informację o kwocie obniżenia wpłaty dokonywanej przez Zamawiającego na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, niezwłocznie po dokonaniu przez Zamawiającego zapłaty na rzecz Wykonawcy, nie później jednak niż do ostatniego dnia miesiąca następującego po miesiącu, w którym nastąpiła zapłata.
+*niepotrzebne skreślić
+Załącznik nr 13 do Umowy Nr NBP-DKRZ-WPI-2-KS-241-…-2025
+Przestrzeganie list sankcyjnych
+Zamawiający oświadcza, że kieruje się zasadą ścisłego przestrzegania krajowych oraz międzynarodowych sankcji prawnych odnoszących się do relacji kontraktowych, nakładanych na osoby fizyczne i inne podmioty, przez państwa, organizacje międzynarodowe lub uprawnione organy, co wyraża się, w szczególności, w nienawiązywaniu stosunków umownych z podmiotami objętymi sankcjami oraz dążeniu do niezwłocznego ich zakończenia, w przypadku gdy podmiot, z którym zawarł umowę, zostanie objęty sankcjami. Wykonawca oświadcza, że przyjmuje powyższe oświadczenie Zamawiającego oraz nie zgłasza zastrzeżeń odnośnie do uprawnień Zamawiającego do rozwiązania umowy, w przypadku objęcia Wykonawcy lub jego podwykonawcy lub jego podwykonawców lub dalszego podwykonawcy lub dalszych podwykonawców lub beneficjenta rzeczywistego Wykonawcy lub jednostki dominującej Wykonawcy, sankcjami wynikającymi z przepisów określonych w ust. 2.
+Użyte w dalszych postanowieniach określenie „przepisy o sankcjach” oznacza:
+przepisy określające sankcje prawne wobec konkretnych podmiotów lub określonej kategorii podmiotów, do których stosowania Zamawiający jest zobowiązany na podstawie powszechnie obowiązującego prawa Rzeczypospolitej Polskiej;
+oraz
+inne niż określone w pkt 1 przepisy, a także ustalenia, orzeczenia lub decyzje określające sankcje prawne wobec konkretnych podmiotów lub określonej kategorii podmiotów, na podstawie których lub w związku z którymi zostały ustalone listy, wykazy lub zestawienia, które zostały wskazane w załączniku do niniejszego załącznika.
+Użyte w dalszych postanowieniach określenie „listy sankcyjne” oznacza:
+listy, wykazy lub zestawienia określające podmioty objęte sankcjami na podstawie przepisów o sankcjach, w zakresie, o którym mowa w ust. 2 pkt 1
+oraz
+listy, wykazy lub zestawienia, określające podmioty objęte sankcjami na podstawie przepisów o sankcjach, w zakresie o którym mowa w ust. 2 pkt 2.
+Podmioty wymienione na listach sankcyjnych uznaje się za podmioty objęte sankcjami, niezależnie od tego, czy dany podmiot został umieszczony na jednej lub większej liczbie list sankcyjnych.
+W zakresie postanowień niniejszego załącznika, odpowiednio za podwykonawcę albo za dalszego podwykonawcę Wykonawcy uznaje się:
+podmiot, któremu odpowiednio Wykonawca albo podwykonawca, powierzył wykonywanie przedmiotu umowy w jakiejkolwiek części lub zakresie czynności, niezależnie od podstawy prawnej takiego powierzenia oraz niezależnie od tego, czy wykonywanie faktycznie nastąpiło
+oraz
+podmiot, który zamiast lub oprócz Wykonawcy lub podwykonawcy lub dalszego podwykonawcy, wykonuje lub ma wykonywać przedmiot umowy, w jakiejkolwiek części lub zakresie czynności, niezależnie od tego, czy działa na podstawie udokumentowanego wobec NBP lub możliwego do zidentyfikowania przez NBP stosunku prawnego łączącego go z Wykonawcą.
+Wykonawca oświadcza, że na dzień zawarcia umowy:
+nie znajduje się na żadnej z list sankcyjnych;
+żaden z jego podwykonawców oraz dalszych podwykonawców nie znajduje się na żadnej z list sankcyjnych;
+nie występuje przypadek, w którym podmiot będący jego beneficjentem rzeczywistym, w rozumieniu ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz.U. z 2023 r. poz. 1124 z późn. zm.), znajduje się na którejkolwiek z list sankcyjnych;
+nie występuje przypadek, w którym jego jednostka dominująca, w rozumieniu art. 3 ust. 1 pkt 37 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz.U. z 2023 r. poz. 120 z późn. zm.), znajduje się na którejkolwiek z list sankcyjnych.
+W przypadku, gdy Wykonawca albo podwykonawca albo dalszy podwykonawca Wykonawcy albo beneficjent rzeczywisty Wykonawcy albo jednostka dominująca Wykonawcy zostanie umieszczony na liście sankcyjnej, Zamawiającemu przysługiwać będą uprawnienia określone w postanowieniach ust. 8–13.
+W dniu umieszczenia Wykonawcy albo podwykonawcy albo dalszego podwykonawcy Wykonawcy albo beneficjenta rzeczywistego Wykonawcy albo jednostki dominującej Wykonawcy na liście sankcyjnej, Zamawiający nabywa uprawnienie do odstąpienia od Umowy. Uprawnienie to przysługuje Zamawiającemu niezależnie od tego, czy lista sankcyjna została opublikowana lub przekazana do wiadomości Zamawiającego lub Wykonawcy oraz niezależnie od tego, w jakim czasie Zamawiający powziął informację o takim zdarzeniu. Zamawiający może wykonać prawo odstąpienia od umowy w całości lub w części, według swego uznania, w terminie do 38 miesięcy od dnia zawarcia Umowy, ze skutkiem od dnia złożenia Wykonawcy oświadczenia o odstąpieniu od Umowy.
+Oświadczenie o odstąpieniu od Umowy może nastąpić w formie pisemnej lub w Formie elektronicznej – w postaci przekazania dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym lub podpisami elektronicznymi, stosowanie do reprezentacji NBP, pod rygorem nieważności. Oświadczenie o odstąpieniu od Umowy musi zawierać uzasadnienie.
+W przypadku odstąpienia od Umowy przez Zamawiającego, Wykonawca zobowiązany jest do sporządzenia, w terminie 5 dni od dnia otrzymania oświadczenia o odstąpieniu od umowy, protokołu inwentaryzacji świadczeń będących w trakcie realizacji, na dzień odstąpienia i przedłożenia Zamawiającemu protokołu – do zatwierdzenia. Odmowa zatwierdzenia protokołu powinna zostać uzasadniona przez Zamawiającego.
+W przypadku odstąpienia od Umowy przez Zamawiającego, Wykonawca może żądać wyłącznie wynagrodzenia należnego z tytułu faktycznie wykonanych i odebranych przez Zamawiającego świadczeń należących do przedmiotu Umowy, zgodnie z jej postanowieniami, pod warunkiem, że zrealizowany przez Wykonawcę zakres świadczeń należących do przedmiotu Umowy będzie możliwy do odpowiedniego wykorzystania przez Zamawiającego. Podstawą określenia wysokości wynagrodzenia będzie protokół inwentaryzacji, o którym mowa w ust. 10, zatwierdzony przez Zamawiającego. Zapłata powyższego wynagrodzenia nie może naruszać powszechnie obowiązującego prawa Rzeczypospolitej Polskiej. W przypadku, gdyby wynagrodzenie zostało już zapłacone przez Zamawiającego lub zapłacone w części, a z protokołu wynikało, iż nie jest ono należne Wykonawcy w całości albo w części, Wykonawca zwróci Zamawiającemu wynagrodzenie albo jego część, które nie są należne Wykonawcy, w terminie 14 dni kalendarzowych od dnia otrzymania od Zamawiającego wezwania do dokonania zwrotu wynagrodzenia lub jego części.
+Wykonawca zrzeka się wszelkich roszczeń wobec NBP, jakie mogą powstać
+w związku z odstąpieniem przez Zamawiającego od Umowy, z zastrzeżeniem ust. 11, w tym uprawnień do żądania od Zamawiającego zwrotu wydatków poniesionych w celu należytego jej wykonania oraz uprawnień do żądania naprawienia szkody, gdyby na skutek odstąpienia od Umowy powstała szkoda, za którą Zamawiający mógł ponosić odpowiedzialność.
+Postanowienia niniejszego załącznika mają zastosowanie niezależnie od innych postanowień Umowy określających uprawnienia Zamawiającego do jej rozwiązania. Wykonanie przez Zamawiającego uprawnienia do odstąpienia od Umowy na podstawie postanowień niniejszego załącznika, nie wyłącza ani nie ogranicza roszczeń Zamawiającego, w przypadku gdyby przysługiwały Zamawiającemu na podstawie niniejszej Umowy albo na podstawie przepisów powszechnie obowiązujących, w szczególności, w związku ze zdarzeniem, które było przyczyną odstąpienia od Umowy zgodnie z niniejszymi postanowieniami.
+Zamawiający jest uprawniony do odstąpienia od Umowy w całości lub w części, według swego uznania, także w przypadku złożenia przez Wykonawcę niezgodnego ze stanem faktycznym któregokolwiek z oświadczeń zawartych w ust. 6. W takim przypadku postanowienia ust. 8-13 stosuje się odpowiednio.
+Zmiana Umowy w zakresie określenia list sankcyjnych, o których mowa w ust. 3 pkt 2, nie wymaga aneksu do Umowy i może zostać wprowadzona w drodze zawiadomienia dokonanego przez Zamawiającego, z uwzględnieniem następujących zasad, trybu oraz skutków:
+Zamawiający zawiadomi Wykonawcę o wprowadzeniu zmian w formie pisemnej albo w Formie elektronicznej – w postaci dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym lub podpisami elektronicznymi, stosownie do reprezentacji Zamawiającego, przesyłając zmienioną treść załącznika, o którym mowa w ust. 2 pkt 2; w zawiadomieniu Zamawiający określi datę, od której zmiana będzie obowiązywać;
+w terminie 5 dni od dnia otrzymania zawiadomienia, o którym mowa w pkt 1, Wykonawca może zawiadomić Zamawiającego o odmowie akceptacji zmian – przekazując swe stanowisko w formie pisemnej albo w Formie elektronicznej wraz z uzasadnieniem;
+w przypadku gdy Wykonawca w terminie 5 dni od dnia otrzymania zawiadomienia, o którym mowa w pkt 1, nie przekaże Zamawiającemu stanowiska, w którym jednoznacznie poinformuje, że nie akceptuje wskazanych zmian do Umowy, wraz z uzasadnieniem – w dacie wskazanej w zawiadomieniu skuteczna staje się zmiana list sankcyjnych i od tej daty zmienione listy sankcyjne są wiążące dla obu Stron;
+w przypadku gdy Wykonawca w terminie 5 dni od dnia otrzymania zawiadomienia, o którym mowa w pkt 1, poinformuje Zamawiającego, że nie akceptuje wskazanych zmian, Zamawiający jest uprawniony do odstąpienia od Umowy począwszy od dnia, w którym otrzymał informację o tym, że Wykonawca nie akceptuje zmiany tego załącznika; Zamawiający może wykonać prawo odstąpienia od Umowy w terminie, o którym mowa w ust. 8; do formy odstąpienia od Umowy na powyższej podstawie oraz do skutków odstąpienia stosuje się odpowiednio postanowienia ust. 9-13.
+W zakresie dotyczącym postanowień niniejszego załącznika zastosowanie ma powszechnie obowiązujące prawo Rzeczypospolitej Polskiej, w szczególności, do ich wykładni, wykonywania wynikających z nich zobowiązań, w szczególności w zakresie dotyczącym zastrzeżenia prawa odstąpienia od umowy oraz skutków jego wykonania.
+Załącznik do Załącznika nr 13 do Umowy Nr NBP-DKRZ-WPI-2-KS-241-…-2025
+Listy, wykazy lub zestawienia, o których mowa w ust. 2 pkt 2 Załącznika nr 13 do Umowy Nr NBP-DKRZ-WPI-2-KS-241-…-2025
+pn. „Przestrzeganie list sankcyjnych”
+Niezależnie od przestrzegania przepisów o sankcjach obowiązujących na podstawie powszechnie obowiązującego prawa Rzeczypospolitej Polskiej, Zamawiający respektuje sankcje prawne określone w niżej wymienionych przepisach i dokumentach, z uwzględnieniem zmian jakie mogą być w nich wprowadzone po dniu zawarcia Umowy, wydanych w następujących państwach:
+Belgia:  (1) Royal Decree of 28 December 2006 on specific restrictive measures against some persons and entities within the framework of the fight against the terrorism financing. (2) New Royal Decree of March 29 2024, amending the Royal Decree of December 28 2006.
+Francja: Monetary and Financial Code (Articles L.151-2, L.562-1 and L.562-2).
+Holandia: Sanctions Regulations on Terrorism 2007 and 2007-II (Sanctieregeling terrorisme 2007-II).
+Kanada: (1) Special Economic Measures Act (SEMA), (2) Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law), (3) Freezing Assets of Corrupt Foreign Officials Act, (4) Proceeds of Crime (Money Laundering) and Terrorist Financing Act.
+Japonia: Foreign Exchange and Foreign Trade Act 1949.
+Norwegia: (1) Act on the Implementation of International Sanctions (Sanctions Act), (2) Export Control Act, (3) Export Control Regulations.
+Ukraina: (1) Law of Ukraine on Sanctions No 1644-VII of 14 August 2014, (2) Law on Improving the Effectiveness of Sanctions on the Assets of Individuals No. 7194, (3) Law on Forced Seizure of Property of Russia and Its Residents No. 2116-IX.
+USA (listy Office of Foreign Assets Control (OFAC)).
+Szwajcaria: (1) Federal Act on the Implementation of International Sanctions 2003, (2) SR 946.231.176.72 Regulation on measures related to the situation in Ukraine.
+Wielka Brytania: (1) Sanctions and Anti-Money Laundering Act 2018, (2) Economic Crime (Transparency and Enforcement) Act 2022, (3) Immigration Act 1971 and the Export Control Order 2008)
+Załącznik nr 14 do Umowy Nr NBP-DKRZ-WPI-2-KS-241-……-2025
+dane identyfikujące Wykonawcę:
+pełna nazwa, adres, numer identyfikacji podatkowej,
+adres zagranicznego zakładu Wykonawcy (jeśli występuje)
+Miejscowość, data…………………..
+Oświadczenie w sprawie statusu podatkowego,
+dla potrzeb zryczałtowanego podatku dochodowego określonego w przepisach
+art. 21 ustawy o podatku dochodowym od osób prawnych
+Niniejszym oświadczam / w imieniu Wykonawcy oświadczamy, że:
+Wariant I.
+Wykonawca nie ma na terytorium Rzeczypospolitej Polskiej siedziby ani zarządu;
+Wykonawca nie prowadzi działalności poprzez położony na terytorium Rzeczypospolitej Polskiej „zagraniczny zakład” – w rozumieniu przepisów art. 4a pkt 11 ustawy o podatku dochodowym od osób prawnych (t.j. Dz.U. 2025 poz. 340), z uwzględnieniem postanowień umowy o unikaniu podwójnego opodatkowania zawartej pomiędzy Rzeczpospolitą Polską, a państwem, w którym ma siedzibę Wykonawca.
+Wariant II.
+Wykonawca nie ma na terytorium Rzeczypospolitej Polskiej siedziby ani zarządu;
+Wykonawca prowadzi działalność poprzez położony na terytorium Rzeczypospolitej Polskiej „zagraniczny zakład” – w rozumieniu przepisów art. 4a pkt 11 ustawy o podatku dochodowym od osób prawnych, z uwzględnieniem postanowień umowy o unikaniu podwójnego opodatkowania zawartej pomiędzy Rzeczpospolitą Polską, a państwem, w którym ma siedzibę Wykonawca;
+wszystkie należności, jakie Wykonawca ma otrzymać od NBP na podstawie niniejszej umowy, będą związane z działalnością powyższego zakładu.
+Wariant III.
+Wykonawca nie ma na terytorium Rzeczypospolitej Polskiej siedziby ani zarządu;
+Wykonawca prowadzi działalność poprzez położony na terytorium Rzeczypospolitej Polskiej „zagraniczny zakład” – w rozumieniu przepisów art. 4a pkt 11 ustawy o podatku dochodowym od osób prawnych, z uwzględnieniem postanowień umowy o unikaniu podwójnego opodatkowania zawartej pomiędzy Rzeczpospolitą Polską, a państwem, w którym ma siedzibę Wykonawca;
+należności, jakie Wykonawca ma otrzymać od NBP na podstawie niniejszej umowy nie będą związane z działalnością powyższego zakładu.
+Ponadto oświadczam / oświadczamy, że w państwie, w którym ma siedzibę Wykonawca, organy administracji podatkowej wydają certyfikaty rezydencji w formie dokumentu materialnego podpisanego w imieniu tego organu / wyłącznie w formie dokumentu elektronicznego.
+/podpis lub podpisy w imieniu Wykonawcy/

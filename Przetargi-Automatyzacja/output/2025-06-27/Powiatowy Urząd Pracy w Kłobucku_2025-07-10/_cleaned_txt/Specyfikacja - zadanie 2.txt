@@ -1,0 +1,64 @@
+Minimalne parametry sprzętu:
+Zadanie II
+Urządzenie wielofunkcyjne A4 mono – 5 szt.  (np. HP LaserJet Pro MFP 4102fdn
+lub równoważne)
+• technologia druku:  laserowa, monochromatyczna
+• funkcje: drukowanie, kopiowanie, skanowanie, faksowanie
+• podajnik papieru: 350 arkuszy
+• liczba podajników papieru:  2
+• szybkość druku:  40 str./min
+• drukowanie dokumentów poufnych:  tak
+• druk dwustronny (dupleks):  automatyczny
+• podajnik dokumentów skanera:  tak (ADF)
+• pojemność automatycznego podajnika dokumentów: 50 arkuszy
+• kopiowanie:
+− szybkość kopiowania: do 38 kopii/min
+− szybkość kopiowania dwustronnego: do 34 kopii/min
+− rozdzielczość kopii (tekst w czerni): 600 × 600 dpi
+• skanowanie:
+− typ skanera: skaner płaski, automatyczny podajnik dokumentów
+− maksymalna rozdzielczość skanowania: 1200 x 1200 dpi
+− szybkość skanowania A4: do 29 str./min (w czerni), do 20 str./min (w
+kolorze)
+− szybkość skanowania dwustronnego A4: do 46 obrazów/min w czerni,
+do 34 obrazów/min w kolorze
+− zaawansowane funkcje skanowania: jednoprzebiegowe skanowanie
+dwustronne z automatycznym podajnikiem dokumentów, skanowanie
+do folderu sieciowego, skanowanie do pamięci USB; skanowanie do
+komputera z oprogramowaniem, zestawy szybkich ustawień
+− format plików skanowania programowego: PDF, PDF z możliwością
+przeszukiwania, JPG, RTF, TXT, BMP, PNG, TIFF
+• normatywny cykl pracy (miesięcznie, format A4):  do 80 000 stron
+• wyświetlacz:  wbudowany, dotykowy, kolorowy
+• interfejsy:  USB, LAN (Ethernet), AirPrint
+• języki drukowania:  PCL 6, PCL 5e, postscript,
+• zgodne systemy operacyjne:  Windows 11; Windows 10;
+Urządzenie wielofunkcyjne A4 kolorowe – 2 szt. (np. Brother MFC -L9570CDW lub
+równoważne)
+• technologia druku:  laserowa, kolorowa
+• funkcje:  drukowanie, kopiowanie, skanowanie, faksowanie
+• podajnik papieru:  250 arkuszy
+• szybkość druku:  31 str./min
+• szybkość druku dwustronnego:  14 str./min
+• druk dwustronny (dupleks):  automatyczny
+• funkcje drukarki:  drukowanie N na jeden, druk plakatów, drukowanie
+identyfikatorów, drukowanie broszur, profile drukowania, druk znaku wodnego
+• podajnik dokumentów skanera:  tak, z dupleksem (DADF)
+• pojemność automatycznego podajnika dokumentów:  80 arkuszy
+• kopiowanie:
+− szybkość kopiowania: do 31 stron/min
+− rozdzielczość kopii (tekst w czerni): 1200 x 600 dpi
+• skanowanie:
+− typ skanera: 2x CIS
+− maksymalna rozdzielczość skanowania: 1200 x 2400 dpi
+− szybkość skanowania A4: do 50 obrazów/min
+− szybkość skanowania dwustronnego A4: do 100 obrazów/min
+− zaawansowane funkcje skanowania: jednoprzebiegowe skanowanie
+dwustronne z automatycznym podajnikiem dokumentów, skanowanie
+do folderu sieciowego, skanowanie do pamięci USB; skanowanie do
+komputera z oprogramowaniem, zestawy szybkich ustawień
+− format plików skanowania programowego: PDF, JPG, XPS, TIFF
+• wyświetlacz:  wbudowany, dotykowy, kolorowy
+• interfejsy:  USB, LAN (Ethernet), Wi -Fi, NFC
+• języki drukowania:  PCL 6, XPS
+• zgodne systemy operacyjne: Windows 11; Windows 10

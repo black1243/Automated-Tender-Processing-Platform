@@ -1,0 +1,205 @@
+Załącznik nr 2A do swz - FORMULARZ OFERTY
+Dane Wykonawcy (w przypadku wykonawców ubiegających się wspólnie o udzielenie zamówienia, należy podać dane dotyczące wszystkich wykonawców):
+Nazwa Wykonawcy/Wykonawców: …
+Adres Wykonawcy/Wykonawców: …
+Województwo: …
+REGON lub NIP: …
+Rodzaj wykonawcy (zgodnie z poniższą listą): …
+mikroprzedsiębiorstwo,  małe  przedsiębiorstwo,  średnie  przedsiębiorstwo,  jednoosobowa  działalność  gospodarcza,  osoba  fizyczna  nieprowadząca działalności gospodarczej, inny rodzaj
+Reprezentowany przez: …
+tel.: …
+adres poczty elektronicznej: …
+Nr konta, na które należy zwrócić wadium wniesione w formie pieniężnej: …………………………………………………………………………………………...………
+Adres poczty elektronicznej gwaranta/poręczyciela, na który należy złożyć oświadczenie o zwolnieniu wadium, które zostało wniesione w innej formie niż w pieniądzu: …
+Oferta w postępowaniu pn.: Dostawa i wdrożenie systemu EZD sprzętu serwerowego, licencji i wsparcia dla projektu pn.: „Wdrożenie elektronicznego zarządzania dokumentacją w podmiotach zależnych od Województwa Małopolskiego”.
+Cena brutto wykonania zamówienia w zakresie części I:
+Warunki wykonania zamówienia:
+Oferuję wykonanie naprawy gwarancyjnej w czasie …… dni roboczych (należy podać liczbę dni).
+Oferuję, że na wdrożonej infrastrukturze teleinformatycznej jest możliwość uruchomienia maszyny wirtualnej producenta firewalla, który oferuje zarządzanie systemem firewall oraz zbieraniem logów, maszyna wirtualna musi umożliwiać minimum zarządzanie/monitorowanie dla minimum dwóch firewalli, (zaznaczyć właściwe):
+TAK
+NIE
+Oferuję, że przełącznik wspiera funkcjonalność taką jak QoS (Quality of Service), która łącznie:
+Oferuje minimum 8 kolejek i,
+Obsługuję klasyfikację ruchu wykorzystując mechanizm 802.1p i ,
+Wspiera mechanizmy schedulingu (haromnogramowania)
+(zaznaczyć właściwe):
+TAK
+NIE
+Poniższe informacje podaje wyłącznie ten wykonawca, który składa ofertę, której wybór prowadziłby do powstania u Zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług:
+Informuję, że składam ofertę, której wybór prowadzi do powstania u Zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług, dla celów zastosowania kryterium ceny Zamawiający doliczy do przedstawionej w tej ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć.
+W związku z powyższą informacją wskazuję:
+Cena brutto wykonania zamówienia w zakresie części II:
+Warunki wykonania zamówienia:
+Oferuję wykonanie naprawy gwarancyjnej w czasie …… dni roboczych (należy podać liczbę dni).
+Poniższe informacje podaje wyłącznie ten wykonawca, który składa ofertę, której wybór prowadziłby do powstania u Zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług:
+Informuję, że składam ofertę, której wybór prowadzi do powstania u Zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług, dla celów zastosowania kryterium ceny Zamawiający doliczy do przedstawionej w tej ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć.
+W związku z powyższą informacją wskazuję:
+Cena brutto wykonania zamówienia w zakresie części III:
+Warunki wykonania zamówienia:
+Oferuję wykonanie naprawy gwarancyjnej w czasie …… dni roboczych (należy podać liczbę dni).
+Poniższe informacje podaje wyłącznie ten wykonawca, który składa ofertę, której wybór prowadziłby do powstania u Zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług:
+Informuję, że składam ofertę, której wybór prowadzi do powstania u Zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług, dla celów zastosowania kryterium ceny Zamawiający doliczy do przedstawionej w tej ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć.
+W związku z powyższą informacją wskazuję:
+Warunki płatności oraz termin realizacji zamówienia zgodne z ustanowionymi w dokumentach zamówienia.
+Oświadczamy, że zapoznaliśmy się z treścią dokumentów zamówienia i akceptujemy je bez zastrzeżeń.
+Oświadczam, że:
+zostałem poinformowany zgodnie z art. 13 ust. 1 i 2 RODO o przetwarzaniu moich danych osobowych na potrzeby niniejszego postępowania o udzielenie zamówienia publicznego oraz zawarcia i realizacji umowy,
+wypełniłem obowiązki informacyjne przewidziane w art. 13 lub art. 14 RODO wobec osób fizycznych, od których dane osobowe bezpośrednio lub pośrednio pozyskałem w celu ubiegania się o udzielenie zamówienia publicznego i zobowiązuję się wypełnić je wobec osób fizycznych od których dane osobowe bezpośrednio lub pośrednio pozyskam w celu zawarcia i realizacji umowy.
+Wskazuję, że dokumenty na potwierdzenie umocowania do działania w imieniu Wykonawcy i podmiotu udostępniającego zasoby oraz prawidłowe i aktualne podmiotowe środki dowodowe Zamawiający posiada lub może je uzyskać za pomocą bezpłatnych i ogólnodostępnych baz danych, w szczególności rejestrów publicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, na podstawie następujących danych:
+z bazy danych/rejestru
+w dyspozycji Zamawiającego:
+Wyłącznie KWALIFIKOWANY PODPIS ELEKTRONICZNY osoby/osób uprawnionych/upoważnionych do reprezentowania wykonawcy
+Załącznik nr 2B do SWZ/Załącznik nr 13 do umowy (część I zamówienia)
+WYKAZ SPRZĘTU
+Część 1: Dostawa części infrastrukturalnej wraz z ze szkoleniem*
+UWAGA ! NALEŻY WYPEŁNIĆ KAŻDĄ POZYCJĘ!
+6 serwerów w konfiguracji I wraz z wirtualizatorem i licencją na system operacyjnym:
+6 serwerów w konfiguracji II wraz z oprogramowaniem do kopii zapasowej:
+6 zapór sieciowych wraz z licencjami i oprogramowaniem:
+12 przełączników sieciowych wraz z licencjami i oprogramowaniem:
+6 zestawów do podtrzymywania energii elektrycznej:
+6 szaf teletechnicznych:
+5 szaf teletechnicznych bez modułu klimatyzacyjnego
+1 szafa teletechniczna z modułem klimatyzacji
+Szkolenie:
+Wyłącznie KWALIFIKOWANY PODPIS ELEKTRONICZNY osoby/osób uprawnionych/upoważnionych do reprezentowania Wykonawcy
+Załącznik nr 2C do SWZ/Załącznik nr 1 do umowy (część II zamówienia)
+WYKAZ SPRZĘTU
+Część 2: Dostawa laptopów, monitorów i stacji dokujących
+UWAGA ! NALEŻY WYPEŁNIĆ KAŻDĄ POZYCJĘ!
+3 laptopy w konfiguracji I:
+3 monitory w konfiguracji I:
+3 stacje dokujące w konfiguracji I:
+3 laptopy w konfiguracji II:
+3 monitory w konfiguracji II:
+3 stacje dokujące w konfiguracji II:
+Wyłącznie KWALIFIKOWANY PODPIS ELEKTRONICZNY osoby/osób uprawnionych/upoważnionych do reprezentowania Wykonawcy
+Załącznik nr 2D do SWZ/Załącznik nr 1 do umowy (część III zamówienia)
+WYKAZ SPRZĘTU
+Część 3: Dostawa urządzeń wielofunkcyjnych, drukarek kodów i czytników kodów
+UWAGA ! NALEŻY WYPEŁNIĆ KAŻDĄ POZYCJĘ!
+6 urządzeń wielofunkcyjnych:
+6 drukarek kodów kreskowych
+6 czytników kodów kreskowych
+Wyłącznie KWALIFIKOWANY PODPIS ELEKTRONICZNY osoby/osób uprawnionych/upoważnionych do reprezentowania Wykonawcy
+Załącznik nr 2E do swz
+OŚWIADCZENIE O NIEPODLEGANIU WYKLUCZENIU NA PODSTAWIE ART. 7 UST. 1 USTAWY Z DNIA 13 KWIETNIA 2022 R. O SZCZEGÓLNYCH ROZWIĄZANIACH W ZAKRESIE PRZECIWDZIAŁANIA WSPIERANIU AGRESJI NA UKRAINĘ ORAZ SŁUŻĄCYCH OCHRONIE BEZPIECZEŃSTWA NARODOWEGO
+ORAZ
+O NIEPODLEGANIU ZAKAZOWI UDZIELANIA LUB DALSZEGO WYKONYWANIA WSZELKICH ZAMÓWIEŃ PUBLICZNYCH NA PODSTAWIE ARTYKUŁU 5K UST. 1 ROZPORZĄDZENIA RADY (UE) NR 833/2014 Z DNIA 31 LIPCA 2014 R. DOTYCZĄCEGO ŚRODKÓW OGRANICZAJĄCYCH W ZWIĄZKU Z DZIAŁANIAMI ROSJI DESTABILIZUJĄCYMI SYTUACJĘ NA UKRAINIE
+Nazwa i adres wykonawcy/podmiotu udostępniającego zasoby*:
+REGON lub NIP:
+Oświadczam, że:
+nie podlegam wykluczeniu z postępowania na podstawie art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego , zgodnie z którym z postępowania o udzielenie zamówienia publicznego lub konkursu prowadzonego na podstawie ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych wyklucza się:
+wykonawcę oraz uczestnika konkursu wymienionego w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisanego na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3;
+wykonawcę oraz uczestnika konkursu, którego beneficjentem rzeczywistym w rozumieniu ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2022 r. poz. 593 i 655) jest osoba wymieniona w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisana na listę lub będąca takim beneficjentem rzeczywistym od dnia 24 lutego 2022 r., o ile została wpisana na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3;
+wykonawcę oraz uczestnika konkursu, którego jednostką dominującą w rozumieniu art. 3 ust. 1 pkt 37 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106) jest podmiot wymieniony w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisany na listę lub będący taką jednostką dominującą od dnia 24 lutego 2022 r., o ile został wpisany na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3.
+Zobowiązuję się do niezwłocznego poinformowania Zamawiającego o zmianie tego stanu.
+Jeśli zachodzą podstawy wykluczenia to Wykonawca składa oświadczenie o następującej treści:
+Oświadczam, że zachodzą w stosunku do mnie podstawy wykluczenia, o których mowa
+w art. 7 ust. 1 pkt. …………….. ustawy /wskazać właściwy punkt z powyższych/.
+Zobowiązuję się do niezwłocznego poinformowania Zamawiającego o zmianie tego stanu;
+nie podlegam zakazowi udzielania lub dalszego wykonywania wszelkich zamówień publicznych na podstawie artykułu 5k ust. 1 Rozporządzenia Rady (UE) Nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. UE L 229 z 31.07.2014, str. 1, z późn. zm.), zgodnie z którym zakazuje się udzielania lub dalszego wykonywania wszelkich zamówień publicznych lub koncesji objętych zakresem dyrektyw w sprawie zamówień publicznych, a także zakresem art. 10 ust. 1, 3, ust. 6 lit. a)-e), ust. 8, 9 i 10, art. 11, 12, 13 i 14 dyrektywy 2014/23/UE, art. 7 i 8, art. 10 lit. b)-f) i lit. h)-j) dyrektywy 2014/24/UE, art. 18, art. 21 lit. b)-e) i lit. g)-i), art. 29 i 30 dyrektywy 2014/25/UE oraz art. 13 lit. a)-d), lit. f)-h) i lit. j) dyrektywy 2009/81/WE na rzecz lub z udziałem:
+obywateli rosyjskich lub osób fizycznych lub prawnych, podmiotów lub organów z siedzibą w Rosji;
+osób prawnych, podmiotów lub organów, do których prawa własności bezpośrednio lub pośrednio w ponad 50 % należą do podmiotu, o którym mowa w lit. a) niniejszego ustępu; lub
+osób fizycznych lub prawnych, podmiotów lub organów działających w imieniu lub pod kierunkiem podmiotu, o którym mowa w lit. a) lub b) niniejszego ustępu,
+w tym podwykonawców, dostawców lub podmiotów, na których zdolności polega się w rozumieniu dyrektyw w sprawie zamówień publicznych, w przypadku gdy przypada na nich ponad 10 % wartości zamówienia.
+Zobowiązuję się do niezwłocznego poinformowania Zamawiającego o zmianie tego stanu.
+Jeśli Wykonawca podlega zakazowi to składa oświadczenie o następującej treści:
+Oświadczam, że podlegam zakazowi udzielania lub dalszego wykonywania wszelkich zamówień publicznych na podstawie artykułu 5k ust. 1 Rozporządzenia Rady (UE) Nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie, o których mowa
+w artykuł 5k ust. 1 lit. …………….. Rozporządzenia /wskazać właściwą literę z powyższych/.
+Zobowiązuję się do niezwłocznego poinformowania Zamawiającego o zmianie tego stanu.
+* Wybrać odpowiednie.
+Załącznik nr 2F do swz
+zobowiązanie podmiotu udostępniającego zasoby do oddania do dyspozycji WYKONAWCY niezbędnych zasobów na potrzeby realizacji zamówienia
+Nazwa i adres podmiotu udostępniającego zasoby:
+REGON lub NIP:
+Po zapoznaniu się z treścią dokumentów zamówienia, ja niżej podpisany, działając w imieniu podmiotu udostępniającego zasoby, zobowiązuję się do oddania do dyspozycji Wykonawcy niezbędnych zasobów na potrzeby realizacji zamówienia pn.:
+Dostawa i wdrożenie systemu EZD sprzętu serwerowego, licencji i wsparcia dla projektu pn.: „Wdrożenie elektronicznego zarządzania dokumentacją w podmiotach zależnych od Województwa Małopolskiego”
+Wykonawca realizując zamówienie, będzie dysponował moimi zdolnościami technicznymi lub zawodowymi w szczególności:
+moimi zasobami dostępnymi Wykonawcy będzie (zakres):
+sposób udostępnienia Wykonawcy moich zasobów przy wykonywaniu zamówienia to:
+okres udostępnienia Wykonawcy i wykorzystania przez niego moich zasobów przy wykonywaniu zamówienia to:
+Załącznik nr 3 do swz
+Standardowy formularz jednolitego europejskiego dokumentu zamówienia
+Część I: Informacje dotyczące postępowania o udzielenie zamówienia oraz instytucji zamawiającej lub podmiotu zamawiającego
+W przypadku postępowań o udzielenie zamówienia, w ramach których zaproszenie do ubiegania się o zamówienie opublikowano w Dzienniku Urzędowym Unii Europejskiej, informacje wymagane w części I zostaną automatycznie wyszukane, pod warunkiem że do utworzenia i wypełnienia jednolitego europejskiego dokumentu zamówienia wykorzystany zostanie elektroniczny serwis poświęcony jednolitemu europejskiemu dokumentowi zamówienia. Adres publikacyjny stosownego ogłoszenia w Dzienniku Urzędowym Unii Europejskiej:
+Dz.U. UE S numer [S122], data [30/06/2025], strona [418646-2025-PL]
+Numer ogłoszenia w Dz.U. S: 2025/S 122-418646
+Jeżeli nie opublikowano zaproszenia do ubiegania się o zamówienie w Dz.U., instytucja zamawiająca lub podmiot zamawiający muszą wypełnić informacje umożliwiające jednoznaczne zidentyfikowanie postępowania o udzielenie zamówienia:
+W przypadku gdy publikacja ogłoszenia w Dzienniku Urzędowym Unii Europejskiej nie jest wymagana, proszę podać inne informacje umożliwiające jednoznaczne zidentyfikowanie postępowania o udzielenie zamówienia (np. adres publikacyjny na poziomie krajowym): [….]
+Informacje na temat postępowania o udzielenie zamówienia
+Informacje wymagane w części I zostaną automatycznie wyszukane, pod warunkiem że wyżej wymieniony elektroniczny serwis poświęcony jednolitemu europejskiemu dokumentowi zamówienia zostanie wykorzystany do utworzenia i wypełnienia tego dokumentu. W przeciwnym przypadku informacje te musi wypełnić wykonawca.
+Wszystkie pozostałe informacje we wszystkich sekcjach jednolitego europejskiego dokumentu zamówienia powinien wypełnić wykonawca.
+Część II: Informacje dotyczące wykonawcy
+A: Informacje na temat wykonawcy
+B: Informacje na temat przedstawicieli wykonawcy
+W stosownych przypadkach proszę podać imię i nazwisko (imiona i nazwiska) oraz adres(-y) osoby (osób) upoważnionej(-ych) do reprezentowania wykonawcy na potrzeby niniejszego postępowania o udzielenie zamówienia:
+C: Informacje na temat polegania na zdolności innych podmiotów
+Jeżeli tak, proszę przedstawić – dla każdego z podmiotów, których to dotyczy – odrębny formularz jednolitego europejskiego dokumentu zamówienia zawierający informacje wymagane w niniejszej części sekcja A i B oraz w części III, należycie wypełniony i podpisany przez dane podmioty.
+Należy zauważyć, że dotyczy to również wszystkich pracowników technicznych lub służb technicznych, nienależących bezpośrednio do przedsiębiorstwa danego wykonawcy, w szczególności tych odpowiedzialnych za kontrolę jakości, a w przypadku zamówień publicznych na roboty budowlane – tych, do których wykonawca będzie mógł się zwrócić o wykonanie robót budowlanych.
+O ile ma to znaczenie dla określonych zdolności, na których polega wykonawca, proszę dołączyć – dla każdego z podmiotów, których to dotyczy – informacje wymagane w częściach IV i V.
+D: Informacje dotyczące podwykonawców, na których zdolności wykonawca nie polega
+(Sekcja, którą należy wypełnić jedynie w przypadku gdy instytucja zamawiająca lub podmiot zamawiający wprost tego zażąda.)
+Jeżeli instytucja zamawiająca lub podmiot zamawiający wyraźnie żąda przedstawienia tych informacji oprócz informacji wymaganych w niniejszej sekcji, proszę przedstawić – dla każdego podwykonawcy (każdej kategorii podwykonawców), których to dotyczy – informacje wymagane w niniejszej części sekcja A i B oraz w części III.
+Część III: Podstawy wykluczenia
+A: Podstawy związane z wyrokami skazującymi za przestępstwo
+W art. 57 ust. 1 dyrektywy 2014/24/UE określono następujące powody wykluczenia:
+udział w organizacji przestępczej;
+korupcja;
+nadużycie finansowe;
+przestępstwa terrorystyczne lub przestępstwa związane z działalnością terrorystyczną
+pranie pieniędzy lub finansowanie terroryzmu
+praca dzieci i inne formy handlu ludźmi.
+B: Podstawy związane z płatnością podatków lub składek na ubezpieczenie społeczne
+C: Podstawy związane z niewypłacalnością, konfliktem interesów lub wykroczeniami zawodowymi
+Należy zauważyć, że do celów niniejszego zamówienia niektóre z poniższych podstaw wykluczenia mogą być zdefiniowane bardziej precyzyjnie w prawie krajowym, w stosownym ogłoszeniu lub w dokumentach zamówienia. Tak więc prawo krajowe może na przykład stanowić, że pojęcie „poważnego wykroczenia zawodowego” może obejmować kilka różnych postaci zachowania stanowiącego wykroczenie.
+D: Inne podstawy wykluczenia, które mogą być przewidziane w przepisach krajowych państwa członkowskiego instytucji zamawiającej lub podmiotu zamawiającego
+Część IV: Kryteria kwalifikacji
+W odniesieniu do kryteriów kwalifikacji (sekcja  lub sekcje A–D w niniejszej części) wykonawca oświadcza, że:
+: Ogólne oświadczenie dotyczące wszystkich kryteriów kwalifikacji
+Wykonawca powinien wypełnić to pole jedynie w przypadku gdy instytucja zamawiająca lub podmiot zamawiający wskazały w stosownym ogłoszeniu lub w dokumentach zamówienia, o których mowa w ogłoszeniu, że wykonawca może ograniczyć się do wypełnienia sekcji  w części IV i nie musi wypełniać żadnej z pozostałych sekcji w części IV:
+A: Kompetencje
+Wykonawca powinien przedstawić informacje jedynie w przypadku gdy instytucja zamawiająca lub podmiot zamawiający wymagają danych kryteriów kwalifikacji w stosownym ogłoszeniu lub w dokumentach zamówienia, o których mowa w ogłoszeniu.
+B: Sytuacja ekonomiczna i finansowa
+Wykonawca powinien przedstawić informacje jedynie w przypadku gdy instytucja zamawiająca lub podmiot zamawiający wymagają danych kryteriów kwalifikacji w stosownym ogłoszeniu lub w dokumentach zamówienia, o których mowa w ogłoszeniu.
+C: Zdolność techniczna i zawodowa
+Wykonawca powinien przedstawić informacje jedynie w przypadku gdy instytucja zamawiająca lub podmiot zamawiający wymagają danych kryteriów kwalifikacji w stosownym ogłoszeniu lub w dokumentach zamówienia, o których mowa w ogłoszeniu.
+D: Systemy zapewniania jakości i normy zarządzania środowiskowego
+Wykonawca powinien przedstawić informacje jedynie w przypadku gdy instytucja zamawiająca lub podmiot zamawiający wymagają systemów zapewniania jakości lub norm zarządzania środowiskowego w stosownym ogłoszeniu lub w dokumentach zamówienia, o których mowa w ogłoszeniu.
+Część V: Ograniczanie liczby kwalifikujących się kandydatów
+Wykonawca powinien przedstawić informacje jedynie w przypadku gdy instytucja zamawiająca lub podmiot zamawiający określiły obiektywne i niedyskryminacyjne kryteria lub zasady, które mają być stosowane w celu ograniczenia liczby kandydatów, którzy zostaną zaproszeni do złożenia ofert lub prowadzenia dialogu. Te informacje, którym mogą towarzyszyć wymogi dotyczące (rodzajów) zaświadczeń lub rodzajów dowodów w formie dokumentów, które ewentualnie należy przedstawić, określono w stosownym ogłoszeniu lub w dokumentach zamówienia, o których mowa w ogłoszeniu.
+Dotyczy jedynie procedury ograniczonej, procedury konkurencyjnej z negocjacjami, dialogu konkurencyjnego i partnerstwa innowacyjnego:
+Wykonawca oświadcza, że:
+Część VI: Oświadczenia końcowe
+Niżej podpisany(-a)(-i) oficjalnie oświadcza(-ją), że informacje podane powyżej w częściach II–V są dokładne i prawidłowe oraz że zostały przedstawione z pełną świadomością konsekwencji poważnego wprowadzenia w błąd.
+Niżej podpisany(-a)(-i) oficjalnie oświadcza(-ją), że jest (są) w stanie, na żądanie i bez zwłoki, przedstawić zaświadczenia i inne rodzaje dowodów w formie dokumentów, z wyjątkiem przypadków, w których:
+a) instytucja zamawiająca lub podmiot zamawiający ma możliwość uzyskania odpowiednich dokumentów potwierdzających bezpośrednio za pomocą bezpłatnej krajowej bazy danych w dowolnym państwie członkowskim, lub
+b) najpóźniej od dnia 18 kwietnia 2018 r., instytucja zamawiająca lub podmiot zamawiający już posiada odpowiednią dokumentację.
+Niżej podpisany(-a)(-i) oficjalnie wyraża(-ją) zgodę na to, aby [wskazać instytucję zamawiającą lub podmiot zamawiający określone w części I, sekcja A] uzyskał(-a)(-o) dostęp do dokumentów potwierdzających informacje, które zostały przedstawione w [wskazać część/sekcję/punkt(-y), których to dotyczy] niniejszego jednolitego europejskiego dokumentu zamówienia, na potrzeby [określić postępowanie o udzielenie zamówienia: (skrócony opis, adres publikacyjny w Dzienniku Urzędowym Unii Europejskiej, numer referencyjny)].
+Data, miejscowość oraz – jeżeli jest to wymagane lub konieczne – podpis(-y): [……]
+Załącznik nr 4 do swz
+Oświadczenie WYKONAWCY o przynależności lub braku przynależności do tej samej grupy kapitałowej
+Nazwa i adres wykonawcy:
+Oświadczam, w zakresie art. 108 ust. 1 pkt 5 ustawy, że (odpowiednie wybrać):
+nie należę do tej samej grupy kapitałowej* z innym wykonawcą, który złożył odrębną ofertę lub ofertę częściową w przedmiotowym postępowaniu
+należę do tej samej grupy kapitałowej* wraz z następującymi wykonawcami, którzy złożyli odrębną ofertę lub ofertę częściową w przedmiotowym postępowaniu:
+i jednocześnie załączam dokumenty lub informacje potwierdzające przygotowanie oferty niezależnie od innego wykonawcy należącego do tej samej grupy kapitałowej**.
+* 	Grupa kapitałowa w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 1616).
+** 	W przypadki przynależności do tej samej grupy kapitałowej złożyć wraz z niniejszym oświadczeniem dokumenty lub informacje potwierdzające przygotowanie oferty niezależnie od innego wykonawcy należącego do tej samej grupy kapitałowej.
+Załącznik nr 5 do swz
+Oświadczenie WYKONAWCY o aktualności informacji zawartych w oświadczeniu o niepodleganiu wykluczeniu
+Nazwa i adres wykonawcy:
+Oświadczam, że są aktualne informacje zawarte w oświadczeniu o niepodleganiu wykluczeniu, spełnianiu warunków udziału w postępowaniu (JEDZ), w zakresie podstaw wykluczenia z postępowania wskazanych przez Zamawiającego, o których mowa w:
+art. 108 ust. 1 pkt 3 ustawy,
+art. 108 ust. 1 pkt 4 ustawy, dotyczących orzeczenia zakazu ubiegania się o zamówienie publiczne tytułem środka zapobiegawczego,
+art. 108 ust. 1 pkt 5 ustawy, dotyczących zawarcia z innymi wykonawcami porozumienia mającego na celu zakłócenie konkurencji,
+art. 108 ust. 1 pkt 6 ustawy,
+art. 109 ust. 1 pkt 2 lit. b ustawy, dotyczących ukarania za wykroczenie, za które wymierzono karę ograniczenia wolności lub karę grzywny,
+art. 109 ust. 1 pkt 3 ustawy, dotyczących ukarania za wykroczenie, za które wymierzono karę ograniczenia wolności lub karę grzywny,
+art. 109 ust. 1 pkt 8 i 10 usta
+Załącznik nr 6 do swz
+Wykaz dostaw WYKONANYCH* DLA CZĘŚCI I
+W tabeli należy podać wszystkie wymagane informacje
+*Jeżeli wykonawca powołuje się na doświadczenie w realizacji dostaw wykonywanych wspólnie z innymi wykonawcami, wykaz dostaw wykonanych dotyczy dostaw, w których wykonaniu wykonawca ten bezpośrednio uczestniczył, a w przypadku świadczeń powtarzających się lub ciągłych, w których wykonywaniu bezpośrednio uczestniczył lub uczestniczy.
+**Jako wykonawcę należy rozumieć podmiot, który faktycznie wykonał dostawę opisaną w kolumnie 2.
+***Wybrać odpowiedni

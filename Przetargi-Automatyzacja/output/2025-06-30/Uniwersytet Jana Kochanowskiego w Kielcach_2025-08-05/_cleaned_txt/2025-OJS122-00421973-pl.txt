@@ -1,0 +1,813 @@
+421973-2025 Page 1/182.1.4.2.1.2.2.1.1.2.1.1.1.See the notice on TED website
+421973-2025 - Procedura konkurencyjna
+Polska – Urządzenia komputerowe – Dostawa urządzeń i akcesoriów komputerowych Nr
+postępowania:ADP.2301.72.2025
+OJ S 122/2025 30/06/2025
+Ogłoszenie o zamówieniu lub ogłoszenie o koncesji – tryb standardowy
+Dostawy
+1. Nabywca
+Nabywca
+Oficjalna nazwa : Uniwersytet Jana Kochanowskiego w Kielcach
+E-mail : dzp@ujk.edu.pl
+Status prawny nabywcy : Podmiot prawa publicznego
+Sektor działalności instytucji zamawiającej : Edukacja
+2. Procedura
+Procedura
+Tytuł : Dostawa urządzeń i akcesoriów komputerowych Nr postępowania:ADP.2301.72.2025
+Opis: Przedmiotem zamówienia jest dostawa dostawa sprzętu komputerowego ( monitorów
+zestawów komputerowych laptopów, projektora) do Uniwersytetu Jana Kochanowskiego w
+Kielcach z podziałem na 4 części postepowania
+Identyfikator procedury : cefda9ed-a2f1-440f-a443-8e2ee1f3b740
+Wewnętrzny identyfikator : ADP.2301.72.2025
+Rodzaj procedury : Otwarta
+Procedura jest przyspieszona : nie
+Główne aspekty procedury : zawarte w SWZ. Adres strony prowadzonego postępowania:
+https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c5605171-16b5-40a6-ac25-
+9bed8ed164d7
+Przeznaczenie
+Charakter zamówienia : Dostawy
+Główna klasyfikacja  (cpv): 30200000  Urządzenia komputerowe
+, Dodatkowa klasyfikacja  (cpv): 30236000  Różny sprzęt komputerowy 48000000  Pakiety
+oprogramowania i systemy informatyczne
+Miejsce realizacji
+Miejscowość : Kielce
+Kod pocztowy : 25-369
+Podpodział krajowy (NUTS) : Kielecki  (PL721 )
+Kraj: Polska
+Informacje ogólne
+Informacje dodatkowe : 1. Postępowanie o udzielenie zamówienia prowadzone jest w trybie
+przetargu nieograniczonego na podstawie art.132 ustawy z dnia 11 września 2019 r. Prawo
+zamówień publicznych (Dz.U. z 2024 poz.1320.), zwanej w dalszej części SWZ „ustawą Pzp”
+2. W sprawach nieuregulowanych niniejszą SWZ, mają zastosowanie przepisy PZP oraz
+przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny. 3. Niniejsze zamówienie ujęto w
+planie postępowań na 2025 rok pod poz. 2.2.1 4. Zamawiający przewiduje zastosowanie tzw.
+procedury odwróconej, o której mowa w art. 139 ust. 1 PZP, tj. Zamawiający może najpierw
+421973-2025 Page 2/18dokonać badania i oceny ofert, a następnie dokonać kwalifikacji podmiotowej Wykonawcy,
+którego oferta została najwyżej oceniona, w zakresie braku podstaw wykluczenia oraz
+spełniania warunków udziału w postępowaniu. 5. Zamawiający nie przewiduje aukcji
+elektronicznej. 6. Zamawiający nie prowadzi postępowania w celu zawarcia umowy ramowej.
+7. Do postępowania stosuje się przepisy dotyczące nabywania dostaw. 8. Zamawiający nie
+zastrzega możliwości ubiegania się o udzielenie zamówienia wyłącznie przez wykonawców, o
+których mowa w art. 94 PZP, tj. mających status zakładu pracy chronionej, spółdzielnie
+socjalne oraz innych wykonawców, których głównym celem lub głównym celem działalności
+ich wyodrębnionych organizacyjnie jednostek, które będą realizowały zamówienie, jest
+społeczna i zawodowa integracja osób społecznie marginalizowanych 5. Dostarczony sprzęt
+musi być fabrycznie nowy, bez śladów użytkowania, musi pochodzić z bieżącej produkcji tzn.
+musi być wyprodukowany nie wcześniej niż w 2025 roku i nie może być przedmiotem praw
+osób trzecich. 6. Dostarczony sprzęt w dniu dostawy musi posiadać kartę gwarancyjną,
+instrukcję obsługi (w wersji papierowej) aprobaty techniczne, certyfikaty oraz wszystkie
+niezbędne dokumenty wymagane przy tego typu sprzęcie; winien być wyposażony we
+wszystkie elementy (przyłącza, kable, itp.) niezbędne do uruchomienia i pracy u
+Zamawiającego do celu, dla którego jest zakupywany, bez konieczności zakupu dodatkowych
+elementów przez Zamawiającego. 7. Wszystkie dokumenty załączone do dostarczonego
+przedmiotu zamówienia muszą być sporządzone w języku polskim w formie drukowanej
+(instrukcja obsługi dodatkowo na DVD, CD lub pendrive). UWAGA: W przypadku wystąpienia
+w SWZ lub którymkolwiek załączniku do SWZ nazw producenta sprzętu/urządzenia można
+zastąpić równoważnym, które nie będą gorsze niż te wskazana w SWZ oraz gwarantować
+będą zachowanie parametrów i funkcjonalności opisanych w SWZ. Wykonawca, który
+powołuje się na rozwiązania równoważne jest obowiązany wykazać, że oferowany przez niego
+sprzęt/urządzenia spełniają wymagania określone przez Zamawiającego. Ewentualne
+występujące w SWZ nazwy (w tym nazwy własne, znaki towarowe, normy oraz sformułowania
+„np.”), typy i pochodzenie produktów nie są dla Wykonawcy wiążące i nie mają na celu
+naruszenia ustawy PZP, a jedynie doprecyzowanie oczekiwań jakościowych, funkcjonalnych i
+technologicznych Zamawiającego. Wszystkie zmiany i odstępstwa nie mogą powodować
+obniżenia wartości funkcjonalnych i użytkowych sprzętu/urządzenia oraz nie mogą
+powodować zmniejszenia ich trwałości eksploatacyjnej. Wszystkie planowane rozwiązania
+równoważne i zamienne muszą być uzgodnione pomiędzy Zamawiającym a Wykonawcą.
+Wykonawca, który powołuje się na rozwiązania równoważne, jest zobowiązany wykazać, że
+oferowane przez niego rozwiązanie spełnia wymagania określone przez Zamawiającego. W
+takim przypadku Wykonawca załącza do oferty wykaz rozwiązań równoważnych stosownie
+wraz z jego opisem lub normami. 8. Zamawiający dopuszcza możliwości składania ofert
+częściowych. 9. Ofertę należy złożyć, zgodnie ze wzorem formularza ofertowego
+stanowiącego załącznik nr 2 do SWZ. 10. Zamawiający nie dopuszcza możliwości składania
+ofert wariantowych. 11. Wykonawca może powierzyć wykonanie części zamówienia
+podwykonawcy. 12. Zamawiający na podstawie art.462 ust.2 PZP żąda wskazania przez
+Wykonawcę w ofercie części zamówienia, których wykonanie zamierza powierzyć
+podwykonawcom i podania przez Wykonawcę firm podwykonawców (jeżeli są znani). 13.
+Zamawiający nie zastrzega obowiązku osobistego wykonania przez Wykonawcę kluczowych
+części zamówienia. 14. Powierzenie części zamówienia podwykonawcom nie zwalnia
+Wykonawcy z odpowiedzialności za należyte wykonanie zamówienia. 15. Zamawiający nie
+przewiduje aukcji elektronicznej. 16. Dostawę należy wykonać z zachowaniem szczególnej
+staranności, zgodnie z umową oraz niniejszą SWZ. 17. Zamawiający nie przewiduje
+rozliczenia w walutach obcych. 18. Zamawiający nie przewiduje zwrotu kosztów udziału w
+postępowaniu. 19. Zamawiający nie przewiduje udzielania zaliczek na poczet wykonania
+zamówienia. 20. Zamawiający nie prowadzi postępowania w celu zawarcia umowy ramowej.
+421973-2025 Page 3/1821. Do postępowania stosuje się przepisy dotyczące nabywania dostaw. 22. SWZ podpisana
+przez Kierownika Zamawiającego dostępny jest w formie papierowej w siedzibie
+Zamawiającego. 23. Zgodnie z art. 310 pkt 1 PZP Zamawiający przewiduje możliwość
+unieważnienia przedmiotowego postępowania, jeżeli środki, które Zamawiający zamierzał
+przeznaczyć na sfinansowanie całości lub części zamówienia, nie zostały mu przyznane. 24.
+Zamawiający nie zastrzega możliwości ubiegania się o udzielenie zamówienia wyłącznie przez
+wykonawców, o których mowa w art. 94 PZP. 25. Zamawiający nie określa dodatkowych
+wymagań związanych z zatrudnianiem osób, o których mowa w art. 96 ust. 2 pkt 2 PZP. 26.
+Zmawiający dopuszcza złożenia oferty przez dwa lub więcej podmiotów wspólnie
+ubiegających się o udzielenie zamówienia publicznego na zasadach opisanych w treści art. 58
+ustawy PZP. 27. Zamawiający nie przewiduje możliwości udzielenia zamówienia polegającego
+na powtórzeniu podobnych usług na podstawie art. 214 ust. 1 pkt 7 ustawy PZP. 28. System
+operacyjny zainstalowany w komputerach lub serwerach musi : być w pełni kompatybilny z
+oferowanym sprzętem, musi być fabrycznie nowy, nieużywany oraz nieaktywowany wcześniej
+na innych urządzeniach oraz musi pochodzić z legalnego źródła sprzedaży. Ponadto Licencja
+musi: być przeznaczona do użytku na polskim rynku, musi być nieograniczona w czasie oraz
+umożliwiać ewentualny upgrade jak również wielokrotną ponowną instalacje systemu z
+dostarczonych nośników lub z partycji bez potrzeby ręcznego wpisywania klucza licencyjnego
+Zainstalowany system operacyjny (również po każdorazowej reinstalacji) nie może wymagać
+aktywacji klucza licencyjnego za pośrednictwem telefonu lub Internetu. Wymagana jest także
+możliwość przywrócenia stanu fabrycznego systemu operacyjnego i oprogramowania. System
+operacyjny musi : • być w pełni kompatybilny z oferowanym sprzętem • być fabrycznie nowy,
+nieużywany oraz nieaktywowany wcześniej na innych urządzeniach • pochodzić z legalnego
+źródła sprzedaży 29. Gwarancja: Wymagany minimalny okres gwarancji i rękojmi został
+określony przez Zamawiającego w opisie przedmiotu zamówienia. Oferty zawierające okres
+gwarancji i rękojmi krótszy niż wskazany OPZ zostaną odrzucone. 1. Wykonawca udziela
+rękojmi na okres 24 miesięcy Zamawiający z tytułu rękojmi może żądać usunięcia wady, jeżeli
+ujawniła się ona w czasie trwania rękojmi. 2. Gwarancja obejmuje wszystkie elementy
+dostarczonego sprzętu (w tym oprogramowania) wraz z niezbędnym wyposażeniem, z
+wyłączeniem materiałów eksploatacyjnych, podlegających zużyciu podczas normalnej
+eksploatacji. W okresie gwarancji Wykonawca nie może odmówić wymiany niesprawnej części
+(w przypadku dysku na nowy), gdy jej naprawa nie gwarantuje prawidłowej pracy sprzętu. 3.
+W przypadku max. 3 napraw gwarancyjnych tego samego modułu/podzespołu Wykonawca
+będzie zobowiązany dokonać jego wymiany na nowy w pełni sprawny. 4. Zamawiający z tytułu
+gwarancji może żądać usunięcia wady, jeżeli ujawniła się ona w czasie trwania gwarancji. 5.
+Zamawiający może wykonywać uprawnienia z tytułu rękojmi lub gwarancji po upływie okresu
+trwania rękojmi lub gwarancji, jeżeli zawiadomił Wykonawcę o wadzie przed jego upływem. 6.
+Zamawiający może według swojego wyboru wykonywać uprawnienia z tytułu rękojmi albo
+gwarancji. 7. Na podstawie uprawnień wynikających z tytułu gwarancji lub rękojmi
+Zamawiający może żądać usunięcia wady, wyznaczając Wykonawcy w tym celu odpowiedni,
+technicznie uzasadniony termin z zagrożeniem, że po bezskutecznym upływie terminu może
+usunąć wady na koszt i ryzyko Wykonawcy, wybierając w tym celu dowolny podmiot. Koszty
+poniesione przez Zamawiającego z tego tytułu, powiększone o kary umowne wynikające z
+przedmiotowej umowy, mogą być potrącane przez Zamawiającego z wierzytelności
+Wykonawcy lub Wykonawca zostanie obciążony na podstawie faktury VAT, wystawionej przez
+Zamawiającego. 8. W przypadku konieczności transportu uszkodzonego sprzętu transport na
+koszt własny zapewnia Wykonawca. 9. Zgłoszenie awarii lub wady następuje telefonicznie
+/faxem na numer telefonu/faxu 10. W czasie obowiązywania udzielonej gwarancji lub rękojmi,
+Wykonawca na własny koszt dojeżdża do uszkodzonego sprzętu. 11. W przypadku istotnej
+naprawy sprzętu (tj. naprawy jego głównych elementów), termin gwarancji lub rękojmi całego
+421973-2025 Page 4/185.1.6.5.1.3.5.1.2.5.1.1.5.1.2.1.6.2.1.5.sprzętu, o którym mowa w ust. 1 i ust. 2, zaczyna swój bieg na nowo od daty zakończenia
+skutecznej naprawy. W przypadku naprawy wiążącej się z wymianą części, termin gwarancji
+albo rękojmi na wymienione części równy jest okresowi, o którym mowa w ust. 1 albo ust. 2, i
+rozpoczyna swój bieg od daty wymiany części – w zależności od tego, czy Zamawiający
+skorzystał z uprawnień na podstawie gwarancji, czy rękojmi. 12. Wykonawca oświadcza, że
+rozbudowa zakupionego sprzętu o dodatkowe elementy, w celu zachowania uprawnień
+wynikających z rękojmi lub gwarancji, wymaga zgody Wykonawcy. Bez uzasadnionych
+powodów Wykonawca nie może odmówić takiej zgody. W przypadku braku odpowiedzi na
+pismo Zamawiającego przez Wykonawcę w terminie 3 dni roboczych, licząc od dnia
+otrzymania pisma Zamawiającego, uważa się, że Wykonawca wyraził
+Podstawa prawna :
+Dyrektywa 2014/24/UE
+Warunki udzielenia zamówienia
+Warunki zgłoszenia :
+Maksymalna liczba części zamówienia, na które jeden oferent może składać oferty : 4
+Warunki zamówienia :
+Maksymalna liczba części zamówienia, których można udzielić jednemu oferentowi : 4
+Podstawy wykluczenia
+Powody wykluczenia źródła : Dokumenty zamówienia
+5. Część zamówienia
+Część zamówienia : LOT-0001
+Tytuł : Cześć 1 Dostawa urządzeń i akcesoriów komputerowych Nr postępowania:ADP.
+2301.72.2025
+Opis: Przedmiotem zamówienia jest dostawa dostawa sprzętu komputerowego ( laptopów, )
+do Uniwersytetu Jana Kochanowskiego w Kielcach
+Wewnętrzny identyfikator : ADP.2301.72.2025 cz 1
+Przeznaczenie
+Charakter zamówienia : Dostawy
+Główna klasyfikacja  (cpv): 30200000  Urządzenia komputerowe
+, Dodatkowa klasyfikacja  (cpv): 30236000  Różny sprzęt komputerowy 48000000
+Pakiety oprogramowania i systemy informatyczne
+Miejsce realizacji
+Adres pocztowy : ul. Żeromskiego 5
+Miejscowość : Kielce
+Kod pocztowy : 25-369
+Podpodział krajowy (NUTS) : Kielecki  (PL721 )
+Kraj: Polska
+Szacowany okres obowiązywania
+Okres obowiązywania : 30 Dni
+Informacje ogólne
+Zastrzeżony udział : Udział nie jest zastrzeżony.
+Projekt zamówienia niefinansowany z funduszy UE
+Zamówienie jest objęte zakresem Porozumienia w sprawie zamówień rządowych (GPA) : nie
+421973-2025 Page 5/185.1.12.5.1.11.5.1.10.5.1.9.Informacje dodatkowe : 1. Termin dostawy zamówienia: maksymalnie do 30 dni
+kalendarzowych od daty zawarcia umowy. Uwaga: termin dostawy zamówienia stanowi jedno
+z kryteriów oceny oferty (patrz rozdział 17) 2. Za termin końcowy wykonania zamówienia
+przyjmuje się dzień podpisania bezusterkowego końcowego protokołu odbioru przedmiotu
+zamówienia. 3. Miejsce dostawy zamówienia: przedmiot zamówienia należy dostarczyć do
+siedziby Zamawiającego – do pomieszczeń wskazanych przez Zamawiającego w umowie. 4.
+Dokładny termin dostawy należy bezwzględnie ustalić z Zamawiającym. 5. Podstawą do
+wystawienia faktury VAT na płatnika - Zamawiającego jest należyte wykonanie umowy,
+potwierdzone pisemnym bezusterkowym końcowym protokołem odbioru, ( po sprawdzeniu
+całości dostarczonego sprzętu) którego wzór stanowi załącznik do niniejszej umowy,
+podpisanym przez imiennie upoważnioną przez Zamawiającego osobę, pełniącą nadzór nad
+realizacją umowy, Wykonawcę lub upoważnionego pisemnie przedstawiciela Wykonawcy.
+Zamawiający za najkorzystniejszą uzna ofertę niepodlegającą odrzuceniu, która uzyska
+największą liczbę punktów obliczoną w oparciu o podane kryteria oceny ofert. 1. Zamawiający
+dokona oceny ofert według następujących kryteriów i ich wag: cena 60% termin realizacji 40%
+Oferta zawierająca propozycję maksymalnego wymaganego czasu dostawy (30 dni) otrzyma 0
+(zero) punktów. Za każdy dzień skrócenia dostawy sprzętu- oferta otrzyma 2 (dwa) punkty.
+Maksymalnie za kryterium „termin dostawy zamówienia” można otrzymać 40 punktów (za czas
+dostawy 10 dni kalendarzowych i krótszy) dla całego zamówienia.
+Kryteria kwalifikacji
+Źródła kryteriów wyboru : Dokumenty zamówienia
+Kryteria udzielenia zamówienia
+: Kryterium
+: Rodzaj Cena
+Opis: cena brutto za realizację przedmiotu zamówienia; 1) Sposób oceny ofert dla kryterium -
+cena brutto (1): najniższa oferowana cena brutto /cena brutto badanej oferty x 60 pkt
+: Kategoria kryterium udzielenia zamówienia waga Waga (wartość procentowa, dokładna)
+Kryterium udzielenia - Liczba : 60,00
+: Kryterium
+: Rodzaj Jakość
+Opis: 2) Sposób oceny ofert dla kryterium nr 2 termin dostawy zamówienia (2): Zamawiający
+wymaga dostawy najpóźniej 30 dni od daty podpisania umowy. Oferta zawierająca propozycję
+maksymalnego wymaganego czasu dostawy (30 dni) otrzyma 0 (zero) punktów. Za każdy
+dzień skrócenia dostawy sprzętu- oferta otrzyma 2 (dwa) punkty. Maksymalnie za kryterium
+„termin dostawy zamówienia” można otrzymać 40 punktów (za czas dostawy 10 dni
+kalendarzowych i krótszy) dla całego zamówienia. W ofercie Wykonawca winien podać ilość
+dni kalendarzowych w których dostarczy przedmiot umowy. Maksymalny termin dostawy
+zamówienia wynosi 30 dni licząc od daty zawarcia umowy. Jeżeli Wykonawca zaoferuje termin
+dostawy zadania dłuższy niż 30 dni lub nie wskaże żadnego terminu, jego oferta zostanie
+odrzucona na podstawie art. 226 ust. 1 pkt. 5) ustawy PZP.
+: Kategoria kryterium udzielenia zamówienia waga Waga (wartość procentowa, dokładna)
+Kryterium udzielenia - Liczba : 40,00
+Dokumenty zamówienia
+Adres dokumentów zamówienia : https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-
+c5605171-16b5-40a6-ac25-9bed8ed164d7
+Warunki udzielenia zamówienia
+Warunki zgłoszenia :
+421973-2025 Page 6/185.1.16.5.1.15.Zgłoszenie elektroniczne : Wymagane
+Adres na potrzeby zgłoszenia : https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-
+c5605171-16b5-40a6-ac25-9bed8ed164d7
+Języki, w których można składać oferty lub wnioski o dopuszczenie do udziału : polski
+Katalog elektroniczny : Niedozwolone
+Wymagane jest użycie zaawansowanego lub kwalifikowanego podpisu elektronicznego lub
+pieczęci elektronicznej (zgodnie z definicją w rozporządzeniu (UE) nr 910/2014)
+Termin składania ofert : 05/08/2025  10:00:00 (UTC+2) czas wschodnioeuropejski, czas
+środkowoeuropejski letni
+Termin, do którego oferta musi pozostać ważna : 90 Dni
+Informacje na temat publicznego otwarcia :
+Data otwarcia : 05/08/2025  11:00:00 (UTC+2) czas wschodnioeuropejski, czas
+środkowoeuropejski letni
+Miejsce : 1. Otwarcie ofert nastąpi w dniu 05.08.2025 r. o godzinie 11:00 na Platformie e-
+Zamówienia. 2. W przypadku awarii systemu, która powoduje brak możliwości otwarcia ofert w
+terminie określonym przez Zamawiającego otwarcie ofert nastąpi niezwłocznie po usunięciu
+awarii. 3. Zamawiający nie przewiduje przeprowadzenia jawnej sesji otwarcia ofert z udziałem
+Wykonawców, jak też transmitowania sesji otwarcia za pośrednictwem elektronicznych
+narzędzi do przekazu wideo on-line. 4. Zamawiający, najpóźniej przed otwarciem ofert,
+udostępni na stronie internetowej prowadzonego postępowania informację o kwocie, jaką
+zamierza przeznaczyć na sfinansowanie zamówienia.
+Informacje dodatkowe : Wykonawca będzie związany ofertą od dnia upływu terminu składania
+ofert, przy czym pierwszym dniem terminu związania ofertą jest dzień, w którym upływa termin
+składania ofert, przez okres 90 dni, tj. do dnia: 02.11.2025 r.
+Warunki zamówienia :
+Wykonanie zamówienia musi odbywać się w ramach programów zatrudnienia chronionego : Nie
+Fakturowanie elektroniczne : Dozwolone
+Stosowane będą zlecenia elektroniczne : tak
+Stosowane będą płatności elektroniczne : tak
+Techniki
+Umowa ramowa :
+Brak umowy ramowej
+Informacje o dynamicznym systemie zakupów :
+Brak dynamicznego systemu zakupów
+Aukcja elektroniczna : nie
+Dalsze informacje, mediacja i odwołanie
+Organ mediacyjny : Prezes Krajowej Izby Odwoławczej
+Organ odwoławczy : Prezes Krajowej Izby Odwoławczej
+Informacje o terminach odwołania : 1. Środki ochrony prawnej przysługują wykonawcy,
+uczestnikowi konkursu oraz innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu
+zamówienia lub nagrody w konkursie oraz poniósł lub może ponieść szkodę w wyniku
+naruszenia przez zamawiającego przepisów ustawy PZP. 2. Środki ochrony prawnej wobec
+ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub ogłoszenia o
+konkursie oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę,
+o której mowa w art. 469 pkt 15 PZP oraz Rzecznikowi Małych i Średnich Przedsiębiorców. 3.
+Odwołanie przysługuje na: 1) niezgodną z przepisami ustawy czynność Zamawiającego,
+podjętą w postępowaniu o udzielenie zamówienia, w tym na projektowane postanowienie
+421973-2025 Page 7/185.1.2.5.1.1.5.1.umowy; 2) zaniechanie czynności w postępowaniu o udzielenie zamówienia do której
+zamawiający był obowiązany na podstawie ustawy; 4. Odwołanie wnosi się do Prezesa Izby.
+Odwołujący przekazuje kopię odwołania zamawiającemu przed upływem terminu do
+wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem
+tego terminu. 5. Odwołanie wobec treści ogłoszenia lub treści SWZ wnosi się w terminie 10 dni
+od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia
+dokumentów zamówienia na stronie internetowej. 6. Odwołanie wnosi się w terminie: 1) 10 dni
+od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego
+wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji
+elektronicznej, 2) 15 dni od dnia przekazania informacji o czynności zamawiającego
+stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż
+określony w pkt 1). 7. Odwołanie w przypadkach innych niż określone w pkt 5 i 6 wnosi się w
+terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można
+było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia. 8. Na
+orzeczenie Izby oraz postanowienie Prezesa Izby, o którym mowa w art. 519 ust. 1 ustawy
+PZP, stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do sądu. 9.
+W postępowaniu toczącym się wskutek wniesienia skargi stosuje się odpowiednio przepisy
+ustawy z dnia 17.11.1964 r. - Kodeks postępowania cywilnego o apelacji, jeżeli przepisy
+niniejszego rozdziału nie stanowią inaczej. 10. Skargę wnosi się do Sądu Okręgowego w
+Warszawie - sądu zamówień publicznych, zwanego dalej "sądem zamówień publicznych". 11.
+Skargę wnosi się za pośrednictwem Prezesa Izby, w terminie 14 dni od dnia doręczenia
+orzeczenia Izby lub postanowienia Prezesa Izby, o którym mowa w art. 519 ust. 1 ustawy
+PZP, przesyłając jednocześnie jej odpis przeciwnikowi skargi. Złożenie skargi w placówce
+pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23.11.2012 r. - Prawo
+pocztowe jest równoznaczne z jej wniesieniem. 12. Prezes Izby przekazuje skargę wraz z
+aktami postępowania odwoławczego do sądu zamówień publicznych w terminie 7 dni od dnia
+jej otrzymania.
+Organizacja udzielająca dodatkowych informacji na temat postępowania o udzielenie
+zamówienia : Uniwersytet Jana Kochanowskiego w Kielcach
+Organizacja udzielająca dodatkowych informacji na temat procedur odwoławczych : Prezes
+Krajowej Izby Odwoławczej
+Część zamówienia : LOT-0002
+Tytuł : Cześć 2 Dostawa urządzeń i akcesoriów komputerowych Nr postępowania:ADP.
+2301.72.2025
+Opis: Przedmiotem zamówienia jest dostawa dostawa sprzętu komputerowego ( drukarek ,
+urządzeń wielofunkcyjnych, ) do Uniwersytetu Jana Kochanowskiego w Kielcach
+Wewnętrzny identyfikator : ADP.2301.72.2025 cz 2
+Przeznaczenie
+Charakter zamówienia : Dostawy
+Główna klasyfikacja  (cpv): 30200000  Urządzenia komputerowe
+, Dodatkowa klasyfikacja  (cpv): 30236000  Różny sprzęt komputerowy 48000000
+Pakiety oprogramowania i systemy informatyczne
+Miejsce realizacji
+Adres pocztowy : ul. Żeromskiego 5
+Miejscowość : Kielce
+Kod pocztowy : 25-369
+Podpodział krajowy (NUTS) : Kielecki  (PL721 )
+421973-2025 Page 8/185.1.10.5.1.9.5.1.6.5.1.3.Kraj: Polska
+Szacowany okres obowiązywania
+Okres obowiązywania : 30 Dni
+Informacje ogólne
+Zastrzeżony udział : Udział nie jest zastrzeżony.
+Projekt zamówienia niefinansowany z funduszy UE
+Zamówienie jest objęte zakresem Porozumienia w sprawie zamówień rządowych (GPA) : nie
+Informacje dodatkowe : 1. Termin dostawy zamówienia: maksymalnie do 30 dni
+kalendarzowych od daty zawarcia umowy. Uwaga: termin dostawy zamówienia stanowi jedno
+z kryteriów oceny oferty (patrz rozdział 17) 2. Za termin końcowy wykonania zamówienia
+przyjmuje się dzień podpisania bezusterkowego końcowego protokołu odbioru przedmiotu
+zamówienia. 3. Miejsce dostawy zamówienia: przedmiot zamówienia należy dostarczyć do
+siedziby Zamawiającego – do pomieszczeń wskazanych przez Zamawiającego w umowie. 4.
+Dokładny termin dostawy należy bezwzględnie ustalić z Zamawiającym. 5. Podstawą do
+wystawienia faktury VAT na płatnika - Zamawiającego jest należyte wykonanie umowy,
+potwierdzone pisemnym bezusterkowym końcowym protokołem odbioru, ( po sprawdzeniu
+całości dostarczonego sprzętu) którego wzór stanowi załącznik do niniejszej umowy,
+podpisanym przez imiennie upoważnioną przez Zamawiającego osobę, pełniącą nadzór nad
+realizacją umowy, Wykonawcę lub upoważnionego pisemnie przedstawiciela Wykonawcy.
+Zamawiający za najkorzystniejszą uzna ofertę niepodlegającą odrzuceniu, która uzyska
+największą liczbę punktów obliczoną w oparciu o podane kryteria oceny ofert. 1. Zamawiający
+dokona oceny ofert według następujących kryteriów i ich wag: cena 60% termin realizacji 40%
+Oferta zawierająca propozycję maksymalnego wymaganego czasu dostawy (30 dni) otrzyma 0
+(zero) punktów. Za każdy dzień skrócenia dostawy sprzętu- oferta otrzyma 2 (dwa) punkty.
+Maksymalnie za kryterium „termin dostawy zamówienia” można otrzymać 40 punktów (za czas
+dostawy 10 dni kalendarzowych i krótszy) dla całego zamówienia.
+Kryteria kwalifikacji
+Źródła kryteriów wyboru : Dokumenty zamówienia
+Kryteria udzielenia zamówienia
+: Kryterium
+: Rodzaj Cena
+Opis: cena brutto za realizację przedmiotu zamówienia; 1) Sposób oceny ofert dla kryterium -
+cena brutto (1): najniższa oferowana cena brutto /cena brutto badanej oferty x 60 pkt
+: Kategoria kryterium udzielenia zamówienia waga Waga (wartość procentowa, dokładna)
+Kryterium udzielenia - Liczba : 60,00
+: Kryterium
+: Rodzaj Jakość
+Opis: 2) Sposób oceny ofert dla kryterium nr 2 termin dostawy zamówienia (2): Zamawiający
+wymaga dostawy najpóźniej 30 dni od daty podpisania umowy. Oferta zawierająca propozycję
+maksymalnego wymaganego czasu dostawy (30 dni) otrzyma 0 (zero) punktów. Za każdy
+dzień skrócenia dostawy sprzętu- oferta otrzyma 2 (dwa) punkty. Maksymalnie za kryterium
+„termin dostawy zamówienia” można otrzymać 40 punktów (za czas dostawy 10 dni
+kalendarzowych i krótszy) dla całego zamówienia. W ofercie Wykonawca winien podać ilość
+dni kalendarzowych w których dostarczy przedmiot umowy. Maksymalny termin dostawy
+421973-2025 Page 9/185.1.16.5.1.15.5.1.12.5.1.11.zamówienia wynosi 30 dni licząc od daty zawarcia umowy. Jeżeli Wykonawca zaoferuje termin
+dostawy zadania dłuższy niż 30 dni lub nie wskaże żadnego terminu, jego oferta zostanie
+odrzucona na podstawie art. 226 ust. 1 pkt. 5) ustawy PZP.
+: Kategoria kryterium udzielenia zamówienia waga Waga (wartość procentowa, dokładna)
+Kryterium udzielenia - Liczba : 40,00
+Dokumenty zamówienia
+Adres dokumentów zamówienia : https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-
+c5605171-16b5-40a6-ac25-9bed8ed164d7
+Warunki udzielenia zamówienia
+Warunki zgłoszenia :
+Zgłoszenie elektroniczne : Wymagane
+Adres na potrzeby zgłoszenia : https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-
+c5605171-16b5-40a6-ac25-9bed8ed164d7
+Języki, w których można składać oferty lub wnioski o dopuszczenie do udziału : polski
+Katalog elektroniczny : Niedozwolone
+Wymagane jest użycie zaawansowanego lub kwalifikowanego podpisu elektronicznego lub
+pieczęci elektronicznej (zgodnie z definicją w rozporządzeniu (UE) nr 910/2014)
+Termin składania ofert : 05/08/2025  10:00:00 (UTC+2) czas wschodnioeuropejski, czas
+środkowoeuropejski letni
+Termin, do którego oferta musi pozostać ważna : 90 Dni
+Informacje na temat publicznego otwarcia :
+Data otwarcia : 05/08/2025  11:00:00 (UTC+2) czas wschodnioeuropejski, czas
+środkowoeuropejski letni
+Miejsce : 1. Otwarcie ofert nastąpi w dniu 05.08.2025 r. o godzinie 11:00 na Platformie e-
+Zamówienia. 2. W przypadku awarii systemu, która powoduje brak możliwości otwarcia ofert w
+terminie określonym przez Zamawiającego otwarcie ofert nastąpi niezwłocznie po usunięciu
+awarii. 3. Zamawiający nie przewiduje przeprowadzenia jawnej sesji otwarcia ofert z udziałem
+Wykonawców, jak też transmitowania sesji otwarcia za pośrednictwem elektronicznych
+narzędzi do przekazu wideo on-line. 4. Zamawiający, najpóźniej przed otwarciem ofert,
+udostępni na stronie internetowej prowadzonego postępowania informację o kwocie, jaką
+zamierza przeznaczyć na sfinansowanie zamówienia.
+Informacje dodatkowe : Wykonawca będzie związany ofertą od dnia upływu terminu składania
+ofert, przy czym pierwszym dniem terminu związania ofertą jest dzień, w którym upływa termin
+składania ofert, przez okres 90 dni, tj. do dnia: 02.11.2025 r.
+Warunki zamówienia :
+Wykonanie zamówienia musi odbywać się w ramach programów zatrudnienia chronionego : Nie
+Fakturowanie elektroniczne : Dozwolone
+Stosowane będą zlecenia elektroniczne : tak
+Stosowane będą płatności elektroniczne : tak
+Techniki
+Umowa ramowa :
+Brak umowy ramowej
+Informacje o dynamicznym systemie zakupów :
+Brak dynamicznego systemu zakupów
+Aukcja elektroniczna : nie
+Dalsze informacje, mediacja i odwołanie
+Organ mediacyjny : Prezes Krajowej Izby Odwoławczej
+421973-2025 Page 10/185.1.1.5.1.Organ odwoławczy : Prezes Krajowej Izby Odwoławczej
+Informacje o terminach odwołania : 1. Środki ochrony prawnej przysługują wykonawcy,
+uczestnikowi konkursu oraz innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu
+zamówienia lub nagrody w konkursie oraz poniósł lub może ponieść szkodę w wyniku
+naruszenia przez zamawiającego przepisów ustawy PZP. 2. Środki ochrony prawnej wobec
+ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub ogłoszenia o
+konkursie oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę,
+o której mowa w art. 469 pkt 15 PZP oraz Rzecznikowi Małych i Średnich Przedsiębiorców. 3.
+Odwołanie przysługuje na: 1) niezgodną z przepisami ustawy czynność Zamawiającego,
+podjętą w postępowaniu o udzielenie zamówienia, w tym na projektowane postanowienie
+umowy; 2) zaniechanie czynności w postępowaniu o udzielenie zamówienia do której
+zamawiający był obowiązany na podstawie ustawy; 4. Odwołanie wnosi się do Prezesa Izby.
+Odwołujący przekazuje kopię odwołania zamawiającemu przed upływem terminu do
+wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem
+tego terminu. 5. Odwołanie wobec treści ogłoszenia lub treści SWZ wnosi się w terminie 10 dni
+od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia
+dokumentów zamówienia na stronie internetowej. 6. Odwołanie wnosi się w terminie: 1) 10 dni
+od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego
+wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji
+elektronicznej, 2) 15 dni od dnia przekazania informacji o czynności zamawiającego
+stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż
+określony w pkt 1). 7. Odwołanie w przypadkach innych niż określone w pkt 5 i 6 wnosi się w
+terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można
+było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia. 8. Na
+orzeczenie Izby oraz postanowienie Prezesa Izby, o którym mowa w art. 519 ust. 1 ustawy
+PZP, stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do sądu. 9.
+W postępowaniu toczącym się wskutek wniesienia skargi stosuje się odpowiednio przepisy
+ustawy z dnia 17.11.1964 r. - Kodeks postępowania cywilnego o apelacji, jeżeli przepisy
+niniejszego rozdziału nie stanowią inaczej. 10. Skargę wnosi się do Sądu Okręgowego w
+Warszawie - sądu zamówień publicznych, zwanego dalej "sądem zamówień publicznych". 11.
+Skargę wnosi się za pośrednictwem Prezesa Izby, w terminie 14 dni od dnia doręczenia
+orzeczenia Izby lub postanowienia Prezesa Izby, o którym mowa w art. 519 ust. 1 ustawy
+PZP, przesyłając jednocześnie jej odpis przeciwnikowi skargi. Złożenie skargi w placówce
+pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23.11.2012 r. - Prawo
+pocztowe jest równoznaczne z jej wniesieniem. 12. Prezes Izby przekazuje skargę wraz z
+aktami postępowania odwoławczego do sądu zamówień publicznych w terminie 7 dni od dnia
+jej otrzymania.
+Organizacja udzielająca dodatkowych informacji na temat postępowania o udzielenie
+zamówienia : Uniwersytet Jana Kochanowskiego w Kielcach
+Organizacja udzielająca dodatkowych informacji na temat procedur odwoławczych : Prezes
+Krajowej Izby Odwoławczej
+Część zamówienia : LOT-0003
+Tytuł : Cześć 3 Dostawa urządzeń i akcesoriów komputerowych Nr postępowania:ADP.
+2301.72.2025
+Opis: Przedmiotem zamówienia jest dostawa dostawa sprzętu komputerowego ( SERWER
+OBLICZENIOWY, ) do Uniwersytetu Jana Kochanowskiego w Kielcach
+Wewnętrzny identyfikator : ADP.2301.72.2025 cz 3
+Przeznaczenie
+421973-2025 Page 11/185.1.10.5.1.9.5.1.6.5.1.3.5.1.2.Charakter zamówienia : Dostawy
+Główna klasyfikacja  (cpv): 30200000  Urządzenia komputerowe
+, Dodatkowa klasyfikacja  (cpv): 30236000  Różny sprzęt komputerowy 48000000
+Pakiety oprogramowania i systemy informatyczne
+Miejsce realizacji
+Adres pocztowy : ul. Żeromskiego 5
+Miejscowość : Kielce
+Kod pocztowy : 25-369
+Podpodział krajowy (NUTS) : Kielecki  (PL721 )
+Kraj: Polska
+Szacowany okres obowiązywania
+Okres obowiązywania : 30 Dni
+Informacje ogólne
+Zastrzeżony udział : Udział nie jest zastrzeżony.
+Projekt zamówienia niefinansowany z funduszy UE
+Zamówienie jest objęte zakresem Porozumienia w sprawie zamówień rządowych (GPA) : nie
+Informacje dodatkowe : 1. Termin dostawy zamówienia: maksymalnie do 30 dni
+kalendarzowych od daty zawarcia umowy. Uwaga: termin dostawy zamówienia stanowi jedno
+z kryteriów oceny oferty (patrz rozdział 17) 2. Za termin końcowy wykonania zamówienia
+przyjmuje się dzień podpisania bezusterkowego końcowego protokołu odbioru przedmiotu
+zamówienia. 3. Miejsce dostawy zamówienia: przedmiot zamówienia należy dostarczyć do
+siedziby Zamawiającego – do pomieszczeń wskazanych przez Zamawiającego w umowie. 4.
+Dokładny termin dostawy należy bezwzględnie ustalić z Zamawiającym. 5. Podstawą do
+wystawienia faktury VAT na płatnika - Zamawiającego jest należyte wykonanie umowy,
+potwierdzone pisemnym bezusterkowym końcowym protokołem odbioru, ( po sprawdzeniu
+całości dostarczonego sprzętu) którego wzór stanowi załącznik do niniejszej umowy,
+podpisanym przez imiennie upoważnioną przez Zamawiającego osobę, pełniącą nadzór nad
+realizacją umowy, Wykonawcę lub upoważnionego pisemnie przedstawiciela Wykonawcy.
+Zamawiający za najkorzystniejszą uzna ofertę niepodlegającą odrzuceniu, która uzyska
+największą liczbę punktów obliczoną w oparciu o podane kryteria oceny ofert. 1. Zamawiający
+dokona oceny ofert według następujących kryteriów i ich wag: cena 60% termin realizacji 40%
+Oferta zawierająca propozycję maksymalnego wymaganego czasu dostawy (30 dni) otrzyma 0
+(zero) punktów. Za każdy dzień skrócenia dostawy sprzętu- oferta otrzyma 2 (dwa) punkty.
+Maksymalnie za kryterium „termin dostawy zamówienia” można otrzymać 40 punktów (za czas
+dostawy 10 dni kalendarzowych i krótszy) dla całego zamówienia.
+Kryteria kwalifikacji
+Źródła kryteriów wyboru : Dokumenty zamówienia
+Kryteria udzielenia zamówienia
+: Kryterium
+: Rodzaj Cena
+Opis: cena brutto za realizację przedmiotu zamówienia; 1) Sposób oceny ofert dla kryterium -
+cena brutto (1): najniższa oferowana cena brutto /cena brutto badanej oferty x 60 pkt
+: Kategoria kryterium udzielenia zamówienia waga Waga (wartość procentowa, dokładna)
+Kryterium udzielenia - Liczba : 60,00
+: Kryterium
+421973-2025 Page 12/185.1.15.5.1.12.5.1.11.: Rodzaj Jakość
+Opis: 2) Sposób oceny ofert dla kryterium nr 2 termin dostawy zamówienia (2): Zamawiający
+wymaga dostawy najpóźniej 30 dni od daty podpisania umowy. Oferta zawierająca propozycję
+maksymalnego wymaganego czasu dostawy (30 dni) otrzyma 0 (zero) punktów. Za każdy
+dzień skrócenia dostawy sprzętu- oferta otrzyma 2 (dwa) punkty. Maksymalnie za kryterium
+„termin dostawy zamówienia” można otrzymać 40 punktów (za czas dostawy 10 dni
+kalendarzowych i krótszy) dla całego zamówienia. W ofercie Wykonawca winien podać ilość
+dni kalendarzowych w których dostarczy przedmiot umowy. Maksymalny termin dostawy
+zamówienia wynosi 30 dni licząc od daty zawarcia umowy. Jeżeli Wykonawca zaoferuje termin
+dostawy zadania dłuższy niż 30 dni lub nie wskaże żadnego terminu, jego oferta zostanie
+odrzucona na podstawie art. 226 ust. 1 pkt. 5) ustawy PZP.
+: Kategoria kryterium udzielenia zamówienia waga Waga (wartość procentowa, dokładna)
+Kryterium udzielenia - Liczba : 40,00
+Dokumenty zamówienia
+Adres dokumentów zamówienia : https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-
+c5605171-16b5-40a6-ac25-9bed8ed164d7
+Warunki udzielenia zamówienia
+Warunki zgłoszenia :
+Zgłoszenie elektroniczne : Wymagane
+Adres na potrzeby zgłoszenia : https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-
+c5605171-16b5-40a6-ac25-9bed8ed164d7
+Języki, w których można składać oferty lub wnioski o dopuszczenie do udziału : polski
+Katalog elektroniczny : Niedozwolone
+Wymagane jest użycie zaawansowanego lub kwalifikowanego podpisu elektronicznego lub
+pieczęci elektronicznej (zgodnie z definicją w rozporządzeniu (UE) nr 910/2014)
+Termin składania ofert : 05/08/2025  10:00:00 (UTC+2) czas wschodnioeuropejski, czas
+środkowoeuropejski letni
+Termin, do którego oferta musi pozostać ważna : 90 Dni
+Informacje na temat publicznego otwarcia :
+Data otwarcia : 05/08/2025  11:00:00 (UTC+2) czas wschodnioeuropejski, czas
+środkowoeuropejski letni
+Miejsce : 1. Otwarcie ofert nastąpi w dniu 05.08.2025 r. o godzinie 11:00 na Platformie e-
+Zamówienia. 2. W przypadku awarii systemu, która powoduje brak możliwości otwarcia ofert w
+terminie określonym przez Zamawiającego otwarcie ofert nastąpi niezwłocznie po usunięciu
+awarii. 3. Zamawiający nie przewiduje przeprowadzenia jawnej sesji otwarcia ofert z udziałem
+Wykonawców, jak też transmitowania sesji otwarcia za pośrednictwem elektronicznych
+narzędzi do przekazu wideo on-line. 4. Zamawiający, najpóźniej przed otwarciem ofert,
+udostępni na stronie internetowej prowadzonego postępowania informację o kwocie, jaką
+zamierza przeznaczyć na sfinansowanie zamówienia.
+Informacje dodatkowe : Wykonawca będzie związany ofertą od dnia upływu terminu składania
+ofert, przy czym pierwszym dniem terminu związania ofertą jest dzień, w którym upływa termin
+składania ofert, przez okres 90 dni, tj. do dnia: 02.11.2025 r.
+Warunki zamówienia :
+Wykonanie zamówienia musi odbywać się w ramach programów zatrudnienia chronionego : Nie
+Fakturowanie elektroniczne : Dozwolone
+Stosowane będą zlecenia elektroniczne : tak
+Stosowane będą płatności elektroniczne : tak
+Techniki
+421973-2025 Page 13/185.1.16.Umowa ramowa :
+Brak umowy ramowej
+Informacje o dynamicznym systemie zakupów :
+Brak dynamicznego systemu zakupów
+Aukcja elektroniczna : nie
+Dalsze informacje, mediacja i odwołanie
+Organ mediacyjny : Prezes Krajowej Izby Odwoławczej
+Organ odwoławczy : Prezes Krajowej Izby Odwoławczej
+Informacje o terminach odwołania : 1. Środki ochrony prawnej przysługują wykonawcy,
+uczestnikowi konkursu oraz innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu
+zamówienia lub nagrody w konkursie oraz poniósł lub może ponieść szkodę w wyniku
+naruszenia przez zamawiającego przepisów ustawy PZP. 2. Środki ochrony prawnej wobec
+ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub ogłoszenia o
+konkursie oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę,
+o której mowa w art. 469 pkt 15 PZP oraz Rzecznikowi Małych i Średnich Przedsiębiorców. 3.
+Odwołanie przysługuje na: 1) niezgodną z przepisami ustawy czynność Zamawiającego,
+podjętą w postępowaniu o udzielenie zamówienia, w tym na projektowane postanowienie
+umowy; 2) zaniechanie czynności w postępowaniu o udzielenie zamówienia do której
+zamawiający był obowiązany na podstawie ustawy; 4. Odwołanie wnosi się do Prezesa Izby.
+Odwołujący przekazuje kopię odwołania zamawiającemu przed upływem terminu do
+wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem
+tego terminu. 5. Odwołanie wobec treści ogłoszenia lub treści SWZ wnosi się w terminie 10 dni
+od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia
+dokumentów zamówienia na stronie internetowej. 6. Odwołanie wnosi się w terminie: 1) 10 dni
+od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego
+wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji
+elektronicznej, 2) 15 dni od dnia przekazania informacji o czynności zamawiającego
+stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż
+określony w pkt 1). 7. Odwołanie w przypadkach innych niż określone w pkt 5 i 6 wnosi się w
+terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można
+było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia. 8. Na
+orzeczenie Izby oraz postanowienie Prezesa Izby, o którym mowa w art. 519 ust. 1 ustawy
+PZP, stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do sądu. 9.
+W postępowaniu toczącym się wskutek wniesienia skargi stosuje się odpowiednio przepisy
+ustawy z dnia 17.11.1964 r. - Kodeks postępowania cywilnego o apelacji, jeżeli przepisy
+niniejszego rozdziału nie stanowią inaczej. 10. Skargę wnosi się do Sądu Okręgowego w
+Warszawie - sądu zamówień publicznych, zwanego dalej "sądem zamówień publicznych". 11.
+Skargę wnosi się za pośrednictwem Prezesa Izby, w terminie 14 dni od dnia doręczenia
+orzeczenia Izby lub postanowienia Prezesa Izby, o którym mowa w art. 519 ust. 1 ustawy
+PZP, przesyłając jednocześnie jej odpis przeciwnikowi skargi. Złożenie skargi w placówce
+pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23.11.2012 r. - Prawo
+pocztowe jest równoznaczne z jej wniesieniem. 12. Prezes Izby przekazuje skargę wraz z
+aktami postępowania odwoławczego do sądu zamówień publicznych w terminie 7 dni od dnia
+jej otrzymania.
+Organizacja udzielająca dodatkowych informacji na temat postępowania o udzielenie
+zamówienia : Uniwersytet Jana Kochanowskiego w Kielcach
+Organizacja udzielająca dodatkowych informacji na temat procedur odwoławczych : Prezes
+Krajowej Izby Odwoławczej
+421973-2025 Page 14/185.1.10.5.1.9.5.1.6.5.1.3.5.1.2.5.1.1.5.1. Część zamówienia : LOT-0004
+Tytuł : Cześć 4 Dostawa urządzeń i akcesoriów komputerowych Nr postępowania:ADP.
+2301.72.2025
+Opis: Przedmiotem zamówienia jest dostawa dostawa sprzętu komputerowego ( Tablety,
+drukarki laptopy ) do Uniwersytetu Jana Kochanowskiego w Kielcach
+Wewnętrzny identyfikator : ADP.2301.72.2025 cz 4
+Przeznaczenie
+Charakter zamówienia : Dostawy
+Główna klasyfikacja  (cpv): 30200000  Urządzenia komputerowe
+, Dodatkowa klasyfikacja  (cpv): 30236000  Różny sprzęt komputerowy 48000000
+Pakiety oprogramowania i systemy informatyczne
+Miejsce realizacji
+Adres pocztowy : ul. Żeromskiego 5
+Miejscowość : Kielce
+Kod pocztowy : 25-369
+Podpodział krajowy (NUTS) : Kielecki  (PL721 )
+Kraj: Polska
+Szacowany okres obowiązywania
+Okres obowiązywania : 30 Dni
+Informacje ogólne
+Zastrzeżony udział : Udział nie jest zastrzeżony.
+Projekt zamówienia niefinansowany z funduszy UE
+Zamówienie jest objęte zakresem Porozumienia w sprawie zamówień rządowych (GPA) : nie
+Informacje dodatkowe : 1. Termin dostawy zamówienia: maksymalnie do 30 dni
+kalendarzowych od daty zawarcia umowy. Uwaga: termin dostawy zamówienia stanowi jedno
+z kryteriów oceny oferty (patrz rozdział 17) 2. Za termin końcowy wykonania zamówienia
+przyjmuje się dzień podpisania bezusterkowego końcowego protokołu odbioru przedmiotu
+zamówienia. 3. Miejsce dostawy zamówienia: przedmiot zamówienia należy dostarczyć do
+siedziby Zamawiającego – do pomieszczeń wskazanych przez Zamawiającego w umowie. 4.
+Dokładny termin dostawy należy bezwzględnie ustalić z Zamawiającym. 5. Podstawą do
+wystawienia faktury VAT na płatnika - Zamawiającego jest należyte wykonanie umowy,
+potwierdzone pisemnym bezusterkowym końcowym protokołem odbioru, ( po sprawdzeniu
+całości dostarczonego sprzętu) którego wzór stanowi załącznik do niniejszej umowy,
+podpisanym przez imiennie upoważnioną przez Zamawiającego osobę, pełniącą nadzór nad
+realizacją umowy, Wykonawcę lub upoważnionego pisemnie przedstawiciela Wykonawcy.
+Zamawiający za najkorzystniejszą uzna ofertę niepodlegającą odrzuceniu, która uzyska
+największą liczbę punktów obliczoną w oparciu o podane kryteria oceny ofert. 1. Zamawiający
+dokona oceny ofert według następujących kryteriów i ich wag: cena 60% termin realizacji 40%
+Oferta zawierająca propozycję maksymalnego wymaganego czasu dostawy (30 dni) otrzyma 0
+(zero) punktów. Za każdy dzień skrócenia dostawy sprzętu- oferta otrzyma 2 (dwa) punkty.
+Maksymalnie za kryterium „termin dostawy zamówienia” można otrzymać 40 punktów (za czas
+dostawy 10 dni kalendarzowych i krótszy) dla całego zamówienia.
+Kryteria kwalifikacji
+Źródła kryteriów wyboru : Dokumenty zamówienia
+Kryteria udzielenia zamówienia
+421973-2025 Page 15/185.1.12.5.1.11.: Kryterium
+: Rodzaj Cena
+Opis: cena brutto za realizację przedmiotu zamówienia; 1) Sposób oceny ofert dla kryterium -
+cena brutto (1): najniższa oferowana cena brutto /cena brutto badanej oferty x 60 pkt
+: Kategoria kryterium udzielenia zamówienia waga Waga (wartość procentowa, dokładna)
+Kryterium udzielenia - Liczba : 60,00
+: Kryterium
+: Rodzaj Jakość
+Opis: 2) Sposób oceny ofert dla kryterium nr 2 termin dostawy zamówienia (2): Zamawiający
+wymaga dostawy najpóźniej 30 dni od daty podpisania umowy. Oferta zawierająca propozycję
+maksymalnego wymaganego czasu dostawy (30 dni) otrzyma 0 (zero) punktów. Za każdy
+dzień skrócenia dostawy sprzętu- oferta otrzyma 2 (dwa) punkty. Maksymalnie za kryterium
+„termin dostawy zamówienia” można otrzymać 40 punktów (za czas dostawy 10 dni
+kalendarzowych i krótszy) dla całego zamówienia. W ofercie Wykonawca winien podać ilość
+dni kalendarzowych w których dostarczy przedmiot umowy. Maksymalny termin dostawy
+zamówienia wynosi 30 dni licząc od daty zawarcia umowy. Jeżeli Wykonawca zaoferuje termin
+dostawy zadania dłuższy niż 30 dni lub nie wskaże żadnego terminu, jego oferta zostanie
+odrzucona na podstawie art. 226 ust. 1 pkt. 5) ustawy PZP.
+: Kategoria kryterium udzielenia zamówienia waga Waga (wartość procentowa, dokładna)
+Kryterium udzielenia - Liczba : 40,00
+Dokumenty zamówienia
+Adres dokumentów zamówienia : https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-
+c5605171-16b5-40a6-ac25-9bed8ed164d7
+Warunki udzielenia zamówienia
+Warunki zgłoszenia :
+Zgłoszenie elektroniczne : Wymagane
+Adres na potrzeby zgłoszenia : https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-
+c5605171-16b5-40a6-ac25-9bed8ed164d7
+Języki, w których można składać oferty lub wnioski o dopuszczenie do udziału : polski
+Katalog elektroniczny : Niedozwolone
+Wymagane jest użycie zaawansowanego lub kwalifikowanego podpisu elektronicznego lub
+pieczęci elektronicznej (zgodnie z definicją w rozporządzeniu (UE) nr 910/2014)
+Termin składania ofert : 05/08/2025  10:00:00 (UTC+2) czas wschodnioeuropejski, czas
+środkowoeuropejski letni
+Termin, do którego oferta musi pozostać ważna : 90 Dni
+Informacje na temat publicznego otwarcia :
+Data otwarcia : 05/08/2025  11:00:00 (UTC+2) czas wschodnioeuropejski, czas
+środkowoeuropejski letni
+Miejsce : 1. Otwarcie ofert nastąpi w dniu 05.08.2025 r. o godzinie 11:00 na Platformie e-
+Zamówienia. 2. W przypadku awarii systemu, która powoduje brak możliwości otwarcia ofert w
+terminie określonym przez Zamawiającego otwarcie ofert nastąpi niezwłocznie po usunięciu
+awarii. 3. Zamawiający nie przewiduje przeprowadzenia jawnej sesji otwarcia ofert z udziałem
+Wykonawców, jak też transmitowania sesji otwarcia za pośrednictwem elektronicznych
+narzędzi do przekazu wideo on-line. 4. Zamawiający, najpóźniej przed otwarciem ofert,
+udostępni na stronie internetowej prowadzonego postępowania informację o kwocie, jaką
+zamierza przeznaczyć na sfinansowanie zamówienia.
+421973-2025 Page 16/185.1.16.5.1.15.Informacje dodatkowe : Wykonawca będzie związany ofertą od dnia upływu terminu składania
+ofert, przy czym pierwszym dniem terminu związania ofertą jest dzień, w którym upływa termin
+składania ofert, przez okres 90 dni, tj. do dnia: 02.11.2025 r.
+Warunki zamówienia :
+Wykonanie zamówienia musi odbywać się w ramach programów zatrudnienia chronionego : Nie
+Fakturowanie elektroniczne : Dozwolone
+Stosowane będą zlecenia elektroniczne : tak
+Stosowane będą płatności elektroniczne : tak
+Techniki
+Umowa ramowa :
+Brak umowy ramowej
+Informacje o dynamicznym systemie zakupów :
+Brak dynamicznego systemu zakupów
+Aukcja elektroniczna : nie
+Dalsze informacje, mediacja i odwołanie
+Organ mediacyjny : Prezes Krajowej Izby Odwoławczej
+Organ odwoławczy : Prezes Krajowej Izby Odwoławczej
+Informacje o terminach odwołania : 1. Środki ochrony prawnej przysługują wykonawcy,
+uczestnikowi konkursu oraz innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu
+zamówienia lub nagrody w konkursie oraz poniósł lub może ponieść szkodę w wyniku
+naruszenia przez zamawiającego przepisów ustawy PZP. 2. Środki ochrony prawnej wobec
+ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub ogłoszenia o
+konkursie oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę,
+o której mowa w art. 469 pkt 15 PZP oraz Rzecznikowi Małych i Średnich Przedsiębiorców. 3.
+Odwołanie przysługuje na: 1) niezgodną z przepisami ustawy czynność Zamawiającego,
+podjętą w postępowaniu o udzielenie zamówienia, w tym na projektowane postanowienie
+umowy; 2) zaniechanie czynności w postępowaniu o udzielenie zamówienia do której
+zamawiający był obowiązany na podstawie ustawy; 4. Odwołanie wnosi się do Prezesa Izby.
+Odwołujący przekazuje kopię odwołania zamawiającemu przed upływem terminu do
+wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem
+tego terminu. 5. Odwołanie wobec treści ogłoszenia lub treści SWZ wnosi się w terminie 10 dni
+od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia
+dokumentów zamówienia na stronie internetowej. 6. Odwołanie wnosi się w terminie: 1) 10 dni
+od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego
+wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji
+elektronicznej, 2) 15 dni od dnia przekazania informacji o czynności zamawiającego
+stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż
+określony w pkt 1). 7. Odwołanie w przypadkach innych niż określone w pkt 5 i 6 wnosi się w
+terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można
+było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia. 8. Na
+orzeczenie Izby oraz postanowienie Prezesa Izby, o którym mowa w art. 519 ust. 1 ustawy
+PZP, stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do sądu. 9.
+W postępowaniu toczącym się wskutek wniesienia skargi stosuje się odpowiednio przepisy
+ustawy z dnia 17.11.1964 r. - Kodeks postępowania cywilnego o apelacji, jeżeli przepisy
+niniejszego rozdziału nie stanowią inaczej. 10. Skargę wnosi się do Sądu Okręgowego w
+Warszawie - sądu zamówień publicznych, zwanego dalej "sądem zamówień publicznych". 11.
+Skargę wnosi się za pośrednictwem Prezesa Izby, w terminie 14 dni od dnia doręczenia
+orzeczenia Izby lub postanowienia Prezesa Izby, o którym mowa w art. 519 ust. 1 ustawy
+421973-2025 Page 17/188.1.8.1.8.1.PZP, przesyłając jednocześnie jej odpis przeciwnikowi skargi. Złożenie skargi w placówce
+pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23.11.2012 r. - Prawo
+pocztowe jest równoznaczne z jej wniesieniem. 12. Prezes Izby przekazuje skargę wraz z
+aktami postępowania odwoławczego do sądu zamówień publicznych w terminie 7 dni od dnia
+jej otrzymania.
+Organizacja udzielająca dodatkowych informacji na temat postępowania o udzielenie
+zamówienia : Uniwersytet Jana Kochanowskiego w Kielcach
+Organizacja udzielająca dodatkowych informacji na temat procedur odwoławczych : Prezes
+Krajowej Izby Odwoławczej
+8. Organizacje
+ORG-0001
+Oficjalna nazwa : Uniwersytet Jana Kochanowskiego w Kielcach
+Numer rejestracyjny : 6570234850
+Adres pocztowy : ul. Żeromskiego 5
+Miejscowość : Kielce
+Kod pocztowy : 25-369
+Podpodział krajowy (NUTS) : Kielecki  (PL721 )
+Kraj: Polska
+Punkt kontaktowy : Dział Zamówień Publicznych
+E-mail : dzp@ujk.edu.pl
+Telefon : +48413497277
+Adres strony internetowej : https://ezamowienia.gov.pl/pl/
+Adres na potrzeby wymiany informacji (URL) : https://ezamowienia.gov.pl/pl/
+Profil nabywcy : https://ezamowienia.gov.pl/pl/
+Role tej organizacji :
+Nabywca
+Organizacja udzielająca dodatkowych informacji na temat postępowania o udzielenie
+zamówienia
+ORG-0002
+Oficjalna nazwa : Prezes Krajowej Izby Odwoławczej
+Numer rejestracyjny : 5262239325
+Adres pocztowy : ul. Postępu 17A
+Miejscowość : Warszawa
+Kod pocztowy : 02-676
+Podpodział krajowy (NUTS) : Miasto Warszawa  (PL911 )
+Kraj: Polska
+E-mail : odwolania@uzp.gov.pl
+Telefon : +48 224587801
+Faks : +48 224587801
+Adres strony internetowej : http://www.uzp.gov.pl
+Role tej organizacji :
+Organ odwoławczy
+Organizacja udzielająca dodatkowych informacji na temat procedur odwoławczych
+Organ mediacyjny
+ORG-0000
+Oficjalna nazwa : Publications Office of the European Union
+421973-2025 Page 18/18Numer rejestracyjny : PUBL
+Miejscowość : Luxembourg
+Kod pocztowy : 2417
+Podpodział krajowy (NUTS) : Luxembourg  (LU000 )
+Kraj: Luksemburg
+E-mail : ted@publications.europa.eu
+Telefon : +352 29291
+Adres strony internetowej : https://op.europa.eu
+Role tej organizacji :
+TED eSender
+Informacje o ogłoszeniu
+Identyfikator/wersja ogłoszenia : 413a258d-9785-4bd4-ac86-c6cf0416d24c   -  01
+Typ formularza : Procedura konkurencyjna
+Rodzaj ogłoszenia : Ogłoszenie o zamówieniu lub ogłoszenie o koncesji – tryb standardowy
+Podrodzaj ogłoszenia : 16
+Ogłoszenie – data wysłania : 27/06/2025  11:05:35 (UTC)
+Języki, w których przedmiotowe ogłoszenie jest oficjalnie dostępne : polski
+Numer publikacji ogłoszenia : 421973-2025
+Numer wydania Dz.U. S : 122/2025
+Data publikacji : 30/06/2025

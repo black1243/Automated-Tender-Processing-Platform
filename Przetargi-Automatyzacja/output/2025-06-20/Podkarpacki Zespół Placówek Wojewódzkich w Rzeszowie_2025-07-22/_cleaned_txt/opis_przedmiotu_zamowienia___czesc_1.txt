@@ -1,0 +1,53 @@
+Opis Przedmiotu Zamówienia
+Część 1 Dostawa drukarek 3D
+Oferowany sprzęt powinien być fabrycznie nowy, pochodzić z oficjalnego kanału dystrybucyjnego producenta.
+Jeżeli Zamawiający określił w OPZ wymagania z użyciem nazw własnych produktów lub marek producentów, w szczególności w obszarze specyfikacji przedmiotu zamówienia, to należy traktować wskazane produkty jako rozwiązania wzorcowe. W każdym takim przypadku Zamawiający oczekuje dostarczenia produktów wzorcowych lub równoważnych, spełniających podane warunki równoważności.
+Wszelkie certyfikaty, normy, deklaracje, instrukcje itp. dotyczące oferowanego sprzętu powinny być w języku polskim. Zamawiający dopuszcza przedłożenie tych dokumentów w języku angielskim. W przypadku dokumentów w innym języku obcym Zamawiający wymaga przedłożenia tych dokumentów przetłumaczonych na język polski wraz z dokumentem źródłowym.
+Drukarka 3D – 12 szt. (dwanaście)
+Filament typu I – 48 szt. (czterdzieści osiem)
+Filament typu II – 48 szt. (czterdzieści osiem)
+Filament typu III – 48 szt. (czterdzieści osiem)
+Filament typu IV – 48 szt. (czterdzieści osiem)
+Filament typu V – 48 szt. (czterdzieści osiem)
+Filament typu VI – 48 szt. (czterdzieści osiem)
+Parametry równoważności dla oprogramowania
+Wymagane funkcjonalności dla oprogramowania równoważnego:
+Zaawansowane ustawienia warstw
+Precyzyjna kontrola nad wysokością warstw w zależności od geometrii modelu.
+Ustawianie różnych wysokości warstw dla dolnych, środkowych i górnych części modelu.
+Możliwość definiowania unikalnych parametrów dla cienkich elementów i krawędzi.
+Wsparcie dla wielu procesów
+Definiowanie niezależnych ustawień dla różnych regionów modelu, takich jak prędkość, temperatura, wypełnienie i grubość warstw.
+Tworzenie sekwencji procesów, które pozwalają na modyfikowanie ustawień w trakcie drukowania jednego modelu.
+Możliwość łatwego dzielenia złożonych projektów na mniejsze sekcje z różnymi ustawieniami, np. bardziej wytrzymałe dolne warstwy i bardziej szczegółowe górne warstwy.
+Zaawansowane generowanie podpór
+Automatyczne tworzenie podpór z możliwością dostosowania ich gęstości, kąta nachylenia i minimalnej powierzchni kontaktu.
+Ręczne dodawanie i usuwanie podpór.
+Możliwość ustawienia podpór, które łatwo się odrywają, oraz wybór materiału dla podpór w przypadku drukowania wielomateriałowego.
+Symulacja druku 3D
+Wirtualna symulacja całego procesu drukowania warstwa po warstwie, pokazująca kolejność ruchów dyszy, wypełnień i tworzenia podpór.
+Wizualizacja przepływu materiału oraz możliwość przewijania symulacji w celu sprawdzenia szczegółowych ruchów.
+Identyfikacja potencjalnych problemów, takich jak nieciągłości, nieprawidłowe wypełnienia lub obszary zbyt mało wspierane, co pozwala na wprowadzenie korekt przed drukowaniem.
+Optymalizacja ścieżek ruchu dyszy
+Inteligentne optymalizowanie ścieżek, zmniejszające czas drukowania i minimalizujące odległości ruchu bez ekstruzji.
+Redukcja nitkowania (stringingu) poprzez minimalizację ruchów pomiędzy oddzielonymi elementami modelu.
+Wspieranie funkcji retrakcji.
+Zaawansowane ustawienia wypełnienia
+Wybór różnych wzorów wypełnienia, takich jak kratownica, heksagon, kołowy, które są zoptymalizowane pod kątem wytrzymałości i minimalnego zużycia materiału.
+Opcja zwiększania gęstości wypełnienia w określonych obszarach, np. wokół otworów montażowych lub krawędzi, które wymagają dodatkowego wsparcia.
+Definiowanie stopniowego wypełnienia, które zmienia się w miarę zbliżania się do powierzchni zewnętrznych, aby poprawić wykończenie powierzchni i zmniejszyć wagę modelu.
+Wsparcie dla wielu ekstruderów
+Obsługa konfiguracji z wieloma ekstruderami, pozwalająca na użycie różnych materiałów lub kolorów w jednym wydruku.
+Automatyczne wycofywanie i czyszczenie materiału, aby uniknąć mieszania się kolorów i materiałów.
+Ustawienia dla wymiany materiału, takie jak minimalizacja odcieków, stosowanie barier chłodzących oraz definiowanie stref przełączania.
+Szerokie wsparcie dla drukarek 3D
+W bazie wspieranych drukarek musi znaleźć się zaoferowany model drukarki 3D.
+Możliwość ręcznego konfigurowania parametrów, takich jak wymiary stołu, rodzaj napędu, liczba ekstruderów, i mechanizmy chłodzenia.
+Zaawansowane ustawienia temperatury i chłodzenia
+Ustawianie temperatury dla każdej warstwy lub segmentu wydruku przy pracy z materiałami wymagającymi różnych temperatur.
+Kontrola pracy wentylatora chłodzącego, z możliwością stopniowego zwiększania prędkości chłodzenia w krytycznych obszarach modelu.
+Funkcje zapobiegania deformacjom (warpingu) i zwiększania przyczepności do stołu dzięki zaawansowanemu zarządzaniu temperaturą.
+Wsparcie dla wielowarstwowych wydruków
+Możliwość drukowania wielu modeli jednocześnie na jednej platformie, z opcją niezależnego ustawienia dla każdego modelu.
+Optymalizacja kolejności drukowania, aby minimalizować czas ruchu dyszy i zapobiegać kolizjom.
+Funkcja ustawienia wysokości, na której różne modele mogą być drukowane, aby efektywnie wykorzystać przestrzeń stołu roboczego.

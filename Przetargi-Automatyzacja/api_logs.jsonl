@@ -1,0 +1,342 @@
+{"timestamp": "2025-06-20T13:37:26.903731", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:37:26.906790", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/files", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-20T13:37:26.919166", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:37:26.921380", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/summary", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-20T13:37:27.234120", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:37:27.236162", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/files", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-20T13:37:27.242259", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:37:27.244636", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/summary", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-20T13:41:04.768342", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:41:05.030337", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:41:05.998077", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:41:05.998682", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:41:05.999291", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/files", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-20T13:41:05.999548", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/summary", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-20T13:41:06.325612", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:41:06.326879", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:41:06.327091", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/files", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-20T13:41:06.327801", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/summary", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-20T13:44:57.151986", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:44:57.404763", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:44:59.542809", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:44:59.543573", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:44:59.544162", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/files", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-20T13:44:59.544803", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/summary", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-20T13:44:59.871823", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:44:59.872878", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:44:59.873063", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/files", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-20T13:44:59.873709", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/summary", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-20T13:46:32.401902", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:46:32.402573", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/files", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-20T13:46:32.411358", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:46:32.412066", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/summary", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-20T13:46:32.705571", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:46:32.706164", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/files", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-20T13:46:32.711827", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:46:32.712984", "endpoint": "/api/przetarg/2025-06-24_2025-06-18/Wojewódzki Ośrodek Medycyny Pracy/summary", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-20T13:53:39.071563", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:53:39.335383", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:53:40.467662", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:53:40.771239", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:53:40.780212", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:53:41.082497", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:53:48.433559", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/file/40tpbn2025swz.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:55:38.757223", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:55:38.758086", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:55:39.066274", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:55:39.070345", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:55:48.013524", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/file/40tpbn2025swz.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:57:02.815872", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:57:03.122183", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:57:03.127131", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:57:03.432556", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:58:27.127212", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/file/40tpbn2025swz.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:58:38.165430", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/file/ogloszenie_o_zamowieniu.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:58:40.185933", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/file/40tpbn2025z06.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T13:58:42.534738", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/file/ogloszenie_o_zamowieniu.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:05:36.399567", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:05:36.669480", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:05:44.548201", "endpoint": "/api/przetarg/2025-06-18_małopolskie_Brak_Terminu/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:05:44.551439", "endpoint": "/api/przetarg/2025-06-18_małopolskie_Brak_Terminu/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:05:44.799231", "endpoint": "/api/przetarg/2025-06-18_małopolskie_Brak_Terminu/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:05:44.876964", "endpoint": "/api/przetarg/2025-06-18_małopolskie_Brak_Terminu/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:06:00.201129", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:06:00.513365", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:06:08.041483", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:06:08.365844", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:06:08.369158", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:06:08.693212", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:06:10.925163", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/swz_usluga_dzierzawy_urzadzen_wielofunkcyjnych.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:11:16.409123", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/zal_nr_2_do_swz_formularz_oferty.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:11:21.622153", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/zal_nr_3_do_swz_projekt_umowy.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:11:24.210534", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/zal_nr_1_do_swz_opis_przedmiotu_zamowienia.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:11:25.954693", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/zal_nr_3_do_swz_projekt_umowy.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:11:28.910822", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/uwaga.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T14:11:30.953182", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/ogloszenie_o_zamowieniu.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:42:53.525278", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/swz_usluga_dzierzawy_urzadzen_wielofunkcyjnych.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:42:54.781483", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/ogloszenie_o_zamowieniu.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:44:52.000679", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/swz_usluga_dzierzawy_urzadzen_wielofunkcyjnych.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:49:07.076880", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:49:07.256884", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:49:34.529033", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/ogloszenie_o_zamowieniu.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:49:45.496509", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/zal_nr_3_do_swz_projekt_umowy.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:51:14.831506", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/ogloszenie_o_zamowieniu.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:51:16.522611", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/swz_usluga_dzierzawy_urzadzen_wielofunkcyjnych.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:51:17.246374", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/uwaga.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:51:34.839662", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/zal_nr_1_do_swz_opis_przedmiotu_zamowienia.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:51:43.770960", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/swz_usluga_dzierzawy_urzadzen_wielofunkcyjnych.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:53:17.224801", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/uwaga.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:53:19.400334", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/ogloszenie_o_zamowieniu.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:53:21.643545", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/uwaga.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:53:23.948147", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/ogloszenie_o_zamowieniu.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:53:32.416549", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/uwaga.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:53:37.895964", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/ogloszenie_o_zamowieniu.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:55:14.971180", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:55:15.283803", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:55:15.284907", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:55:15.294355", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:55:18.007820", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/ogloszenie_o_zamowieniu.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:55:35.074608", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:55:35.296513", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:55:38.772030", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/ogloszenie_o_zamowieniu.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:56:23.876605", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:56:24.065962", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:56:28.986123", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/swz_usluga_dzierzawy_urzadzen_wielofunkcyjnych.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:56:33.022594", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/uwaga.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:56:34.204658", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/swz_usluga_dzierzawy_urzadzen_wielofunkcyjnych.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:56:36.200452", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/uwaga.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:56:38.551764", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/ogloszenie_o_zamowieniu.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:56:40.820557", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/zal_nr_2_do_swz_formularz_oferty.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:57:06.672467", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/ogloszenie_o_zamowieniu.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T16:57:11.247081", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/uwaga.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T18:30:50.854138", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T18:30:51.115469", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T21:51:57.335142", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T21:51:57.597231", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T21:51:59.644944", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T21:51:59.645760", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T21:51:59.898962", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T21:51:59.961569", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T21:52:25.046814", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/file/40tpbn2025z03.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T21:52:26.658971", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/file/40tpbn2025z02.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T21:52:28.059124", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/file/40tpbn2025swz.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T22:30:58.182449", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T22:30:58.183841", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T22:30:58.476978", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T22:30:58.508505", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T22:31:01.073239", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T22:31:01.340775", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T22:31:04.007821", "endpoint": "/api/przetarg/2025-06-20_Narodowy Bank Polski_2025-07-11/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T22:31:04.008884", "endpoint": "/api/przetarg/2025-06-20_Narodowy Bank Polski_2025-07-11/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T22:31:04.334452", "endpoint": "/api/przetarg/2025-06-20_Narodowy Bank Polski_2025-07-11/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T22:31:04.335901", "endpoint": "/api/przetarg/2025-06-20_Narodowy Bank Polski_2025-07-11/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T22:31:11.721907", "endpoint": "/api/przetarg/2025-06-20_Narodowy Bank Polski_2025-07-11/file/ogloszenie_o_zamowieniu_0340_dit_25.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T22:31:15.116601", "endpoint": "/api/przetarg/2025-06-20_Narodowy Bank Polski_2025-07-11/file/swz_0340_dit_25.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T22:31:22.582112", "endpoint": "/api/przetarg/2025-06-20_Narodowy Bank Polski_2025-07-11/file/zalacznik_nr_1_do_swz_instrukcja_dla_wykonawcow_0340_dit_25.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T22:32:34.198529", "endpoint": "/api/przetarg/2025-06-20_Narodowy Bank Polski_2025-07-11/file/zalacznik_nr_5_do_swz_projekt._postan._umowy_0340_dit_25.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T22:32:36.764882", "endpoint": "/api/przetarg/2025-06-20_Narodowy Bank Polski_2025-07-11/file/ogloszenie_o_zamowieniu_0340_dit_25.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T23:31:09.227186", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T23:31:09.476384", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T23:31:13.506597", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T23:31:14.061949", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T23:31:43.253574", "endpoint": "/api/przetarg/2025-06-09_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-06-20/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T23:31:43.255856", "endpoint": "/api/przetarg/2025-06-09_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-06-20/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T23:31:43.460655", "endpoint": "/api/przetarg/2025-06-09_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-06-20/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-20T23:31:43.589489", "endpoint": "/api/przetarg/2025-06-09_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-06-20/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T18:57:24.236044", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T18:57:24.497076", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T18:57:26.788724", "endpoint": "/api/przetarg/2025-06-09_ENSAFE spółka z ograniczoną odpowiedzialnością_2025-06-16/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T18:57:26.790168", "endpoint": "/api/przetarg/2025-06-09_ENSAFE spółka z ograniczoną odpowiedzialnością_2025-06-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T18:57:27.049342", "endpoint": "/api/przetarg/2025-06-09_ENSAFE spółka z ograniczoną odpowiedzialnością_2025-06-16/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T18:57:27.124827", "endpoint": "/api/przetarg/2025-06-09_ENSAFE spółka z ograniczoną odpowiedzialnością_2025-06-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T18:57:33.910232", "endpoint": "/api/przetarg/2025-06-09_ENSAFE spółka z ograniczoną odpowiedzialnością_2025-06-16/file/uwaga.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T18:57:35.527960", "endpoint": "/api/przetarg/2025-06-09_ENSAFE spółka z ograniczoną odpowiedzialnością_2025-06-16/file/og__oszenie_na_oprogramowanie_i_sprze__t_informatyczny___.__.____.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T18:57:43.036024", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T18:57:43.363951", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T18:57:52.274735", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T18:57:53.310601", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T18:57:54.676914", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:16:09.912602", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:16:10.175590", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:23:57.086366", "endpoint": "/api/przetarg/2025-06-09_ENSAFE spółka z ograniczoną odpowiedzialnością_2025-06-16/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:23:57.087752", "endpoint": "/api/przetarg/2025-06-09_ENSAFE spółka z ograniczoną odpowiedzialnością_2025-06-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:23:57.346045", "endpoint": "/api/przetarg/2025-06-09_ENSAFE spółka z ograniczoną odpowiedzialnością_2025-06-16/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:23:57.408392", "endpoint": "/api/przetarg/2025-06-09_ENSAFE spółka z ograniczoną odpowiedzialnością_2025-06-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:26:15.927891", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:26:16.194230", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:26:22.512251", "endpoint": "/api/przetarg/2025-06-11_Urząd Skarbowy w Zakopanem_2025-06-12/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:26:22.809437", "endpoint": "/api/przetarg/2025-06-11_Urząd Skarbowy w Zakopanem_2025-06-12/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:26:22.823854", "endpoint": "/api/przetarg/2025-06-11_Urząd Skarbowy w Zakopanem_2025-06-12/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:26:23.120926", "endpoint": "/api/przetarg/2025-06-11_Urząd Skarbowy w Zakopanem_2025-06-12/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:26:25.533246", "endpoint": "/main.885784a872250f634257.hot-update.json", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:26:25.534295", "endpoint": "/main.885784a872250f634257.hot-update.json", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-23T19:26:26.579677", "endpoint": "/api/przetarg/2025-06-09_ENSAFE spółka z ograniczoną odpowiedzialnością_2025-06-16/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:26:26.580924", "endpoint": "/api/przetarg/2025-06-09_ENSAFE spółka z ograniczoną odpowiedzialnością_2025-06-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:26:26.877868", "endpoint": "/api/przetarg/2025-06-09_ENSAFE spółka z ograniczoną odpowiedzialnością_2025-06-16/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:26:26.887399", "endpoint": "/api/przetarg/2025-06-09_ENSAFE spółka z ograniczoną odpowiedzialnością_2025-06-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T19:26:26.893767", "endpoint": "/api/przetarg/2025-06-11_Urząd Skarbowy w Zakopanem_2025-06-12/file/Obwieszczenie o I licytacji 36 ruchomosci, 12.06.2025r. o godz. 10.00 w Zakopanem.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T20:23:59.562830", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T20:23:59.830469", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T20:26:13.172229", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T20:26:13.437559", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T20:26:19.997636", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T20:26:20.303488", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T20:26:20.311810", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T20:26:20.617054", "endpoint": "/api/przetarg/2025-06-18_Komenda Wojewódzka Policji w Kielcach_2025-06-26/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T20:26:23.796685", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T20:26:24.117584", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T20:26:33.137955", "endpoint": "/api/przetarg/2025-06-18_Wojewódzki Ośrodek Medycyny Pracy_2025-06-24/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T20:26:33.139232", "endpoint": "/api/przetarg/2025-06-18_Wojewódzki Ośrodek Medycyny Pracy_2025-06-24/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T20:26:33.382923", "endpoint": "/api/przetarg/2025-06-18_Wojewódzki Ośrodek Medycyny Pracy_2025-06-24/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-23T20:26:33.460371", "endpoint": "/api/przetarg/2025-06-18_Wojewódzki Ośrodek Medycyny Pracy_2025-06-24/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-24T17:54:46.681827", "endpoint": "/api/przetarg/2025-06-18_Wojewódzki Ośrodek Medycyny Pracy_2025-06-24/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-24T17:54:46.983705", "endpoint": "/api/przetarg/2025-06-18_Wojewódzki Ośrodek Medycyny Pracy_2025-06-24/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-24T17:54:46.993496", "endpoint": "/api/przetarg/2025-06-18_Wojewódzki Ośrodek Medycyny Pracy_2025-06-24/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-24T17:54:47.308553", "endpoint": "/api/przetarg/2025-06-18_Wojewódzki Ośrodek Medycyny Pracy_2025-06-24/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-24T18:51:42.387968", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-24T18:51:42.657198", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:46:20.820535", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:46:21.085462", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:46:26.085096", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:46:27.605722", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:48:24.525315", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:48:28.690046", "endpoint": "/api/przetarg/2025-06-23_Cersanit Invest LLC_2025-06-30/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:48:28.986704", "endpoint": "/api/przetarg/2025-06-23_Cersanit Invest LLC_2025-06-30/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:48:29.015973", "endpoint": "/api/przetarg/2025-06-23_Cersanit Invest LLC_2025-06-30/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:48:29.305861", "endpoint": "/api/przetarg/2025-06-23_Cersanit Invest LLC_2025-06-30/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:48:41.039224", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:48:41.350189", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:48:44.973935", "endpoint": "/api/przetarg/2025-06-23_ZAKŁAD OPIEKI ZDROWOTNEJ ELMADENT ELŻBIETA FABIAN-CAPIGA, MAŁGORZATA FABIAN-LASKOWSKA I WSPÓŁNICY - SPÓŁKA CYWILNA_2025-06-30/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:48:44.975139", "endpoint": "/api/przetarg/2025-06-23_ZAKŁAD OPIEKI ZDROWOTNEJ ELMADENT ELŻBIETA FABIAN-CAPIGA, MAŁGORZATA FABIAN-LASKOWSKA I WSPÓŁNICY - SPÓŁKA CYWILNA_2025-06-30/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:48:45.215886", "endpoint": "/api/przetarg/2025-06-23_ZAKŁAD OPIEKI ZDROWOTNEJ ELMADENT ELŻBIETA FABIAN-CAPIGA, MAŁGORZATA FABIAN-LASKOWSKA I WSPÓŁNICY - SPÓŁKA CYWILNA_2025-06-30/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:48:45.292219", "endpoint": "/api/przetarg/2025-06-23_ZAKŁAD OPIEKI ZDROWOTNEJ ELMADENT ELŻBIETA FABIAN-CAPIGA, MAŁGORZATA FABIAN-LASKOWSKA I WSPÓŁNICY - SPÓŁKA CYWILNA_2025-06-30/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:48:58.911108", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:48:59.161408", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:02.303654", "endpoint": "/api/przetarg/2025-06-13_Lucrum Kancelaria Restrukturyzacyjna Robert Lasak, Biuro Obsługi Korespondencji_2025-06-30/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:02.606792", "endpoint": "/api/przetarg/2025-06-13_Lucrum Kancelaria Restrukturyzacyjna Robert Lasak, Biuro Obsługi Korespondencji_2025-06-30/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:02.614572", "endpoint": "/api/przetarg/2025-06-13_Lucrum Kancelaria Restrukturyzacyjna Robert Lasak, Biuro Obsługi Korespondencji_2025-06-30/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:02.916296", "endpoint": "/api/przetarg/2025-06-13_Lucrum Kancelaria Restrukturyzacyjna Robert Lasak, Biuro Obsługi Korespondencji_2025-06-30/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:05.243852", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:05.556177", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:08.722514", "endpoint": "/api/przetarg/2025-06-05_Powiatowy Inspektorat Weterynarii. Inspekcja Weterynaryjna_2025-06-30/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:08.724063", "endpoint": "/api/przetarg/2025-06-05_Powiatowy Inspektorat Weterynarii. Inspekcja Weterynaryjna_2025-06-30/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:08.986948", "endpoint": "/api/przetarg/2025-06-05_Powiatowy Inspektorat Weterynarii. Inspekcja Weterynaryjna_2025-06-30/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:09.035692", "endpoint": "/api/przetarg/2025-06-05_Powiatowy Inspektorat Weterynarii. Inspekcja Weterynaryjna_2025-06-30/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:22.359493", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:22.608160", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:25.437490", "endpoint": "/api/przetarg/2025-06-05_Powiatowy Inspektorat Weterynarii. Inspekcja Weterynaryjna_2025-06-30/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:25.744110", "endpoint": "/api/przetarg/2025-06-05_Powiatowy Inspektorat Weterynarii. Inspekcja Weterynaryjna_2025-06-30/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:25.762303", "endpoint": "/api/przetarg/2025-06-05_Powiatowy Inspektorat Weterynarii. Inspekcja Weterynaryjna_2025-06-30/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:26.075066", "endpoint": "/api/przetarg/2025-06-05_Powiatowy Inspektorat Weterynarii. Inspekcja Weterynaryjna_2025-06-30/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:28.897998", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:29.222653", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:34.184572", "endpoint": "/api/przetarg/2025-06-17_TONATO sp. z o.o_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:34.185853", "endpoint": "/api/przetarg/2025-06-17_TONATO sp. z o.o_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:34.431356", "endpoint": "/api/przetarg/2025-06-17_TONATO sp. z o.o_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:49:34.519309", "endpoint": "/api/przetarg/2025-06-17_TONATO sp. z o.o_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:50:07.709459", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:50:07.966809", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:50:15.522966", "endpoint": "/api/przetarg/2025-06-26_EPIONE Spółka z ograniczoną odpowiedzialnością_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:50:15.833316", "endpoint": "/api/przetarg/2025-06-26_EPIONE Spółka z ograniczoną odpowiedzialnością_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:50:15.865105", "endpoint": "/api/przetarg/2025-06-26_EPIONE Spółka z ograniczoną odpowiedzialnością_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:50:16.172167", "endpoint": "/api/przetarg/2025-06-26_EPIONE Spółka z ograniczoną odpowiedzialnością_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:51:13.039854", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:51:13.308351", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:55:13.783602", "endpoint": "/api/tenders/2025-06-23/Cersanit Invest LLC_2025-06-30", "method": "OPTIONS", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:55:14.051236", "endpoint": "/api/tenders/2025-06-23/Cersanit Invest LLC_2025-06-30", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:58:01.348754", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:58:01.616064", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:58:05.589887", "endpoint": "/api/tenders/2025-06-23/Cersanit Invest LLC_2025-06-30", "method": "OPTIONS", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:58:05.911664", "endpoint": "/api/tenders/2025-06-23/Cersanit Invest LLC_2025-06-30", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:58:40.958689", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:58:41.270047", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:58:44.621261", "endpoint": "/main.fc16f065a600a69c5f52.hot-update.json", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:58:44.621636", "endpoint": "/main.fc16f065a600a69c5f52.hot-update.json", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-06-30T10:58:44.976448", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:58:45.295575", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:59:02.927363", "endpoint": "/api/tenders/2025-06-23/Cersanit Invest LLC_2025-06-30", "method": "OPTIONS", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-06-30T10:59:03.193795", "endpoint": "/api/tenders/2025-06-23/Cersanit Invest LLC_2025-06-30", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-01T00:26:04.029669", "endpoint": "/", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T00:26:04.033566", "endpoint": "/", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-07-01T10:33:09.337133", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:33:09.622654", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:33:20.318360", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:33:20.318858", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:33:20.585371", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:33:20.670979", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:33:25.823136", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/swz_usluga_dzierzawy_urzadzen_wielofunkcyjnych.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:33:27.284675", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/ogloszenie_o_zamowieniu.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:33:27.866628", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/uwaga.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:33:48.845616", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:33:49.193190", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:33:51.876779", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:33:51.877113", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:33:52.163760", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:33:52.213842", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:34:58.709254", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:34:58.996918", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:35:01.581966", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:35:01.582328", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:35:01.868768", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:35:01.918449", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:35:12.830788", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T10:35:13.175304", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T11:35:13.837070", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T11:47:37.613562", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T11:47:37.870800", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:25:10.581042", "endpoint": "/api/przetarg/2025-06-27_EPIONE Spółka z ograniczoną odpowiedzialnością_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:25:10.581316", "endpoint": "/api/przetarg/2025-06-27_EPIONE Spółka z ograniczoną odpowiedzialnością_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:25:10.841368", "endpoint": "/api/przetarg/2025-06-27_EPIONE Spółka z ograniczoną odpowiedzialnością_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:25:10.901339", "endpoint": "/api/przetarg/2025-06-27_EPIONE Spółka z ograniczoną odpowiedzialnością_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:25:40.171999", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:25:40.430838", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:25:45.493098", "endpoint": "/api/przetarg/2025-06-23_Cersanit Invest LLC_2025-07-01/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:25:45.805174", "endpoint": "/api/przetarg/2025-06-23_Cersanit Invest LLC_2025-07-01/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:25:45.804885", "endpoint": "/api/przetarg/2025-06-23_Cersanit Invest LLC_2025-07-01/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:25:46.111782", "endpoint": "/api/przetarg/2025-06-23_Cersanit Invest LLC_2025-07-01/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:25:46.949181", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:25:47.259124", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:25:49.377013", "endpoint": "/api/tenders/2025-06-23/Cersanit Invest LLC_2025-07-01", "method": "OPTIONS", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:25:49.640165", "endpoint": "/api/tenders/2025-06-23/Cersanit Invest LLC_2025-07-01", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:25:49.640915", "endpoint": "/api/tenders/2025-06-23/Cersanit Invest LLC_2025-07-01", "method": "DELETE", "params": {"date": "2025-06-23", "tender": "Cersanit Invest LLC_2025-07-01"}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:27:21.090670", "endpoint": "/api/przetarg/2025-06-27_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:27:21.090145", "endpoint": "/api/przetarg/2025-06-27_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:27:21.353646", "endpoint": "/api/przetarg/2025-06-27_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:27:21.399423", "endpoint": "/api/przetarg/2025-06-27_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:27:23.854140", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:27:24.115202", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:27:46.535594", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:27:47.484925", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:31:46.203697", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:31:49.909473", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:31:49.909954", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:31:50.172585", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:31:50.218276", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:46:21.875416", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:46:22.136230", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:46:32.477214", "endpoint": "/api/przetarg/2025-06-06_Spółka Restrukturyzacji Kopalń S.A_2025-07-01/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:46:32.476791", "endpoint": "/api/przetarg/2025-06-06_Spółka Restrukturyzacji Kopalń S.A_2025-07-01/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:46:32.738507", "endpoint": "/api/przetarg/2025-06-06_Spółka Restrukturyzacji Kopalń S.A_2025-07-01/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T12:46:32.784493", "endpoint": "/api/przetarg/2025-06-06_Spółka Restrukturyzacji Kopalń S.A_2025-07-01/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T17:55:30.638055", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T17:55:30.898850", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T17:55:37.261315", "endpoint": "/api/przetarg/2025-06-27_EPIONE Spółka z ograniczoną odpowiedzialnością_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T17:55:37.565916", "endpoint": "/api/przetarg/2025-06-27_EPIONE Spółka z ograniczoną odpowiedzialnością_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T17:55:37.571183", "endpoint": "/api/przetarg/2025-06-27_EPIONE Spółka z ograniczoną odpowiedzialnością_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T17:55:37.879668", "endpoint": "/api/przetarg/2025-06-27_EPIONE Spółka z ograniczoną odpowiedzialnością_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T17:55:41.350443", "endpoint": "/api/przetarg/2025-06-27_EPIONE Spółka z ograniczoną odpowiedzialnością_2025-07-02/file/nieprzekonwertowane.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T17:55:41.610180", "endpoint": "/api/przetarg/2025-06-27_EPIONE Spółka z ograniczoną odpowiedzialnością_2025-07-02/file/za____cznik_nr___umowa_sprzeda__y_.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T17:55:41.820796", "endpoint": "/api/przetarg/2025-06-27_EPIONE Spółka z ograniczoną odpowiedzialnością_2025-07-02/file/uwaga.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T17:55:43.557094", "endpoint": "/api/przetarg/2025-06-27_EPIONE Spółka z ograniczoną odpowiedzialnością_2025-07-02/file/za____cznik_nr___o__wiadczenie_o_niepodleganiu_sankcjom.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T20:36:36.495548", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T20:36:36.755689", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T20:36:42.610226", "endpoint": "/api/przetarg/2025-06-27_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T20:36:42.918239", "endpoint": "/api/przetarg/2025-06-27_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T20:36:42.918731", "endpoint": "/api/przetarg/2025-06-27_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T20:36:43.238812", "endpoint": "/api/przetarg/2025-06-27_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T21:59:57.567695", "endpoint": "/api/przetarg/2025-06-27_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T21:59:57.567190", "endpoint": "/api/przetarg/2025-06-27_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T21:59:57.876045", "endpoint": "/api/przetarg/2025-06-27_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T21:59:57.888536", "endpoint": "/api/przetarg/2025-06-27_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T22:41:09.381128", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-01T22:41:09.636903", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
