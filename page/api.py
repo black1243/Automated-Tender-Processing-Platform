@@ -50,4 +50,30 @@ def get_przetarg_summary(przetarg_id):
         return "Invalid przetarg_id", 400
     if not summary_path.exists():
         return "Brak podsumowania", 404
-    return summary_path.read_text(encoding='utf-8') 
+    return summary_path.read_text(encoding='utf-8')
+
+@app.route('/api/przetarg/<path:przetarg_id>/summary_section', methods=['POST'])
+def update_przetarg_summary_section(przetarg_id):
+    data = request.get_json()
+    section = data.get('section')
+    value = data.get('value')
+    if not section or value is None:
+        return 'Missing section or value', 400
+    date, title = parse_przetarg_id(przetarg_id)
+    if not date or not title:
+        return 'Invalid przetarg_id', 400
+    summary_path = OUTPUT_DIR / date / title / '_Podsumowanie.md'
+    if not summary_path.exists():
+        return 'Brak podsumowania', 404
+    content = summary_path.read_text(encoding='utf-8')
+    # Replace section content
+    import re
+    header = f'## {section}'
+    pattern = re.compile(rf'(## {re.escape(section)}\s*)([\s\S]*?)(?=\n## |$)', re.IGNORECASE)
+    if pattern.search(content):
+        new_content = pattern.sub(rf'\1\n{value}\n', content)
+    else:
+        # If section not found, append it at the end
+        new_content = content.strip() + f'\n\n## {section}\n{value}\n'
+    summary_path.write_text(new_content, encoding='utf-8')
+    return 'OK' 

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, useNavigate } from 'react-router-dom';
 import FileList from './components/FileList';
 import AIChat from './components/AIChat';
 import Summary from './components/Summary';
@@ -35,6 +35,9 @@ const PrzetargPage = () => {
   const [error, setError] = useState('');
   const [chatOpen, setChatOpen] = useState(false);
   const [chatMinimized, setChatMinimized] = useState(false);
+  const [loadingSection, setLoadingSection] = useState(null);
+  const [errorSection, setErrorSection] = useState(null);
+  const navigate = useNavigate();
 
   const przetargName = decodeURIComponent(title);
   const przetargDeadline = date;
@@ -72,51 +75,117 @@ const PrzetargPage = () => {
 
   useEffect(() => {
     setError('');
+    console.log('Fetching summary for URL:', `/api/przetarg/${encodedPrzetargId}/summary`);
+    console.log('Przetarg ID parts - date:', date, 'title:', title);
+    
     fetch(`/api/przetarg/${encodedPrzetargId}/summary`)
       .then(res => {
+        console.log('Summary API response status:', res.status);
         if (res.status === 404) return '';
         if (!res.ok) throw new Error('Błąd pobierania podsumowania');
         return res.text();
       })
-      .then(text => setSummary(text && text.trim() ? text : 'Brak podsumowania'))
+      .then(text => {
+        console.log('Summary API response length:', text ? text.length : 'null');
+        setSummary(text && text.trim() ? text : 'Brak podsumowania');
+      })
       .catch(err => {
+        console.error('Summary fetch error:', err);
         setSummary('Brak podsumowania');
         setError('Błąd pobierania podsumowania');
       });
   }, [encodedPrzetargId]);
 
+  // Save section handler
+  const handleSaveSection = (section, value) => {
+    setLoadingSection(section);
+    setErrorSection(null);
+    fetch(`/api/przetarg/${encodedPrzetargId}/summary_section`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ section, value })
+    })
+      .then(res => {
+        if (!res.ok) throw new Error('Błąd zapisu sekcji');
+        return res.text();
+      })
+      .then(() => {
+        setLoadingSection(null);
+        // Refetch summary to update UI
+        return fetch(`/api/przetarg/${encodedPrzetargId}/summary`)
+          .then(res => res.text())
+          .then(text => setSummary(text && text.trim() ? text : 'Brak podsumowania'));
+      })
+      .catch(err => {
+        setLoadingSection(null);
+        setErrorSection({ section, message: err.message || 'Błąd zapisu sekcji' });
+      });
+  };
+
+  // Delete tender handler
+  const handleDeleteTender = () => {
+    if (!window.confirm('Czy na pewno chcesz usunąć ten przetarg?')) return;
+    fetch(`/api/przetarg/${encodedPrzetargId}`, {
+      method: 'DELETE',
+    })
+      .then((res) => {
+        if (!res.ok) throw new Error('Błąd usuwania przetargu');
+        navigate('/'); // Redirect to main page or timeline
+      })
+      .catch((err) => {
+        alert('Nie udało się usunąć przetargu.');
+        console.error(err);
+      });
+  };
+
   return (
-    <div className="min-h-screen bg-gray-900 flex flex-col items-center py-8 px-2">
-      {/* Header with name and deadline */}
-      <div className="w-full max-w-6xl mb-6">
-        <div className="bg-gray-800 rounded-xl shadow-lg p-3 flex items-center justify-between border border-gray-700">
-          <div className="font-bold text-base text-blue-300 truncate max-w-[70vw]">{przetargName}</div>
-          <div className="text-gray-400 text-sm">Deadline: <span className="font-semibold text-white">{przetargDeadline}</span></div>
-        </div>
+    <div className="min-h-screen bg-gray-900 flex flex-col py-6 px-4">
+      {/* AI Chat button at the very top */}
+      <div className="w-full flex justify-end mb-6">
+        <button
+          className="bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white font-bold py-3 px-8 rounded-lg shadow-xl border border-blue-400 transition-all transform hover:scale-105"
+          onClick={() => { setChatOpen(true); setChatMinimized(false); }}
+        >
+          🤖 Otwórz AI Chat
+        </button>
       </div>
-      {/* Podsumowanie full width */}
-      <div className="w-full max-w-6xl mb-6">
-        <div className="bg-gray-800 rounded-xl shadow-lg p-6 border border-gray-700 scrollbar-thin scrollbar-thumb-gray-700 scrollbar-track-gray-900">
-          <div className="font-bold text-lg mb-6 text-blue-300 border-b border-gray-700 pb-3 drop-shadow">Podsumowanie</div>
-          <div className="flex-1 overflow-y-auto text-white scrollbar-thin scrollbar-thumb-gray-700 scrollbar-track-gray-900 h-[700px] max-h-[700px]">
-            <Summary content={summary} />
+      {/* Header with name and deadline */}
+      <div className="w-full mb-6">
+        <div className="bg-gradient-to-r from-gray-800 to-gray-700 rounded-lg shadow-xl p-4 flex items-center justify-between border border-gray-600">
+          <div className="flex flex-col gap-2 flex-1 min-w-0">
+            <div className="font-bold text-xl text-blue-300 break-words">{przetargName}</div>
+            <div className="text-sm text-gray-400">ID: <span className="font-mono text-white text-xs">{przetargId}</span></div>
+          </div>
+          <div className="flex items-center gap-4">
+            <div className="text-gray-300 text-sm bg-gray-900 px-3 py-1 rounded-lg">Deadline: <span className="font-semibold text-yellow-300">{przetargDeadline}</span></div>
+            <button
+              className="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded transition ml-4"
+              onClick={handleDeleteTender}
+            >
+              Usuń
+            </button>
           </div>
         </div>
       </div>
-      {/* AI Chat floating button */}
-      <div className="w-full max-w-6xl mb-6 flex justify-end">
-        <button
-          className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded shadow-lg border border-blue-400 transition"
-          onClick={() => { setChatOpen(true); setChatMinimized(false); }}
-        >
-          Otwórz AI Chat
-        </button>
+      {/* Podsumowanie full width */}
+      <div className="w-full mb-6">
+        <div className="bg-gradient-to-br from-gray-800 to-gray-900 rounded-lg shadow-2xl p-6 border border-gray-600">
+          <div className="font-bold text-2xl mb-6 text-blue-300 border-b-2 border-blue-500 pb-3 drop-shadow-lg">Podsumowanie</div>
+          <div className="flex-1 overflow-y-auto text-white" style={{ minHeight: 500 }}>
+            <Summary
+              content={summary}
+              onSaveSection={handleSaveSection}
+              loadingSection={loadingSection}
+              errorSection={errorSection}
+            />
+          </div>
+        </div>
       </div>
       {/* Bottom section: file preview (80%) and file list (20%) */}
-      <div className="w-full max-w-6xl flex flex-col md:flex-row gap-8">
+      <div className="w-full flex flex-col lg:flex-row gap-6">
         {/* File Preview 80% */}
-        <div className="bg-gray-700 rounded-xl shadow-lg p-6 flex-1 border border-gray-700 scrollbar-thin scrollbar-thumb-gray-700 scrollbar-track-gray-900 min-h-[220px] flex flex-col">
-          <div className="font-bold text-lg mb-6 text-blue-300 border-b border-gray-700 pb-3 drop-shadow">Podgląd pliku</div>
+        <div className="bg-gradient-to-br from-gray-700 to-gray-800 rounded-lg shadow-xl p-6 flex-1 border border-gray-600 min-h-[300px] flex flex-col">
+          <div className="font-bold text-xl mb-6 text-blue-300 border-b-2 border-blue-500 pb-3 drop-shadow-lg">📄 Podgląd pliku</div>
           {selectedFileId ? (
             <>
               <div className="font-semibold mb-4 text-blue-300 text-base">{files.find(f => f.id === selectedFileId)?.name}</div>
@@ -129,9 +198,9 @@ const PrzetargPage = () => {
           )}
         </div>
         {/* File List 20% */}
-        <div className="bg-gray-800 rounded-xl shadow-lg p-6 w-full md:w-1/5 border border-gray-700 scrollbar-thin scrollbar-thumb-gray-700 scrollbar-track-gray-900 min-h-[220px] flex flex-col">
-          <div className="font-bold text-lg mb-6 text-blue-300 border-b border-gray-700 pb-3 drop-shadow">Lista plików (_cleaned_txt)</div>
-          <div className="flex-1 overflow-y-auto text-white scrollbar-thin scrollbar-thumb-gray-700 scrollbar-track-gray-900">
+        <div className="bg-gradient-to-br from-gray-800 to-gray-900 rounded-lg shadow-xl p-6 w-full lg:w-1/4 border border-gray-600 min-h-[300px] flex flex-col">
+          <div className="font-bold text-lg mb-6 text-blue-300 border-b-2 border-blue-500 pb-3 drop-shadow-lg">📁 Lista plików</div>
+          <div className="flex-1 overflow-y-auto text-white">
             <FileList files={files} onSelect={setSelectedFileId} selectedFileId={selectedFileId} />
           </div>
         </div>

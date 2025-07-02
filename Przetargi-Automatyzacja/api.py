@@ -165,5 +165,55 @@ def delete_tender(date, tender):
         log_api_call(endpoint=request.path, method='DELETE', params={'date': date, 'tender': tender}, status=500, error=str(e))
         return jsonify({'error': 'Failed to delete', 'details': str(e)}), 500
 
+@app.route('/api/przetarg/<przetarg_id>', methods=['DELETE'])
+def delete_przetarg(przetarg_id):
+    date, title = parse_przetarg_id(przetarg_id)
+    if not date or not title:
+        log_api_call(endpoint=request.path, method='DELETE', params={'przetarg_id': przetarg_id}, status=400, error='Invalid przetarg_id')
+        return jsonify({'error': 'Invalid przetarg_id'}), 400
+    tender_path = OUTPUT_DIR / date / title
+    if not tender_path.exists():
+        log_api_call(endpoint=request.path, method='DELETE', params={'przetarg_id': przetarg_id}, status=404, error='Not found')
+        return jsonify({'error': 'Not found'}), 404
+    try:
+        import shutil
+        shutil.rmtree(tender_path)
+        log_api_call(endpoint=request.path, method='DELETE', params={'przetarg_id': przetarg_id}, status=200)
+        return jsonify({'status': 'deleted'}), 200
+    except Exception as e:
+        log_api_call(endpoint=request.path, method='DELETE', params={'przetarg_id': przetarg_id}, status=500, error=str(e))
+        return jsonify({'error': 'Failed to delete', 'details': str(e)}), 500
+
+@app.route('/api/przetarg/<przetarg_id>/summary_section', methods=['POST'])
+def update_przetarg_summary_section(przetarg_id):
+    data = request.get_json()
+    section = data.get('section')
+    value = data.get('value')
+    if not section or value is None:
+        return jsonify({'error': 'Missing section or value'}), 400
+    date, title = parse_przetarg_id(przetarg_id)
+    if not date or not title:
+        return jsonify({'error': 'Invalid przetarg_id'}), 400
+    summary_path = OUTPUT_DIR / date / title / '_Podsumowanie.md'
+    section_header = f"## {section}"
+    new_section = f"{section_header}\n{value.strip()}\n"
+    if summary_path.exists():
+        with open(summary_path, encoding='utf-8') as f:
+            content = f.read()
+        import re
+        # Replace or add the section
+        pattern = re.compile(rf"## {re.escape(section)}\\s*([\s\S]*?)(?=\n## |$)", re.IGNORECASE)
+        if pattern.search(content):
+            content = pattern.sub(new_section.strip(), content)
+        else:
+            if content and not content.endswith('\n'):
+                content += '\n'
+            content += new_section
+    else:
+        content = new_section
+    with open(summary_path, 'w', encoding='utf-8') as f:
+        f.write(content.strip() + '\n')
+    return jsonify({'status': 'success'})
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000) 

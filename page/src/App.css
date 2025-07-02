@@ -36,3 +36,284 @@
     transform: rotate(360deg);
   }
 }
+
+.container-main {
+  width: 100%;
+  max-width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/* Hide scrollbars */
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+  background: transparent;
+}
+
+/* For Firefox */
+* {
+  scrollbar-width: none;
+}
+
+/* For IE and Edge */
+* {
+  -ms-overflow-style: none;
+}
+
+/* Ensure smooth scrolling for timeline navigation */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Smooth transitions for all elements */
+* {
+  transition: all 0.2s ease-in-out;
+}
+
+/* Timeline specific animations - minimalist approach */
+.timeline-zoom-transition {
+  transition: transform 800ms cubic-bezier(0.23, 1, 0.32, 1),
+              opacity 800ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.timeline-item {
+  transition: all 600ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.timeline-item:hover {
+  transform: translateY(-1px);
+}
+
+.timeline-item.selected {
+  transform: translateY(-2px);
+  filter: drop-shadow(0 4px 16px rgba(255, 255, 255, 0.1));
+}
+
+/* Minimal button hover effects */
+.timeline-button {
+  transition: all 300ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.timeline-button:hover {
+  transform: translateY(-0.5px);
+}
+
+.timeline-button:active {
+  transform: translateY(0) scale(0.99);
+}
+
+/* Subtle glow effect for progress */
+@keyframes subtle-glow {
+  0%, 100% {
+    opacity: 0.6;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.progress-glow {
+  animation: subtle-glow 3s ease-in-out infinite;
+}
+
+/* Text truncation utility */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Elegant scale animations */
+.scale-zoom-in {
+  animation: elegantZoom 800ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+@keyframes elegantZoom {
+  from {
+    transform: scale(0.98);
+    opacity: 0.9;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* Global Design System - Minimalist Theme */
+
+/* Glass morphism containers */
+.glass-container {
+  background: rgba(255, 255, 255, 0.02);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 1rem;
+}
+
+.glass-container-lg {
+  background: rgba(255, 255, 255, 0.02);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 1.5rem;
+}
+
+/* Typography system */
+.heading-primary {
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.4;
+}
+
+.heading-secondary {
+  font-size: 1.125rem;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.4;
+}
+
+.text-primary {
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: 300;
+}
+
+.text-secondary {
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 300;
+}
+
+.text-muted {
+  color: rgba(255, 255, 255, 0.3);
+  font-weight: 300;
+}
+
+/* Button system */
+.btn-minimal {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: 300;
+  padding: 0.625rem 1rem;
+  border-radius: 0.75rem;
+  transition: all 300ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.btn-minimal:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.9);
+  transform: translateY(-0.5px);
+}
+
+.btn-primary {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 300;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.75rem;
+  transition: all 300ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.btn-primary:hover {
+  background: rgba(255, 255, 255, 0.15);
+  transform: translateY(-0.5px);
+}
+
+.btn-danger {
+  background: rgba(239, 68, 68, 0.1);
+  border: 1px solid rgba(239, 68, 68, 0.2);
+  color: rgba(248, 113, 113, 0.8);
+  font-weight: 300;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.75rem;
+  transition: all 300ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.btn-danger:hover {
+  background: rgba(239, 68, 68, 0.15);
+  color: rgba(248, 113, 113, 1);
+  transform: translateY(-0.5px);
+}
+
+/* Layout utilities */
+.section-spacing {
+  margin-bottom: 1.5rem;
+}
+
+.section-spacing-lg {
+  margin-bottom: 3rem;
+}
+
+.content-spacing {
+  padding: 1.5rem;
+}
+
+.content-spacing-lg {
+  padding: 2rem;
+}
+
+/* Input system */
+.input-minimal {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.9);
+  border-radius: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  font-weight: 300;
+  transition: all 300ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.input-minimal:focus {
+  outline: none;
+  border-color: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.input-minimal::placeholder {
+  color: rgba(255, 255, 255, 0.3);
+}
+
+/* Floating elements */
+.floating-chat {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 50;
+  background: rgba(255, 255, 255, 0.02);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 1rem;
+  transition: all 300ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+/* Progress and loading states */
+.loading-minimal {
+  color: rgba(255, 255, 255, 0.3);
+  font-weight: 300;
+}
+
+/* Error states */
+.error-minimal {
+  color: rgba(248, 113, 113, 0.8);
+  background: rgba(239, 68, 68, 0.1);
+  border: 1px solid rgba(239, 68, 68, 0.2);
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+  font-weight: 300;
+}
+
+/* Success states */
+.success-minimal {
+  color: rgba(134, 239, 172, 0.8);
+  background: rgba(34, 197, 94, 0.1);
+  border: 1px solid rgba(34, 197, 94, 0.2);
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+  font-weight: 300;
+}

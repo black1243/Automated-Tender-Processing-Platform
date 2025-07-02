@@ -5,6 +5,8 @@ const API_URL = "http://localhost:5000/api/tenders";
 const REFRESH_INTERVAL = 3600000; // 1 hour in ms
 const MIN_VISIBLE = 1;
 const DEFAULT_VISIBLE = 4;
+const MAX_COMFORTABLE_VISIBLE = 8;
+const ANIMATION_DURATION = 600;
 
 export default function TimelinePage() {
   const [tenders, setTenders] = useState([]);
@@ -12,6 +14,8 @@ export default function TimelinePage() {
   const [visibleCount, setVisibleCount] = useState(DEFAULT_VISIBLE);
   const intervalRef = useRef();
   const [selectedIdx, setSelectedIdx] = useState(0);
+  const [isZooming, setIsZooming] = useState(false);
+  const [startIndex, setStartIndex] = useState(0);
   const navigate = useNavigate();
 
   // Fetch tenders from API
@@ -56,20 +60,69 @@ export default function TimelinePage() {
     return () => clearInterval(intervalRef.current);
   }, []);
 
-  // Zoom handlers
+  // Modern zoom handlers with smooth animations
   const handleZoomIn = () => {
-    setVisibleCount((c) => Math.max(MIN_VISIBLE, c - 1));
+    setIsZooming(true);
+    setVisibleCount((c) => {
+      const newCount = Math.max(MIN_VISIBLE, c - 1);
+      // Adjust start index if needed to keep selected item in view
+      if (selectedIdx >= newCount) {
+        setStartIndex(Math.max(0, selectedIdx - newCount + 1));
+      }
+      return newCount;
+    });
+    setTimeout(() => setIsZooming(false), ANIMATION_DURATION);
   };
+
   const handleZoomOut = () => {
-    setVisibleCount((c) => Math.min(tenders.length, c + 1));
+    setIsZooming(true);
+    setVisibleCount((c) => {
+      const newCount = Math.min(tenders.length, c + 1);
+      // Reset start index if we're showing more items
+      if (newCount > MAX_COMFORTABLE_VISIBLE && startIndex > 0) {
+        setStartIndex(Math.max(0, startIndex - 1));
+      }
+      return newCount;
+    });
+    setTimeout(() => setIsZooming(false), ANIMATION_DURATION);
+  };
+
+  // Navigate timeline for large datasets
+  const handlePrevious = () => {
+    if (startIndex > 0) {
+      setStartIndex(Math.max(0, startIndex - 1));
+      setSelectedIdx(0);
+    }
+  };
+
+  const handleNext = () => {
+    if (startIndex + visibleCount < tenders.length) {
+      setStartIndex(startIndex + 1);
+      setSelectedIdx(0);
+    }
+  };
+
+  // Auto-adjust zoom for optimal viewing
+  const handleAutoZoom = () => {
+    setIsZooming(true);
+    const optimalCount = tenders.length <= 4 ? tenders.length : 
+                       tenders.length <= 8 ? Math.min(6, tenders.length) :
+                       Math.min(MAX_COMFORTABLE_VISIBLE, tenders.length);
+    setVisibleCount(optimalCount);
+    setStartIndex(0);
+    setSelectedIdx(0);
+    setTimeout(() => setIsZooming(false), ANIMATION_DURATION);
   };
 
   if (loading) {
     return <div className="text-center text-gray-400 mt-20">Ładowanie danych…</div>;
   }
 
-  const visibleTenders = tenders.slice(0, visibleCount);
+  const visibleTenders = tenders.slice(startIndex, startIndex + visibleCount);
   const selectedTender = visibleTenders[selectedIdx] || visibleTenders[0];
+  const totalPages = Math.ceil(tenders.length / visibleCount);
+  const currentPage = Math.floor(startIndex / visibleCount) + 1;
+  const showNavigation = tenders.length > MAX_COMFORTABLE_VISIBLE;
 
   function handleDeleteTender() {
     if (!selectedTender) return;
@@ -92,123 +145,194 @@ export default function TimelinePage() {
   return (
     <div className="flex flex-col lg:flex-row gap-8">
       {/* Timeline Section */}
-      <div className="flex-1 bg-gray-800 rounded-xl p-8 shadow-lg">
-        <div className="flex justify-between items-center mb-8">
-          <h2 className="text-2xl font-bold">Timeline Projektów</h2>
+      <div className="flex-1 bg-white/[0.02] backdrop-blur-sm rounded-2xl p-8 border border-white/5">
+        <div className="flex justify-between items-center mb-12">
+          <div className="flex items-center gap-4">
+            <h2 className="text-2xl font-light text-white/90">Timeline</h2>
+            {showNavigation && (
+              <div className="text-xs text-white/30 font-mono">
+                {startIndex + 1}–{Math.min(startIndex + visibleCount, tenders.length)} of {tenders.length}
+              </div>
+            )}
+          </div>
           <div className="flex gap-2 items-center">
             <button
               onClick={fetchTenders}
-              className="bg-gray-700 hover:bg-gray-600 text-white px-2 py-1 rounded flex items-center justify-center"
-              title="Odśwież timeline"
+              className="text-white/40 hover:text-white/70 p-2 rounded-lg timeline-button"
               disabled={loading}
             >
-              <svg
-                className={`w-5 h-5 ${loading ? "animate-spin" : ""}`}
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                viewBox="0 0 24 24"
+              <div className={`w-3 h-3 border border-current rounded-full ${loading ? "animate-spin border-t-transparent" : ""}`}></div>
+            </button>
+            {showNavigation && (
+              <>
+                <div className="flex items-center gap-1 bg-white/5 rounded-lg p-1 border border-white/10">
+                  <button
+                    onClick={handlePrevious}
+                    disabled={startIndex === 0}
+                    className="text-white/70 hover:text-white px-2 py-1 rounded disabled:opacity-30 timeline-button text-sm"
+                  >
+                    ‹
+                  </button>
+                  <button
+                    onClick={handleNext}
+                    disabled={startIndex + visibleCount >= tenders.length}
+                    className="text-white/70 hover:text-white px-2 py-1 rounded disabled:opacity-30 timeline-button text-sm"
+                  >
+                    ›
+                  </button>
+                </div>
+              </>
+            )}
+            <button
+              onClick={handleAutoZoom}
+              className="bg-white/5 hover:bg-white/10 text-white/70 hover:text-white px-3 py-1.5 rounded-lg timeline-button text-xs font-medium border border-white/10"
+            >
+              Auto
+            </button>
+            <div className="flex items-center gap-1 bg-white/5 rounded-lg p-1 border border-white/10">
+              <button
+                onClick={handleZoomIn}
+                disabled={visibleCount <= MIN_VISIBLE || isZooming}
+                className="text-white/70 hover:text-white px-2 py-1 rounded disabled:opacity-30 timeline-button text-sm"
               >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  d="M4 4v5h5M20 20v-5h-5M5.07 19A9 9 0 1 1 12 21a9 9 0 0 1-6.93-2"
-                />
-              </svg>
-            </button>
-            <button
-              onClick={handleZoomIn}
-              disabled={visibleCount <= MIN_VISIBLE}
-              className="bg-gray-700 hover:bg-gray-600 text-white px-3 py-1 rounded disabled:opacity-50 transition"
-            >
-              –
-            </button>
-            <span className="text-sm text-gray-400">{visibleCount}</span>
-            <button
-              onClick={handleZoomOut}
-              disabled={visibleCount >= tenders.length}
-              className="bg-gray-700 hover:bg-gray-600 text-white px-3 py-1 rounded disabled:opacity-50 transition"
-            >
-              +
-            </button>
+                −
+              </button>
+              <span className="text-xs text-white/50 min-w-[1.5ch] text-center font-mono">{visibleCount}</span>
+              <button
+                onClick={handleZoomOut}
+                disabled={visibleCount >= tenders.length || isZooming}
+                className="text-white/70 hover:text-white px-2 py-1 rounded disabled:opacity-30 timeline-button text-sm"
+              >
+                +
+              </button>
+            </div>
           </div>
         </div>
-        <div className="flex flex-col items-center">
-          <div className="flex justify-between w-full mb-4 transition-all duration-500">
-            {visibleTenders.map((step, idx) => (
-              <div
-                key={step.path}
-                className={`flex flex-col items-center w-1/4 opacity-100 transition-all duration-500 cursor-pointer ${idx === selectedIdx ? "z-10" : "z-0"}`}
-                style={{
-                  transition: "opacity 0.5s, transform 0.5s",
-                  transform: `scale(${1 - (visibleCount - 4) * 0.05})`,
-                }}
-                onClick={() => setSelectedIdx(idx)}
-              >
-                <span className="text-gray-300 text-sm font-mono mb-2">{step.date}</span>
-                <div className={`w-8 h-8 rounded-full flex items-center justify-center mb-2 border-2 ${idx === selectedIdx ? "bg-blue-500 border-blue-400 shadow-lg" : "bg-gray-700 border-gray-600"}`}>
-                  {idx === selectedIdx && (
-                    <span className="block w-4 h-4 bg-blue-300 rounded-full animate-pulse"></span>
+        <div className="flex flex-col items-center overflow-hidden">
+          <div className={`flex justify-between w-full mb-8 timeline-zoom-transition ${isZooming ? 'scale-zoom-in' : ''}`}>
+            {visibleTenders.map((step, idx) => {
+              const scale = visibleCount <= 4 ? 1 : 
+                           visibleCount <= 6 ? 0.95 :
+                           visibleCount <= 8 ? 0.85 :
+                           0.75;
+              const spacing = visibleCount <= 4 ? 'w-1/4' :
+                             visibleCount <= 6 ? 'flex-1' :
+                             'flex-1';
+              
+              return (
+                <div
+                  key={step.path}
+                  className={`flex flex-col items-center ${spacing} opacity-100 timeline-item cursor-pointer ${idx === selectedIdx ? "selected z-10" : "z-0"}`}
+                  style={{
+                    transform: `scale(${scale}) ${idx === selectedIdx ? 'translateY(-4px)' : ''}`,
+                    transition: `all ${ANIMATION_DURATION}ms cubic-bezier(0.4, 0, 0.2, 1)`,
+                  }}
+                  onClick={() => setSelectedIdx(idx)}
+                >
+                  <span className={`text-white/40 font-light mb-3 transition-all duration-500 ${
+                    visibleCount <= 4 ? 'text-xs' :
+                    visibleCount <= 6 ? 'text-xs' :
+                    'text-xs'
+                  }`}>{step.date}</span>
+                  
+                  <div className={`rounded-full flex items-center justify-center mb-3 transition-all duration-500 ${
+                    visibleCount <= 4 ? 'w-3 h-3' :
+                    visibleCount <= 6 ? 'w-2.5 h-2.5' :
+                    'w-2 h-2'
+                  } ${
+                    idx === selectedIdx 
+                      ? "bg-white shadow-lg shadow-white/20" 
+                      : "bg-white/20 hover:bg-white/40"
+                  }`}>
+                  </div>
+                  
+                  <span className={`transition-all duration-500 text-center line-clamp-2 font-light ${
+                    visibleCount <= 4 ? 'text-sm' :
+                    visibleCount <= 6 ? 'text-xs' :
+                    'text-xs'
+                  } ${
+                    idx === selectedIdx ? "text-white" : "text-white/50 hover:text-white/70"
+                  }`}>
+                    {step.title.length > 30 && visibleCount > 6 
+                      ? step.title.substring(0, 30) + '...' 
+                      : step.title}
+                  </span>
+                  
+                  {step.percent && (
+                    <span className={`mt-3 bg-white/10 text-white/70 rounded-full font-light transition-all duration-500 ${
+                      visibleCount <= 4 ? 'text-xs px-2 py-0.5' :
+                      visibleCount <= 6 ? 'text-xs px-2 py-0.5' :
+                      'text-xs px-1.5 py-0.5'
+                    }`}>{step.percent}%</span>
                   )}
                 </div>
-                <span className={`text-sm ${idx === selectedIdx ? "text-white font-semibold" : "text-gray-400"}`}>{step.title}</span>
-                {step.percent && (
-                  <span className="mt-2 text-xs bg-blue-400 text-white px-3 py-1 rounded-full font-bold">{step.percent}%</span>
-                )}
-              </div>
-            ))}
+              );
+            })}
           </div>
-          <div className="w-full h-3 bg-gray-700 rounded-full mt-8 mb-2">
-            <div className="h-3 bg-blue-400 rounded-full transition-all duration-500" style={{ width: `${visibleTenders[0]?.percent || 0}%` }}></div>
+          
+          {/* Minimalist progress line */}
+          <div className="w-full relative mt-12">
+            <div className="w-full h-px bg-white/10">
+              <div 
+                className="h-px bg-white/60 transition-all duration-1000 ease-out" 
+                style={{ width: `${selectedTender?.percent || 0}%` }}
+              ></div>
+            </div>
           </div>
-          <p className="text-gray-500 text-xs mt-2">Użyj przycisków +/– aby zoomować timeline</p>
+          
+          <p className="text-white/20 text-xs mt-6 text-center font-light">
+            {showNavigation 
+              ? `Navigate with ‹ › controls` 
+              : `Adjust view with zoom controls`
+            }
+          </p>
         </div>
       </div>
       {/* Details Panel */}
       <div className="w-full lg:w-96 flex flex-col gap-6">
-        <div className="bg-gray-800 rounded-xl p-6 shadow-lg">
-          <h3 className="text-lg font-bold mb-4">Dane</h3>
-          <div className="text-sm space-y-2">
-            <div className="flex justify-between"><span>Data:</span> <span className="font-semibold">{selectedTender?.date}</span></div>
-            <div className="flex justify-between"><span>Tytuł:</span> <span className="font-semibold">{selectedTender?.title}</span></div>
-            <div className="flex justify-between"><span>ID:</span> <span className="font-semibold">#{selectedTender?.id || selectedTender?.path}</span></div>
-            <div><span>Opis:</span><div className="text-gray-400 text-xs mt-1">Rozpoczęcie współpracy z klientem</div></div>
+        <div className="bg-white/[0.02] backdrop-blur-sm rounded-2xl p-6 border border-white/5">
+          <h3 className="text-lg font-light text-white/90 mb-6">Details</h3>
+          <div className="text-sm space-y-3">
+            <div className="flex justify-between"><span className="text-white/50">Date:</span> <span className="font-light text-white/80">{selectedTender?.date}</span></div>
+            <div className="flex justify-between"><span className="text-white/50">Title:</span> <span className="font-light text-white/80">{selectedTender?.title}</span></div>
+            <div className="flex justify-between"><span className="text-white/50">ID:</span> <span className="font-light text-white/80">#{selectedTender?.id || selectedTender?.path}</span></div>
+            <div><span className="text-white/50">Status:</span><div className="text-white/40 text-xs mt-1 font-light">Active tender process</div></div>
           </div>
           {selectedTender && (
             <div className="flex gap-2 mt-4">
               <button
-                className="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition"
+                className="w-full bg-white/10 hover:bg-white/20 text-white font-light py-2.5 px-4 rounded-xl transition-all duration-300 border border-white/10"
                 onClick={() => navigate(`/przetarg/${selectedTender.folderDate}/${encodeURIComponent(selectedTender.title)}`)}
               >
-                Przejdź
+                View Details
               </button>
               <button
-                className="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded transition"
+                className="w-full bg-red-500/10 hover:bg-red-500/20 text-red-300/80 hover:text-red-300 font-light py-2.5 px-4 rounded-xl transition-all duration-300 border border-red-500/20"
                 onClick={handleDeleteTender}
               >
-                Usuń
+                Remove
               </button>
             </div>
           )}
         </div>
-        <div className="bg-gray-800 rounded-xl p-6 shadow-lg">
-          <h3 className="text-lg font-bold mb-2">% Dopasowania</h3>
-          <div className="flex items-center gap-2 mb-2">
-            <span className="text-2xl font-bold text-green-400">{selectedTender?.percent || "?"}%</span>
-            <span className="bg-yellow-500 text-xs text-white px-3 py-1 rounded-full font-semibold">Dobry</span>
+        <div className="bg-white/[0.02] backdrop-blur-sm rounded-2xl p-6 border border-white/5">
+          <h3 className="text-lg font-light text-white/90 mb-4">Match Score</h3>
+          <div className="flex items-center gap-3 mb-4">
+            <span className="text-3xl font-extralight text-white">{selectedTender?.percent || "?"}%</span>
+            <span className="bg-white/10 text-white/60 text-xs px-2 py-1 rounded-full font-light">Good</span>
           </div>
-          <div className="w-full h-2 bg-gray-700 rounded-full">
-            <div className="h-2 bg-green-400 rounded-full transition-all duration-500" style={{ width: `${selectedTender?.percent || 0}%` }}></div>
+          <div className="w-full h-1 bg-white/10 rounded-full">
+            <div className="h-1 bg-white/60 rounded-full transition-all duration-1000 progress-glow" style={{ width: `${selectedTender?.percent || 0}%` }}></div>
           </div>
-          <div className="text-xs text-gray-400 mt-2">Procent dopasowania do założonych kryteriów</div>
+          <div className="text-xs text-white/30 mt-3 font-light">Compatibility with target criteria</div>
         </div>
-        <div className="bg-gray-800 rounded-xl p-6 shadow-lg">
-          <h3 className="text-lg font-bold mb-2">Produkty</h3>
-          <div className="text-xs text-gray-400 mb-2">Powiązane produkty (3)</div>
+        <div className="bg-white/[0.02] backdrop-blur-sm rounded-2xl p-6 border border-white/5">
+          <h3 className="text-lg font-light text-white/90 mb-4">Related</h3>
+          <div className="text-xs text-white/30 mb-3 font-light">Associated products (3)</div>
           <div className="flex gap-2 flex-wrap">
-            <span className="bg-gray-700 text-white px-4 py-1 rounded-full font-semibold text-xs">Produkt A</span>
-            <span className="bg-gray-700 text-white px-4 py-1 rounded-full font-semibold text-xs">Produkt B</span>
-            <span className="bg-gray-700 text-white px-4 py-1 rounded-full font-semibold text-xs">Produkt C</span>
+            <span className="bg-white/5 text-white/60 px-3 py-1.5 rounded-full font-light text-xs border border-white/10">Product A</span>
+            <span className="bg-white/5 text-white/60 px-3 py-1.5 rounded-full font-light text-xs border border-white/10">Product B</span>
+            <span className="bg-white/5 text-white/60 px-3 py-1.5 rounded-full font-light text-xs border border-white/10">Product C</span>
           </div>
         </div>
       </div>

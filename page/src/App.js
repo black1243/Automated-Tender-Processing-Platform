@@ -14,14 +14,14 @@ const navItems = [
 function Layout({ children }) {
   return (
     <div className="min-h-screen bg-gray-900 text-white">
-      <nav className="flex items-center px-8 py-4 bg-gray-800 shadow">
-        <span className="text-2xl font-bold mr-8">Timeline</span>
-        <div className="flex gap-6">
+      <nav className="glass-container-lg mx-4 mt-4 content-spacing flex items-center justify-between">
+        <span className="heading-primary">Timeline</span>
+        <div className="flex gap-8">
           {navItems.map((item) => (
             <Link
               key={item.path}
               to={item.path}
-              className="hover:text-blue-400 transition-colors duration-200"
+              className="text-secondary hover:text-primary transition-all duration-300 font-light"
             >
               {item.name}
             </Link>
@@ -34,9 +34,9 @@ function Layout({ children }) {
 }
 
 const Placeholder = ({ title }) => (
-  <div className="text-center mt-20">
-    <h1 className="text-4xl font-semibold mb-4">{title}</h1>
-    <p className="text-gray-400">To będzie strona: {title}</p>
+  <div className="glass-container-lg content-spacing-lg text-center mt-20">
+    <h1 className="heading-primary text-3xl mb-6">{title}</h1>
+    <p className="text-muted font-light">This page is coming soon: {title}</p>
   </div>
 );
 

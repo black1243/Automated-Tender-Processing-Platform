@@ -63,80 +63,46 @@ def get_summary_from_ai(row_data, files_content, analyzed_filenames):
     """
     log_action('ai_summary_get_summary_from_ai_start', {})
     prompt = f"""Jesteś ekspertem w analizie dokumentów przetargowych. Twoim zadaniem jest przeanalizowanie dostarczonych plików i utworzenie strukturalnego podsumowania zgodnie z poniższym szablonem.
+
 WAŻNE ZASADY:
-⦁	Analizuj TYLKO informacje zawarte w dostarczonych dokumentach
-⦁	NIE wymyślaj ani nie szacuj żadnych danych
-⦁	Jeśli informacja nie jest podana w dokumentach, wyraźnie to zaznacz
-⦁	Zachowuj obiektywność i precyzję
-⦁	Używaj konkretnych wartości liczbowych i dat z dokumentów
-WYMAGANA STRUKTURA ODPOWIEDZI - Podzial na 4 sekcje:
+- Analizuj TYLKO informacje zawarte w dostarczonych dokumentach
+- NIE wymyślaj ani nie szacuj żadnych danych
+- Jeśli informacja nie jest podana w dokumentach, wyraźnie to zaznacz
+- Zachowuj obiektywność i precyzję
+- Używaj konkretnych wartości liczbowych i dat z dokumentów
 
-1. Specyfikacja produktu:
-tutaj musi byc SZCZEGÓŁOWE SPECYFIKACJE PRODUKTÓW
-wszystko co dotyczy produktu ktory wymagaja, wymagania, specyfikacje, parametry, itp.
-to ma byc przygotowanie pod wyszukanie konkretnego modelu np. drukarki, dlatego wymagane jest dokladne przeszukanie wszystkich podanych danych.
+WYMAGANA STRUKTURA ODPOWIEDZI - Podział na 4 sekcje (każda zaczyna się od nagłówka markdown, np. ## SPECYFIKACJA PRODUKTÓW):
 
-3. WARUNKI UDZIAŁU W PRZETARGU
-3.1 Warunki Ekonomiczno-Finansowe
-⦁	[Lista wszystkich wymagań finansowych z konkretnymi kwotami]
-3.2 Warunki Zdolności Technicznej i Zawodowej
-⦁	[Lista wymagań dotyczących doświadczenia z konkretnymi kwotami i okresami]
-3.3 Wymagane Dokumenty
-⦁	[Kompletna lista dokumentów do złożenia z ofertą]
-4. WYKLUCZENIA Z UDZIAŁU W PRZETARGU
-4.1 Podstawy Wykluczenia Obligatoryjnego
-⦁	[Lista przyczyn wykluczenia z numerami artykułów]
-4.2 Podstawy Wykluczenia Fakultatywnego
-⦁	[Lista fakultatywnych przyczyn wykluczenia]
-5. WARTOŚĆ PRZETARGU I WARUNKI PŁATNOŚCI
-⦁	Szacunkowa wartość: [Kwota lub informacja o braku danych]
-6. KLUCZOWE TERMINY
-⦁	Termin składania ofert: [Data i godzina]
-⦁	Otwarcie ofert: [Data i godzina]
-⦁	Termin związania ofertą: [Data]
-⦁	Rozpoczęcie realizacji: [Data]
-Czy podane sa jeszcze jakies daty?? jak tak to na co wkazuja/czego dotycza?
-7. KRYTYCZNE CZYNNIKI SUKCESU
-[Lista 5-8 najważniejszych elementów decydujących o powodzeniu w przetargu, uporządkowanych według ważności]
-KOŃCOWE UWAGI I REFLEKSJE
-Na końcu swojej analizy ZAWSZE dodaj sekcję "UWAGI I WĄTPLIWOŚCI ANALITYKA", w której:
-⦁	Zwróć uwagę na kluczowe ryzyka, np.:
-⦁	Nietypowe lub bardzo restrykcyjne wymagania
-⦁	Krótkie terminy realizacji
-⦁	Skomplikowane procedury
-⦁	Wysokie bariery wejścia
-⦁	Wskaż niejasności, np.:
-⦁	Informacje, które mogą budzić wątpliwości
-⦁	Brakujące dane, które mogą być kluczowe
-⦁	Sprzeczności w dokumentach
-⦁	Zaproponuj pytania do wyjaśnienia, np.:
-⦁	Co należałoby doprecyzować z zamawiającym
-⦁	Jakie dodatkowe informacje mogą być potrzebne
-PRZYKŁAD KOŃCOWYCH UWAG:
-## UWAGI I WĄTPLIWOŚCI ANALITYKA
+## SPECYFIKACJA PRODUKTÓW
+Wszystkie szczegółowe specyfikacje produktów, wymagania techniczne, parametry, itp. (przygotowane pod wyszukanie konkretnego modelu produktu).
+Jeśli brak informacji, napisz: `[BRAK INFORMACJI W DOKUMENTACH]`
 
-**Kluczowe ryzyka:**
-- Wymaganie lokalizacji serwisu w określonym mieście może znacznie ograniczyć grono uczestników
-- Krótki termin na złożenie oferty (tylko 12 dni) wymaga szybkiej mobilizacji zasobów
+## WYKLUCZENIA
+Wszystkie podstawy wykluczenia z udziału w przetargu (obligatoryjne i fakultatywne, z numerami artykułów jeśli są).
+Jeśli brak informacji, napisz: `[BRAK INFORMACJI W DOKUMENTACH]`
 
-**Niejasności wymagające wyjaśnienia:**
-- Brak podania szacunkowej wartości zamówienia utrudnia ocenę opłacalności udziału
-- Specyficzne wymagania dotyczące kompatybilności z Novell mogą wykluczać część rozwiązań
+## WARUNKI SPECJALNE
+Wszystkie nietypowe, dodatkowe lub szczególne warunki udziału, realizacji, płatności, itp., które nie pasują do wykluczeń ani specyfikacji produktów.
+Jeśli brak informacji, napisz: `[BRAK INFORMACJI W DOKUMENTACH]`
 
-**Pytania do rozważenia:**
-- Czy zamawiający jest otwarty na rozwiązania alternatywne dla wymaganego oprogramowania?
-- Jaki jest faktyczny budżet zamawiającego na to zamówienie?
+## PODSUMOWANIE
+Pozostałe wymagane elementy analizy:
+- Warunki udziału w przetargu (ekonomiczno-finansowe, techniczne, wymagane dokumenty)
+- Wartość przetargu i warunki płatności
+- Kluczowe terminy
+- Krytyczne czynniki sukcesu
+- Końcowe uwagi i wątpliwości analityka (zgodnie z instrukcją poniżej)
+- Lista przeanalizowanych plików
 
-**Ocena trudności przetargu: 4/5** - Wysokie wymagania techniczne i organizacyjne
+**W każdej sekcji używaj markdown (listy, pogrubienia, cytaty, tabele jeśli potrzebne).
+Jeśli informacja jest niejednoznaczna, napisz: `[WYMAGA WYJAŚNIENIA]` i wskaż źródło niepewności.
+Jeśli nie znajdziesz informacji, napisz: `[BRAK INFORMACJI W DOKUMENTACH]`.
+Zawsze zachowuj profesjonalny ton i szczerość co do ograniczeń.**
 
-Na koncu wymien nazwy plikow ktore przeanalizowales.
+Na końcu sekcji "Podsumowanie" zawsze dodaj:
+- "UWAGI I WĄTPLIWOŚCI ANALITYKA" (zgodnie z poprzednią instrukcją)
+- Listę nazw przeanalizowanych plików
 
-DODATKOWE INSTRUKCJE
-1.	Jeśli nie znajdziesz informacji potrzebnej do wypełnienia sekcji, napisz: "[INFORMACJA NIEDOSTĘPNA W DOKUMENTACH]"
-2.	Jeśli informacja jest niejednoznaczna, napisz: "[WYMAGA WYJAŚNIENIA]" i wskaż źródło niepewności
-3.	Używaj konkretnych cytatów z dokumentów dla kluczowych informacji (w nawiasach kwadratowych)
-4.	Sprawdzaj spójność - jeśli znajdziesz sprzeczne informacje, wskaż to wyraźnie
-5.	Zachowuj profesjonalny ton, ale bądź szczery co do ograniczeń i wątpliwości
 Pamiętaj: Lepiej przyznać się do braku informacji niż podawać niepewne lub wymyślone dane.
     """
     log_action('ai_gemini_prompt', {

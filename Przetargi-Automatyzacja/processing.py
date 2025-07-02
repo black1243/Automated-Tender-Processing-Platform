@@ -75,6 +75,13 @@ def process_tenders(input_excel_file, email_date_prefix=None, output_dir=None):
     headers = [cell.value for cell in sheet[header_row_index]]
     for row_index in range(header_row_index + 1, sheet.max_row + 1):
         row_cells = sheet[row_index]
+        # Stop processing if the first column 'ID' is not a number
+        id_value = row_cells[0].value if len(row_cells) > 0 else None
+        try:
+            if id_value is None or str(id_value).strip() == '' or not str(id_value).strip().isdigit():
+                break
+        except Exception:
+            break
         # Stop processing if the row is completely empty
         if all((cell.value is None or str(cell.value).strip() == "") for cell in row_cells):
             break

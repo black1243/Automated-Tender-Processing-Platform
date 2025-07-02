@@ -340,3 +340,289 @@
 {"timestamp": "2025-07-01T21:59:57.888536", "endpoint": "/api/przetarg/2025-06-27_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
 {"timestamp": "2025-07-01T22:41:09.381128", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
 {"timestamp": "2025-07-01T22:41:09.636903", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T10:48:22.645867", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T10:48:22.904581", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T10:48:30.153937", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T10:48:30.463281", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T10:48:46.982522", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T10:48:47.242819", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T11:24:58.757777", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T11:24:59.018963", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T11:25:05.705387", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T11:25:06.014815", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T11:37:36.827437", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T11:37:37.091441", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T11:40:42.005650", "endpoint": "/api/przetarg/2025-06-27_MIASTO PSZÓW_2025-07-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T11:40:42.005960", "endpoint": "/api/przetarg/2025-06-27_MIASTO PSZÓW_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T11:40:42.267739", "endpoint": "/api/przetarg/2025-06-27_MIASTO PSZÓW_2025-07-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T11:40:42.329992", "endpoint": "/api/przetarg/2025-06-27_MIASTO PSZÓW_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T11:40:56.719308", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T11:40:56.979915", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T11:41:05.497486", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T11:41:05.803048", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T11:41:05.802747", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T11:41:06.107872", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T15:27:55.895228", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T15:27:56.151334", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T16:27:56.678485", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T17:27:56.567381", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T17:46:39.244867", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T17:46:39.246152", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T17:46:39.555925", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T17:46:39.561868", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T18:13:52.404897", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T18:13:52.404334", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T18:14:39.831476", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T18:14:39.830824", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T18:14:40.141575", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T18:14:40.145975", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T18:40:17.565995", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T18:40:17.875987", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:16:23.831655", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:16:23.835984", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:16:24.150563", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:16:24.153008", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:18:43.968838", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:18:43.969214", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:18:44.279907", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:18:44.284921", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:19:56.822614", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:19:56.944725", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:19:57.139821", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:19:57.141994", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:20:17.187361", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:20:17.506559", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:20:17.507525", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:20:17.512885", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:21:05.777273", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:21:05.901472", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:21:06.092168", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:21:06.092530", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:25:01.452313", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:25:01.456660", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:25:01.770032", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:25:01.769518", "endpoint": "/api/przetarg/2025-06-06_Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie Sp. z o.o_2025-07-03/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:28:21.863296", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:28:22.132883", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:28:24.381919", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:28:24.382821", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:28:24.712179", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:28:24.711888", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:29:31.149823", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:29:31.263039", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:29:31.471269", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:29:31.471783", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:30:07.496186", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:30:07.586887", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:30:07.810138", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:30:07.810482", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:32:04.341051", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:32:04.340363", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:32:04.657137", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:32:04.663974", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:32:26.052413", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:32:26.363628", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:32:26.367117", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:32:26.371747", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:32:52.182911", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:32:52.188121", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:32:52.514387", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:32:52.515057", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:32:56.569874", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:32:56.575780", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:32:56.889694", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:32:56.892687", "endpoint": "/api/przetarg/2025-06-24_Meblitos Sp. z o.o_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:37:14.753648", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:37:15.021830", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:37:17.662094", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:37:17.662438", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:37:17.927646", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:37:17.991585", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:38:51.598744", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:38:51.599433", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:38:51.607656", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:38:51.916376", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:43:52.027235", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:43:52.295531", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:43:54.770818", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:43:54.771315", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:43:55.039156", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:43:55.085891", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T19:44:02.337261", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/file/link.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:00:05.231509", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary_section", "method": "POST", "params": {"section": "WYKLUCZENIA", "value": "rrrrr"}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:00:05.232031", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary_section", "method": "POST", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-07-02T20:04:04.107823", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:04:04.110130", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:04:04.426907", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:04:04.429256", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:04:07.597237", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:04:07.864650", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:04:09.983776", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:04:10.307108", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:04:10.307540", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:04:10.636108", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:05:52.083681", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:05:52.346108", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:05:55.400143", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:05:55.401839", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:05:55.648827", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:05:55.711768", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:05:59.478739", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary_section", "method": "POST", "params": {"section": "WYKLUCZENIA", "value": "ggg"}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:05:59.479037", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary_section", "method": "POST", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-07-02T20:06:13.940800", "endpoint": "/main.82eaf1e688d871e2c2e8.hot-update.json", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:06:13.941001", "endpoint": "/main.82eaf1e688d871e2c2e8.hot-update.json", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-07-02T20:06:14.398504", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:06:14.399455", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:06:14.406931", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:06:14.410293", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:06:14.692300", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:06:14.956567", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:06:16.850333", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:06:17.160852", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:06:17.166412", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:06:17.488467", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:06:21.480164", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary_section", "method": "POST", "params": {"section": "WYKLUCZENIA", "value": "gggg"}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:06:21.743083", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:16:56.060123", "endpoint": "/main.ae6588637434ad0ceab8.hot-update.json", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:16:56.060447", "endpoint": "/main.ae6588637434ad0ceab8.hot-update.json", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-07-02T20:16:56.692431", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:16:56.693721", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:16:56.699061", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:16:56.702061", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:16:56.809832", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:16:57.076791", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:17:02.488035", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:17:05.484159", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:17:05.484504", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:17:05.748158", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:17:05.811479", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:16.454081", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:16.456477", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:16.772166", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:16.774047", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:17.611185", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:17.920169", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:17.920718", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:17.927142", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:19.363305", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:19.628150", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:20.771816", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:20.772411", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:21.095818", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:21.096250", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:24.681628", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:25.007054", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:27.156909", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:27.156584", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:27.423397", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:19:27.472705", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:21:21.357905", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:21:21.624989", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:21:22.713485", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:21:22.714029", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:21:23.028912", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:21:23.032952", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:22:25.921283", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:23:47.273260", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:25:26.404986", "endpoint": "/przetarg/2025-06-18/Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:25:26.405139", "endpoint": "/przetarg/2025-06-18/Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-07-02T20:26:16.585503", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:26:16.896212", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:26:16.897188", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:26:16.904424", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:26:51.710792", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:26:51.977146", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:26:53.065500", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:26:53.066529", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:26:53.390355", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:26:53.390836", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:29:39.696271", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:29:39.791037", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:29:40.016049", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:29:40.016709", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:29:43.451021", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary_section", "method": "POST", "params": {"section": "SPECYFIKACJA PRODUKTÓW", "value": ""}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:29:43.458313", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:29:44.835957", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary_section", "method": "POST", "params": {"section": "SPECYFIKACJA PRODUKTÓW", "value": ""}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:29:45.098736", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:29:47.336769", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:29:47.604412", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:29:48.733046", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:29:49.040940", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:29:49.045632", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:29:49.356544", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:30:04.474539", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary_section", "method": "POST", "params": {"section": "PODSUMOWANIE", "value": "weeeeeeeeeeeeeee"}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:30:04.725602", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:34:29.437617", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:35:05.423221", "endpoint": "/przetarg/2025-06-18/Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:35:05.423402", "endpoint": "/przetarg/2025-06-18/Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-07-02T20:39:15.634774", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:43:26.059684", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:43:34.393510", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:43:45.866125", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:43:54.489079", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:44:43.043338", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:44:43.049607", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:44:43.358439", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:44:43.363110", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:47:00.626141", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:47:00.626868", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:47:00.949052", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:47:00.949978", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:50:34.641628", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:50:34.640782", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:50:34.650991", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:50:34.965627", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:54:13.849773", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:54:13.850726", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:54:14.175775", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:54:14.176447", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:54:16.388050", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:54:16.656131", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:54:18.018849", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:54:18.341691", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:54:18.342174", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:54:18.672396", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:59:17.028339", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:59:17.037574", "endpoint": "/api/przetarg/2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02", "method": "DELETE", "params": {"przetarg_id": "2025-06-18_Polskie Radio Regionalna Rozgłośnia w Krakowie Radio Kraków S.A. w likwidacji_2025-07-02"}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:59:17.374429", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:59:17.643542", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:59:19.171951", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:59:19.481790", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:59:19.486550", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:59:19.797831", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:59:33.763917", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T20:59:34.086596", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:08:36.556111", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:10:40.349590", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:10:40.618717", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:10:52.365851", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:16:56.062039", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:16:56.061783", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:16:56.327796", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:16:56.390308", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:17:02.823521", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:17:03.091090", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:17:13.219061", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:17:13.539887", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:17:13.540356", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:17:13.852968", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:18:58.765967", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:18:58.766663", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:18:59.083621", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:18:59.084082", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:19:22.023644", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/file/og_oszenie_o_zamowieniu_391836-2025-PL.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:19:22.722665", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/file/uwaga.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:21:29.820591", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:21:30.087156", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:21:31.787703", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:21:31.787335", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:21:32.039368", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:21:32.116654", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:22:14.217005", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:22:14.540810", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:22:14.542750", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:22:14.548072", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:38:17.765769", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:38:17.765268", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:38:18.086868", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-02T21:38:18.087700", "endpoint": "/api/przetarg/2025-06-18_Śląski Urząd Wojewódzki w Katowicach_2025-07-25/summary", "method": "GET", "params": {}, "status": 200, "error": null}
