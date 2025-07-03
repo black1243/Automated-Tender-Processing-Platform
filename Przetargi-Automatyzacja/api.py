@@ -225,5 +225,73 @@ def get_przetarg_link(przetarg_id):
         return "Not found", 404
     return link_path.read_text(encoding='utf-8')
 
+@app.route('/api/tenders/navigation/<przetarg_id>', methods=['GET'])
+def get_tender_navigation(przetarg_id):
+    """Get next and previous tender for navigation"""
+    date, title = parse_przetarg_id(przetarg_id)
+    if not date or not title:
+        return jsonify({'error': 'Invalid przetarg_id'}), 400
+    
+    # Get all tenders
+    all_tenders = []
+    for date_dir in OUTPUT_DIR.iterdir():
+        if not date_dir.is_dir():
+            continue
+        for tender_dir in date_dir.iterdir():
+            if not tender_dir.is_dir():
+                continue
+            tender_name = tender_dir.name
+            tender_date = None
+            parts = tender_name.rsplit('_', 1)
+            if len(parts) == 2:
+                tender_date = parts[1]
+            else:
+                tender_date = date_dir.name
+            all_tenders.append({
+                'name': tender_name,
+                'date': tender_date,
+                'path': f"{date_dir.name}/{tender_name}",
+                'folder_date': date_dir.name,
+                'title': tender_name
+            })
+    
+    # Sort tenders by deadline date (same as timeline order)
+    # Filter out tenders without valid deadline dates and sort by deadline
+    valid_tenders = []
+    for tender in all_tenders:
+        if tender['date']:
+            try:
+                # Parse the deadline date
+                deadline_date = datetime.datetime.strptime(tender['date'], '%Y-%m-%d').date()
+                tender['deadline_date'] = deadline_date
+                valid_tenders.append(tender)
+            except ValueError:
+                # Skip tenders with invalid date format
+                continue
+    
+    # Sort by deadline date (ascending - earliest first)
+    valid_tenders.sort(key=lambda x: x['deadline_date'])
+    
+    # Find current tender index
+    current_index = -1
+    for i, tender in enumerate(valid_tenders):
+        if tender['folder_date'] == date and tender['title'] == title:
+            current_index = i
+            break
+    
+    if current_index == -1:
+        return jsonify({'error': 'Tender not found'}), 404
+    
+    # Get next and previous
+    prev_tender = valid_tenders[current_index - 1] if current_index > 0 else None
+    next_tender = valid_tenders[current_index + 1] if current_index < len(valid_tenders) - 1 else None
+    
+    return jsonify({
+        'previous': prev_tender,
+        'next': next_tender,
+        'current_index': current_index,
+        'total_count': len(valid_tenders)
+    })
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000) 

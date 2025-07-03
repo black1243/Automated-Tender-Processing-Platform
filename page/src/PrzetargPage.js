@@ -39,6 +39,8 @@ const PrzetargPage = () => {
   const [errorSection, setErrorSection] = useState(null);
   const [linkLoading, setLinkLoading] = useState(false);
   const [linkError, setLinkError] = useState('');
+  const [navigationData, setNavigationData] = useState({ previous: null, next: null, current_index: 0, total_count: 0 });
+  const [navigationLoading, setNavigationLoading] = useState(false);
   const navigate = useNavigate();
 
   const przetargName = decodeURIComponent(title);
@@ -95,6 +97,25 @@ const PrzetargPage = () => {
         console.error('Summary fetch error:', err);
         setSummary('Brak podsumowania');
         setError('Błąd pobierania podsumowania');
+      });
+  }, [encodedPrzetargId]);
+
+  // Fetch navigation data
+  useEffect(() => {
+    setNavigationLoading(true);
+    fetch(`/api/tenders/navigation/${encodedPrzetargId}`)
+      .then(res => {
+        if (!res.ok) throw new Error('Błąd pobierania danych nawigacji');
+        return res.json();
+      })
+      .then(data => {
+        setNavigationData(data);
+        setNavigationLoading(false);
+      })
+      .catch(err => {
+        console.error('Navigation fetch error:', err);
+        setNavigationData({ previous: null, next: null, current_index: 0, total_count: 0 });
+        setNavigationLoading(false);
       });
   }, [encodedPrzetargId]);
 
@@ -157,10 +178,60 @@ const PrzetargPage = () => {
     }
   };
 
+  // Navigation handlers
+  const handlePreviousTender = () => {
+    if (navigationData.previous) {
+      navigate(`/przetarg/${navigationData.previous.folder_date}/${encodeURIComponent(navigationData.previous.title)}`);
+    }
+  };
+
+  const handleNextTender = () => {
+    if (navigationData.next) {
+      navigate(`/przetarg/${navigationData.next.folder_date}/${encodeURIComponent(navigationData.next.title)}`);
+    }
+  };
+
+  // Keyboard navigation
+  useEffect(() => {
+    const handleKeyDown = (event) => {
+      if (event.key === 'ArrowLeft' && navigationData.previous) {
+        handlePreviousTender();
+      } else if (event.key === 'ArrowRight' && navigationData.next) {
+        handleNextTender();
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [navigationData.previous, navigationData.next]);
+
   return (
     <div className="min-h-screen bg-gray-900 flex flex-col py-6 px-4">
-      {/* AI Chat button at the very top */}
-      <div className="w-full flex justify-end mb-6">
+      {/* Navigation and AI Chat buttons at the top */}
+      <div className="w-full flex justify-between items-center mb-6">
+        {/* Navigation arrows */}
+        <div className="flex items-center gap-4">
+          <button
+            onClick={handlePreviousTender}
+            disabled={!navigationData.previous || navigationLoading}
+            className="bg-gradient-to-r from-gray-700 to-gray-600 hover:from-gray-600 hover:to-gray-500 disabled:from-gray-800 disabled:to-gray-700 disabled:cursor-not-allowed text-white font-bold py-3 px-6 rounded-lg shadow-xl border border-gray-500 transition-all transform hover:scale-105 disabled:transform-none"
+            title="Poprzedni przetarg (←)"
+          >
+            ← Poprzedni
+          </button>
+          <div className="text-white/60 text-sm font-mono">
+            {navigationLoading ? 'Ładowanie...' : `${navigationData.current_index + 1} / ${navigationData.total_count}`}
+          </div>
+          <button
+            onClick={handleNextTender}
+            disabled={!navigationData.next || navigationLoading}
+            className="bg-gradient-to-r from-gray-700 to-gray-600 hover:from-gray-600 hover:to-gray-500 disabled:from-gray-800 disabled:to-gray-700 disabled:cursor-not-allowed text-white font-bold py-3 px-6 rounded-lg shadow-xl border border-gray-500 transition-all transform hover:scale-105 disabled:transform-none"
+            title="Następny przetarg (→)"
+          >
+            Następny →
+          </button>
+        </div>
+        {/* AI Chat button */}
         <button
           className="bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white font-bold py-3 px-8 rounded-lg shadow-xl border border-blue-400 transition-all transform hover:scale-105"
           onClick={() => { setChatOpen(true); setChatMinimized(false); }}
