@@ -1,0 +1,59 @@
+Załącznik nr 4 do SWZ
+Standardowy formularz jednolitego europejskiego
+dokumentu zamówienia
+Część I: Informacje dotyczące postępowania o udzielenie zamówienia oraz instytucji zamawiającej lub podmiotu zamawiającego
+W przypadku postępowań o udzielenie zamówienia, w ramach których zaproszenie do ubiegania się o zamówienie opublikowano w Dzienniku Urzędowym Unii Europejskiej, informacje wymagane w części I zostaną automatycznie wyszukane, pod warunkiem że do utworzenia i wypełnienia jednolitego europejskiego dokumentu zamówienia wykorzystany zostanie elektroniczny serwis poświęcony jednolitemu europejskiemu dokumentowi zamówienia. Adres publikacyjny stosownego ogłoszenia w Dzienniku Urzędowym Unii Europejskiej:
+Dz.U. UE S… ../../2023, strona [],
+Numer ogłoszenia w Dz.U. S: 2023/S …-……
+Jeżeli nie opublikowano zaproszenia do ubiegania się o zamówienie w Dz.U., instytucja zamawiająca lub podmiot zamawiający muszą wypełnić informacje umożliwiające jednoznaczne zidentyfikowanie postępowania o udzielenie zamówienia:
+W przypadku gdy publikacja ogłoszenia w Dzienniku Urzędowym Unii Europejskiej nie jest wymagana, proszę podać inne informacje umożliwiające jednoznaczne zidentyfikowanie postępowania o udzielenie zamówienia (np. adres publikacyjny na poziomie krajowym): [….]
+Informacje na temat postępowania o udzielenie zamówienia
+Informacje wymagane w części I zostaną automatycznie wyszukane, pod warunkiem że wyżej wymieniony elektroniczny serwis poświęcony jednolitemu europejskiemu dokumentowi zamówienia zostanie wykorzystany do utworzenia i wypełnienia tego dokumentu. W przeciwnym przypadku informacje te musi wypełnić wykonawca.
+Wszystkie pozostałe informacje we wszystkich sekcjach jednolitego europejskiego dokumentu zamówienia powinien wypełnić wykonawca.
+Część II: Informacje dotyczące wykonawcy
+A: Informacje na temat wykonawcy
+B: Informacje na temat przedstawicieli wykonawcy
+W stosownych przypadkach proszę podać imię i nazwisko (imiona i nazwiska) oraz adres(-y) osoby (osób) upoważnionej(-ych) do reprezentowania wykonawcy na potrzeby niniejszego postępowania o udzielenie zamówienia:
+C: Informacje na temat polegania na zdolności innych podmiotów
+Jeżeli tak, proszę przedstawić – dla każdego z podmiotów, których to dotyczy – odrębny formularz jednolitego europejskiego dokumentu zamówienia zawierający informacje wymagane w niniejszej części sekcja A i B oraz w części III, należycie wypełniony i podpisany przez dane podmioty.
+Należy zauważyć, że dotyczy to również wszystkich pracowników technicznych lub służb technicznych, nienależących bezpośrednio do przedsiębiorstwa danego wykonawcy, w szczególności tych odpowiedzialnych za kontrolę jakości, a w przypadku zamówień publicznych na roboty budowlane – tych, do których wykonawca będzie mógł się zwrócić o wykonanie robót budowlanych.
+O ile ma to znaczenie dla określonych zdolności, na których polega wykonawca, proszę dołączyć – dla każdego z podmiotów, których to dotyczy – informacje wymagane w częściach IV i V.
+D: Informacje dotyczące podwykonawców, na których zdolności wykonawca nie polega
+(Sekcja, którą należy wypełnić jedynie w przypadku gdy instytucja zamawiająca lub podmiot zamawiający wprost tego zażąda.)
+Jeżeli instytucja zamawiająca lub podmiot zamawiający wyraźnie żąda przedstawienia tych informacji oprócz informacji wymaganych w niniejszej sekcji, proszę przedstawić – dla każdego podwykonawcy (każdej kategorii podwykonawców), których to dotyczy – informacje wymagane w niniejszej części sekcja A i B oraz w części III.
+Część III: Podstawy wykluczenia
+A: Podstawy związane z wyrokami skazującymi za przestępstwo
+W art. 57 ust. 1 dyrektywy 2014/24/UE określono następujące powody wykluczenia:
+udział w organizacji przestępczej;
+korupcja;
+nadużycie finansowe;
+przestępstwa terrorystyczne lub przestępstwa związane z działalnością terrorystyczną
+pranie pieniędzy lub finansowanie terroryzmu
+praca dzieci i inne formy handlu ludźmi.
+B: Podstawy związane z płatnością podatków lub składek na ubezpieczenie społeczne
+C: Podstawy związane z niewypłacalnością, konfliktem interesów lub wykroczeniami zawodowymi
+Należy zauważyć, że do celów niniejszego zamówienia niektóre z poniższych podstaw wykluczenia mogą być zdefiniowane bardziej precyzyjnie w prawie krajowym, w stosownym ogłoszeniu lub w dokumentach zamówienia. Tak więc prawo krajowe może na przykład stanowić, że pojęcie „poważnego wykroczenia zawodowego” może obejmować kilka różnych postaci zachowania stanowiącego wykroczenie.
+D: inne podstawy wykluczenia, które mogą być przewidziane w przepisach krajowych państwa członkowskiego instytucji zamawiającej lub podmiotu zamawiającego
+Część IV: Kryteria kwalifikacji
+W odniesieniu do kryteriów kwalifikacji (sekcja  lub sekcje A–D w niniejszej części) wykonawca oświadcza, że:
+: Ogólne oświadczenie dotyczące wszystkich kryteriów kwalifikacji
+Wykonawca powinien wypełnić to pole jedynie w przypadku gdy instytucja zamawiająca lub podmiot zamawiający wskazały w stosownym ogłoszeniu lub w dokumentach zamówienia, o których mowa w ogłoszeniu, że wykonawca może ograniczyć się do wypełnienia sekcji  w części IV i nie musi wypełniać żadnej z pozostałych sekcji w części IV:
+A: Kompetencje
+Wykonawca powinien przedstawić informacje jedynie w przypadku gdy instytucja zamawiająca lub podmiot zamawiający wymagają danych kryteriów kwalifikacji w stosownym ogłoszeniu lub w dokumentach zamówienia, o których mowa w ogłoszeniu.
+B: Sytuacja ekonomiczna i finansowa
+Wykonawca powinien przedstawić informacje jedynie w przypadku gdy instytucja zamawiająca lub podmiot zamawiający wymagają danych kryteriów kwalifikacji w stosownym ogłoszeniu lub w dokumentach zamówienia, o których mowa w ogłoszeniu.
+C: Zdolność techniczna i zawodowa
+Wykonawca powinien przedstawić informacje jedynie w przypadku gdy instytucja zamawiająca lub podmiot zamawiający wymagają danych kryteriów kwalifikacji w stosownym ogłoszeniu lub w dokumentach zamówienia, o których mowa w ogłoszeniu.
+D: Systemy zapewniania jakości i normy zarządzania środowiskowego
+Wykonawca powinien przedstawić informacje jedynie w przypadku gdy instytucja zamawiająca lub podmiot zamawiający wymagają systemów zapewniania jakości lub norm zarządzania środowiskowego w stosownym ogłoszeniu lub w dokumentach zamówienia, o których mowa w ogłoszeniu.
+Część V: Ograniczanie liczby kwalifikujących się kandydatów
+Wykonawca powinien przedstawić informacje jedynie w przypadku gdy instytucja zamawiająca lub podmiot zamawiający określiły obiektywne i niedyskryminacyjne kryteria lub zasady, które mają być stosowane w celu ograniczenia liczby kandydatów, którzy zostaną zaproszeni do złożenia ofert lub prowadzenia dialogu. Te informacje, którym mogą towarzyszyć wymogi dotyczące (rodzajów) zaświadczeń lub rodzajów dowodów w formie dokumentów, które ewentualnie należy przedstawić, określono w stosownym ogłoszeniu lub w dokumentach zamówienia, o których mowa w ogłoszeniu.
+Dotyczy jedynie procedury ograniczonej, procedury konkurencyjnej z negocjacjami, dialogu konkurencyjnego i partnerstwa innowacyjnego:
+Wykonawca oświadcza, że:
+Część VI: Oświadczenia końcowe
+Niżej podpisany(-a)(-i) oficjalnie oświadcza(-ją), że informacje podane powyżej w częściach II–V są dokładne i prawidłowe oraz że zostały przedstawione z pełną świadomością konsekwencji poważnego wprowadzenia w błąd.
+Niżej podpisany(-a)(-i) oficjalnie oświadcza(-ją), że jest (są) w stanie, na żądanie i bez zwłoki, przedstawić zaświadczenia i inne rodzaje dowodów w formie dokumentów, z wyjątkiem przypadków, w których:
+a) instytucja zamawiająca lub podmiot zamawiający ma możliwość uzyskania odpowiednich dokumentów potwierdzających bezpośrednio za pomocą bezpłatnej krajowej bazy danych w dowolnym państwie członkowskim, lub
+b) najpóźniej od dnia 18 kwietnia 2018 r., instytucja zamawiająca lub podmiot zamawiający już posiada odpowiednią dokumentację.
+Niżej podpisany(-a)(-i) oficjalnie wyraża(-ją) zgodę na to, aby [wskazać instytucję zamawiającą lub podmiot zamawiający określone w części I, sekcja A] uzyskał(-a)(-o) dostęp do dokumentów potwierdzających informacje, które zostały przedstawione w [wskazać część/sekcję/punkt(-y), których to dotyczy] niniejszego jednolitego europejskiego dokumentu zamówienia, na potrzeby [określić postępowanie o udzielenie zamówienia: (skrócony opis, adres publikacyjny w Dzienniku Urzędowym Unii Europejskiej, numer referencyjny)].
+Data, miejscowość oraz – jeżeli jest to wymagane lub konieczne – podpis(-y): [……]

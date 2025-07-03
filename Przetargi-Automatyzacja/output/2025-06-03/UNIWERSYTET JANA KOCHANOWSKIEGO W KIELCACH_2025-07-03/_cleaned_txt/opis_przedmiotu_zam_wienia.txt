@@ -1,0 +1,196 @@
+OPIS PRZEDMIOTU ZAMÓWIENIA
+W przypadku wystąpienia w Opisie przedmiotu zamówienia nazw producenta, produkt można zastąpić równoważnym, który nie będzie gorszy niż ten wskazany w Opisie przedmiotu zamówienia, oraz gwarantować będzie zachowanie parametrów i opisanych funkcjonalności. Ewentualne nazwy, znaki towarów, typy i pochodzenie produktów są doprecyzowaniem oczekiwań jakościowych, funkcjonalnych i technologicznych Zamawiającego. Wszystkie zmiany i odstępstwa nie mogą powodować obniżenia wartości funkcjonalnych i użytkowych oferowanych produktów oraz nie mogą powodować zmniejszenia ich trwałości eksploatacyjnej.
+Podane parametry są minimalne.
+Część 1 – urządzenia komputerowe
+1. Zestaw komputerowy, All in One - 16 sztuk
+Rodzaj: All in One
+przekątna ekranu: min. 23,8 cala
+rozdzielczość: min. 1920 x 1080
+procesor: min. 17500 pkt. w teście passmark*, min. 8 rdzeni, min. 12MB Cache
+pamięć RAM: min 16 GB, min. 3200Hz
+dysk twardy: SSD min. 480 GB + możliwość montażu dodatkowego dysku SATA lub M.2 (bez
+konieczności zakupu dodatkowych akcesoriów)
+karta graficzna: zintegrowana
+złącza: min. 4 x USB w tym min. 2 x USB 3.2 Gen 2. (lub nowsze), napęd DVD**
+komunikacja: LAN 10/100/1000**, WLAN 802.11 a/b/g/n/ac, Bluetooth
+dodatkowo: regulacja wysokości, wbudowane głośniki stereo, mikrofon, kamera min.
+2 MP(1920x1080), dedykowana klawiatura i mysz producenta komputera
+gwarancja: min. 2 lata (gwarancja producenta)
+* Brany pod uwagę będzie wynik procesora w teście passmark w dniu otwarcia ofert. Ze
+względu na zmienność wyników, dopuszczalny jest wynik maksymalnie 50 pkt. niższy.
+** Zamawiający dopuszcza zastosowanie zewnętrznego urządzenia, jeśli takie rozwiązanie
+nie zmniejszy minimalnej wymaganej liczby dostępnych portów USB.
+Oprogramowanie:
+Windows 11 PL 64 bit*** lub równoważny z możliwością odtworzenia systemu bez potrzeby
+ponownej reinstalacji w oparciu o wydzieloną partycję dysku HDD spełniający poniższe
+warunki:
+możliwość zdalnej konfiguracji, aktualizacji i administrowania oraz zdolność do zdalnego
+zarządzania kontami i profilami; możliwość uwierzytelniania użytkowników z usługą
+katalogową Active Directory wdrożoną u zamawiającego; musi współpracować
+z programami: Simple.ERP, uczelnia.XP/kolejne wersje firmy PCG Academia, ALEPH, Płatnik
+firmy Asseco Poland, System Informacji Prawnej Legalis / LEX, System Elektronicznej
+Legitymacji Studenckiej firmy Opteam S.A.
+Licencja musi:
+• być przeznaczona do użytku na polskim rynku,
+• być nieograniczona w czasie,
+• umożliwiać ewentualny upgrade oraz wielokrotną ponowną instalacje systemu
+z dostarczonych nośników lub z partycji bez potrzeby ręcznego wpisywania klucza
+licencyjnego. Zainstalowany system operacyjny (również po każdorazowej reinstalacji) nie
+może wymagać aktywacji klucza licencyjnego za pośrednictwem telefonu lub Internetu.
+Wymagana jest także możliwość przywrócenia stanu fabrycznego systemu operacyjnego
+i oprogramowania.
+System operacyjny musi :
+• być w pełni kompatybilny z oferowanym sprzętem,
+• być fabrycznie nowy, nieużywany oraz nieaktywowany wcześniej na innych urządzeniach,
+• pochodzić z legalnego źródła sprzedaży.
+*** Zamawiający sugeruje system operacyjny Microsoft Windows z uwagi na fakt, że większość komputerów użytkowanych przez jednostki organizacyjne UJK działa w wyżej wymienionym systemie.
+2. Laptop ekonomiczny – 2 sztuki
+Procesor: wynik w teście PassMark* CPU Mark min. 10000 pkt.
+Ekran LCD: o przekątnej 15.6 cali, nominalna rozdzielczość min. 1920 x 1080 pikseli
+Pamięć RAM: min. 8 GB DDR4 (min. 2400 MHz)
+Dysk twardy: SSD (flash) o pojemności min. 480 GB
+Karta graficzna: zintegrowana karta graficzna
+Wyjścia karty graficznej: 1 x wyjście HDMI
+Komunikacja: LAN**, Bluetooth, WiFi IEEE 802.11b/g/n/ac
+Interfejsy: min. 3 x USB w tym min. 1 x USB 3.0 Wbudowane wyposażenie/funkcjonalność: mikrofon, kamera, wyodrębniona klawiatura numeryczna, karta dźwiękowa
+Dodatkowo: czytnik kart pamięci**, w zestawie oryginalny zasilacz Zainstalowany system operacyjny: Windows 11 (64-bit) lub równoważny, dedykowana mysz producenta
+Waga: maks. 2,5 kg
+Gwarancja: min. 24 miesiące (gwarancja producenta)
+*Brany pod uwagę będzie wynik procesora w teście passmark w dniu otwarcia ofert. Ze względu na zmienność wyników, dopuszczalny jest wynik maksymalnie 50 pkt. niższy.
+** Zamawiający dopuszcza zastosowanie zewnętrznego urządzenia, jeśli takie rozwiązanie nie zmniejszy minimalnej wymaganej liczby dostępnych portów USB.
+Oprogramowanie:
+Windows 11 PL 64 bit*** lub równoważny z możliwością odtworzenia systemu bez potrzeby ponownej reinstalacji w oparciu o wydzieloną partycję dysku HDD spełniający poniższe warunki: możliwość zdalnej konfiguracji, aktualizacji i administrowania oraz zdolność do zdalnego zarządzania kontami i profilami; możliwość uwierzytelniania użytkowników z usługą katalogową Active Directory wdrożoną u zamawiającego; musi współpracować
+z programami: Simple.ERP, Uczelnia.XP/kolejne wersje firmy PCG Academia, ALEPH, Płatnik firmy Asseco Poland, System Informacji Prawnej Legalis / LEX, System Elektronicznej Legitymacji Studenckiej firmy Opteam S.A.
+Licencja musi:
+• być przeznaczona do użytku na polskim rynku,
+• być nieograniczona w czasie,
+• umożliwiać ewentualny upgrade oraz wielokrotną ponowną instalacje systemu
+z dostarczonych nośników lub z partycji bez potrzeby ręcznego wpisywania klucza licencyjnego.
+Zainstalowany system operacyjny (również po każdorazowej reinstalacji) nie może wymagać aktywacji klucza licencyjnego za pośrednictwem telefonu lub Internetu. Wymagana jest także możliwość przywrócenia stanu fabrycznego systemu operacyjnego i oprogramowania.
+System operacyjny musi :
+• być w pełni kompatybilny z oferowanym sprzętem,
+• być fabrycznie nowy, nieużywany oraz nieaktywowany wcześniej na innych urządzeniach,
+• pochodzić z legalnego źródła sprzedaży.
+*** Zamawiający sugeruje system operacyjny Microsoft Windows z uwagi na fakt, że większość komputerów użytkowanych przez jednostki organizacyjne UJK działa w wyżej wymienionym systemie.
+3. Ultrabook – komputer przenośny - 2 sztuki
+Procesor: wynik w teście PassMark* CPU Mark min. 13500 pkt. Min. 8 rdzeni / 8 wątków /
+8 MB
+Cache Ekran LCD: przekątna 14-14,1 cala, matowy
+Nominalna rozdzielczość min. 1920 x 1080 pikseli,
+Pamięć RAM: min. 16 GB DDR4 (min. 2666 MHz)
+Dysk twardy: SSD (flash) o pojemności min. 960 GB
+Wyjścia karty graficznej: 1 x wyjście HDMI 1.4 (pełnowymiarowe)
+Karta dźwiękowa: stereo
+Bluetooth, WiFi IEEE 802.11b/g/n/ac , **RJ-45 (LAN) (lub dołączony adapter USB 3.0 - Gigabit
+LAN umożliwiający podłączenie komputera do sieci Ethernet)
+Minimum 3 porty USB w tym 1 x USB 3.1 typ C, 1 x USB 3.0,
+Wbudowane wyposażenie/funkcjonalność: mikrofon, kamera
+Dodatkowo: **czytnik kart pamięci, w zestawie oryginalny zasilacz, dedykowana mysz producenta
+Materiał wykonania aluminium
+Zainstalowany system operacyjny: Windows 11 (64-bit) lub równoważny
+Waga: maks. 1.5 kg
+Gwarancja: min. 24 miesiące (gwarancja producenta)
+*Brany pod uwagę będzie wynik procesora w teście passmark w dniu otwarcia ofert.
+Ze względu na zmienność wyników, dopuszczalny jest wynik maksymalnie 50 pkt. niższy.
+**Zamawiający dopuszcza zastosowanie zewnętrznego urządzenia, jeśli takie rozwiązanie nie
+zmniejszy minimalnej wymaganej liczby dostępnych portów USB.
+Oprogramowanie:
+Windows 11 PL 64 bit*** lub równoważny z możliwością odtworzenia systemu bez potrzeby
+ponownej reinstalacji w oparciu o wydzieloną partycję dysku HDD spełniający poniższe
+warunki:
+możliwość zdalnej konfiguracji, aktualizacji i administrowania oraz zdolność do zdalnego
+zarządzania kontami iprofilami; możliwość uwierzytelniania użytkowników z usługą
+katalogową Active Directory wdrożoną u zamawiającego; musi współpracować
+z programami: Simple.ERP, Uczelnia.XP/kolejne wersje firmy PCG Academia, ALEPH, Płatnik
+firmy Asseco Poland, System Informacji Prawnej Legalis / LEX, System Elektronicznej
+Legitymacji Studenckiej firmy Opteam S.A.
+Licencja musi:
+• być przeznaczona do użytku na polskim rynku
+• być nieograniczona w czasie
+• umożliwiać ewentualny upgrade oraz wielokrotną ponowną instalacje systemu
+z dostarczonych nośników lub z partycji bez potrzeby ręcznego wpisywania klucza
+licencyjnego
+Zainstalowany system operacyjny (również po każdorazowej reinstalacji) nie może wymagać
+aktywacji klucza licencyjnego za pośrednictwem telefonu lub Internetu. Wymagana jest
+także możliwość przywrócenia stanu fabrycznego systemu operacyjnego i oprogramowania.
+System operacyjny musi :
+• być w pełni kompatybilny z oferowanym sprzętem
+• być fabrycznie nowy, nieużywany oraz nieaktywowany wcześniej na innych
+urządzeniach
+• pochodzić z legalnego źródła sprzedaży
+*** Zamawiający sugeruje system operacyjny Microsoft Windows z uwagi na fakt, że
+większość komputerów użytkowanych przez jednostki organizacyjne UJK działa w wyżej
+wymienionym systemie.
+Część 2 – urządzenia drukujące
+1. Ploter wielkoformatowy - 1 sztuka
+Rozmiar / Format [mm]: nie mniejszy niż 610 mm szerokości wydruku (A1+)
+Interfejsy komunikacyjne: co najmniej USB , LAN / Ethernet
+Pamięć RAM: minimum 4 GB
+Podstawa z koszem na wydruki: w zestawie
+Pojemność dysku [GB]: minimum 500
+Szybkość drukowania:
+kolorowy obraz ISO N5 (best, D glossy paper) minimum 3.7 min/stronę
+kolorowy obraz ISO N5 (normal, D glossy paper) minimum 2.8 min/stronę
+kolorowy obraz ISO N5 (normal, D coated paper) minimum 1.4 min/stronę
+Maksymalna rozdzielczość druku: do 2400 x 1200
+Technologia druku: termiczna atramentowa
+Precyzja linii [%]: co najmniej +/- 0,1
+Pojemność wkładów atramentowych [ml]: co najmniej 300
+Rodzaj atramentu: Pigmentowy
+Obsługa nośników:
+Ilość podajników rolkowych: co najmniej 1
+Gramatura nośnika [g/m2]: do 460
+Maksymalna długość obsługiwanej rolki [m]: do 91
+Maksymalna średnica obsługiwanej rolki [mm]: 150
+Minimalna szerokość obsługiwanej rolki [mm]: 254
+Maksymalna szerokość obsługiwanej rolki [mm]: 610 (A1+)
+Rodzaj obsługiwanych nośników: co najmniej Papier zwykły , Papier powlekany , Papier samoprzylepny , Papier fotograficzny , Płótno / Canvas , Folia , Folia samoprzylepna , Kalka techniczna.
+Obsługiwane formaty nośników: A4 , A3 , A3+ , A2 , A2+ , A1 , A1+
+Język i emulacja: co najmniej Adobe® PostScript® 3 , Adobe® PDF 1.7 , TIFF , JPEG , CALS G4
+W zestawie:
+Drukarka, podstawa do drukarki i pojemnik na nośniki, komplet głowic drukujących umożliwiających prawidłowe działanie drukarki, instrukcja obsługi, kabel zasilający, zestaw startowy wkładów atramentowych
+Kabel USB o długości minimum 5 m umożliwiający łączność urządzenia z komputerem,
+3 zapasowe głowice,
+po 2 kartridże (wkłady atramentowe) o pojemności minimum 300 ml dla każdego koloru, który obsługuje ploter,
+dwie rolki papieru niepowlekanego 610mm x 50m 90g/m2,
+dwie rolki  papieru powlekanego 610mm x 30m 120g/m2.
+2. Urządzenie wielofunkcyjne laserowe monochromatyczne - 2 sztuki
+A4 Technologia druku: laserowa (mono)
+Podajnik papieru: min. 250 arkuszy
+Wydajność: min. 10000 str/mies
+Drukowanie: Rozdzielczość w czerni: min 2400 x 600 dpi
+Szybkość druku: min. 30 str/min
+Druk dwustronny: automatyczny
+Obsługiwane formaty nośników: A4, A5, B5, B6, C5 Skanowanie/kopiowanie
+Rozdzielczość optyczna: min. 600 x 2400 dpi
+Rozdzielczość kopiowania: min. 600 x 600 dpi
+WEJŚCIA/WYJŚCIA: USB2.0, Ethernet
+Wyposażenie: instrukcja obsługi, toner startowy, przewód zasilający, przewód USB i Ethernet
+po 2 tonery zapasowe XL
+Gwarancja: min. 24 miesiące (gwarancja producenta)
+3. Urządzenie wielofunkcyjne atramentowe kolorowe (1 sztuka)
+Technologia druku: Atramentowa, kolorowa
+Funkcje: drukarka, skaner, kopiarka
+Format nośnika: co najmniej A4, A5
+Podajnik papieru: min. 250 arkuszy Szybkość druku: czerń - min. 18 str./min , kolor – 12 str./min
+Minimalna rozdzielczość druku: 600 x 1200 dpi
+Minimalna rozdzielczość skanera: 1200 x 1200 dpi
+Miesięczne obciążenie min.: 1000 str.
+Interfejsy: LAN, USB
+W komplecie startowe tusze, kabel zasilający
+2 zapasowe zestawy (wszystkie kolory) tuszy
+Gwarancja: min. 24 miesiące (gwarancja producenta)
+Część 3 – oprogramowanie
+Przedmiotem zamówienia jest dostawa licencji oprogramowania do projektowania graficznego umożliwiającego tworzenie ilustracji wektorowych, układów stron, edycji zdjęć, zapisywanie projektów.
+1)    Parametry dotyczące oprogramowania: wieczysta licencja edukacyjna oprogramowania do projektowania graficznego (tworzenia grafiki wektorowej), umożliwiająca instalację na co najmniej 12 stanowiskach komputerowych.
+liczba licencji: minimum 12
+okres trwania: bezterminowa
+typ licencji: edukacyjna
+język interfejsu: polski
+system operacyjny: Windows 10, Windows 11.
+2)    Oprogramowanie powinno bezproblemowo współpracować z Windows 10/11. Preferowane oprogramowanie to CorelDRAW Graphics Suite 2024 EDU Perpetual License lub równoważne, zapewniające co najmniej następujące funkcjonalności:
+obsługa formatów plików: co najmniej .cdr, .ai, .eps, .pdf, .jpg, .png., .svg, tiff., gif., raw.
+możliwość tworzenia i edycji krzywych Beziera
+funkcje edycji zdjęć: co najmniej korekcja kolorów, retusz, filtry
+zaawansowane funkcje tworzenia i edycji grafiki wektorowej
+precyzyjna kontrola nad formatowaniem, interlinią i kerningiem czcionek

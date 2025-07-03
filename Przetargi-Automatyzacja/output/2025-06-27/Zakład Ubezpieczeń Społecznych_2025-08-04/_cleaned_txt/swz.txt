@@ -1,0 +1,2203 @@
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 1
+Akceptuję:
+Data:
+Znak postępowania/  Znak sprawy : 580000.271 .2.2025 -ZAP
+Numer postępowania  nadany przez platformę zakupową eZam :
+580000.271 .107. 2025 -ZAP
+(Podpis Pełnomocnika/Kierownika Zamawiającego)
+SPECYFIKACJA
+WARUNKÓW ZAMÓWIENIA
+w postępowaniu o udzielenie zamówienia publicznego prowadzonego zgodnie z przepisami ustawy
+z dnia 11 września 2019 r. Prawo zamówień publicznych ( tekst jednolity Dz. U. z 202 4 r. poz. 1320  ze
+zm. ), którego przedmiotem jest:
+świadczenie usługi  3 letniego  serwisu pogwarancyjnego  3750  urządzeń drukujących  Kyocera
+ECOSYS M2040dn  w Oddziałach  i  Centrali ZUS  w podziale na 4  części.
+Wartość szacunkowa jest równa lub przekracza równowartość kwoty 143 000 euro
+Sygnalizuj nieprawidłowości w przetargu
+sygnalista@zus.pl
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 2
+CZEŚĆ  A – INSTRUKCJA DLA WYKONAWCÓW
+CZĘŚĆ  B – ZAŁĄCZNIKI:
+Załącznik nr 1  –  FORMULARZ OFERTOWY
+Załącznik nr 2  –  OŚWIADCZENIE O ZASTRZEŻENIU INFORMACJI
+Załącznik nr 3  –  OŚWIADCZENIE O PRZYNALEŻNOŚCI LUB BRAKU PRZYNALEZNOŚCI DO GRUPY
+KAPITAŁOWEJ
+Załącznik nr  4  –  OŚWIADCZENIE O AKTUALNOŚCI INFORMACJI ZAWARTYCH W OŚWIADCZENIU, O
+KTÓRYM MOWA W ART. 125 UST. 1 USTAWY W ZAKRESIE PODSTAW WYKLUCZENIA
+Z POSTĘPOWANIA WSKAZANYCH PRZEZ ZAMAWIAJĄCEGO
+Załącznik nr 5  –  WYKAZ USŁUG
+Załącznik nr 6 –   OŚWIADCZENIE WYKONAWCÓW WSPÓLNIE UBIEGAJĄCYCH SIĘ O UDZIELENIE
+ZAMÓWIENIA, O KTÓRYM MOWA W ART. 117 UST. 4 USTAWY
+Załącznik nr 7  –  ZOBOWIĄZANIE  DO ODDANIA DO DYSPOZYCJI NIEZBĘDNYCH ZASOBÓW NA
+POTRZEBY WYKONANIA ZAMÓWIENIA
+Załącznik nr 8   –  OŚWIADCZENIA WYKONAWCY/WYKONAWCY WSPÓLNIE UBIEGAJĄCEGO SIĘ O
+UDZIELENIE ZAMÓWIENIA DOTYCZĄCE PRZESŁANEK WYKLUCZENIA Z ART. 5K
+ROZPORZĄDZENIA 833/2014 ORAZ ART. 7 UST. 1 USTAWY O SZCZEGÓLNYCH
+ROZWIĄZANIACH W ZAKRESIE PRZECIWDZIAŁANIA WSPIERANIU AGRESJI NA
+UKRAINĘ ORAZ SŁUŻĄCYCH OCHRONIE BEZPIECZEŃSTWA NARODOWEGO
+SKŁADANE NA PODSTAWIE ART. 125 UST. 1 USTAWY PZP
+Załącznik nr 9   –  OŚWIADCZENIA PODMIOTU UDOSTĘPNIAJĄCEGO ZASOBY  DOTYCZĄCE PRZESŁANEK
+WYKLUCZENIA Z ART. 5K ROZPORZĄDZENIA 833/2014 ORAZ ART. 7 UST. 1 USTAWY
+O SZCZEGÓLNYCH ROZWIĄZANIACH W ZAKRESIE PRZECIWDZIAŁANIA WSPIERANIU
+AGRESJI NA UKRAINĘ  ORAZ SŁ UŻĄCYCH OCHRONIE BEZPIECZEŃSTWA
+NARODOWEGO SKŁADANE NA PODSTAWIE ART. 125 UST. 5 USTAWY PZP  (O ILE MA
+ZASTOSOWANIE)
+Załącznik nr 10   –  SZCZEGÓŁOWY OPIS PRZEDMIOTU ZAMÓWIENIA
+Załącznik nr 11   –  PROJEKTOWANE POSTANOWIENIA UMOWY
+Załącznik nr 12  –  JEDZ
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 3
+CZEŚĆ  A  -   INSTRUKCJA DLA WYKONAWCÓW
+1. INFORMACJE OGÓLNE
+1.1. INFORMACJA O ZAMAWIAJĄCYM
+Zamawiającym  jest Zakład Ubezpieczeń Społecznych w Warszawie, ul. Szamocka 3, 5
+01-748 Warszawa,  NIP: 521 -30-17-228, REGON 000017756 reprezentowany przez Centrum
+Informaty ki w Opolu , ul. Firmowa 1, 45-594 Opole , tel.: +48 77 45 -11-350.
+Adres poczty elektronicznej:     zamowienia.ci @zus.pl
+Strona internetowa Zamawiającego:   www.zus.pl
+Strona internetowa prowadzonego postępowania: https://zus.ezamawiajacy.pl/
+Strona internetowa, na której udostępniane będą zmiany i wyjaśnienia treści SWZ oraz inne
+dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia:
+https://zus.ezamawiajacy.pl/
+1.2. DEFINICJE
+1.2.1.  ustawa   – ustawa z dnia 11 września 2019 r.  Prawo zamówień publicznych (tekst jednol ity Dz.
+U. z 202 4 r. poz. 1320  ze zm.) ,
+1.2.2.  JEDZ  - oświadczenie składane na formularzu jednolitego europejskiego dokumentu
+zamówienia, sporządzone zgodnie z wzorem standardowego formularza określonego w
+rozporządzeniu wykonawczym Komisji Europejskiej 2016/7 z dnia 5 stycznia 2016 r. (Dz. U. U E
+nr L3 z 6.1.2016 ) ustanawiającym standardowy formularz jednolitego europejskiego
+dokumentu zamówienia .
+1.2.3.  Platforma zakupowa  - narzędzie do komunikacji między Zamawiającym a Wykonawcami,
+umożliwiające realizację procesu związanego z udzielaniem zamówień publicznych przy użyciu
+środków komunikacji elektronicznej, zgodnie z art. 61 ust. 1  ustawy, służące w szczególności
+do przekazywania ofert, oświadczeń  w tym jednolitego europejskiego dokumentu zamówienia,
+znajdujące się na stronie: https://zus.ezamawiajacy.pl/
+1.2.4.  SWZ  – niniejsza Specyfikacja Warunków Zamówienia, wraz z załącznikami, które stanowią jej
+integralną część.
+1.2.5.  Wykonawca  – należy przez to rozumieć osobę fizyczną, osobę prawną albo jednostkę
+organizacyjną nieposiadającą osobowości prawnej, która oferuje na rynku wykonanie robót
+budowlanych lub obiektu budowlanego, dostawę produktów lub świadczenie usług lub ubiega
+się o udzielenie zamówienia, złożyła ofertę lub zawarła umowę  w sprawie zamówienia
+publicznego .
+1.2.6.  Zamawiający  – Zakład Ubezpieczeń Społecznych z siedzibą w Warszawie , ul. Szamocka  3, 5
+01-748 Warszawa,  reprezentowany przez  Centrum Informatyki w Opolu,  ul.  Firmowa 1,
+45-594 Opole .
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 4
+1.3. TRYB UDZIELENIA ZAMÓWIENIA I WARTOŚĆ ZAMÓWIENIA
+1.3.1.  Postępowanie o udzielenie zamówienia publicznego prowadzone jest na podstawie art.
+132 ustawy w trybie przetargu nieograniczonego, uregulowanego w Dziale II Rozdziale 3
+Oddziale 2 ustawy oraz aktów wykonawczych wydanych na jej podstawie.
+1.3.2.  Wartość zamówienia jest większa od progów unijnych określonych w art. 3 ust. 1 pkt 1 )
+oraz ust. 2 ustawy  w odniesieniu do usług.
+Postępowanie prowadzone jest w języku polskim.
+Postępowanie oznaczone jest znakiem 580000.271 .2.2025 -ZAP Wykonawcy winni we
+wszelkich kontaktach z Zamawiającym powoływać się na wyżej podane oznaczenie.
+1.3.3.  Zamawiający zastosuje w niniejszym postępowaniu postanowienia art. 139 ust awy.
+W związku z powyższym, Zamawiający najpierw dokona badania i oceny ofert,
+a następnie dokona kwalifikacji podmiotowej Wykonawcy, którego oferta została
+najwyżej oceniona, w zakresie braku podstaw wykluczenia oraz spełniania warunków
+udziału w postępowaniu .
+1.4. OFERTY CZĘŚCIOWE, WARIANTOWE
+1.4.1.  Zamawiający dopuszcza składanie ofert częściowych  w częściach zamówienia
+wskazanych w pkt 2.1.2 SWZ :
+Każdy Wykonawca ma prawo złożyć tylko jedną ofertę, w ramach każdej części
+zamówienia . Za równoznaczne ze złożeniem więcej niż jednej oferty przez tego samego
+Wykonawcę zostanie uznana sytuacja, w  której ten sam podmiot występuje w  dwóch lub
+więcej ofertach składanych wspólnie lub jest samodzielnym Wykonawcą, a jednocześnie
+jest uczestnikiem wspólnej oferty. Zamawiający nie ogranicza  liczby  części zamówienia,
+na którą Wykonawca może złożyć ofertę . Zamawiający nie ogranicza liczby  części
+zamówienia, którą można udzielić jednemu Wykonawcy .
+1.4.2.  Oferta musi obejmować całość przedmiotu zamówienia wskazanego w pkt  2 SWZ,
+w zakresie części, na którą  jest składana.
+1.4.3.  Zamawiający nie dopuszcza możliwości składania  ofert wariantowych w rozumieniu art.
+92 ust. 1 ustawy.
+1.5.  INFORMACJE O ŚRODKACH KOMUNIKACJI ELEKTRONICZNEJ, PRZY UŻYCIU KTÓRYCH
+ZAMAWIAJĄCY BĘDZIE KOMUNIKOWAŁ SIĘ Z WYKONAWCAMI, ORAZ INFORMACJE
+O WYMAGANIACH TECHNICZNYCH I ORGANIZACYJNYCH SPORZĄDZANIA, WYSYŁANIA
+I ODBIERANIA KORESPONDENCJI ELEKTRONICZNEJ
+1.5.1.  W postępowaniu o udzielenie zamówienia komunikacja między Zamawiającym a
+Wykonawcami, w szczególności składanie ofert, wymiana informacji oraz przekazywanie
+dokumentów lub oświadczeń, odbywa się przy użyciu środków komunikacji
+elektronicznej zapewnionych przez Platformę zakupową, umożliwiającą obsługę procesu
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 5
+udzielania zamówień publicznych za pośrednictwem środków komunikacji
+elektronicznej.
+1.5.2.  Korzystanie z Platformy zakupowej przez Wykonawców jest bezpłatne .
+1.5.3.  W sytuacji awarii Platformy zakupowej lub niedostępności Platformy zakupowej,
+uniemożliwiających komunikację Wykonawcy i Zamawiającego poprzez Platformę
+zakupową, Zamawiający dopuszcza komunikację za pomocą poczty elektronicznej na
+adres zamowienia.ci@zus.pl  (nie dotyczy składania ofert). Oferty składa się wyłącznie
+poprzez Platformę zakupową .
+1.5.4.  Informacje dotyczące korzystania z Platformy zakupowej w niniejszym postępowaniu:
+1.5.4.1.  zgłoszenie do postępowania wymaga zalogowania Wykonawcy do Platformy
+zakupowej na subdomenie Zamawiającego https://zus.ezamawiajacy.pl/  lub
+https://oneplace.marketplanet.pl
+1.5.4 .2. Wykonawca po wybraniu opcji „Przystąp do postępowania” zostanie przekierowany
+do strony https://oneplace.marketplanet.pl , gdzie zostanie powiadomiony
+o możliwości zalogowania lub założenia bezpłatnego konta. Wykonawca zakłada
+konto wykonując kroki procesu rejestracyjnego; podaje adres e -mail, ustanawia
+hasło, następnie powtarza hasło, wpisuje kod z obrazka, akceptuje wymagane zgody,
+klika polecenie „zarejestruj się”;
+1.5.4 .3. rejestracja konta następuje poprzez kontakt z numerem telefonu podanym
+w potwierdzeniu lub jeżeli użytkownik nie skontaktuje się telefonicznie – konto
+zostanie aktywowane w ciągu maksymalnie 6 godzin roboczych; w związku z tym
+Zamawiający zaleca Wykonawcom uwzględnienie czasu niezbędnego na rejestrację
+w procesie złożenia oferty w postaci elektronicznej  i rozpocząć składanie oferty
+z odpowiednim wyprzedzeniem ;
+1.5.4.4 . po założeniu konta Wykonawca ma możliwość złożenia oferty w postępowaniu;
+1.5.4.5. szczegółowa instrukcja dla Wykonawców dotycząca korzystania z  Platformy
+zakupowej, w tym m.in. składania ofert - dostępna jest na Platformie zakupowej
+w zakładce „Baza Wiedzy” ;
+1.5.4.6.  Zamawiający informuje, iż w przypadku jakichkolwiek wątpliwości związanych
+z zasadami korzystania z Platformy zakupowej, w tym również problemów
+technicznych, Wykonawca powinien kontaktować się z dostawcą Platformy
+zakupowej tel. +48 22 257 22 23 (infolinia dostępna w dni robocze, w godzinach
+07.00 -17.00) lub e -mail:  oneplace@marketplanet.pl
+1.5.5.  Zamawiający zgodnie  z rozporządzeniem Rady Ministrów z dnia 21 maja 2024 r. w
+sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów
+publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań
+dla systemów teleinformatycznych (Dz.U. z 2024 r. poz. 773) dopuszcza przesyłanie
+danych we wszystkich formatach wymienionych w ww. rozporządzeniu, z zastrzeżeniem
+że rozmiar pojedynczego pliku nie może przekroczyć 2 GB, przy czym Zamawiający
+zaleca  wykorzystywanie plików w formacie .pdf, doc, .docx., odt .
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 6
+1.5.6.  Niezbędne wymagania sprzętowo – aplikacyjne umożliwiające pracę na Platformie
+zakupowej:
+1.5.6.1. stały dostęp do sieci Internet o gwarantowanej przepustowości nie mniejszej
+niż 512kb/s,
+1.5.6.2. komputer klasy PC lub MAC spełniający wymagania zainstalowanego systemu
+operacyjnego oraz wymagania używanej przeglądarki internetowej,
+1.5.6.3. zainstalowana dowolna przeglądarka internetowa w wersji wspieranej przez
+producenta obsługująca TLS 1.2,
+1.5.6.4  zainstalowany program Acrobat Reader lub inny obsługujący pliki w formacie
+danych .pdf.
+1.5.7.  Informacje na temat szyfrowania i czasu odbioru danych , tj.:
+1.5.7.1. pliki oferty i załączników do niej złożone przez Wykonawcę na Platformie
+zakupowej są szyfrowane przez Platformę zakupową w momencie ich
+przesyłania na Platformę zakupową i nie są widoczne dla Zamawiającego;
+możliwość otworzenia ww. plików dostępna jest dopiero po odszyfrowaniu ich
+przez Zamawiającego po upływie terminu otwarcia ofert;
+1.5.7.2. oznaczenie czasu odbioru danych przez Platformę zakupową stanowi datę oraz
+dokładny czas (hh:mm:ss), generowany według lokalnego serwera
+synchronizowanego z Głównym Urzędem Miar;
+1.5.7.3. czas przeprocesowania transakcji może być różny w zależności od obciążenia
+serwera, co należy uwzględnić przy składaniu oferty i rozpocząć składanie oferty
+z odpowiednim wyprzedzeniem.
+1.5.8.  W zależności od formatu kwalifikowanego podpisu (PAdES, XAdES) i jego typu
+(zewnętrzny,  wewnętrzny) Wykonawca dołącza do Platformy zakupowej  uprzednio
+podpisane dokumenty wraz z wygenerowanym plikiem podpisu (typ zewnętrzny) lub
+dokument z wszytym podpisem (typ wewnętrzny). Zamawiający określa dopuszczalny
+format podpisu elektronicznego jako:
+1.5.8.1.   dokumenty w formacie „pdf" zaleca się podpisywać formatem PAdES,
+1.5.8.2. dopuszcza się podpisanie dokumentów w formacie innym niż „pdf", wtedy
+będzie wymagany oddzielny plik z podpisem. W związku z tym Wykonawca
+będzie zobowiązany załączyć, prócz podpisanego dokumentu, oddzielny plik z
+podpisem.
+Wszystkie pliki składane do Zamawiającego za pośrednictwem Platformy zakupowej  muszą
+zostać podpisane właściwym podpisem elektronicznym poza Platformą zakupową  (na własnym
+komputerze Wykonawcy). Złożenie podpisu elektronicznego w ramach potwierdzania składania
+oferty na Platformie zakupowej  nie stanowi czynności podpisania, któregokolwiek ze składanych
+przez Wykonawcę plików.
+1.5.9.  Sposób udzielania wyjaśnień, dotyczących treści SWZ:
+1.5.9.1. Wykonawca może zwrócić się do Zamawiającego o wyjaśnienie treści SWZ.
+Zamawiający udzieli niezwłocznie wyjaśnień, nie później niż na 6 dni przed
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 7
+upływem terminu składania ofert, pod warunkiem, że wniosek o wyjaśnienie
+treści SWZ wpłynie do Zamawiającego nie później niż na 14 dni przed upływem
+terminu składania ofert.  Jeżeli wniosek o wyjaśnienie treści SWZ wpłynie po
+upływie terminu, o którym mowa powyżej, Zamawiający może udzielić
+wyjaśnień albo pozostawić wniosek bez rozpoznania. Przedłużenie terminu
+składania ofert nie wpływa na bieg terminu składania wniosku o wyjaśnienie
+treści SWZ.
+1.5.9.2. Pytania do treści SWZ powinny być zadawane na Platformie zakupowej przy
+użyciu polecenia „Zadaj pytanie” (przed przystąpieniem do postępowania) lub
+przez kafel „Wiadomości” (po przystąpieniu do postępowania);
+1.5.9.3. Treść pytań wraz z wyjaśnieniami Zamawiającego (bez ujawniania źródła
+zapytania) zostaną zamieszczone na Platformie zakupowej  w ramach danego
+postępowania .
+1.5.10.  W przypadku rozbieżności pomiędzy treścią SWZ a treścią udzielonych odpowiedzi, jako
+obowiązującą należy przyjąć treść pisma zawierającego późniejsze oświadczenie
+Zamawiającego.
+1.5.11.  Zamawiający nie przewiduje zwołania zebrania Wykonawców w  celu wyjaśnienia
+wątpliwości dotyczących treści SWZ.
+1.5.12.  W uzasadnionych przypadkach Zamawiający może przed upływem terminu do składania
+ofert, dokonać zmian treści SWZ  (zgodnie z zasadami określonymi w przepisie art. 137
+ust. 1  - 4 ustawy ), które zostaną zamieszczone na Platformie zakupowej w ramach
+danego postępowania.
+1.5.13.  Sposób sporządzania podmiotowych środków dowodowych oraz innych dokumentów
+lub oświadczeń musi być zgod ny z wymaganiami określonymi w rozporządzeniu Prezesa
+Rady Ministrów z dnia 30 grudnia 2020 r. w sprawie sposobu sporządzania i
+przekazywania informacji oraz wymagań technicznych dla dokumentów elektronicznych
+oraz środków komunikacji elektronicznej w postępowaniu o udzielenie zamówienia
+publicznego lub konkursie.
+1.5.14.   W przypadku wniesienia odwołania, odwołujący przesyła kopię odwołania
+Zamawiającemu poprzez Platformę zakupową wyłącznie na adres:
+https://zus.ezamawiajacy.pl/  w ramach danego postępowania .
+1.5.15.  Zamawiający nie wymaga złożenia oferty w postaci katalogów elektronicznych lub
+dołączenia katalogów elektronicznych do oferty,  o której mowa w  art. 93 ustawy.
+1.6. OSOBY UPRAWNIONE DO KONTAKTÓW Z WYKONAWCAMI
+Osobą uprawnioną do kontaktu z Wykonawcami jest:
+imię i nazwisko: Kinga Przybylska
+stanowisko służbo we: Starszy Inspektor
+e-mail:  zamowienia.ci @zus.pl
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 8
+godziny pracy: 06:00 – 14:00
+1.7. ZAMÓWIENIA, O KTÓRYCH MOWA W ART. 214 UST. 1 PKT 7  USTAWY
+Zamawiający  nie przewiduje możliwości udzielenia zamówień, o których mowa w art. 214 ust. 1
+pkt 7 ustaw y.
+1.8. PODWYKONAWSTWO
+1.8.1.  Wykonawca może powierzyć wykonanie części zamówienia Podwykonawcy .
+1.8.2.  Wykonawca ponosi pełną odpowiedzialność za działanie lub zaniechania osób, którym
+powierzył lub za pomocą których wykonuje prace objęte przedmiotem zamówienia.
+1.8.3.  Wykonawca wskazuje w ofercie części zamówienia, którą zamierza powierzyć
+Podwykonawcom, a także nazwy ewentualnych Podwyk onawców, jeżeli są już znani oraz
+wskazania nazw  Podwykonawców (o ile są znane) w części II „Informacje dotyczące
+Wykonawcy”, sekcji D: „Informacje dotyczące Podwykonawców, na których zdolności
+Wykonawca nie polega” w formularzu JEDZ.
+1.8.4.  Zamawiający nie zamierza  weryfikować Podwykonawców pod kątem braku istnienia
+podstaw wykluczenia w zakresie: art. 108  ust. 1 oraz art. 109 ust. 1 pkt 1 ) i 4) ustawy .
+1.8.5.  Jeżeli zmiana albo rezygnacja z Podwykonawcy dotyczy podmiotu, na którego zasoby
+Wykonawca powoływał się, na zasadach określonych w art. 118 ust. 1 ustawy, w celu
+wykazania spełniania warunków udziału w postępowaniu, Wykonawca jest obowiązany
+wykazać Zamawiającemu, że proponowany inny Podwykonawca lub Wykonawca
+samodzielnie spełnia je w stopniu nie mniejszym niż Podwykonawca, na którego zasoby
+Wykonawca powoływał się w trakcie postępowania o udzielenie zamówienia.
+1.8.6.  Wykonawca może powierzyć wykonanie części zamówienia Podwyk onawcy , za
+wyjątkiem podmiotów rosyjskich (w rozumieniu art. 5k rozporządzenia (UE) 2022/576 z
+dnia 8 kwietnia 2022 r., w sprawie zmiany rozporządzenia (UE) nr 833/2014 dotyczącego
+środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na
+Ukrainie - Dz. Urz. UE nr L 111 z 8.4.2022, str. 1), na których przypada ponad 10%
+wartości zamówienia.
+1.9. WSPÓLNE  UBIEGANIE SIĘ O UDZIELENIE ZAMÓWIENIA
+Wykonawcy mogą wspólnie ubiegać się o udzielenie zamówienia. W takim przypadku Wykonawcy
+ustanawiają pełnomocnika do reprezentowania ich w postępowaniu o udzielenie zamówienia albo do
+reprezentowania w postępowaniu i zawarcia umowy w sprawie zamówienia publicznego.
+Jeżeli zostanie wybrana oferta Wykonawców wspólnie ubiegających się o udzielenie zamówienia,
+Zamawiający zażąda przed zawarciem umowy w sprawie zamówienia publicznego kopii umowy
+regulującej współpracę tych Wykonawców.
+Wykonawcy ubiegający się wspólnie o udzielenie zamówienia ponoszą solidarn ą odpowiedzialność za
+nie wykonanie lub nienależyte wykonanie umowy i wniesienie zabezpieczenia należytego wykonania
+umowy.
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 9
+2.  OPIS PRZEDMIOTU ZAMÓWIENIA I TERMIN WYKONANIA
+2.1. PRZEDMIOT ZAMÓWIENIA
+2.1.1.  Przedmiot zamówienia jest określony we Wspólnym Słowniku Zamówień (CPV) kodem:
+50323000 -5 Naprawa i konserwacja komputerowych urządzeń peryferyjnych
+30125110 -5 Toner do drukarek laserowych/faksów
+2.1.2.  Przedmiotem zamówienia jest: świadczenie usługi  3 letniego  serwisu pogwarancyjnego
+3750  urządzeń drukujących  Kyocera ECOSYS M2040dn  w Oddziałach  i Centrali  ZUS w
+zakresie realizacji:
+2.1.2.1.  Część 1 zamówienia - dla Centrali ZUS, Oddziału ZUS w Białymstoku, Oddziału
+ZUS w Biłgoraju, Oddziału ZUS w Lublinie, I Oddziału ZUS w Łodzi, Oddziału ZUS
+w Płocku, Oddziału ZUS w Radomiu, Oddziału ZUS w Siedlcach,  I Oddziału ZUS
+w Warszawie, II Oddziału ZUS w Warszawie, III Oddziału ZUS w Warszawie,
+2.1.2.2.  Część 2 zamówienia – dla Oddziału ZUS w Bielsku - Białej, Oddziału ZUS w
+Chrzanowie, Oddziału ZUS w Jaśle, Oddziału ZUS w Kielcach, Oddziału ZUS w
+Krakowie, Oddziału ZUS w Nowym Sączu, Oddziału ZUS w Rybniku, Oddziału
+ZUS w Rzeszowie, Oddziału ZUS w Sosnowcu, Oddziału ZUS w Tarnowie ,
+2.1.2.3.  Część 3 zamówienia – dla Oddziału ZUS w Chorzowie, Oddziału ZUS w
+Częstochowie, Oddziału ZUS w Gorzowie Wlkp., Oddziału ZUS w Legnicy,
+Oddziału ZUS w Opolu, Oddziału ZUS w Ostrowie  Wlkp., I Oddziału ZUS w
+Poznaniu, II Oddziału ZUS w Poznaniu, Oddziału ZUS w Wałbrzychu, Oddziału
+ZUS we Wrocławiu, Oddziału ZUS w Zabrzu, Oddziału ZUS w Zielonej Górze,
+2.1.2.4.  Część 4 zamówienia – dla Oddziału ZUS w Bydgoszczy, Oddziału ZUS w Elblągu,
+Oddziału ZUS w Gdańsku, Oddziału ZUS w Koszalinie, II Oddziału ZUS w Łodzi,
+Oddziału ZUS w Olsztynie, Oddziału ZUS w Pile, Oddziału ZUS w Słupsku,
+Oddziału ZUS w Szczecinie, Oddziału ZUS w Tomaszowie Mazowieckim,
+Oddziału ZUS w Toruniu .
+2.1.3.  Szczegółowy opis przedmiotu zamów ienia zawarty został w Załącznik nr 10  do SWZ,  a
+warunki realizacji zamówienia zawierają Projektowan e postanowienia  umowy
+stanowiące  Załącznik nr 11  do SWZ .
+2.1.4.  Wymagania w zakresie zatrudnienia na podstawie stosunku pracy, w okolicznościach,
+o których mowa w art. 95 ustawy.
+Zamawiający wymaga, aby przez cały okres realizacji umowy Wykonawca lub
+Podwykonawca zatrudniał osoby realizujące przedmiot umowy w zakresie czynności
+polegających na serwisowaniu urządzeń drukujących objętych przedmiotem umowy,
+tj. prowadzących naprawy  oraz dokonujących wymiany materiałów eksploatacyjnych
+na podstawie umowy o  pracę w rozumieniu przepisów art. 22 § 1 ustawy z dnia 26
+czerwca 1974 r. Kodeksu pracy (t. j. Dz. U z 202 5 r., poz. 227 ze zm.) za
+wynagrodzeniem w wysokości nie mniejszej niż minimalne wynagrodzenie za pracę –
+ustalone na podstawie art. 6 – 8 ustawy z dnia 10 października 2002 r. o minimalnym
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 10
+wynagrodzeniu za pracę (t.j. Dz. U. z 202 4 r. poz. 1773 ze zm. ) w rozumieniu przepisów
+Kodeksu pracy .
+2.1.5.  Wymagania co do weryfikacji obowiązku zatrudnienia na umowę o pracę oraz sankcje z
+tego tytułu zostały określone w  Projektowanych postanowieniach umowy stanowiących
+Załącznik  nr 11  do SWZ .
+2.1.6.  Zamawiający nie wymaga, aby Wykonawca osobiście wykonał kluczowe części
+zamówienia.
+2.1.7.  Prawo opcji:
+Zamawiający nie przewiduje prawa opcji.
+2.1.8.  Przedmiotowe środki dowodowe:
+Zamawiający nie wymaga wniesienia przedmiotowych środ ków dowodowych na
+potwierdzenie, że oferowane usługi spełniają określone wymagania.
+2.1.9.  Zaliczki:
+Zamawiający nie przewiduje udzielania zaliczek na poczet wynagrodzenia za
+wykonanie zamówienia.
+2.1.10.  Wizja lokalna/Sprawdzenie dokumentów niezbędnych do realizacji zamówienia:
+Zamawiający  nie przewiduje  możliwości odbycia  wizji lokalnej  lub sprawdzenia przez
+Wykonawcę dokumentów niezbędnych do realizacji zamó wienia dostępnych na
+miejscu u Z amawiającego.
+2.1.11.  Zamawiający nie zastrzega możliwości ubiegania się o udzielenie zamówienia wyłącznie
+przez Wykonawców, o których mowa w art. 94 ustawy.
+2.1.12.  Zamawiający nie przewiduje wymagań w zakresie zatrudnienia osób, o których mowa w
+art. 96 ust. 2 pkt 2 ) ustawy.
+2.1.13.  Zamawiający informuje, iż ilekroć w SWZ i jej załącznikach przedmiot zamówienia jest
+opisany:
+2.1.13.1.  ze wskazaniem znaków towarowych, nazw własnych, patentów lub
+pochodzenia źródła lub szczególnego procesu, który charakteryzuje produkty lub
+usługi dostarczane przez konkretnego Wykonawcę to przyjmuje się, że wskazaniom
+takim towarzyszą wyrazy ,,lub równoważny’’. Oznacza to, że dopuszcza się
+zaoferowanie wyrobów nie gorszych niż opisywanych tj. spełniających wymagania
+techniczne, funkcjonalne i jakościowe, co najmniej takie jak wskazane w
+dokumentacji niniejszego postępowania,
+2.1.13.2.  poprzez odniesienie się do norm, ocen technicznych, specyfikacji
+technicznych i systemów referencji technicznych, o których mowa w art. 101 ust . 1
+pkt 2) oraz ust. 3 ustawy, to przyjmuje się, że dopuszcza się rozwiązania
+równoważne opisywanym, a odniesieniu takiemu towarzyszą wyrazy ,,lub
+równoważne’’.
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 11
+2.2. TERMIN WYKONANIA ZAMÓWIENIA
+2.2.1.  Termin wykonania zamówienia dla każdej części zamówienia:
+Dotyczy wszystkich części zamówienia:
+od dnia podpisania umowy , nie wcześniej jednak niż od 01.0 1.202 6r. na okres 36 miesięcy lub do
+wyczerpania wartości umowy dla danej części zamówienia.
+3. WYSOKOŚĆ I ZASADY WNIESIENIA WADIUM
+3.1. WYSOKOŚĆ WADIUM
+Wykonawca składający ofertę zobowiązany jest wnieść wadium w wysokości:
+3.1.1.  dla części 1 zamówienia – 30 000,00 zł (słownie: trzydzieści  tysięcy złotych 00/100 groszy),
+3.1.2.  dla części 2 zamówienia – 20 000,00 zł (słownie: dwadzieścia  tysięcy złotych 00/100 groszy).
+3.1.3.  dla części 3 zamówienia – 31 000,00 zł (słownie: trzydzieści jeden  tysięcy złotych 00/100
+groszy).
+3.1.4.  dla części 4 zamówienia – 21 000,00 zł (słownie: dwadzieścia jeden  tysięcy złotych 00/100
+groszy).
+3.2. FORMA WADIUM
+Wadium może być wniesione w jednej lub kilku następujących formach:
+3.2.1.  pieniądzu,
+3.2.2.  gwarancjach bankowych,
+3.2.3.  gwarancjach ubezpieczeniowych,
+3.2.4.  poręczeniach udzielanych przez podmioty, o których mowa w art. 6b  ust. 5 pkt 2 ustawy
+z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (t. j.
+Dz. U.  z 202 4 r. poz. 419).
+3.3. TERMIN I SPOSÓB WNIESIENIA WADIUM
+3.3.1.  Wadium należy wnieść przed upływem terminu składania ofert określonego w pkt 6 SWZ
+i utrzymuje nieprzerwanie do dnia upływu terminu związania ofertą, z wyjątkiem
+przypadków, o których mowa w art. 98 ust. 1 pkt 2 ) i 3) oraz ust. 2 ustawy.
+3.3.2.  Wadium wnoszone w pieniądzu należy wpłacić przelewem na następujący rachunek
+bankowy Zamawiającego:
+PKO BP SA Warszawa  65 1020 5590 0000 0102 9210 7018
+Zaleca się dołączenie do oferty dokumentu potwierdzającego dokonanie przelewu lub
+jego kopii.
+3.3.3.  Zaleca się, aby na przelewie umieścić informację: „usługa wydruku - część ……..  znak
+postępowania: 580000.271 .2.2025 -ZAP”  (należy wskazać daną część, na którą jest
+wnoszone) .
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 12
+Wskazane jest dokonanie pojedynczych przelewów na poszczególne części. Dopuszcza
+się dokonanie przelewu łącznego pod warunkiem opisania, których części dotyczy.
+Konsekwencje nieprawidłowego opisania dokumentu przelewu ponosi Wykonawca.
+3.3.4.  Wadium wnoszone w pieniądzu winno znaleźć się na rachunku bankowym
+Zamawiającego przed upływem terminu składania ofert (tj. przed upływem dnia
+i godziny wyznaczonej jako ostateczny termin składania ofert).
+3.3.5.  Jeżeli wadium jest wnoszone w formie gwarancji lub poręczenia, o których mowa w pkt
+3.2.2 , 3.2.3  i 3.2.4  SWZ, Wykonawca przekazuje Zamawiającemu oryginał gwarancji lub
+poręczenia, w postaci elektronicznej.
+3.3.6.  Z dokumentu wadium wniesionego w formie gwarancji bankowej/ubezpieczeniowej  lub
+poręczenia powinno wynikać jednoznacznie gwarantowanie wypłaty należności
+w sposób nieodwołalny, bezwarunkowy i na pierwsze żądanie Zamawiającego
+zawierające oświadczenie że zachodzą okoliczności, o których mowa w art. 98 ust. 6
+ustawy, stanowiące podstawę do żądania wypłaty należności. Wadium takie powinno
+obejmować cały okres związania ofertą, poczynając od daty składania ofert.
+W przypadku wnoszenia wadium w  formie niepieniężnej oryginał dokumentu winien
+być wystawiony na:
+Zakład Ubezpieczeń Społecznych
+01-748 Warszawa, ul. Szamocka 3, 5
+NIP 5213017228 lub REGON 000017756
+3.3.7.  W przypadku wnoszenia wadium w formie gwarancji bankowej/ubezpieczeniowej  przez
+Wykonawców wspólnie ubiegających się o udzielenie zamówienia publicznego , zgodnie z
+wyrokiem KIO z dn. 24.06.2020 r., KIO 662/20, z dokumentu wadialnego powinno
+wynikać jednoznacznie, że zobowiązanie gwaranta obejmuje wszystkich Wykonawców
+wspólnie ubiegających się o zamówienie oraz obejmuje wszystkie wskazane w  ustawie
+przesłanki zatrzymania wadium, o których mowa w art. 98 ust. 6 ustawy, wynikające z
+działania lub zaniechania wszystkich Wykonawców wspólnie ubiegających się o
+udzielenie zamówienia.
+3.3.8.  Niewniesienie wadium, wniesienie w sposób nieprawidłowy, nieutrzymywanie wadium
+nieprzerwanie do upływu terminu związania ofertą lub złożenie wniosku o zwrot
+wadium w przypadku, o którym mowa w pkt 3.4.2.3  SWZ, skutkuje odrzuceniem oferty
+Wykonawcy.
+3.3.9.  Przedłużenie terminu związania ofertą jest dopuszczalne tylko z jednoczesnym
+przedłużeniem okresu ważności wadium albo, jeżeli nie jest to możliwe, z wniesieniem
+nowego wadium na przedłużony okres związania ofertą.
+3.4. ZWROT  WADIUM
+3.4.1.  Zamawiający zwróci wadium wszystkim Wykonawcom niezwłocznie nie później jednak
+niż w terminie 7 dni od dnia wystąpienia jednej z okoliczności:
+3.4.1.1.  upływu terminu związania ofertą;
+3.4.1.2.  zawarcia umowy w sprawie zamówienia publicznego;
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 13
+3.4.1.3.  unieważnienia postępowania o udzielenie zamówienia, z wyjątkiem sytuacji gdy
+nie zostało rozstrzygnięte odwołanie na czynność unieważnienia albo nie upłynął
+termin do jego wniesienia.
+3.4.2.  Zamawiający, niezwłocznie, nie później jednak niż w terminie 7 dni od dnia złożenia
+wniosku zwraca wadium Wykonawcy:
+3.4.2.1.  który wycofał ofertę przed upływem terminu składania ofert;
+3.4.2.2.  którego oferta została odrzucona;
+3.4.2.3.  po wyborze najkorzystniejszej oferty, z wyjątkiem Wykonawcy, którego oferta
+została wybrana jako najkorzystniejsza;
+3.4.2.4.  po unieważnieniu postępowania, w przypadku gdy nie zostało rozstrzygnięte
+odwołanie na czynność unieważnienia albo nie upłynął termin do jego
+wniesienia.
+3.4.3.  Złożenie wniosku o zwrot wadium, o którym mowa w  pkt 3.4.2  SWZ, powoduje
+rozwiązanie stosunku prawnego z Wykonawcą wraz z utratą przez niego prawa do
+korzystania ze środków ochrony prawnej, o których mowa w dziale IX ustawy.
+3.4.4.  Zamawiający zwraca wadium wniesione w pieniądzu wraz z odsetkami wynikającymi z
+umowy rachunku bankowego, na którym było ono przechowywane, pomniejszone o
+koszty prowadzenia rachunku bankowego oraz prowizji bankowej za przelew pieniędzy
+na rachunek bankowy wskazany przez Wykonawcę.
+3.4.5.  Zamawiający zwraca wadium wniesione w innej formie niż w pieniądzu poprzez złożenie
+gwarantowi lub poręczycielowi oświadczenia o zwolnieniu wadium.
+3.5. ZATRZYMANIE WADIUM
+3.5.1.  Zamawiający zatrzymuje wadium wraz z odsetkami, a w przypadku wadium wniesionego
+w formie gwarancji lub poręczenia, o których mowa w pkt 3.2.2 , 3.2.3  i 3.2.4  SWZ ,
+występuje odpowiednio do gwaranta lub poręczyciela z żądaniem zapłaty wadium,
+jeżeli:
+3.5.1.1.  Wykonawca w odpowiedzi na wezwanie, o którym mowa w art. 128 ust. 1
+ustawy, z przyczyn leżących po jego stronie, nie złożył podmiotowych środków
+dowodowych potwierdzających okoliczności, o których mowa w art. 57 ustawy,
+oświadczenia, o którym mowa w art. 125 ust. 1 ustawy, innych dokumentów lub
+oświadczeń lub nie wyraził zgody na poprawienie omyłki, o której mowa w art.
+223 ust. 2 pkt 3 ustawy, co spowodowało brak możliwości wybrania oferty
+złożonej przez Wykonawcę jako najkorzystniejszej;
+3.5.1.2.  Wykonawca, którego oferta została wybrana:
+a) odmówił podpisania umowy w sprawie zamówienia publicznego na
+warunkach określonych w ofercie,
+b) nie wniósł wymaganego zabezpieczenia należytego wykonania umowy;
+3.5.1.3.  Zawarcie umowy w sprawie zamówienia publicznego stało się niemożliwe z
+przyczyn leżących po stronie Wykonawcy, którego oferta została wybrana.
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 14
+4. WARUNKI UBIEGANIA SIĘ O UDZIELENIE ZAMÓWIENIA,  PODSTAWY WYKLUCZENIA,  OFERTA
+ORAZ DOKUMENTY WYMAGANE OD WYKONAWCY
+4.1. WARUNKI UBIEGANIA SIĘ O UDZIELENIE ZAMÓWIENIA
+4.1.1.  O udzielenie zamówienia ubiegać się mogą Wykonawcy, którzy spełniają następujące
+warunki dotyczące:
+4.1.1.1.  zdolności do występowania w obrocie gospodarczym:
+Zamawiający nie określa warunku udziału w postępowaniu
+4.1.1.2.  uprawnień do prowadzenia określonej działalności gospodarczej lub
+zawodowej:
+Zamawiający nie określa warunku udziału w postępowaniu
+4.1.1.3.  sytuacji ekonomicznej lub finansowej:
+Zamawiający nie określa warunku udziału w postępowaniu.
+4.1.1.4.  zdolności technicznej lub zawodowej  –
+dla części 1  - 4 zamówienia  - Wykonawca spełni warunek jeżeli wykaże, że:
+4.1.1.4.1  w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli
+okres prowadzenia działalności jest krótszy – w tym okresie wykonał
+należycie lub wykonuje należycie i nieprzerwanie przez okres co najmniej 12
+kolejnych miesięcy w ramach jednego zamówienia usługę polegają cą na
+serwisowaniu co na jmniej 300 urządzeń wielofunkcyjnych lub drukarek wraz
+z sukcesywną dostawą materiałów eksploatacyjnych znajdujących się w co
+najmniej 5 miejscowościach.
+Uwagi dla wszystkich części zamówienia:
+UWAGA nr 1:
+W przypadku, gdy Wykonawca będzie posługiwać się doświadczeniem
+nabytym na podstawie usług świadczonych w ramach konsorcjum, wówczas
+Wykonawca może powoływać się na realizację takiej usługi, jeżeli faktycznie i
+konkretnie uczestniczył w jej realizacji.
+UWAGA nr 2:
+W odniesieniu do warunków dotyczących doświadczenia, Wykonawcy
+wspólnie ubiegający się o udzielenie zamówienia mogą polegać na
+zdolnościach tych z Wykonawców, którzy zrealizowali usługi, do realizacji
+których te zdolności są wymagane.
+UWAGA nr 3:
+W przypadku Wykonawców wspólnie ubiegających się o udzielenie
+zamówienia warunek  udziału w postępowaniu zostanie uznany za spełniony,
+jeżeli warunek spełni w całości co najmniej jeden z Wykonawców wspólnie
+ubiegających się o udzielenie zamówienia .
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 15
+UWAGA nr 4:
+W przypadku, gdy Wykonawca celem potwierdzenia spełniania warunku
+udziału w postępowaniu polega na zdolnościach innych podmiotów, warunek
+w całości musi spełniać minimum jeden z tych podmiotów.
+UWAGA nr 5:
+Wykonawca może na potwierdzenie spełnienia warunku udziału w
+postępowaniu w różnych częściach zamówienia, na które składa ofertę
+wykazać się t ą samą  usługą .
+UWAGA nr 6 :
+Zamawiający nie dopuszcza możliwości sumowania ilości urządzeń
+wielofunkcyjnych lub drukarek  lub miejscowości w ramach różnych umów w
+celu osiągnięcia wymaganej ilości .
+4.1.2.  Wykonawcy wspólnie ubiegający się o udzielenie zamówienia dołączają do oferty
+oświadczenie, z którego wynika, które usługi wykonają poszczególni W ykonawcy
+(zgodnie z Załącz nikiem nr 6  do SWZ ).
+4.1.3.  Oceniając zdolność techniczną lub zawodową, Zamawiający może, na każdym etapie
+postępowania, uznać, że Wykonawca nie posiada wymaganych zdolności, jeżeli
+posiadanie przez Wykonawcę sprzecznych interesów, w szczególności zaangażowanie
+zasob ów technicznych lub zawodowych W ykonawcy w inne przedsięwzięcia
+gospodarcze Wykonawcy może mieć negatywny wpływ na realizację zamówienia.
+4.1.4.  Wykonawca może w celu potwierdzania spełniania warunk u, o który m mowa w  pkt
+4.1.1.4  SWZ, w stosownych sytuacjach oraz w odniesieniu do konkretnego zamówienia,
+lub jego części, polegać na zdolności ach technicznych lub zawodowych  podmiotów
+udostępniających zasoby, niezależnie od charakteru prawnego łączących go z nimi
+stosunków prawnych.
+UWAGA:
+Wykonawca nie może, po upływie terminu składania ofert, powoływać się na
+zdolności lub sytuację podmiotów udostępniających zasoby, jeżeli na etapie
+składania ofert nie polegał on w danym zakresie na zdolnościach lub sytuacji
+podmiotów udostępniających zasoby.
+4.1.5.  W odniesieniu do warunku dotyczącego doświadczenia, Wykonawcy mogą polegać na
+zdolnościach podmiotów udostępniających zasoby, jeśli podmioty te wykonają usługi,
+do realizacji których te zdolności są wymagane.
+4.1.6.  Wykonawc a, który polega na zdolnościach  podmiotów udostępniających zasoby,
+składa, wraz z ofertą, zobowiązanie podmiotu udostępniającego zasoby do oddania mu
+do dyspozycji niezbędnych zasobów na potrzeby realizacji danego zamówienia
+(sporządzone zgodnie z załącznikiem nr 7  do SWZ ) lub inny podmiotowy środek
+dowodowy potwierdzający, że Wykonawca realizując zamówienie, będzie dysponował
+niezbędnymi zasobami tych podmiotów.
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 16
+4.1.7.  Zobowiązanie podmiotu udostępniającego zasoby lub inny podmiotowy środek
+dowodowy potwierdzający, że Wykonawca realizując zamówienie, będzie dysponował
+niezbędnymi zasobami tych podmiotów, ma potwierdzać, że stosunek łączący
+Wykonawcę z podmiotami udostępniającymi zasoby gwarantuje rzeczywisty dostęp do
+tych zasobów oraz określać, w szczególności:
+4.1.7.1.  zakres dostępnych Wykonawcy zasobów podmiotu udostępniającego zasoby;
+4.1.7.2.  sposób i okres udostępnienia Wykonawcy i wykorzystania przez niego
+zasobów podmiotu udostępniającego te zasoby przy wykonywaniu
+zamówienia;
+4.1.7.3.  czy i w jakim zakresie podmiot udostępniający zasoby, na zdolnościach
+którego Wykonawca polega w odniesieniu do warunków udz iału w
+postępowaniu dotyczących  doświadczenia, zrealizuje usługi, których
+wskazane zdolności dotyczą.
+4.1.8.  Zamawiający oceni, czy udostępniane Wykonawcy przez podmioty udostępniające
+zasoby zd olności techniczne lub zawodowe  pozwalają na wykazanie przez Wykonawcę
+spełniania warunk u udziału w postępowaniu, o który m mowa w pkt 4.1.1.4 SWZ, a
+także zbada, czy nie zachodzą wobec tego podmiotu podstawy wykluczenia, które
+zostały przewidziane względem Wykonawcy (określone w pkt 4.2. SWZ).
+4.1.9.  Jeżeli zdo lności techniczne lub zawodowe podmiotu udostępniającego zasoby nie
+potwierdzają spe łniania przez Wykonawcę warunku  udziału w postępowaniu lub
+zachodzą wobec tego podmiotu podstawy wykluczenia, Zamawiający żąda, aby
+Wykonawca w terminie określonym przez Zamawiającego zastąpił ten podmiot innym
+podmiotem lub podmiotami albo wykazał, że samodzielnie spełnia warun ek udziału w
+postępowaniu.
+4.2. PODSTAWY WYKLUCZENIA
+4.2.1.  O udzielenie zamówienia mogą się ubiegać Wykonawcy, którzy nie podlegają
+wykluczeniu na podstawie art. 108 ust. 1 oraz art. 109 ust. 1 pkt 1) i 4) ustawy.
+4.2.2.  Z postępowania o udzielenie zamówienia wyklucza się Wykonawcę:
+4.2.2.1.  będącego osobą fizyczną, którego prawomocnie skazano za przestępstwo:
+a) udziału w zorganizowanej grupie przestępczej albo związku mającym na
+celu popełnienie przestępstwa lub przestępstwa skarbowego, o którym
+mowa w art. 258 Kodeksu karnego,
+b) handlu ludźmi, o którym mowa w art. 189a Kodeksu karnego,
+c) o którym mowa w art 228 –230a, art. 250a Kodeksu karnego , w art. 46 -48
+ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2023  r. poz. 2048 oraz z
+2024 r. poz. 1166 )  lub w art. 54 ust. 1 –4 ustawy z dnia 12 maja 2011 r. o
+refundacji leków, środków spożywczych specjalnego przeznaczenia
+żywieniowego oraz w yrobów medycznych ( Dz. U. z 2024  r. poz. 930),
+d) finansowania przestępstwa o charakterze terrorystycznym, o którym
+mowa w art. 165a Kodeksu karnego, lub przestępstwo udaremniania lub
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 17
+utrudniania stwierdzenia przestępnego pochodzenia pieniędzy lub ukrywania
+ich pochodzenia, o którym mowa w art. 299 Kodeksu karnego,
+e) o charakterze terrorystycznym, o którym mowa w art. 115 § 20 Kodeksu
+karnego, lub mające na celu popełnienie tego przestępstwa,
+f) powierzenia wykonywania pracy małoletniemu cudzoziemcowi, o którym
+mowa w art. 9 ust. 2 ustawy z dnia 15 czerwca 2012 r. o skutkach
+powierzania wykonywania pracy cudzoziemcom przebywającym wbrew
+przepisom na terytorium Rzeczyposp olitej Polskiej (Dz. U. z 2021 r. poz.
+1745 ),
+g) przeciwko obrotowi gospodarczemu, o których mowa w art 296 –307
+Kodeksu karnego, przestępstwo oszustwa, o którym mowa w art. 286
+Kodeksu karnego, przestępstwo przeciwko wiarygodności dokumentów, o
+których mowa w art 270 –277d Kodeksu karnego, lub przestępstwo skarbowe,
+h) o którym mowa w art. 9 ust. 1 i 3 lub art. 10 ustawy z dnia 15 czerwca 2012
+r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym
+wbrew przepisom na terytorium Rzeczypospolitej Polskiej
+– lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego;
+4.2.2.2.   jeżeli urzędującego członka jego organu zarządzającego lub nadzorczego,
+wspólnika spółki w spółce jawnej lub partnerskiej albo komplementariusza w
+spółce komandytowej lub komandytowo -akcyjnej lub prokurenta
+prawomocnie skazano za prz estępstwo, o którym mowa w pkt 4.2.2.1. ;
+4.2.2.3.  wobec którego wydano prawomocny wyrok sądu lub ostateczną decyzję
+administracyjną o zaleganiu z uiszczeniem podatków, opłat lub składek na
+ubezpieczenie spo łeczne lub zdrowotne, chyba że W ykonawca odpowiednio
+przed upływem terminu do składania wniosków o dopuszczenie do udziału w
+postępowaniu albo przed upływem terminu składania ofert dokonał płatności
+należnych podatków, opłat lub składek na ubezpieczenie społeczne lub
+zdrowotne wraz z odsetkami lub grzywnami lub zawarł wiążące porozumienie
+w sprawie spłaty tych należności;
+4.2.2.4.  wobec którego prawomocnie orzeczono zakaz ubiegania się o zamówienia
+publiczne;
+4.2.2.5.  jeżeli Z amawiający może stwierdzić, na podstawie wiarygodnych przesłanek, że
+Wykonawca zawarł z innymi Wykonawcami porozumienie mające na celu
+zakłócenie konkurencji, w szczególności jeżeli należąc do tej samej grupy
+kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie
+konkurencji i konsumentów złożyli odrębne oferty, oferty częściowe lub
+wnioski o dopuszczenie do udziału w postępowaniu, chyba że wykażą, że
+przygotowali te oferty lub wnioski niezależnie od siebie;
+4.2.2.6.  jeżeli, w przypadkach, o których mowa w art. 85 ust. 1 ustawy , doszło do
+zakłócenia konkurencji wynikającego z wcześniejszego zaangażowania tego
+Wykonawcy lub podmiotu, który należy z Wykonawcą do tej samej grupy
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 18
+kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie
+konkurencji i konsumentów, chyba że spowodowane tym zakłócenie
+konkurencji może być wyeliminowane w inny sposób niż przez wykluczenie
+Wykonawcy z udziału w postępowaniu o udzielenie zamówienia.
+4.2.3.  Zamawiający wykluczy również Wykonawcę:
+4.2.3.1.  który naruszył obowiązki dotyczące płatności podatków, opłat lub składek na
+ubezpieczenia społeczne lub zdrowotne, z wyjątkiem przypadku, o którym
+mowa w art. 108 ust. 1 pkt 3 ) ustawy, chyba że Wykonawca odpowiednio
+przed upływem terminu do składania ofert dokonał płatności należnych
+podatków, opłat lub składek na ubezpieczenia społeczne lub zdrowotne wraz z
+odsetkami lub grzywnami lub zawarł wiążące porozumienie w sprawie spłaty
+tych należności – na podstaw ie art. 109 ust. 1 pkt 1 ) ustawy;
+4.2.3.2.  w stosunku do którego otwarto likwidację, ogłoszono upadłość, którego
+aktywami zarządza likwidator lub sąd, zawarł układ z wierzycielami, którego
+działalność gospodarcza jest zawieszona albo znajduje się on w innej tego
+rodzaju sytuacji wynikającej z podobnej procedury przewidzianej w przepisach
+miejsca wszczęcia tej procedury  – na podstawie art. 109 ust. 1 pkt 4 ) ustawy.
+4.2.4 O udzielenie zamówienia mogą się ubiegać Wykonawcy, którzy nie podlegają
+wykluczeniu  na podstawie art. 7 ust. 1 U stawy z dnia 13 kwietnia 2022 r. o
+szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na
+Ukrainę oraz służących ochronie bezpieczeństwa narodo wego oraz na podstawie  art.
+5k Rozporządzenia  Rady (UE)  nr 833/2014  z dnia 31 lipca 2014 r. dotyczącego
+środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na
+Ukrainie (Dz. Urz. UE nr L 229 z 31.7.2014,str. 1) dodanego Rozporządzeniem Rady
+(UE) nr 2022/576 z dnia 8 kwietnia 2022 r. w sprawie zmiany rozporządzenia  (UE) nr
+833/2014  dotyczącego środków ograniczających w związku z działaniami Rosji
+destabilizującymi sytuację na Ukrainie (Dz. Urz. UE nr L 111 z 8.4.2022, str.1).
+4.3. OFERTA I JEJ WYMOGI FORMALNE
+4.3.1.  Ofertę składa się na  Formularzu ofertowym  stanowiącym Z ałącznik nr 1 do SWZ.
+Na Ofertę składa się:
+4.3.1.1.  Formularz ofert owy wypełniony zgodnie z Załącznikiem nr 1 do SWZ,
+4.3.1.2.  wadium w formie bezgotówkowej,
+4.3.1.3.  wszystkie inne dokumenty wymienione w pkt 4.3.3.  oraz 4.4.1  SWZ , w
+zakresie w którym dotyczy .
+4.3.2.  Oferta musi spełniać następujące wymogi:
+4.3.2.1.  Wykonawca może złożyć jedną ofertę na daną cześć zamówienia. Złożenie
+więcej niż jednej oferty spowoduje odrzucenie wszystkich ofert złożonych
+przez Wykonawcę w danej części zamówienia, do której przystępuje.
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 19
+4.3.2.2.  Oferta musi być złożona pod rygorem nieważności w formie elektronicznej za
+pośrednictwem  Platformy zakupowej. Platforma zakupowa jest dostępna
+pod adresem  https://zus.ezamawiajacy.pl/ . Treść oferty musi być zgodna z
+treścią SWZ. Formularz ofertowy powinien zostać sporządzony przez
+Wykonawcę na podstawie wzoru, stanowiącego Załącznik nr 1 do SWZ
+(zaleca się format .pdf, .doc, .docx., .odt), opatrzonego kwalifikowanym
+podpisem elektronicznym. Oferty składane elektronicznie oraz każdy z
+załączników muszą być uprzednio podpisane kwalifikowanym podpisem
+elektronicznym przed ich załączeniem do Platformy zakupowej.  W przypadku
+złożenia oferty w kilku plikach, wymagania odnoszą się do każdego z nich.
+Zaleca się by oferta podpisywana kwalifikowanym podpisem elektronicznym
+była oznakowana kwalifikowanym znacznikiem czasu.
+4.3.2.3.  Oferta wraz z załącznikami powinna być podpisana przez osobę upoważnioną
+do reprezentowania Wykonawcy. Oferta musi być podpisana kwalifikowanym
+podpisem elektronicznym przez osobę uprawnioną, zgodnie z formą
+reprezentacji Wykonawcy określoną w rejestrze sądowym lub innym
+dokumencie, właściwym dla danej formy organizacyjnej Wykonawcy, albo
+przez osobę umocowaną (na podstawie pełnomocnictwa) przez osoby
+uprawnione.
+4.3.2.4.  Oferta wraz z załącznikami musi być sporządzona w języku polskim. Każdy
+dokument składający się na ofertę lub złożony wraz z ofertą sporządzony w
+języku innym niż polski musi być złożony wraz z tłumaczeniem na język polski.
+4.3.2.5.  Zgodnie z art. 64 ustawy Platforma zakupowa jest kompatybilna ze
+wszystkimi podpisami elektronicznymi.
+4.3.3.  Jeżeli oferta zawiera informacje stanowiące tajemnicę przedsiębiorstwa  w rozumieniu
+ustawy z dnia 16 kwietnia 1993 r o zwalczaniu nieuczciwej konkurencji, Wykonawca, w
+celu zachowania poufności tych informacji, przekazuje je w wydzielonym i
+odpowiednio oznaczonym pliku. Podczas dodawania załączników do oferty
+Wykonawca ma możliwość ustawienia ich jako jawne lub niejawne. W razie
+jednoczesnego wystąpienia w danym dokumencie lub oświadczeniu treści o
+charakterze jawnym i niejawnym, należy podzielić ten plik na dwa pliki i każdy z nich
+odpowiednio oznaczyć. Odpowiednie oznaczenie zastrzeżonej treści oferty spoczywa
+na Wykonawcy. Jawną część uzasadnienia zastrzeżenia tajemnicy przedsiębiorstwa
+należy złożyć w odrębnym pliku.
+4.3.3.1.  W przypadku zastrzeżenia informacji jako tajemnicy przedsiębiorstwa
+Wykonawca składa  oświadczenie  stanowiące Załącznik nr 2  do SWZ  wraz
+z jednoczesnym oznaczeniem pliku „Oświadczenie o zas trzeżeniu informacji”.
+Nie złożenie przez Wykonawcę oświadczenia zostanie uznane jako brak woli
+utajnienia jakichkolwiek danych składających się na ofertę.
+4.3.3.2.  Zamawiający informuje, iż zgodnie z art. 18 ust. 3 ustawy , Zamawiający nie
+będzie występował  o uzupełnienie lub wyjaśnienie złożonego w ofercie
+zastrzeżenia tajemnicy przedsiębiorstwa oraz jego uzasadnienia .
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 20
+Zamawiający oceni zastrzeżenie tajemnicy przedsiębiorstwa oraz jego
+uzasadnienie. W przypadku uznania przez Zamawiającego, że Wykonawca nie
+wykazał w ofercie, że informacje i dokumenty stanowią tajemnicę
+przedsiębiorstwa, Zamawiający uzna to zastrzeżenie za bezskuteczne .
+W takim przypadku oferta będzie jawna również w zakresie nieskutecznie
+objętym tajemnicą przedsiębiorstwa, o  czym Zamawiający poinformuje
+Wykonawcę.
+4.3.3.3.  Zamawiający informuje, że w przypadku kiedy Wykonawca otrzyma od niego
+wezwanie w trybie art. 126 ust. 1,  art. 128 ust. 1 , art. 128 ust. 4 , art. 223 ust.
+1 oraz art.  224 ust. 1 ustawy , a złożone przez niego dokumenty,
+oświadczenia, wyjaśnienia i/lub dowody stanowić będą tajemnicę
+przedsiębiorstwa w  rozumieniu ustawy o  zwalczaniu nieuczciwej konkurencji,
+Wykonawcy będzie przysługiwało prawo zastrzeżenia ich jako tajemnica
+przedsiębiorstwa. Przedmiotowe zastrzeżenie Zamawiający uzna za skuteczne
+wyłącznie w  sytuacji kiedy Wykonawca oprócz samego zastrzeżenia,
+jednocześnie wykaże, iż dane informacje stanowią tajemnicę
+przedsiębiorstwa. Postanowienia pkt. 4.3.3.2 . SWZ  stosuje się odpowiednio.
+4.3.3.4.  Nie podlegają zastrzeżeniu informacje obejmujące: nazwę albo imiona i
+nazwiska oraz siedziby lub miejsca prowadzonej działalności gospodarczej
+albo miejsca zamieszkania Wykonawców, cenę lub koszt zawarte w ofertach.
+4.4. WYKAZ WYMAGANYCH OŚWIADCZEŃ LUB DOKUMENTÓW, W TYM PO DMIOTOWYCH
+ŚRODKÓW DOWODOWYCH
+4.4.1.  Oświadczenia, dokumenty oraz pełnomocnictwa składane wraz z ofertą  za
+pośrednictwem Platformy zakupowej:
+4.4.1.1.  zobowiązanie podmiotu udostępniającego zasoby do oddania mu do
+dyspozycji niezbędnych zasobów na potrzeby realizacji danego zamówienia
+(sporządzone zgodnie z Załącznikiem nr 7 do SWZ) lub inny podmiotowy
+środek dowodowy potwierdzający, że Wykonawca realizując zamówienie,
+będzie dysponował niezbędnymi zasobami tych podmiotów - jeżeli
+Wykonawca polega na zasobach  podmiotu trzeciego;
+4.4.1.2.  W przypadku, gdy Wykonawcę reprezentuje pełnomocnik – pełnomocnictwo
+określające jego zakres, podpisane przez osobę/y upoważnione do
+reprezentacji wskazane we właściwym rejestrze, z którego wynika prawo do
+podpisania oferty oraz do podpisania innych dokumentów składanych wraz z
+ofertą;
+4.4.1.3.  W przypadku, gdy ofertę składają Wykonawcy ubiegający się wspólnie o
+udzielenie zamówienia, pełnomocnictwo określające zakres umocowania
+pełnomocnika ustanowionego do reprezentowania ich w postępowaniu;
+4.4.1.4.  oświadczenie wykonawców wspólnie ubiegających się o zamówienie, z
+którego wynika, które usługi wykonają poszczególni Wykonawcy,
+sporządzone zgodnie ze wzorem zamieszczonym w Załączniku nr 6  do SWZ ;
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 21
+4.4.1.5.  oświadczenie o niepodleganiu wykluczeniu zgodnie z Załącznikiem nr 8  do
+SWZ składa Wykonawca, a w przypadku wspólnego ubiegania się o
+zamówienie każdy z Wykonawców wspólnie ubiegających się o zamówienie;
+4.4.1.6.  oświadczenie o niepodleganiu wykluczeniu zgodnie z Załącznikiem nr 9  do
+SWZ składa podmiot udostępniający zasoby (o ile dotyczy);
+4.4.1.7.   JEDZ:
+4.4.1.7.1. JEDZ przygotowany przez Zamawiającego z wykorzystaniem narzędzia ESPD
+lub innych dostępnych narzędzi lub oprogramowań, które umożliwiają
+wypełnienie JEDZ i utworzenie dokumentu elektronicznego. JEDZ dla
+przedmiotowego postępowania jest dostępny na stronie internetowej
+prowadzonego postępowania.  W celu potwierdzenia spełnienia warunków
+udziału w postepowaniu  Wykonawca wypełnia tylko sekcję  w części IV
+JEDZ, celem wstępnego potwierdzenia spełniania warunków udziału
+w postępowaniu.  Oświadczenia zawarte w JEDZ będą stanowiły wstępne
+potwierdzenie, że Wykonawca nie podlega wykluczeniu  oraz spełnia
+warunki udziału w postępowaniu.
+W celu wypełnienia własnego oświadczenia w formie JEDZ
+z wykorzystaniem narzędzia ESPD, Wykonawca:
+• pobiera plik „espd -request.xml” ze strony internetowej prowadzonego
+postępowania ,
+• Wykonawca wypełnia za pomocą narzędzia ESPD własny JEDZ
+importując plik „espd -request.xml” do strony internetowej
+http://espd.uzp.gov.pl/ ,
+• składa JEDZ zgodnie z zasadami określonymi w pkt 4.4.1.7.1  – 4.4.1 .7.2.
+Szczegółowe informacje związane z zasadami i sposobem wypełnienia JEDZ znajdują
+się także w wyjaśnieniach Urzędu Zamówień Publicznych (UZP), dostępnych na
+stronie Urzędu – www.uzp.gov.pl , w repozytorium wiedzy, w  zakładce Jednolity
+Europejski Dokument Zamówienia.
+4.4.1.7.1.1.  JEDZ należy złożyć pod rygorem nieważności, w formie elektronicznej,
+tj.  w postaci elektronicznej opatrzonej kwalifikowanym podpisem
+elektronicznym. Oświadczenia podmiotów składających ofertę
+wspólnie oraz podmiotów udostępniających potencjał składane na
+formularzu JEDZ, powinny mieć formę dokumentu elektronicznego,
+podpisanego kwalifikowanym podpisem elektronicznym przez
+każdego z  nich.
+4.4.1.7.1.2.  Wykonawca wypełnia JEDZ, tworząc dokument elektroniczny,
+zgod nie z  postanowieniami pkt  4.4.1.7 .1.1. SWZ.
+4.4.1.7.1.3  Po stworzeniu lub wygenerowaniu przez Wykonawcę dokumentu
+elektronicznego JEDZ, Wykonawca podpisuje ww. dokument
+kwalifikowanym podpisem elektronicznym, wystawionym przez
+dostawcę kwalifikowanej usługi zaufania, będącego podmiotem
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 22
+świadczącym usługi certyfikacyjne – podpis elektroniczny, spełniające
+wymogi bezpieczeństwa określone w  ustawie z dnia 5 września 2016
+r. – o usługach zaufania oraz identyfikacji elektronicznej (t.j. Dz. U.
+z 202 4 r. poz. 17 25). Zaleca się by dokument podpisywany
+kwalifikowanym podpisem elektronicznym był oznakowany
+kwalifikowanym znacznikiem czasu;
+4.4.1.7.1.4.  W przypadku składania,  uzupełnienia lub poprawienia JEDZ na
+podstawie art.  128 ust. 1 ustawy, JEDZ w formie, o której mowa w
+pkt 4.4.1.7 .1.1. SWZ, należy przesłać poprzez Platformę zakupową na
+adres: https://zus.ezamawiajacy.pl/  w ramach danego postępowania;
+4.4.1.7.2  W przypadku wspólnego ubiegania się o zamówienie przez Wykonawców
+oświadczenie (JEDZ), o którym mowa w pkt 4.4.1.7 .1. SWZ składa każdy
+z Wykonawców wspólnie ubiegających się o zamówienie. Oświadczenie
+to ma potwierdzać brak podstaw wykluczenia oraz spełnianie warunków
+udziału w postępowaniu w zakresie, w jakim każdy z Wykonawców
+wykazuje spełnianie warunków udziału w postępowaniu. Zasady
+dotyczące składania oraz formy JEDZ określone w pkt  4.4.1 .7.1. SWZ
+stosuje się.
+4.4.1.7.3  Wykonawca, który powołuje się na zasoby innych podmiotów, w celu
+wykazania braku istnienia wobec nich podstaw wykluczenia oraz
+spełniania, w zakresie w jakim powołuje się na ich zasoby, warunków
+udziału w postępowaniu, składa oświadczenia ( JEDZ), o którym mowa w
+pkt 4.4.1.7 . SWZ dotyczące tych podmiotów. Zasady dotyczące składania
+oraz formy JEDZ określone w pkt 4.4.1.7 .1. SWZ stosuje się.
+4.4.2.  Oświadczenia i dokumenty składane na podstawie wezwania Zamawiającego .
+Zamawiający przed udzieleniem zamówienia, przed wyborem najkorzystniejszej
+oferty wezwie Wykonawcę, którego oferta została najwyżej oceniona, do złożenia w
+wyznaczonym terminie, nie krótszym niż 10 dni:
+4.4.2.1.  podmiotowych środków dowodowych potwierdzając ych spełnianie
+warunków udziału w  postępowaniu , tj. :
+4.4.2.1.1.  na potwierdzenie spełnienia warunku udziału w postepowaniu
+określonego w pkt 4.1.1.4 SWZ W ykonawca składa wykaz
+wykonanych usług, a w przypadku świadczeń powtarzających się
+lub ciągłych również wykonywanych, w okresie ostatnich 3 lat
+liczonych wstecz od dnia , w którym upływa termin składania ofert ,
+a jeżeli okres prowadzenia działalności jest krótszy – w tym
+okresie, wraz z podaniem ilości serwisowanych urządzeń
+wielofunkcyjnych lub drukarek i liczby miejscowości , dat
+wykonania i podmiotów, na rzecz których usługi zostały wykonane
+lub są wykonywane  zgodnie z załącznikiem nr 5 do SWZ  oraz
+załączeniem dowodów określających, czy te usługi zostały
+wykon ane lub są wykonywane należycie;
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 23
+Dowodami potwierdzającymi czy usługi zostały wykonane  lub są
+wykonywane  należycie są:  referencje bądź inne dokumenty sporządzone
+przez podmiot, na rzecz którego usługi zostały wykonane, a w przypadku
+świadczeń powtarzających się lub ciągłych są wykonywane, a jeżeli
+Wykonawca z przyczyn niezależnych od niego nie jest w stanie uzyskać tych
+dokumentów – oświadczenie Wykonawcy; w przypadku świadczeń
+powtarzających się lub ciągłych nadal wykonywanych referencje bądź inne
+dokumenty potwierdzające ich należyte wykonywanie powinny być
+wystawione w okresie ostatnich 3 miesięcy liczonych wstecz od dnia, w
+który m upływa termin składania ofert.
+4.4.2.1.2 w przypadku Wykonawców wspólnie ubiegających się o u dzielenie
+zamówienia, dokument ów dotyczących każdego z Wykonawców
+wspólnie ubiegających się o udzielenie zamówienia w zakresie, w
+którym każdy z Wykonawców wykazuje spełnienie warunków udziału
+w postępowaniu.
+4.4.2.2.  podmiotowych środków dowodowych  potwierdzając ych brak podstaw
+wykluczenia , tj.:
+4.4.2.2.1.  informacji z Krajowego Rejestru Karnego w zakresie: art. 108 ust. 1 pkt 1 )
+i 2) ustawy  oraz art. 108 ust. 1 pkt 4 ) ustawy , dotyczącej orzeczenia
+zakazu ubiegania się o zamówienie publiczne tytułem środka karnego –
+sporządzonej nie wcześniej niż 6 miesięcy przed jej złożenie m;
+4.4.2.2.2.  oświadczenia Wykonawcy, w zakresie art. 108 ust. 1 pkt 5 ) ustawy , o
+braku przynależności do tej samej grupy kapitałowej w rozumieniu
+ustawy z dnia 16 lutego 2007 r. o ochronie konkuren cji i konsumentów
+(Dz. U. z 202 4 r. poz. 1616  ze zm. ), z innym Wykonawcą, który złożył
+odrębną ofertę/ofertę częściową, albo oświadczenia o przynależności do
+tej samej grupy kapitałowej wraz z dokumentami lub informacjami
+potwierdzającymi przygotowanie oferty/oferty częściowej niezależnie od
+innego Wykonawcy należącego do tej samej grupy kapitałowej,
+sporządzonego zgodnie z Załącznikiem nr 3 do SWZ ;
+4.4.2.2.3.  zaświadczenia właściwego naczelnika urzędu skarbowego
+potwierdzającego, że Wykonawca nie zalega z opłacaniem podatków i
+opłat, w zakresie art. 109 ust. 1 pkt 1 ) ustawy , wystawionego nie
+wcześniej niż 3 miesiące przed jego złożeniem, a w przypadku zalegania z
+opłacaniem podatków lub opłat wraz z zaświadczeniem Zamawiający
+żąda złożenia dokumentów potwierdzających, że odpowiednio przed
+upływem terminu składania ofert Wykonawca dokonał płatności
+należnych podatków lub opłat wraz z odsetkami lub grzywnami lub
+zawarł wiążące porozumienie w sprawie spłat tych należności;
+4.4.2.2.4.  zaświadczenia albo innego dokumentu właściwej terenowej jednostki
+organizacyjnej Zakładu Ubezpieczeń Społecznych lub właściwego
+oddziału regionalnego lub właściwej placówki terenowej Kasy Rolniczego
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 24
+Ubezpieczenia Społecznego potwierdzającego, że Wykonawca nie zalega
+z opłacaniem składek na ubezpieczenia społeczne i zdrowotne, w
+zakresie art. 109 ust. 1 pkt 1 ) ustawy , wystawionego nie wcześniej niż 3
+miesiące przed jego złożeniem, a w przypadku zalegania z opłacaniem
+składek na ubezpieczenia społeczne lub zdrowotne wraz z
+zaświadczeniem albo innym dokumentem Zamawiający żąda złożenia
+dokumentów potwierdzających, że odpowiednio przed upływem
+terminu składania ofert Wykonawca dokonał płatności należnych
+składek na ubezpieczenia społeczne lub zdrowotne wraz odsetkami lub
+grzywnami lub zawarł wiążące porozumienie w sprawie spłat tych
+należności;
+4.4.2.2.5.  odpisu lub informacji z Krajowego Rejestru Sądowego lub z Centralnej
+Ewidencji i Informacji o Działalności Gospodarczej, w zakresie art. 109
+ust. 1 pkt 4 ) ustawy , sporządzonych nie wcześniej niż 3 miesiące przed
+jej złożeniem, jeżeli odrębne przepisy wymagają wpisu do rejestru lub
+ewidencji;
+4.4.2.2.6.  oświadczenia wykonawcy o aktualności informacji zawartych w
+oświadczeniu, o którym mowa w art. 125 ust. 1 ustawy  (JEDZ) , w
+zakresie podstaw wykluczenia z postępowania wskazanych przez
+Zamawiającego, o których mowa w: art. 108 ust. 1 pkt 3 ) ustawy , art.
+108 ust. 1 pkt 4 ) ustawy , dotyczących orzeczenia zakazu ubiegania się o
+zamówienie publiczne tytułem środka zapobiegawczego, art. 108 ust. 1
+pkt 5 ) ustawy , dotyczących zawarcia z innymi Wykonawcami
+porozumienia mającego na celu zakłócenie konkurencji, art. 108 ust. 1
+pkt 6 ) ustawy , art. 109 ust. 1 pkt 1 ) ustawy , odnośnie do naruszenia
+obowiązków dotyczących płatności podatków i opłat lokalnych, o
+których mowa w ustawie z dnia 12 stycznia 1991 r. o podatkach i
+opłatach lokalnych ( t.j. Dz. U. z 20 23 r. poz. 70  z  późn. zm. ), zgodnie z
+Załącznikiem nr 4 do SWZ ,
+4.4.2.2.7.  w przypadku Wykonawców wspólnie ubiegających się o udzielenie
+zamówienia, dokumentów dotyczących każdego z Wykonawców
+wspólnie ubiegających się o udzielenie zamówienia, w celu wykazania
+braku istnienia wobec niego podstaw wykluczenia;
+4.4.2.2.8.  dokumentów dotyczących podmiotu trzeciego, na którego zdolnościach
+techniczn ych lub zawodowych  polega Wykonawca  na zasadach art. 118
+ustawy , w celu wykazania braku istnie nia wobec nich podstaw
+wykluczenia, wymienionych w pkt  4.4.2.2 .1. oraz   4.4.2.2 .3. – 4.4.2.2 .6.
+SWZ  – jeżeli Wykonawca polega na zasobach podmiotu trzeciego;
+4.4.3.  Wykonawca zagraniczny
+4.4.3.1 . Jeżeli W ykonawca ma siedzibę lub miejsce zamieszkania poza granicami
+Rzeczypospolitej Polskiej, zamiast:
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 25
+4.4.3.1.1.  informacji z Krajowego Rejestru Karnego, o której mowa pkt 4.4.2.2.1
+SWZ – składa informację z odpowiedniego rejestru, takiego jak rejestr
+sądowy, albo, w przypadku braku takiego rejestru, inny równoważny
+dokument wydany przez właściwy organ sądowy lub administracyjny
+kraju, w którym Wykonawca ma siedzibę lub miejsce zamieszkania  lub
+miejsce zamieszkania ma osoba, której dotyczy informacja albo
+dokument , w zakresie, o którym mowa w pkt 4.4.2.2.1  SWZ. Dokument
+powinien być wystawiony nie wcześniej niż 6 miesięcy przed jego
+złożeniem;
+4.4.3.1.2.  zaświadczenia, o którym mowa w pkt 4.4.2.2.3   SWZ, zaświadczenia albo
+innego dokumentu potwierdzającego, że Wykonawca nie zalega z
+opłacaniem składek na ubezpieczenia społeczne lub zdrowotne, o
+których mowa w pkt 4.4.2.2 .4 SWZ, lub odpisu albo informacji z
+Krajowego Rejestru Sądowego lub z Centralnej Ewidencji i Informacji o
+Działalności Gospodarczej, o których mowa w pkt  4.4.2.2 .5 SWZ – składa
+dokument lub dokumenty wystawione w kraju, w którym Wykonawca
+ma siedzibę lub miejsce zamieszkania, potwierdzające odpowiednio, że:
+a) nie naruszył obowiązków dotyczących płatności podatków,
+opłat lub składek na ubezpieczenie społeczne lub zdrowotne,
+b) nie otwarto jego likwidacji, nie ogłoszono upadłości, jego
+aktywami nie zarządza likwidator lub sąd, nie zawarł układu z
+wierzycielami, jego działalność gospodarcza nie jest zawieszona
+ani nie znajduje się on w innej tego rodzaju sytuacji wynikającej z
+podobnej procedury przewidzianej w przepisach miejsca
+wszczęcia tej procedury.
+Dokumenty powinny być wystawione nie wcześniej niż 3
+miesiące przed ich złożeniem.
+4.4.3.2.  Jeżeli w kraju, w którym Wykonawca ma siedzibę lub miejsce zamieszkania  lub
+miejsce zamieszkania ma osoba, której dokument dotyczy , nie wydaje się
+dokumentów, o których mowa w pkt 4.4.3.1  SWZ, lub gdy dokumenty te nie
+odnoszą się do wszystkich przypadków, o których mowa w art. 108 ust. 1 pkt
+1), 2) i 4), art. 109 ust. 1 pkt 1 ) ustawy , zastępuje się je odpowiednio w całości
+lub w części dokumentem zawierającym odpowiednio oświadczenie
+Wykonawcy, ze wskazaniem osoby albo osób uprawnionych do jego
+reprezentacji, lub oświadczenie osoby, której dokument miał dotyczyć, złożone
+pod przysięgą, lub, jeżeli w kraju, w którym Wykonawca ma siedzibę lub
+miejsce zamieszkania  lub miejsce zamieszkania ma osoba, której dokument
+miał dotyczyć,  nie ma przepisów o oświadczeniu pod przysięgą, złożone przed
+organem sądowym lub administracyjnym, notariuszem, organem samorządu
+zawodowego lub gospodarczego, właściwym ze względu na siedzibę lub
+miejsce zamieszkania Wykonawcy  lub miejsce  zamieszkan ia osoby, której
+dokument miał dotyczyć . W takim przypadku, dokumenty te powinny być
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 26
+wystawione odpowiednio nie wcześniej niż 6 lub 3 miesiące przed ich
+złożeniem , zgodnie z zasadami określonymi w pkt 4.4.3.1.  SWZ .
+4.4.3.3.  Do podmiotów udostępniających zasoby na zasadach art. 118 ustawy,
+mających siedzibę lub miejsce zamieszkania poza terytorium Rzeczypospolitej
+Polskiej, postanowienia pkt. 4.4.3.1   oraz 4.4.3.2 stosuje się odpowiednio.
+4.4.4.  Dokumenty potwierdzające umocowanie
+4.4.4.1.  W celu potwierdzenia, że osoba działająca w imieniu Wykonawcy jest
+umocowana do jego reprezentowania, Zamawiający może żądać od
+Wykonawcy odpisu lub informacji z Krajowego Rejestru Sądowego,
+Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub innego
+właściwego rejestru. Wykonawca nie jest zobowiązany do złożenia tych
+dokumentów, jeżeli Zamawiający może je uzyskać za pomocą bezpłatnych i
+ogólnodostępnych baz danych, o ile Wykonawca wskazał dane umożliwiające
+dostęp do tych dokumentów.
+4.4.4.2.  Jeżeli w imieniu Wykonawcy działa osoba, której umocowanie do jego
+reprezentowania nie wynika z dokumentów, o których mowa w pkt 4.4.4.1
+SWZ, Zamawiający może żądać od Wykonawcy pełnomocnictwa lub innego
+dokumentu potwierdzającego umocowanie do reprezentowania Wykonawcy.
+4.4.4.3.  Postanowienie pkt 4.4.4.2  SWZ stosuje się odpowiednio do osoby działającej
+w imieniu Wykonawców wspólnie ubiegających się o udzielenie zamówienia
+publicznego oraz stosuje się  odpowiednio do osoby działającej w imieniu
+podmiotu udostępniającego zasoby lub Podwykonawcy niebędącego
+podmiotem udostępniającym zasoby na takich zasadach.
+4.5. FORMA PODMIOTOWYCH ŚRODKÓW DOWODOWYCH ORAZ INNYCH DOKUMENTÓW
+4.5.1.  Oferty, JEDZ, podmiotowe środki dowodowe oraz zobowiązanie podmiotu
+udostępniającego zasoby, pełnomocnictwo sporządza się w postaci elektronicznej, w
+formatach danych określonych w przepisach wydanych na podstawie art. 18 ustawy z
+dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania
+publiczne ( t.j. Dz. U. z 202 4 r. poz. 1557 ze zm. ), z zastrzeżeniem formatów, o których
+mowa w art. 66 ust. 1 ustawy , z uwzględnieniem rodzaju przekazywanych danych.
+4.5.2.  Podmiotowe środki dowodowe oraz inne dokumenty lub oświadczenia, w tym
+pełnomocnictwa, wymagane zapisami SWZ składa się w formie, zakresie i w sposób
+określony w rozporządzeniu Ministra Rozwoju, Pracy i Technologii z dnia 23 grudnia
+2020 r. w sprawie podmiotowych środków dowodowych oraz innych dokumentów lub
+oświadczeń, jakich może żądać zamawiający od wykonawcy oraz w rozporządzeniu
+Prezesa Rady Ministrów z dnia 30  grudnia 2020 r. w sprawie sposobu sporządzania
+i przekazywania informacji oraz wymagań technicznych dla dokumentów
+elektronicznych oraz środków komunikacji elektronicznej w postępowaniu o udzielenie
+zamówienia publicznego lub konkursie.
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 27
+4.5.3.  Jeżeli podmiotowe środki dowodowe, inne dokumenty, dokumenty potwierdzające
+umocowanie do reprezentowania odpowiednio Wykonawcy, Wykonawców wspólnie
+ubiegających się o udzielenie zamówienia publicznego, podmiotu udostępniającego
+zasoby lub Podwykonawcy niebędącego podmiotem udostępniającym zasoby na takich
+zasadach, zostały wystawione przez upoważnione podmioty inne niż Wykonawca,
+Wykonawca wspólnie ubiegający się o udzielenie zamówienia, podmiot udostępniający
+zasoby lub Podwykonawca, jako dokument elektroniczny, przekazuje ten dokument.
+4.5.4.  W przypadku gdy podmiotowe środki dowodowe, inne dokumenty, dokumenty
+potwierdzające umocowanie do reprezentowania, zostały wystawione przez
+upoważnione podmioty jako dokument w postaci papierowej, przekazuje się cyfrowe
+odwzorowanie tego dokumentu opatrzone kwalifikowanym podpisem elektronicznym,
+poświadczające zgodność cyfrowego odwzorowania z dokumentem w postaci
+papierowej.
+4.5.5.  Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci
+papierowej, o którym mowa w pkt 4.5.4  SWZ, dokonuje w przypadku:
+4.5.5.1.  podmiotowych środków dowodowych oraz dokumentów potwierdzających
+umocowanie do reprezentowania - odpowiednio Wykonawca, Wykonawca
+wspólnie ubiegający się o udzielenie zamówienia, podmiot udostępniający
+zasoby lub Podwykonawca, w zakresie podmiotowych środków dowodowych
+lub dokumentów potwierdzających umocowanie do reprezentowania, które
+każdego z nich dotyczą;
+4.5.5.2.  innych dokumentów - odpowiednio Wykonawca lub Wykonawca wspólnie
+ubiegający się o udzielenie zamówienia, w zakresie dokumentów, które
+każdego z nich dotyczą.
+4.5.6.  Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci
+papierowej, o którym mowa w pkt 4.5.4.  SWZ, może dokonać również notariusz.
+4.5.7.  Przez cyfrowe odwzorowanie, o którym mowa w pkt 4.5.4.  SWZ oraz pkt 4.5.9.  SWZ
+należy rozumieć dokument elektroniczny będący kopią elektroniczną treści zapisanej w
+postaci papierowej, umożliwiający zapoznanie się z tą treścią i jej zrozumienie, bez
+konieczności bezpośredniego dostępu do oryginału.
+4.5.8.  Podmiotowe środki dowodowe , w tym oświadczenie, o którym mowa w art. 117 ust. 4
+ustawy  oraz zobowiązanie p odmiotu udostępniającego zasoby  oraz pełnomocnictwo
+przekazuje się w postaci elektronicznej i opatruje się kwalifikowanym podpisem
+elektronicznym.
+4.5.9.  W przypadku gdy podmiotowe środki dowodowe , w tym oświadczenie, o którym
+mowa w art. 117 ust. 4 ustawy  oraz zobowiązanie podmiotu udostępniającego zasoby
+lub pełnomocnictwo, zostały sporządzone jako dokument w postaci papierowej i
+opatrzone własnoręcznym podpisem, przekazuje się cyfrowe odwzorowanie tego
+dokumentu opatrzone kwalifikowanym podpisem elektronicznym.
+4.5.10.  Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci
+papierowej, o którym mowa w pkt 4.5.9.  SWZ, dokonuje w przypadku:
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 28
+4.5.10.1.  podmiotowych środków dowodowych - odpowiednio Wykonawca,
+Wykonawca wspólnie ubiegający się o udzielenie zamówienia, podmiot
+udostępniający zasoby lub Podwykonawca, w zakresie podmiotowych środków
+dowodowych, które każdego z nich dotyczą;
+4.5.10.2.  oświadczenie, o którym mowa w art. 117 ust. 4 ustawy  lub zobowiązania
+podmiotu udostępniającego zasoby - odpowiednio Wykonawca lub
+Wykonawca wspólnie ubiegający się o udzielenie zamówienia;
+4.5.10.3.  pełnomocnictwa - mocodawca.
+4.5.11.  Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci
+papierowej, o którym mowa w pkt 4.5.9.  SWZ, może dokonać również notariusz.
+4.5.12.  W przypadku przekazywania w postępowaniu dokumentu elektronicznego w formacie
+poddającym dane kompresji, opatrzenie pliku zawierającego skompresowane
+dokumenty kwalifikowanym podpisem elektronicznym jest równoznaczne z
+opatrzeniem wszystkich dokumentów zawartych w tym pliku kwalifikowanym
+podpisem elektronicznym.
+4.5.13.  Podmiotowe środki dowodowe  oraz inne dokumenty lub oświadczenia, sporządzone w
+języku obcym przekazuje się wraz z tłumaczeniem na język polski.
+5. OPIS SPOSOBU OBLICZENIA CENY OFERTY
+5.1. Wykonawca poda cenę oferty w sposób określony w Formularzu ofertowym wg Załącznika nr 1
+do SWZ . Cenę oferty należy obliczyć w oparciu o:
+a) informacje zawarte w SWZ, w tym w szczegółowym opisie  przedmiotu zamówienia,
+b) postanowienia określone w projektowanych postanowieniach umowy.
+5.2. Stawka podatku VAT musi być określana zgodnie z ustawą z dnia 11 marca 2004 r. o podatku
+od towarów i usług (Dz. U. z 2024  r. poz. 361 z późn.  zm.).
+5.3. Jeżeli została złożona oferta, której wybór prowadziłby do powstania u Zamawiającego
+obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i
+usług , dla celów zastosowania kryterium ceny Zamawiający dolicza do przedstawionej w tej
+ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć.
+5.4. Wykonawca, składając ofertę, ma obowiązek:
+5.4.1.  poinformowania Z amawiającego, że wybór jego oferty b ędzie prowadził do powstania
+u Zamawiającego obowiązku podatkowego;
+5.4.2.   wskazania nazwy (rodzaju) towaru lub usługi, których dostawa lub świadczenie będą
+prowadziły do powstania obowiązku podatkowego;
+5.4.3.  wskazania wartości towaru lub usługi objętego obowiązkiem podatkowym
+zamawiającego, bez kwoty podatku;
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 29
+5.4.4.  wskazania stawki podatku od towarów i usług, która zgodnie z wiedzą Wykonawcy,
+będzie miała zastosowanie.
+5.5. Cenę oferty należy obliczyć w oparciu o kalkulację własną, uwzględniając zakres, o którym
+mowa w opisie przedmiotu zamówienia. Cena brutto oferty winna obejmować całkowity koszt
+wykonania przedmiotu zamówienia, a w szczególności zawierać koszty:
+5.5.1.  wynagrodzenia osób wykonujących przedmiot zamówienia, uwzględniającego koszt y
+wynagrodzenia, który powinien obejmować wszystkie składniki zaliczane do
+wynagrodzenia oraz koszty pochodne naliczone od wynagrodzeń;
+5.5.2.  wyposażenia pracowników oraz wykorzystywanych urządzeń;
+5.5.3.  środków czystości i innych materiałów niezbędnych do realizacji usługi;
+5.5.4.  admi nistracyjne,  inne koszty obsługi;
+5.5.5.  inne, które mogą wystąpić przy realizacji umowy (zysk, narzuty, podatki, VAT, ewentualne
+powierzenie części zamówienia Podwykonawcy, itp.).
+5.6. W przypadku nieuwzględnienia okoliczności, które mogą wpłynąć na cenę oferty, wszelkie
+skutki błędów przy obliczaniu ceny poniesie Wykonawca, od którego wymagane jest bardzo
+szczegółowe zapoznanie się z przedmiotem zamówienia, a także sprawdzenie warunków
+wykonania zamówienia i skalkulowania ceny oferty z należytą starannością.
+5.7. Wszystkie wartości powinny być podane w złotych polskich. Cena oferty powinna być
+wyrażona cyfrowo i słownie oraz podana z dokładnością do dwóch miejsc po przecinku.
+5.8. Wartości zaokrągla się do pełnego grosza w taki sposób, że końcówki poniżej 0,5 grosza pomija
+się, a końcówki 0,5 grosza i wyższe zaokrągla się do 1 grosza.
+5.9. Cena podana w ofercie powinna zawierać wszystkie koszty Wykonawcy oraz uwzględniać inne
+opłaty i podatki wynikające z realizacji umowy a także ewentualne upusty i rabaty, oraz nie
+może ulec zwiększeniu w czasie obowiązywania umowy z zastrzeżeniem zapisów w
+projektowanych postanowieniach umowy.
+5.10. Rozliczenia między Zamawiającym a  Wykonawcą będą prowadzone w złotych polskich.
+6. INFORMACJE O SPOSOBIE  I TERMINIE SKŁADANIA I OTWARCIA OFERT. FORMA OFERTY.
+6.1. SPOSÓB  SKŁADANIA OFERT
+6.1.1.  Wykonawca  zobowiązany jest złożyć ofertę wraz z załącznikami za pośrednictwem
+Platformy zakupowej: https://zus.ezamawiajacy.pl/ , zgodnie informacjami określonymi
+w pkt. 1.5 SWZ. Szczegółowa instrukcja składania oferty znajduje się na Platformie
+zakupowej w zakładce  „Baza Wiedzy”.
+6.1.2.  Zamawiający nie ponosi odpowiedzialności za nieprawidłowe lub nieterminowe
+złożenie oferty, w szczególności Zamawiający nie odpowiada za ujawnienie przez
+Wykonawcę treści swojej oferty przed upływem terminu składania i otwarcia ofert,
+poprzez złożenie jej w formie pliku niezaszyfrowanego lub w niewłaściwej zakładce.
+Nieprawidłowe złożenie oferty przez Wykonawcę nie stanowi podstawy żądania
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 30
+unieważnienia postępowania. Zaleca się, aby założyć profil Wykonawcy i rozpocząć
+składanie oferty z odpowiednim wyprzedzeniem.
+6.1.3.  Do upływu terminu składania ofert Wykonawca może samodzielnie wycofać złożoną
+przez siebie ofertę. W tym celu, w postępowaniu po rozwinięciu sekcji „Przygotowanie
+oferty” wybiera akcję „Wycofaj część oferty” lub z poziomu sekcji „Podgląd złożonej
+oferty” wybiera akcję „Wycofaj ofertę”. Oferta może być złożona tylko do upływu
+terminu składania ofert.
+6.1.4.  W przypadku składania oferty przez Wykonawców wspólnie ubiegających się o
+udzielenie zamówienia (konsorcjum), Wykonawcy ustanawiają pełnomocnika do
+reprezentowania ich w postępowaniu albo do reprezentowania ich w postępowaniu i
+zawarcia umowy (lider konsorcjum).
+6.1.5.  Pełnomocnik, o którym mowa powyżej, pozostaje w kontakcie z Zamawiającym w toku
+postępowania i do niego Zamawiający kieruje informacje, korespondencję itp. Wszelkie
+oświadczenia pełnomocnika Zamawiający uzna za wiążące dla wszystkich
+Wykonawców składających ofertę wspólną.
+6.1.6.  Wykonawca po upływie terminu składania ofert nie może skutecznie dokonać zmiany
+ani wycofać złożonej oferty.
+6.2. TERMIN SKŁADANIA I OTWARCIA OFERT, OTWARCIE OFERT
+6.2.1.  Termin składania ofert:  04 sierpnia  2025  r. godzina 10:00
+6.2.2.  Termin otwarcia  ofert: 04 sierpnia  2025  r. godzina 10:30, z zastrzeżeniem art. 222
+ustawy.
+6.2.3.  Otwarcie ofert zostanie dokonane poprzez rozszyfrowanie ofert złożonych za
+pośrednictwem Platformy zakupowej.  Najpóźniej przed otwarciem ofert Zamawiający
+udostępni na Platformie zakupowej  kwotę, jaką zamierza przeznaczyć na sfinansowanie
+zamówienia.
+6.2.4.  Niezwłocznie po otwarciu ofert  Zamawiający zamieści na Platformie zakupowej
+informację z otwarcia ofert, zawierającą elementy, o których mowa w art. 222 ust. 5
+ustawy.
+6.2.5.  W przypadku awarii Platformy zakupowej, która powoduje brak możliwości otwarcia
+ofert w terminie określonym w pkt 6.2. 2. SWZ, otwarcie ofert następuje niezwłocznie po
+usunięciu awarii. W takim przypadku, Zamawiający informuje o zmianie terminu
+otwarcia ofert na stronie internetowej prowadzonego postępowania.
+6.3. TERMIN ZWIĄZANIA OFERTĄ
+6.3.1.  Wykonawca jest związany ofertą przez okres 90 dni  od terminu składania ofert. Bieg
+terminu związania ofertą upływa z dniem  01 listopada  2025  r.
+6.3.2.  Bieg terminu związania ofertą rozpoczyna się wraz z upływem terminu składania ofert.
+6.3.3.  W przypadku, gdy wybór najkorzystniejszej oferty nie nastąpi przed upływem terminu
+związania ofertą, Zamawiający przed upływem terminu związania ofertą, zwraca się
+jednokrotnie do Wykonawców o wyrażenie zgody na przedłużenie tego terminu
+o wskazywany przez niego okres, nie dłuższy niż 60 dni. Przedłużenie terminu związania
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 31
+ofertą, wymaga złożenia przez Wykonawcę pisemnego oświadczenia o wyrażeniu zgody
+na przedłużenie terminu związania ofertą.
+6.3.4.  Przedłużenie terminu związania ofertą, następuje wraz z przedłużeniem okresu ważności
+wadium albo, jeżeli nie jest to możliwe, z wniesieniem nowego wadium na przedłużony
+okres związania ofertą.
+7. KRYTERIA I ZASADY OCENY OFERT . AUKCJA ELEKTRONICZNA
+7.1. TRYB OCENY OFERT
+7.1.1.  W toku badania i oceny ofert Zamawiający może żądać od Wykonawców wyjaśnień
+dotyczących treści złożonych ofert lub innych składanych dokumentów lub oświadczeń.
+7.1.2.  W przypadku, gdy zaoferowana cena /koszt  lub istotne części składowe ceny/kosztu
+wydają się rażąco niskie w stosunku do przedmiotu zamówienia lub budzą wątpliwości
+Zamawiającego co do możliwości wykonania przedmiotu zamówienia zgodnie z
+wymaganiami określonymi w dokumentach zamówienia lub wynikającymi z odrębnych
+przepisów, Zamawiający zwróci się do Wykonawcy o udzielenie wyjaśnień, w tym
+złożenie dowodów dotyczących wyliczenia ceny /kosztu  lub istotnych części składowych
+ceny /kosztu .
+7.1.3.  Zamawiający poprawi w ofercie:
+7.1.3.1.  oczywiste omyłki pisarskie,
+7.1.3.2.  oczywiste omyłki rachunkowe, z uwzględnieniem konsekwencji rachunkowych
+dokonanych poprawek,
+7.1.3.3.  inne omyłki polegające na niezgodności oferty z dokumentami zamówienia,
+niepowodujące istotnych zmian w treści oferty,
+niezwłocznie zawiadamiając o tym W ykonawcę, którego oferta została poprawiona.
+UWAGA:
+W przypadku, o którym mowa w pkt 7.1.3.3  SWZ , Zamawiający wyznacza W ykonawcy
+odpowiedni termin na wyrażenie zgody na poprawienie w ofercie omyłki lub
+zakwestionowanie jej poprawienia. Brak odpowiedzi w wyznaczonym terminie uznaje
+się za wyrażenie zgody na poprawienie omyłki .
+Zakwestionowanie przez W ykonawcę poprawienia omyłki, o której mowa w pkt
+7.1.3.3  SWZ w wyznaczonym terminie, stanowi przesłankę odrzucenia oferty, zgodnie z
+art. 226 ust. 1 pkt 11 )  ustawy.
+7.2. KRYTERIA WYBORU NAJKORZYSTNIEJSZEJ OFERTY
+W każdej części zamówienia  przy wyborze oferty Zamawiający będzie kierował się następującym
+kryterium:
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 32
+Kryterium wyboru  waga
+Cena oferty brutto (C)  100%
+7.3. ZASADY OCENY OFERT WEDŁUG USTALONYCH KRYTERIÓW
+7.3.1.  Ocena ofert doko nana będzie wg kryterium na podstawie wzoru:
+𝐂= 𝐜𝐦𝐢𝐧
+𝐜𝐨𝐟𝐱 𝟏𝟎𝟎  %
+gdzie:
+Cmin  –  oferta z najniższą ceną całkowitą brutto spośród ofert niepodlegających
+odrzuceniu,
+Cof  –  ceną całkowita brutto  badan ej oferty ,
+7.3.2.  Punktacja przyznawana ofertom w kryterium będzie liczona z dokładnością do dwóch
+miejsc po przecinku. Najwyższa liczba punktów wyznaczy najkorzystniejszą ofertę.
+7.3.3.  Zamawiający dokona oceny ofert przyznając punkty w ramach kryterium oceny ofert,
+przyjmując  zasadę, że 1% = 1 punkt. Liczba  punktów, o których mowa w pkt 7.3.1
+SWZ stanowić będzie końcową ocenę oferty.
+7.3.4.  Zamawiający udzieli zamówienia Wykonawcy, którego oferta odpowiadać będzie
+wszystkim wymaganiom przedstawionym w ustawie oraz w SWZ i zostanie oceniona
+jako najkorzystniejsza w oparciu o podane kryteri um wyboru.
+7.3.5.  O wyborze najkorzystniejszej oferty Zamawiający zawiadomi Wykonawców, którzy
+złożyli oferty w postępowaniu, a także zamieści te informacje na stronie internetowej
+prowadzonego postępowania pod adresem: https://zus.ezamawiajacy.pl/
+7.4. AUKCJA ELEKTRONICZNA
+7.4.1.  Zamawiający nie przewiduje wyboru najkorzystniejszej oferty z  zastosowaniem aukcji
+elektronicznej.
+8. ZABEZPIECZENIE NALEŻYTEGO WYKONANIA UMOWY
+8.1. Wykonawca, którego oferta zostanie wybrana (uznana za najkorzystniejszą) w każdej części
+zamówienia  najpóźniej przed zawarciem umowy, zobowiązany jest do wniesienia
+zabezpieczenia należytego wykonania umowy, w wysokości  5% wartości brutto ceny
+ofertowej  / maksymalnego zobowiązania wynikającego z umowy  (po zaokrągleniu do pełnych
+dziesiątek złotych) .
+8.2. Zabezpieczenie służy pokryciu roszczeń z tytułu niewykonania lub nienależytego wykonania
+umowy.
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 33
+8.3. Zabezpieczenie może być wnoszone według wyboru Wykonawcy w jednej lub w kilku
+następujących formach:
+8.3.1 pieniądzu;
+8.3.2 poręczeniach bankowych lub poręczeniach spółdzielczej kasy oszczędnościowo -
+kredytowej, z tym że zobowiązanie kasy jest zawsze zobowiązaniem pieniężnym;
+8.3.3 gwarancjach bankowych;
+8.3.4 gwarancjach ubezpieczeniowych;
+8.3.5 poręczeniach udzielanych przez podmioty, o których mowa w art. 6b ust. 5 pkt 2 ustawy
+z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości.
+8.4. Zamawiając y nie wyraża zgody na wniesienie zabezpieczeni a:
+8.4.1  w wekslach z poręczeniem wekslowym banku lub spółdzielczej kasy oszczędnościowo -
+kredytowej;
+8.4.2  przez ustanowienie zastawu na papierach wartościowych emitowanych przez Skarb
+Państwa lub jednostkę samorządu terytorialnego;
+8.4. 3  przez ustanowienie zastawu rejestrowego na zasadach określonych w ustawie z dnia
+6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów.
+8.5. W przy padku wnoszenia zabezpieczenia w  formie niepieniężnej oryginał dokumentu winien
+być wystawiony na:
+Zakład Ubezpieczeń Społecznych
+01-748 Warszawa, ul. Szamocka 3, 5
+NIP 5213017228
+8.6. Zabezpieczenie wnoszone w pieniądzu Wykonawca wpłaca przelewem na następujący
+rachunek bankowy Zamawiającego:
+w Banku: PKO BP S.A. nr rachunku :   65 1020 5590 0000 0102 9210 7018
+8.7. Zwrot zabezpieczenia należytego wykonania umowy zostanie dok onany n a zasadach
+określonych w Projektowanych postanowieniach umowy stanowiący ch Załącznik nr 11  do
+SWZ
+8.8.  W przypadku wniesienia wadium w pieniądzu Wykonawca może wyrazić zgodę na zaliczenie
+kwoty wadium na poczet zabezpieczenia.
+8.9.  Z dokumentu zabezpieczenia należytego wykonania umowy wniesionego w formie gwarancji
+bankowej/ubezpieczeniowej lub poręczenia winno wynikać jednoznacznie gwarantowanie
+wypłat należności w sposób: nieodwołalny, bezwarunkowy i na pierwsze żądanie
+Zamawiającego zawierające oświadczenie o okolicznościach stanowiących podstawę do
+żądania wypłaty należności . Zabezpieczenie musi spełniać następujące warunki :
+8.9.1. określenie terminu obowiązywania poręczenia lub gwarancji (musi obejmować okres
+obowiązywania umowy wraz z okresem przedłużonym o 30 dni),
+8.9.2.  kwotę poręczenia lub gwarancji,
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 34
+8.9.3.  wskazanie gwaranta poręczenia lub gwarancji (instytucja wystawiająca poręczenie
+lub gwarancję),
+8.9.4.  wskazanie benefic janta poręczenia lub gwarancji,
+8.9.5.  bezwarunkowość dysponowania poręczeniem lub gwarancją (poręczyciel lub gwarant
+zobowiązany jest do niezwłocznego przekazania kwoty poręczenia lub gwarancji – na
+pierwsze żądanie - na konto wskazane przez beneficjanta poręczenia lub gwarancji),
+8.9.6.  nieodwołalność poręczenia lub gwarancji (Wykonawca nie może odwołać
+zobowiązania wynikającego z udzielonego poręczenia lub gwarancji).
+8.10. W przypadku, gdy zabezpieczenie, będzie wnoszone w formie innej niż pieniądz,
+Zamawiający zastrzega sobie prawo ostatecznego za akcept owania treści projektu ww.
+dokumentu.
+8.11. Do zabezpieczenia należytego wykonania umowy stosuje się przepisy art. 449 – 453
+ustawy.
+9. PROJEKTOWANE POSTANOWIENIA  UMOWY
+9.1. Zamawiający wymaga, aby wybrany Wykonawca do realizacji danej części zamówienia zawarł
+umowę w terminie i wskazanym miejscu na warunkach określonych w  Projektowanych
+postanowieniach umowy – stanowiący ch Załącznik nr 11  do SWZ.
+9.2. Zamawiający przewiduje możliwość wprowadzenia zmian do zawartej umowy, na podstawie
+art. 455 ustawy, w sposób i na warunkach szczegółowo opisanych  w P rojektowanych
+postanowieniach umowy.
+10. POUCZENIE O ŚRODKACH OCHRONY PRAWNEJ
+10.1. Każdemu Wykonawcy, a także innemu podmiotowi, jeżeli ma lub miał interes  w uzyskaniu
+danego zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez
+Zamawiającego przepisów ustawy  przysługują środki ochrony prawnej przewidziane w Dziale
+IX ustawy  jak dla postępowań o wartości równej albo przekraczającej progi unijne.
+10.2. Środki ochrony prawnej wobec ogłoszenia o zamówieniu oraz dokumentów zamówienia
+przysługują również organizacjom wpisanym na listę, o której mowa w art. 469 ustawy  oraz
+Rzecznikowi Małych i Średnich Przedsiębiorców.
+10.3. Odwołanie przysługuje na:
+10.3.1.  niezgodną z przepisami ustawy czynność Zamawiającego, podjętą w postępowaniu o
+udzielenie zamówienia, w tym na projektowane postanowienie umowy;
+10.3.2.  zaniechanie czynności w postępowaniu o udzielenie zamówienia, do której
+Zamawiający był obowiązany na podstawie ustawy .
+10.4. Odwołanie wnosi się do Prezesa  Krajowej  Izby Odwoławczej .
+10.5. Odwołujący przekazuje Z amawiającemu odwołanie wniesione w formie elektronicznej albo
+postaci elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 35
+pisemnej, przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on
+zapoznać się z jego treścią przed upływem tego terminu .
+10.6. Odwołanie wnosi się w terminie:
+10.6.1.  10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej
+podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków
+komunikacji elektronicznej,  albo w terminie 15 dni – jeżeli informacja została
+przekazana  w inny sposób.
+10.6.2.  10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub
+zamieszczenia dokumentów zamówienia na stronie internetowej  – wobec treści
+ogłoszen ia o zamówieniu oraz wobec dokumentów zamówienia .
+10.6.3.  10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można
+było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia –
+wobec czynności innych niż określone w pkt  10.6.1  i 10.6.2  SWZ.
+10.7. W przypadku wniesienia odwołania wobec treści ogłoszenia o zamówieniu lub dokumentów
+zamówienia  Zamawiający może przedłużyć termin składania ofert.
+11. INFORMACJE O FORMALNOŚCIACH, JAKIE POWINNY ZOSTAĆ DOPEŁNIONE PO WYBORZE
+OFERTY W CELU ZAWARCIA UMOWY
+11.1. WARUNKI ZAWARCIA UMOWY
+11.1.1.  Zamawiający wskaże termin i miejsce podpisania umowy Wykonawcy, którego oferta
+została wybrana w danej części zamówienia po zawiadomieniu o wyborze oferty.
+11.1.2.  Przed podpisaniem umowy Wykonawca, którego oferta została wybrana,
+zobowiązany jest do:
+11.1.2.1.  wniesienia zabezpieczenia należytego wykonania umowy na warunkach
+i w formie określonych w  pkt 8 . SWZ .
+11.1.2.2.   przedstawienia niezbędnych danych wynikających z Projektowanych
+postanowień umowy niezbędnych do jej zawarcia  tj. wskazanie:
+przedstawiciela (osoby /osób/  odpowiedzialnej za realizację umowy) ze
+strony  Wykonawcy - (imię i n azwisko, nr telefonu, e -mail)  nr rachunku
+bankowego na który dokonywana będzie  zapł ata za realizowaną usługę ,
+załącznika do umowy dotyczącego  powierzenia przetwarzania danych  oraz
+innych itp. ,
+11.1.2.3. Wykonawcy wspólnie ubiegający się o udzielenie zamówienia publicznego,
+których oferta zostanie uznana za najkorzystniejszą, przedłożą umowę
+regulującą współpracę tych Wykonawców, w formie oryginału lub kopii
+poświadczonej za zgodność z  oryginałem przez Wykonawcę lub osobę(y)
+upoważnioną(e) do reprezentacji Wykonawcy.
+11.1.2.4.  Przed podpisaniem umowy Wykonawca, którego oferta została wybrana,
+zobowiązany jest do  podania nazw P odwykonawców , danych adresowych,
+NIP-u jeżeli informacje w tym zakresie nie zostały podane w  Formularz u
+ofert owym  (stosownie do regulacji określonych w Formularzu ofertowym w
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 36
+pkt 1 w Część ogólna dla  wszystkich  części   - ppkt 3)  oraz wskazania wartości
+zamówienia . Ponadto Wykonawca zobowiązany będzie w takim przypadku
+do podania w osobnym dokumencie danych kontaktowych i przedstawicieli
+Podwykonawców (e -mail, telefon kontaktowy).
+11.1.3.  Umowa zostanie zawarta w terminach , o których mowa w art. 264 ustawy .
+11.1.4.  Jeżeli Wykonawca, którego oferta została wybrana jako najkorzystniejsza, uchyla się
+od zawarcia umowy w sprawie zamówienia publicznego lub nie wnosi wymaganego
+zabezpieczenia należytego wykonania umowy, Zamawiający może dokonać
+ponownego badania i oceny ofert spośród ofert pozostałych w postępowaniu
+Wykonawców oraz wybrać najkorzystniejszą ofertę albo unieważnić postępowanie.
+12. KLAUZULA INFORMACYJNA - ART. 13 RODO
+12.1. Wobec wytycznych Urzędu Zamówień Publicznych przedstawiamy poniższe informacje.
+12.1.1.  W zamówieniach publicznych, Zamawiający jako administrator danych osobowych,
+obowiązany jest do spełnienia obowiązku informacyjnego z art. 13 RODO względem
+osób fizycznych, od których dane osobowe bezpośrednio pozyskał. Dotyczy to
+w szczególności:
+• wykonawcy będącego osobą fizyczną,
+• wykonawcy będącego osobą fizyczną, prowadzącą jednoosobową działalność
+gospodarczą,
+• pełnomocnika wykonawcy będącego osobą fizyczną (np. dane osobowe
+zamieszczone w pełnomocnictwie),
+• członka organu zarządzającego wykonawcy, będącego osobą fizyczną (np. dane
+osobowe zamieszczone w informacji z KRK),
+• osoby fizycznej skierowanej do przygotowania i przeprowadzenia postępowania
+o udzielenie zamówienia publicznego.
+12.1.2.  Zgodnie z art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE)
+2016/679 z  dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku
+z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich
+danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie
+danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1), dalej „RODO”, Zamawiający
+informuje, że:
+• administratorem Pani/Pana danych osobowych jest Zakład Ubezpieczeń
+Społecznych z siedzibą w Warszawie, ul. Szamocka 3, 5, 01 -748 Warszawa ;
+• Zakład Ubezpieczeń Społecznych wyznaczył Inspektora Ochrony Danych.  Może się
+Pani/Pan z nim kontaktować  we wszystkich sprawach, które dotyczą przetwarzania
+danych osobowych oraz korzystania z praw związanych z przetwarzaniem danych:
+− listownie na adres:
+Inspektor Ochrony Danych
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 37
+ul. Szamocka 3, 5
+01-748 Warszawa
+− przez e -mail: ODO@zus.pl
+− przez eZUS
+• Pani/Pana dane osobowe przetwarzane będą na podstawie art. 6 ust. 1 lit. c  RODO
+w celu związanym z postępowaniem o udzielenie zamówienia publicznego /dane
+identyfikujące postępowanie, np. nazwa, numer/ prowadzonym w trybie przetargu
+nieograniczonego na : świadczenie usługi 3 letniego serwisu pogwarancyjnego
+3750 urządzeń drukujących Kyocera ECOSYS M2040dn w Oddziałach i Centrali ZUS
+w podziale na 4  części znak postępowania: 580000.27 1.2.2025 -ZAP  oraz w celu
+spełnienia obowiązku prawnego wynikającego z przepisów  ustawy;
+• odbiorcami Pani/Pana danych osobowych będą osoby lub podmioty, którym
+udostępniona zostanie dokumentacja postępowania w oparciu o art. 18 oraz art. 74
+ustawy;
+• Pani/Pana dane osobowe będą przechowywane, zgodnie z art. 78 ust. 1  i 4 ustawy,
+przez okres 4 lat od dnia zakończenia postępowania o udzielenie zamówienia,
+a jeżeli czas trwania umowy przekracza 4 lata, okres przechowywania obejmuje cały
+czas trwania umowy ;
+• obowiązek podania przez Panią/Pana danych osobowych bezpośrednio Pani/Pana
+dotyczących jest wymogiem ustawowym określonym w przepisach ustawy,
+związanym z udziałem w postępowaniu o udzielenie zamówienia publicznego;
+konsekwencje niepodania określonych danych wynikają z ustawy;
+• w odniesieniu do Pani/Pana danych osobowych decyzje nie będą podejmowane
+w sposób zautomatyzowany, stosowanie do art. 22 RODO;
+• posiada Pani/Pan:
+− na podstawie art. 15 RODO prawo dostępu do danych osobowych Pani/Pana
+dotyczących;
+− na podstawie art. 16 RODO prawo do sprostowania Pani/Pana danych
+osobowych*;
+− na podstawie art. 18 RODO prawo żądania od administratora ograniczenia
+przetwarzania danych osobowych z zastrzeżeniem przypadków, o których
+mowa w art. 18 ust. 2 RODO**;
+− prawo do wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych,
+gdy uzna Pani/Pan, że przetwarzanie danych osobowych Pani/Pana
+dotyczących narusza przepisy RODO;
+• nie przysługuje Pani/Panu:
+− w związku z art. 17 ust. 3 lit. b, d lub e RODO prawo do usunięcia danych
+osobowych;
+− prawo do przenoszenia danych osobowych, o którym mowa w art. 20 RODO;
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 38
+− na podstawie art. 21 RODO prawo sprzeciwu, wobec przetwarzania danych
+osobowych, gdyż podstawą prawną przetwarzania Pani/Pana danych
+osobowych jest art. 6 ust. 1 lit. c RODO .
+12.2. Zgodnie z wytycznymi Urzędu Zamówień Publicznych, Wykonawca powinien złożyć stosowne
+oświadczenie. Treść oświadczenia została zawarta w pkt. 2.10. Formularza ofert owego ,
+stanowiącego Załącznik nr 1 do SWZ .
+* Wyjaśnienie:  skorzystanie z prawa do sprostowania nie może skutkować zmianą wyniku postępowania
+o udzielenie zamówienia publicznego ani zmianą postanowień umowy w zakresie niezgodnym z ustawą oraz nie
+może naruszać integralności protokołu oraz jego załączników.
+** Wyjaśnienie:  prawo do ograniczenia przetwarzania nie ma zastosowania w odniesieniu do przechowywania,
+w celu zapewnienia korzystania ze środków ochrony prawnej lub w celu ochrony praw innej osoby fizycznej lub
+prawnej, lub z uwagi na ważne względy interesu publicznego Unii Europejskiej lub państwa członkowskiego .
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 39
+ZAŁĄCZNIK NR 1 DO SWZ
+Dane Wykonawcy1
+Adres Wykonawcy: kod,
+miejscowość, ulica, nr lokalu
+Nr telefonu
+E-mail
+REGON
+NIP
+Zakład Ubezpieczeń Społecznych
+Centrum Informatyki w Opolu
+45-594 Opole
+FORMULARZ OFERT OWY
+1. PRZEDMIOT  i CENA OFERTY
+1.1. Oferujemy wykonanie zamówienia na świadczenie usługi 3 letniego serwisu
+pogwarancyjnego  3750  urządzeń drukujących  Kyocera ECOSYS M2040dn  w Oddziałach  i
+Centrali  ZUS w zakresie realizacji:
+Część 1 - świadczenie usługi dla Centrali ZUS, Oddziału ZUS w Białymstoku, Oddziału ZUS w
+Biłgoraju, Oddziału ZUS w Lublinie, I Oddziału ZUS w Łodzi, Oddziału ZUS w Płocku, Oddziału
+ZUS w Radomiu, Oddziału ZUS w Siedlcach,  I Oddziału ZUS w Warszawie, II Oddziału ZUS w
+Warszawie, III Oddziału ZUS w Warszawie , *
+Część 2 - świadczenie usługi dla Oddziału ZUS w Bielsku - Białej, Oddziału ZUS w
+Chrzanowie, Oddziału ZUS w Jaśle, Oddziału ZUS w Kielcach, Oddziału ZUS w Krakowie,
+Oddziału ZUS w Nowym Sączu, Oddziału ZUS w Rybniku, Oddziału ZUS w Rzeszowie,
+Oddziału ZUS w Sosnowcu, Oddziału ZUS w Tarnowie , *
+Część 3 - świadczenie usługi dla Oddziału ZUS  w  Chorzowie, Oddziału ZUS w Częstochowie,
+Oddziału ZUS w Gorzowie Wlkp., Oddziału ZUS w Legnicy, Oddziału ZUS w Opolu, Oddziału
+ZUS w Ostrowie  Wlkp., I Oddziału ZUS w Poznaniu, II Oddziału ZUS w Poznaniu, Oddziału
+ZUS w Wałbrzychu, Oddziału ZUS we Wrocławiu, Oddziału ZUS w Zabrzu, Oddziału ZUS w
+Zielonej Górze ,*
+Część 4 - świadczenie usługi dla Oddziału ZUS w Bydgoszczy, Oddziału ZUS w Elblągu,
+Oddziału ZUS w Gdańsku, Oddziału ZUS w Koszalinie, II Oddziału ZUS w Łodzi, Oddziału ZUS
+w Olsztynie, Oddziału ZUS w Pile, Oddziału ZUS w Słupsku, Oddziału ZUS w Szczecinie,
+Oddziału ZUS w Tomaszowie Mazowieckim, Oddziału ZUS w Toruniu . *
+* niepotrzebne skreślić
+1 W przypadku Wykonawców wspólnie ubiegających się o udzielenie zamówienia tabelę powielić odpowiednio
+do liczby Wykonawców wspólnie składających ofertę.
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 40
+1.2. Oferowany przedmiot zamówienia spełnia wszystkie wymagania Zamawiającego określone
+w Szczegółowym opisie przedmiotu zamów ienia zawartym w Załącznik u nr 10 do SWZ  oraz
+w Projektowanych postanowieniach umowy stanowiących załącznik nr 11  do SWZ.
+1.3. Deklarujemy wykonanie zamówienia  na warunkach określonych w SWZ  i Projektowanych
+postanowienia ch umowy .
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 41
+1.4. Oferujemy realizację przedmi otu zamówienia za wynagrodzenie:
+Część 1:
+świadczenie usługi dla  Centrali ZUS, Oddziałów  ZUS w Białymstoku,  Biłgoraju,  Lublinie,  Łodzi I,  Płocku,  Radomiu, Siedlcach ,  Warszawie I, II, III *
+TJO J.m. Planowany
+maksymalny
+wolumen
+pakietów **  Stawka za 1
+pakiet 100 stron
+wydruku netto w
+PLN Wartość netto
+(kol. 3 x kol. 4)  Stawka
+podatku
+VAT (%)  Wartość podatku
+VAT (PLN)  Wartość brutto
+(kol. 5 + kol. 7) (PLN)
+1 2 3 4 5 6 7 8
+Centrala ZUS  pakiet  9 450
+O/ZUS w Białymstoku  pakiet  30 900
+O/ZUS w Biłgoraju  pakiet  16 230
+O/ZUS w Lublinie  pakiet  33 420
+I O/ZUS w  Łodzi  pakiet  30 540
+O/ZUS w  Płocku  pakiet  22 020
+O/ZUS w  Radomiu  pakiet  17 910
+O/ZUS w Siedlcach  pakiet  14 220
+I O/ZUS w Warszawie  pakiet  23 130
+II O/ZUS w  Warszawie  pakiet  49 200
+III O/ZUS w  Warszawie  pakiet  32 130
+SUMA
+Łączna wartość brutto  wynikająca z wyliczeń zawartych w tabeli powyżej  za całość zamówienia  wynosi : .……………… zł  (słownie: ………………………) przy
+stawce za 1 pakiet 100 stron wydruku wynoszącej:  netto: ………. zł (słownie: ……..) , stawka podatku VAT : …….. % - wartość podatku VAT: ……zł (słow nie:….),
+brutto:……(słownie: ….).
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 42
+Część 2:
+świadczenie usługi dla  Oddziałów  ZUS w Bielsku - Białej,  Chrzanowie,  Jaśle, Kielcach,  Krakowie,  Nowym Sączu, Rybniku , Rzeszowie,  Sosnowcu,  Tarnowie *
+TJO J.m. Planowany
+maksymalny
+wolumen
+pakietów **  Stawka za 1
+pakiet 100 stron
+wydruku netto w
+PLN  Wartość netto
+(kol. 3 x kol. 4)  Stawka
+podatku VAT
+(%) Wartość podatku VAT
+(PLN)  Wartość brutto
+(kol. 5 + kol. 7)
+(PLN)
+1 2 3 4 5 6 7 8
+O/ZUS w Bielsku - Białej  pakiet  16 740
+O/ZUS w  Chrzanowie  pakiet  14 580
+O/ZUS w Jaśle  pakiet  17 190
+O/ZUS w Kielcach  pakiet  33 060
+O/ZUS w  Krakowie  pakiet  44 850
+O/ZUS w Nowym Sączu  pakiet  14 520
+O/ZUS w Rybniku  pakiet  17 910
+O/ZUS w Rzeszowie  pakiet  34 890
+O/ZUS w  Sosnowcu  pakiet  17 430
+O/ZUS w  Tarnowie  pakiet  7 980
+SUMA
+Łączna wartość brutto  wynikająca z wyliczeń zawartych w tabeli powyżej  za całość zamówienia  wynosi : .……………… zł  (słownie: ………………………)
+przy stawce za 1 pakiet 100 stron wydruku wynoszącej:  netto: ………. zł (słownie: ……..) , stawka podatku VAT: ……% - wartość podatku VAT: ……zł
+(słownie:….),  brutto:  …… (słownie: ….).
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 43
+Część 3 :
+świadczenie usługi dla  Oddziałów  ZUS w Chorzowie, Częstochowie, Gorzowie Wlkp., Legnicy, Opolu,  Ostrowie  Wlkp., Poznaniu I, II, Wałbrzychu,
+Wrocławiu, Zabrzu, Zielonej Górze *
+TJO J.m. Planowany
+maksymalny
+wolumen
+pakietów **  Stawka za 1
+pakiet 100 stron
+wydruku netto w
+PLN  Wartość netto
+(kol. 3 x kol. 4)  Stawka
+podatku VAT
+(%) Wartość podatku
+VAT (PLN)  Wartość brutto
+(kol. 5 + kol. 7)
+(PLN)
+1 2 3 4 5 6 7 8
+O/ZUS w Chorzowie  pakiet  17 760
+O/ZUS w  Częstochowie  pakiet  14 640
+O/ZUS w Gorzowie Wlkp.  pakiet  11 520
+O/ZUS w  Legnicy  pakiet  23 790
+O/ZUS w  Opolu  pakiet  25 680
+O/ZUS w Ostrowie  Wlkp.  pakiet  29 490
+I O/ZUS w Poznaniu  pakiet  43 290
+II O/ZUS w  Poznaniu  pakiet  21 360
+O/ZUS w  Wałbrzychu  pakiet  24 810
+O/ZUS we Wrocławiu  pakiet  39 720
+O/ZUS w  Zabrzu  pakiet  20 550
+O/ZUS w Zielonej Górze  pakiet  17 340
+SUMA
+Łączna wartość brutto  wynikająca z wyliczeń zawartych w tabeli powyżej  za całość zamówienia  wynosi : .……………… zł  (słownie: ………………………) przy
+stawce za 1 pakiet 100 stron wydruku wynoszącej:  netto: ………. zł (słownie: ……..) , stawka podatku VAT: ……% - wartość podatku VAT: ……zł (słownie:….),
+brutto:  …… (słownie: ….).
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 44
+Część 4 :
+świadczenie usługi dla  Oddziałów ZUS w Bydgoszczy, Elblągu, Gdańsku, Koszalinie, Łodzi II, Olsztynie, Pile, Słupsku, Szczecinie, Tomaszowie Mazowieckim,
+Toruniu *
+TJO J.m. Planowany
+maksymalny
+wolumen
+pakietów **  Stawka za 1 pakiet
+100 stron wydruku
+netto w PLN  Wartość netto
+(kol. 3 x kol. 4)  Stawka
+podatku VAT
+(%) Wartość podatku
+VAT (PLN)  Wartość brutto
+(kol. 5 + kol. 7)
+(PLN)
+1 2 3 4 5 6 7 8
+O/ZUS w  Bydgoszczy  pakiet  26 100
+O/ZUS w Elblągu  pakiet  10 890
+O/ZUS w Gdańsku  pakiet  48 480
+O/ZUS w  Koszalinie  pakiet  20 370
+II O/ZUS w  Łodzi  pakiet  17 520
+O/ZUS w Olsztynie  pakiet  20 520
+O/ZUS w Pile pakiet  7 410
+O/ZUS w Słupsku  pakiet  14 100
+O/ZUS w Szczecinie  pakiet  25 920
+O/ZUS w Tomaszowie
+Mazowieckim  pakiet  23 190
+O/ZUS w  Toruniu  pakiet  18 270
+SUMA
+Łączna wartość brutto  wynikająca z wyliczeń zawartych w tabeli  powyżej  za całość zamówienia  wynosi : .……………… zł  (słownie: ………………………)
+przy stawce za 1 pakiet 100 stron wydruku wynoszącej:  netto: ………. zł (słownie: ……..) , stawka podatku VAT: ….% - wartość podatku VAT: ……zł (słownie:….),
+brutto:  …… (słownie: ….).
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 45
+Uwagi dla wszystkich części
+* Wskazane jest wykreślenie tej/tych  części, do których nie przystępuje Wykonawca.
+1 pakiet =  100 stron wydruku jednostronnego
+** wartość przyjęta przez Zamawiającego na potrzeby postępowania
+Wskazan y Planowany wolumen pakietów  służy porównaniu złożonych ofert. Zamawiający będzie
+ponosił koszty za faktyczną liczbę wydrukowanych pakietów ( stron A4 ). Zamawiający zastrzega sobie
+możliwość zmniejszenia wskazanego wolumenu liczby pakietów.
+Oświadczamy, że wskazane w powyższym formularzu ceny obejmują wszystkie koszty związane z
+realizacją przedmiotu zamówienia i nie ulegną zwiększeniu w okresie obowiązywania umowy z
+wyjątkiem przypadków przewidzianych w Umowie.
+Część ogólna dla wszystkich części
+1. Oświadczamy, że zapoznaliśmy się z zapisami SWZ i nie wnosimy zastrzeżeń do jej treści oraz
+zobowiązujemy się do stosowania i ścisłe go przestrzegania warunków w niej określonych.
+2. Oświadczamy, że zawarte w SWZ projektowane postanowienia umowy z ostał y przez nas
+zaakc eptowane  i zobowiązujemy się w przypadku wyboru naszej oferty do zawa rcia umowy na
+określonych w nich  warunkach, w miejscu i terminie wyznaczonym przez  Zamawiającego.
+3. Oświadczamy, że zamierzamy Podwykonawcy/com powierzyć wykonanie zamówienia:
+dot. części 1 zamówienia  - w części dotyczącej ........... ................. ............... (Wykonawca określa
+odpowiedni zakres wraz z podaniem nazw  Podwykonawców o ile są już znani lub pozostawia tabelę
+bez wypełnienia jeżeli nie zamierza powierzyć wykonania zamówienia P odwykonawcy/ -com). *
+Nazwa (f irma ) / adres Podwykonawcy  Opis części zamówienia, która zostanie powierzona
+Podwykonawcy
+dot. części 2 zamówienia  - w części dotyczącej ........... ................. ............... (Wykonawca określa
+odpowiedni zakres wraz z podaniem nazw  Podwykonawców o ile są już znani lub pozostawia tabelę
+bez wypełnienia jeżeli nie zamierza powierzyć wykonania zamówienia P odwykonawcy/ -com). *
+Nazwa (f irma ) / adres Podwykonawcy  Opis części zamówienia, która zostanie powierzona
+Podwykonawcy
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 46
+dot. części 3  zamówienia  - w części dotyczącej ........... ................. ............... (Wykonawca określa
+odpowiedni zakres wraz z podaniem nazw  Podwykonawców o ile są już znani lub pozostawia tabelę
+bez wypełnienia jeżeli nie zamierza powierzyć wykonania zamówienia Podwykonawcy/ -com ).*
+Nazwa (f irma ) / adres Podwykonawcy  Opis części zamówienia, która zostanie powierzona
+Podwykonawcy
+dot. części 4 zamówienia  - w części dotyczącej ........... ................. ............... (Wykonawca określa
+odpowiedni zakres wraz z podaniem nazw  Podwykonawców o ile są już znani lub pozostawia tabelę
+bez wypełnienia jeżeli nie zamierza powierzyć wykonania zamówienia P odwykonawcy/ -com). *
+Nazwa (f irma ) / adres Podwykonawcy  Opis części zamówienia, która zostanie powierzona
+Podwykonawcy
+4. Deklarujemy realizację zamówienia  w zależności od zadania, do którego przystępujemy tj.:
+Dotyczy wszystkich części zamówienia:
+od dnia podpisania umowy , nie wcześniej jednak niż od 01.0 1.202 6r.  na okres 36 miesięcy lub do
+wyczerpania wartości umowy dla danej części zamówienia.
+5. Dotyczy wszystkich części zmówienia: Udzielamy 3 miesięcznej gwarancji jakości na wykonaną
+usługę / naprawę serwisową, zainstalowane części oraz tonery.
+Cześć ogólna dla wszystkich części
+2. OŚWIADCZENIA
+2.1. Oświadczamy, że wnieśliśmy wadium o wartości … ………………… zł w  formie
+...............................  (Wykonawca określa odpowiednio).
+2.2. Zwrotu wadium należ  y dokonać  na rachune k bankowy Wykonawcy:…………………………… ……
+(dotyczy Wykonawców, którzy wnieśli wadium w formie pieniądza).
+2.3. Oświadczenie o zwolnieniu wadium wniesionego w innej formie ni ż w pieniądzu poprzez
+złożenie Gwarantowi lub P oręczycielowi należy dokonać na adres e -mail Gwaranta lub
+Poręczyciela tj.: ..………….……….
+(w przypadku nie wskazania adresu e -mail Zamawiający takie oświadczenie przekaże na
+adres e -mail dostępny na stronie internetowej Gwaranta lub Poręczyciela)
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 47
+2.4. Oświadczamy, że uważamy się za związanych niniejszą ofer tą na czas wskazany w  SWZ, tj.
+90 dni od upływu terminu składania ofert.
+2.5. Oświadczamy, że w przypadku wyboru naszej oferty w danej części zamówienia
+deklarujemy wniesienie Zabezpieczenia Należytego Wykonania Umowy w wysokości 5 %
+wartości brutto oferty  (dotyczy części zamówienia, do której przystępuje Wykonawca) .
+2.6. Jesteśmy świadomi, że w przypadku nie dojścia do zawarcia umowy z  przyczyn leżących po
+naszej stronie wniesione wadium ulega przepad kowi na rzecz Zamawiającego.
+2.7. Jesteśmy świadomi, że w przypadku nie złożenia w odpowiedzi na wezwanie, o którym
+mowa w art. 128 ust. 1, z przyczyn leżących po jego stronie  (Wykonawcy) , podmiotowych
+środków dowodowych potwierdzających okoliczności, o których mowa w art. 57  lub
+oświadczenia, o którym mowa w art. 125 ust. 1, innych dokumentów lub oświadczeń lub
+nie wyrazimy zgody na poprawienie omyłki, o której mowa w art. 223 ust. 2 pkt 3 ustawy,
+co spowodowało brak możliwości wybrania oferty złożonej przez nas jako
+najkorzystniejszej, Zamawiający zatrzymuje wadium.
+2.8. W związku  z art. 225 ust. 2 ustawy, oświadczamy, że wybór naszej oferty:
+2.8.1.  nie będzie prowadził do powstania u Zamawiającego obowiązku podatkowego
+zgodnie z  przepisami dotyczącymi podatku od towarów i usług*;
+2.8.2.  będzie prowadził do powstania u Zamawiającego obowiązku podatkowego
+zgodnie z przepisami dotyczącymi podatku od towarów i usług*, w związku
+z tym:
+Oświadczamy, że towary/ usługi *, których dostawa/świadczenie * będzie
+prowadzić do powstania u Zamawiającego obowiązku podatkowego to:
+(Wykonawca wpisuje nazwę (rodzaj) towaru lub usługi; gdy nie dotyczy –
+pozostawia bez wypełnienia)
+Wartość wskazanych powyżej towarów/ usług * bez podatku VAT wynosi:
+……….……… zł.
+Stawk a podatku od towarów i  usług, która zgodnie z wiedzą W ykonawcy, będzie
+miała zastosowanie  do wskazanych powyżej towarów/ usług * to:
+………………………..………… zł.
+*niepotrzebne skreślić
+Jeżeli błędnie określono lub nie określono powstania u Zamawiającego obowiązku
+podatkowego, Zamawiający zastosuje się do art . 17 ustawy z dnia 11 marca 2004 r.
+o podatku od towarów i usług  (Dz. U. z 2024 r. poz. 361  ze zm.).
+2.9.    Następujące dokumenty w zakresie:
+zawierają informacje stanowiące tajemnicę przedsiębiorstwa w rozumieniu przepisów o
+zwalczaniu nieuczciwej konkurencji i nie mogą być ujawniane pozostałym uczestnikom
+postępowania.
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 48
+Uzasadnienie zastrzeżenia tajemnicy przedsiębiorstwa wskazujące wszystkie przesłanki
+określone w ustawie z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji ( tj.
+Dz. U. 2022  poz. 1233 ) przedstawiamy w  załączniku nr 2 do SWZ.
+(Jeśli Wykonawca zastrzega informacje – wypełnia i dołącza załącznik nr 2 do SWZ)
+2.10. Oświadczamy, że wypełniliśmy obowiązki informacyjne przewidziane w art. 13 lub art. 14
+rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r.
+w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych
+i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE
+wobec osób fizycznych, od których dane osobowe bezpośrednio lub pośrednio
+pozyskaliśmy w  celu ubiegania się o udzielenie niniejszego zamówienia.**
+** w przypadku, gdy Wykonawca nie przekazuje danych osobowych innych niż
+bezpośrednio jego dotyczących lub zachodzi wyłączenie stosowania obowiązku
+informacyjnego, stosownie do art. 13 ust. 4 lub art. 14 ust. 5 RODO treści oświadczenia
+Wykonawca nie składa (usunięcie treści oświadczenia następuje np. poprzez jego
+wykreślenie)
+2.11. Dane Wykonawcy do komunikacji :
+Adres e -mail
+Imię i n azwisko osoby
+do kontaktu
+Nazwa Firmy
+Adres
+Nr telefonu
+2.12. Informuję / -emy że odpis lub informację z Krajowego Rej estru Sądowego, Centralnej Ewidencji i
+Informacji o Działalności Gospodarczej lub innego właściwego rejestru, Zamawiający może
+pobrać samodzielnie  (w celu potwierdzenia, że osoba działająca w imieniu wykonawcy jest
+umocowana do jego reprezentowania):
+☐  Informację odpowiadającą odpisowi aktualnemu z Rej estru Przedsiębiorców Krajowego   Rejestru
+Sądowego ze strony internetowej pod adresem https://ekrs.ms.gov.pl
+☐   odpis z Centralnej Ewidencji i Informacji o Działalności Gospodarczej ze strony internetowej pod
+adresem https://prod.ceidg.gov.pl
+☐    inne …………………………………………………………………………………………….…………………… (podać nazwę
+dokumentu, adres internetowy baz danych).
+Przy właściwej opcji proszę postawić znak X.
+2.13. Informujemy, że Wykonawca jest:
+*  właściwe zaznaczyć   i postawić znak X.
+☐  mikroprzedsiębiorstwem* ,
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 49
+☐    małym przedsiębiorstwem* ,
+☐   średnim przedsiębiorstwem* ,
+☐    jednoosobową działalnością gospodarczą*,
+☐    osobą fizyczną nieprowadzącą działalności gospodarczej*
+☐   innym rodzajem* .
+/ Informacje w tym pkt wymagane są wy łącznie do celów statystycznych  /
+3. ZAŁĄCZNIKI DO OFERTY
+3.1. ……………………………………..
+3.2. ……………………………………..
+3.3. ……………………………………..
+3.4. ……………………………………..
+Kwalifikowany podpis elektroniczny
+złożony zgodnie z pkt 4.3.2. SWZ przez
+osob ę(osoby) uprawnion ą(-e)
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 50
+ZAŁĄCZNIK NR 2 DO SWZ
+Dane Wykonawcy / -ów
+Adres Wykonawcy/ -ów: kod,
+miejscowość, ulica, nr lokalu
+Nr telefonu
+E-mail
+REGON
+NIP
+OŚWIADCZENIE O ZASTRZEŻENIU INFORMACJI
+My, niżej podpisani, działając w imieniu i na rzecz:
+(nazwa/firma Wykonawcy)
+ubiegając się o zamówienie publiczne na : świadczenie usługi  3 letniego  serwisu pogwarancyjnego
+3750  urządzeń drukujących  Kyocera ECOSYS  M2040dn  w Oddzia łach i Centrali ZUS  w podziale na 4
+części  znak postępowania:  580000.271 .2.2025 -ZAP niniejszym oświadczamy, że zastrzegamy jako
+tajemnicę przedsiębiorstwa w rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu
+nieuczciwej konkurencji   (tj. Dz. U . z 2022 r. poz. 1233 ) informacje zawarte w ofercie w następującym
+zakresie:
+W pozostałym zakresie oferta jest jawna i nie zawiera informacji stanowiących tajemnicę
+przedsiębiorstwa.
+Uzasadnienie zastrzeżenia wskazanych informacji, wraz z załączeniem ewentualnych dowodów:
+(Należy wykazać spełnienie wszystkich  przesłanek określonych w ustaw ie z dnia 16 kwietnia 1993 r.
+o zwalczaniu nieuczciwej konkurencji (tj. Dz. U. z 2022 r. poz. 1233 ))
+Kwalifikowany podpis elektroniczny
+złożony zgodnie z pkt 4.3.2. SWZ przez
+osob ę(osoby) uprawnion ą(-e)
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 51
+ZAŁĄCZNIK NR 3 DO SWZ
+Dane Wykonawcy / -ów
+Adres Wykonawcy/ -ów: kod,
+miejscowość, ulica, nr lokalu
+Nr telefonu
+E-mail
+REGON
+NIP
+OŚWIADCZENIE O PRZYNALEŻNOŚCI LUB BRAKU PRZYNALEZNOŚCI DO GRUPY KAPITAŁOWEJ
+My niżej podpisani, działając w imieniu i na rzecz:
+(nazwa/firma Wykonawcy)
+oświadczamy, że :
+1.  nie należymy do grupy kapitałowej, w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie
+konkurencji i konsumentów (t.j. Dz. U. z 2023 r. poz. 1689  ze zm. )* z innym wykonaw cą, który
+złożył odrębną ofertę/ ofertę częściową  w postępowaniu ,
+2.  po zapoznaniu się z listą Wykonawców, którzy złożyli oferty w postępowaniu o udzielenie
+zamówienia na świadczenie usługi 3 letniego serwisu pogwarancyjnego 3750 urządzeń
+drukujących Kyocera ECOSYS M2040dn w Oddziałach i Centrali ZUS w podziale na 4 części , znak
+postępowania: 580000.271 .2.2025 -ZAP,  należymy do tej samej grupy kapitałowej, w rozumieniu
+ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i  konsumentów (t.j. Dz. U. z 2023  r. poz.
+1689  ze zm.)* z innym wykonawcą, który złożył odrębną ofertę/ ofertę częściową  w
+postępowaniu, tj. z n astępującym( -i) Wykonawcą( -ami):* …………………………………………………………
+- w załączeniu przekazujemy dokument y lub informacj e potwierdzając e przygotowanie
+oferty /oferty częściowej w postępowaniu niezależnie od innego wykonawcy należącego  do tej
+samej grupy kapitałowej:  …………………………………………………………………………………………………….
+Kwalifikowany podpis elektroniczny
+złożony zgodnie z pkt 4.3.2. SWZ przez
+osob ę(osoby) uprawnion ą(-e)
+* skreślić niewłaściwe
+** wskazać nazwę/firmę Wykonawcy( -ów), który( -rzy) złożył( -li) oferty w niniejszym postępowaniu
+i z którym( -i) Wykonawca składający oświadczenie należy  do tej samej grupy kapitałowej
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 52
+ZAŁĄCZNIK NR 4 DO SWZ
+Dane Wykonawcy / -ów
+Adres Wykonawcy/ -ów: kod,
+miejscowość, ulica, nr lokalu
+Nr telefonu
+E-mail
+REGON
+NIP
+OŚWIADCZENIE
+o aktualności informacji zawartych w oświadczeniu, o którym mowa w art. 125 ust. 1 ustawy  (JEDZ)
+w zakresie podstaw wykluczenia z  postępowania wskazanych przez Z amawiającego
+My niżej podpisani, oświadczamy że wobec Wykonawcy /Wykonawcy występującego
+wspólnie/podmiotu udostępniającego zasoby :
+(nazwa/firma Wykonawcy)
+Potwierdzam aktualność informacji zawartych w oświadczeniu, o którym mowa w art. 125 ust. 1
+ustawy  (JEDZ), w zakresie podstaw wykluczenia z postępowania wskazanych przez
+Zamawiającego, o których mowa w:
+1. art. 108 ust. 1 pkt 3 ustawy ,
+2. art. 108 ust. 1 pkt 4 ustawy , dotyczących orzeczenia zakazu ubiegania się o zamówienie
+publiczne tytułem środka  zapobiegawczego,
+3. art. 108 ust. 1 pkt 5 ustawy , dotyczących zawarcia z innymi wykonawcami porozumienia
+mającego na celu zakłócenie konkurencji,
+4. art. 108 ust. 1 pkt 6 ustawy ,
+5. art. 109 ust. 1 pkt 1  ustawy , odnośnie do naruszenia obowiązków dotyczących płatności
+podatków i opłat lokalnych, o których mowa w ustaw ie z dnia 12 stycznia 1991 r. o
+podatkach i opłatach lokalnych ( t.j. Dz. U. z 2023  r. poz.70 ).
+Kwalifikowany podpis elek troniczny
+złożony zgodnie z pkt 4.3.2. S WZ przez
+osobę(osoby) uprawnioną( -e)
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 53
+ZAŁĄCZNIK NR 5 DO SWZ
+Dane Wykonawcy / -ów
+Adres Wykonawcy/ -ów: kod,
+miejscowość, ulica, nr lokalu
+Nr telefonu
+E-mail
+REGON
+NIP
+WYKAZ USŁUG
+Przedstawiamy wykaz usług  wykonanych w okresie ostatnich 3 lat przed upływem terminu składania ofert
+(a jeśli okres prowadzenia działalności jest krótszy - w tym okresie)  w celu potwierdzenia spełniania
+warunków udziału w postępowaniu, dotyczących zdolności technicznej lub zawodowej w pkt 4.1.1.4
+SWZ.
+* okres świadczenia wymienionych w wykazie usług nie może być krótszy niż 12 miesięcy.
+W przypadku gdy umowa nie została zakończona w dniu złożenia oferty, w kolumnie Zakończenie należy wpisać
+"nadal".
+Oświadczam, że:**
+- polegam na zasobach innego podmiotu ,
+- spełniam go samodzielnie ,
+dla wykazania spełniana warunku udziału w postępowaniu .
+**   skreślić niewłaściwe  Lp.
+Przedmiot (zakres) zamówienia
+(umowy)
+Zamawiający - podmiot na
+rzecz którego wykonano
+zamówienie (umowę)
+/nazwa i adres/  Daty wykonania zamówienia (umowy)
+należy w skazać okres co najmniej kolejnych
+12 miesięcy
+Rozpoczęcie
+(dzień, miesiąc, rok)*
+Format daty
+DD-MM -RRRR  Zakończenie
+(dzień, miesiąc, rok)*
+Format daty
+DD-MM -RRRR
+1 2 3 4 5
+1 Dotyczy części nr ……………
+Serwis … …..…..  szt.  urządzeń
+wielofunkcyjnych lub  drukarek wraz z
+sukcesywną dostawą materiałów
+eksploatacyjnych
+Liczba miejscowości, w których
+urządzenia  wielofunkcyjne lub drukarki
+objęte były/są serwisem  i sukcesywną
+dostawą materiałów eksploatacyjnych
+to: ………………………
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 54
+Do wykazu załączam / -my  dowód/ -y określające, że wskazane usługi zostały wykonane lub są
+wykonywane należycie.
+Kwalifikowany podpis elektroniczny
+złożony zgodnie z pk t 4.3.2. S WZ przez
+osob ę(osoby) uprawnion ą(-e)
+UWAGA:
+Jeżeli Wykonawca powołuje się na doświadczenie w realizacji usług wykonywanych wspólnie z innymi
+Wykonawcami, wykaz dotyczy usług, w których wykonaniu Wykonawca ten bezpośrednio uczestniczył, a w
+przypadku świadczeń powtarzających się lub ciągłych, w których wykonywaniu bezpośrednio uczestniczył lub
+uczestniczy .
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 55
+ZAŁĄCZNIK NR 6 DO SWZ
+Dane Wykonawcy / -ów
+Adres Wykonawcy/ -ów: kod,
+miejscowość, ulica, nr lokalu
+Nr telefonu
+E-mail
+REGON
+NIP
+OŚWIADCZENIE
+Wykonawców wspólnie ubiegających się o udzielenie zamówienia, o którym mowa
+w art. 117 ust. 4 ustawy
+My Wykonawcy  wspólnie ubiegający się o udzielenie zamówienia :
+(nazwa/firma Wykonawcy)
+niniejszym oświadczamy, że następujące usługi zostaną wykonane z następującym podziałem:
+Lp. Usługi, które będą wykonywane przez
+Wykonawcę  (krótki opis)  Wykonawca, który je wykona
+Kwalifikowany podpis elektroniczny
+złożony zgodnie z pkt 4.3.2. SWZ przez
+osob ę(osoby) uprawnion ą(-e)
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 56
+ZAŁĄCZNIK NR 7 DO SWZ
+ZOBOWIĄZANIE
+DO ODDANIA DO DYSPOZYCJI NIEZBĘDNYCH ZASOBÓW
+NA POTRZEBY WYKONANIA ZAMÓWIENIA  (zgodnie z zapisami art. 118 ustawy)
+Ja / my niżej podpisany/ -i*:
+(nazwa/firma podmiotu trzeciego )
+zobowiązuję/my* się oddać do dyspozycji Wykonawcy uczestniczącemu w postępowaniu o
+udzielenie zamówienia publicznego pn.:  świadczenie usługi  3 letniego  serwisu pogwarancyjnego
+3750  urządzeń drukujący ch Kyocera ECOSYS M2040dn  w Oddz iałach i Centrali ZUS  w podziale na 4
+części  znak postępowania: 580000.271 .2.2025 -ZAP, tj.:
+(nazwa /firma Wykonawcy )
+następujące zasoby, na okres korzystania z nich przy wykonaniu ww. zamówienia:
+(określenie zdolności technicznych lub zawodowych, sytuacji finansowej lub ekonomicznej)
+Zakres zasobów udostępnionych  Wykonawcy :
+Sposób i okres udostępnienia  zasobów oraz  wykorzystania przez wykonawcę  zasobów przy
+wykonywaniu zamówienia :
+Czy i w jakim zakresie podmiot udostępniający z asoby, na zdolnościach którego W ykonawca polega w
+odniesieniu do warunków udz iału w postępowaniu dotyczących  doświadczenia,  zrealizuje usługi,
+których wskazane zdolności dotyczą:
+Kwalifikowany podpis elektroniczny
+złożony zgodnie z pkt 4.3.2. SWZ przez
+osob ę(osoby) uprawnion ą(-e)
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 57
+ZAŁĄCZNIK NR 8  DO SWZ
+Dane Wykonawcy / -ów
+Adres Wykonawcy/ -ów: kod,
+miejscowość, ulica, nr lokalu
+Nr telefonu
+E-mail
+REGON
+NIP
+Oświadczenia wykonawcy/wykonawcy wspólnie ubiegającego się o udzielenie zamówienia
+DOTYCZĄCE PRZESŁANEK WYKLUCZENIA Z ART. 5K ROZPORZĄDZENIA 833/2014 ORAZ ART. 7 UST. 1 USTAWY
+O SZCZEGÓLNYCH ROZWIĄZANIACH W ZAKRESIE PRZECIWDZIAŁANIA WSPIERANIU AGRESJI NA UKRAINĘ
+ORAZ SŁUŻĄCYCH OCHRONIE BEZPIECZEŃSTWA NARODOWEGO
+składane na podstawie art. 125 ust. 1 ustawy Pzp
+Na potrzeby postępowania o udz ielenie zamówienia publicznego p n. świadczenie usługi  3
+letniego  serwisu pogwarancyjnego  3750  urządze ń drukujących Kyocera ECOSYS M2040dn w
+Oddziałach i Centrali ZUS  w podziale na 4  części znak postępowania: 580000.271 .2.2025 -ZAP
+prowadzonego przez Zakład Ubezpieczeń Społecznych oświadczam, co następuje:
+OŚWIADCZENIA DOTYCZĄCE WYKONAWCY:
+1. Oświadczam, że nie podlegam wykluczeniu z postępowania na podstawie
+art. 5k rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków
+ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz.  Urz.
+UE nr L 229 z 31.7.2014, str. 1), dalej: rozporządzenie 833/2014, w brzmieniu nadanym
+rozporządzeniem Rady (UE) 2022/576 w sprawie zmiany rozporządzenia (UE) nr 833/2014
+dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi
+sytuację na Ukrainie (Dz. Urz. UE nr L 111 z 8.4.2022, str. 1), dalej: rozporządzenie 2022/576.2
+2 Zgodnie z treścią art. 5k ust. 1 rozporządzenia 833/2014 w brzmieniu nadanym rozporządzeniem 2022/576 zakazuje się
+udzielania lub dalszego wykonywania wszelkich zamówień publicznych lub koncesji objętych zakresem dyrektyw w  sprawie
+zamówień publicznych, a  także zakresem art.  10 ust.  1, 3, ust.  6 lit.  a)–e), ust.  8, 9 i  10, art.  11, 12, 13 i  14 dyrektywy
+2014/23/UE, art.  7 i 8, art.  10 lit.  b)–f) i lit. h) –j) dyrektywy 2014/24/UE, art.  18, art.  21 lit.  b)–e) i lit. g) –i), art.  29 i 30 dyrektywy
+2014/25/UE oraz art.  13 lit.  a)–d), lit. f) –h) i lit. j) dyrektywy 2009/81/WE na  rzecz lub z  udziałem:
+a) obywateli rosyjskich lub osób fizycznych lub prawnych, podmiotów lub organów z  siedzibą w  Rosji;
+b) osób prawnych, podmiotów lub organów, do  których prawa własności bezpośrednio lub pośrednio w  ponad 50  %
+należą do  podmiotu, o  którym mowa w  lit. a) niniejszego ustępu; lub
+c) osób fizycznych lub prawnych, podmiotów lub organów działających w  imieniu lub pod kierunkiem podmiotu, o  którym
+mowa w  lit. a) lub b) niniejszego ustępu,
+w tym podwykonawców, dostawców lub podmiotów, na  których zdolności polega się w  rozumieniu dyrektyw w  sprawie
+zamówień publicznych, w  przypadku gdy przypada na  nich ponad 10  % wartości zamówienia.
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 58
+2. Oświadczam, że nie zachodzą w stosunku do mnie przesłanki wykluczenia z postępowania na
+podstawie art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r.  o szczególnych rozwiązaniach w
+zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie
+bezpieczeństwa narodowego (Dz. U. poz. 835) .3
+INFORMACJA DOTYCZĄCA POLEGANIA NA ZDOLNOŚCIACH LUB SYTUACJI PODMIOTU
+UDOSTĘPNIAJĄCEGO ZASOBY W ZAKRESIE ODPOWIADAJĄCYM PONAD 10% WARTOŚCI ZAMÓWIENIA :
+[UWAGA : wypełnić tylko w przypadku podmiotu udostępniającego zasoby, na którego zdolnościach lub sytuacji wykonawca polega w
+zakresie odpowiadającym ponad 10% wartości zamówienia. W przypadku więcej niż jednego podmiotu udostępniającego zasoby, na
+którego zdolnościach lub sytuacji wykonawca polega w zakresie odpowiadającym ponad 10% wartości zamówienia, należy zastosować  tyle
+razy, ile jest to konieczne. ]
+Oświadczam, że w celu wykazania spełniania warunków udziału w p ostępowaniu, określonych przez
+Zamawiającego w SWZ pkt 4.1.1.4 polegam na zdolnościach lub sytuacji następującego podmiotu
+udostępniającego zasoby:  ……………………………………….. …… (podać pełną nazwę/firmę, adres, a także w zależności od
+podmiotu: NIP/PESEL, KRS/CEiDG) , w następującym zakresie: ……………………………………………… ……………………… …
+(określić odpowiedni zakres udostępnianych zasobów dla wskazanego podmiotu) , co odpowiada ponad 10% wartości
+przedmiotowego zamówienia.
+OŚWIADCZENIE DOTYCZĄCE PODWYKONAWCY, NA KTÓREGO PRZYPADA PONAD 10% WARTOŚCI
+ZAMÓWIENIA:
+[UWAGA : wypełnić tylko w przypadku podwykonawcy (niebędącego podmiotem udostępniającym zasoby), na którego przypada ponad 10%
+wartości zamówienia. W przypadku więcej niż jednego podwykonawcy, na którego zdolnościach lub sytuacji wykonawca nie polega, a na
+którego przypada ponad 10% wartości zamówienia, należy zastosować tyle razy, ile jest to konieczne. ]
+Oświadczam, że w stosunku do następującego podmiotu, będącego podwykonawcą, na którego przypada
+ponad 10% wartości zamówienia: ……… …………………………… ……………………… ………………………………………… (podać
+pełną nazwę/firmę, adres, a także w zależności od podmiotu: NIP/PESEL, KRS/CEiDG) , nie zachodzą podstawy wykluczenia z
+postępowania o udzielenie zamówienia przewidziane w   art.  5k rozporządzenia 833/2014 w brzmieniu
+nadanym rozporządzeniem 2022/576.
+OŚWIADCZENIE DOTYCZĄCE DOSTAWCY, NA KTÓREGO PRZYPADA PONAD 10% WARTOŚCI
+ZAMÓWIENIA:
+3 Zgodnie z treścią art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania
+wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego,  z postępowania o udzielenie zamówienia
+publicznego lub konkursu prowadzonego na podstawie ustawy Pzp wyklucza się:
+1) wykonawcę oraz uczestnika konkursu wymienionego w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu
+269/2014 albo wpisanego na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o
+którym mowa w art. 1 pkt 3 ustawy;
+2) wykonawcę oraz uczestnika konkursu, którego beneficjentem rzeczywistym w rozumieniu ustawy z dnia 1 marca 2018 r. o
+przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2022 r. poz. 593 i 655) jest osoba wymieniona w
+wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisana na listę lub będąca takim
+beneficjentem rzeczywistym od dnia 24 lutego 2022 r., o ile została wpisana na listę na podstawie decyzji w sprawie wpisu na
+listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3 ustawy;
+3) wykonawcę oraz uczestnika konkursu, którego jednostką dominującą w rozumieniu art. 3 ust. 1 pkt 37 ustawy z dnia 29
+września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106), jest podmiot wymieniony w wykazach określonych w
+rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisany na listę lub będący taką jednostką dominującą od dnia 24
+lutego 2022 r., o ile został wpisany na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu
+środka, o którym mowa w art. 1 pkt 3 ustawy.
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 59
+[UWAGA : wypełnić tylko w przypadku dostawcy, na którego przypada ponad 10% wartości zamówienia. W przypadku więcej niż jednego
+dostawcy, na którego przypada ponad 10% wartości zamówienia, należy zastosować tyle razy, ile jest to konieczne. ]
+Oświadczam, że w stosunku do następującego podmiotu, będącego dostawcą, na którego przypada ponad
+10% wartości zamówienia: …… …………………. ……………………………… ………….……………  (podać pełną nazwę/firmę, adres,
+a także w zależności od podmiotu: NIP/PESEL, KRS/CEiDG) , nie zachodzą podstawy wykluczenia z postępowania o
+udzielenie zamówienia przewidziane w   art.  5k rozporządzenia 833/2014 w brzmieniu nadanym
+rozporządzeniem 2022/576.
+OŚWIADCZENIE DOTYCZĄCE PODANYCH INFORMACJI:
+Oświadczam, że wszystkie informacje podane w powyższych oświadczeniach są aktualne
+i zgodne z prawdą oraz zostały przedstawione z pełną świadomo ścią konsekwencji wprowadzenia
+Zamawiającego w błąd przy przedstawianiu informacji.
+INFORMACJA DOTYCZĄCA DOSTĘPU DO PODMIOTOWYCH ŚRODKÓW DOWODOWYCH:
+Wskazuję następujące podmiotowe środki dowodowe, które można uzyskać za pomocą bezpłatnych i
+ogólnodostępnych baz danych, oraz  dane umożliwiające dostęp do tych środków:
+1) .......................................................................................................................... ............................
+(wskazać podmiotowy środek dowodowy, adres internetowy, wydający urząd lub organ, dokładne dane referencyjne dokumentacji)
+2) ............................................................................................................................. ..........................
+(wskazać podmiotowy środek dowodowy, adres internetowy, wydający urząd lub organ, dokładne dane referencyjne dokumentacji)
+Kwalifikowany podpis elektroniczny
+złożony zgodnie z pkt 4.3.2. SWZ przez
+osobę(osoby) uprawnioną( -e)
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 60
+ZAŁĄCZNIK NR 9  DO SWZ
+Dane Wykonawcy / -ów
+Adres Wykonawcy/ -ów: kod,
+miejscowość, ulica, nr lokalu
+Nr telefonu
+E-mail
+REGON
+NIP
+Oświadczenia podmiotu udostępniającego zasoby (O ILE MA ZASTOSOWANIE)
+DOTYCZĄCE PRZESŁANEK WYKLUCZENIA Z ART. 5K ROZPORZĄDZENIA 833/2014 ORAZ ART. 7 UST. 1 USTAWY
+O SZCZEGÓLNYCH ROZWIĄZANIACH W ZAKRESIE PRZECIWDZIAŁANIA WSPIERANIU AGRESJI NA UKRAINĘ
+ORAZ SŁUŻĄCYCH OCHRONIE BEZPIECZEŃSTWA NARODOWEGO
+składane na podstawie art. 125 ust. 5 ustawy Pzp
+Na potrzeby postępowania o udz ielenie zamówienia publicznego p n. świadczenie usługi  3
+letniego  serwisu pogwarancyjnego  3750  urządzeń drukujący ch Kyocera ECOSYS M2040dn w
+Oddziałach i Centrali ZUS  w pod ziale na 4  częśc i znak postępowania: 580000 .271 .2.2025 -ZAP ,
+prowadzonego przez Zakład Ubezpieczeń Społecznych , oświadczam, co następuje:
+OŚWIADCZENIA DOTYCZĄCE PODMIOTU UDOSTEPNIAJĄCEGO ZASOBY:
+1. Oświadczam, że nie zachodzą w stosunku do mnie przesłanki wykluczenia z postępowania na
+podstawie art. 5k rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego
+środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie
+(Dz. Urz. UE nr L 229 z 31.7.2014, str. 1), dalej: rozporządzenie 833/2014, w brzmieniu nadanym
+rozporządzeniem Rady (UE) 2022/576 w sprawie zmiany rozporządzenia (UE) nr 833/2014
+dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na
+Ukrainie (Dz. Urz. UE nr L 111 z 8.4.2022, str. 1), dalej: rozporządzenie 2022/576.[3]
+[3] Zgodnie z treścią art. 5k ust. 1 rozporządzenia 833/2014 w brzmieniu nadanym rozporządzeniem 2022/576 zakazuje się
+udzielania lub dalszego wykonywania wszelkich zamówień publicznych lub koncesji objętych zakresem dyrektyw w  sprawie
+zamówień publicznych, a  także zakresem art.  10 ust.  1, 3, ust.  6 lit.  a)–e), ust.  8, 9 i  10, art.  11, 12, 13 i  14 dyrektywy
+2014/23/UE, art.  7 i 8, art.  10 lit.  b)–f) i lit. h) –j) dyrektywy 2014/24/UE, art.  18, art.  21 lit.  b)–e) i lit. g) –i), art.  29 i 30 dyrektywy
+2014/25/UE oraz art.  13 lit.  a)–d), lit. f) –h) i lit. j) dyrektywy 2009/81/WE na  rzecz lub z  udziałem:
+a) obywateli rosyjskich lub osób fizycznych lub prawnych, podmiotów lub organów z  siedzibą w  Rosji;
+b) osób prawnych, podmiotów lub organów, do  których prawa własności bezpośrednio lub pośrednio w  ponad 50  %
+należą do  podmiotu, o  którym mowa w  lit. a) niniejszego ustępu; lub
+c) osób fizycznych lub prawnych, podmiotów lub organów działających w  imieniu lub pod kierunkiem podmiotu, o  którym
+mowa w  lit. a) lub b) niniejszego ustępu,
+w tym podwykonawców, dostawców lub podmiotów, na  których zdolności polega się w  rozumieniu dyrektyw w  sprawie
+zamówień publicznych, w  przypadku gdy przypada na  nich ponad 10  % wartości zamówienia.
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 61
+2. Oświadczam, że nie zachodzą w stosunku do mnie przesłanki wykluczenia z postępowania na
+podstawie art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r.  o szczególnych rozwiązaniach w zakresie
+przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa
+narodowego (Dz. U. poz. 835) .[4]
+OŚWIADCZENIE DOTYCZĄCE PODANYCH INFORMACJI:
+Oświadczam, że wszystkie informacje podane w powyższych oświadczeniach są aktualne
+i zgodne z prawdą oraz zostały przedstawione z pełną świadomo ścią konsekwencji wprowadzenia
+Zamawiającego w błąd przy przedstawianiu informacji.
+INFORMACJA DOTYCZĄCA DOSTĘPU DO PODMIOTOWYCH ŚRODKÓW DOWODOWYCH:
+Wskazuję następujące podmiotowe środki dowodowe, które można uzyskać za pomocą bezpłatnych i
+ogólnodostępnych baz danych, oraz  dane umożliwiające dostęp do tych środków:
+1) .......................................................................................................................... ............................
+(wskazać podmiotowy środek dowodowy, adres internetowy, wydający urząd lub organ, dokładne dane referencyjne dokumentacji)
+2) .......................................................................................................................... .............................
+(wskazać podmiotowy środek dowodowy, adres internetowy, wydający urząd lub organ, dokładne dane referencyjne dokumentacji)
+Kwalifikowany podpis elektroniczny
+złożony zgodnie z pkt 4.3.2. SWZ przez
+osobę(osoby) uprawnioną( -e)
+[4] Zgodnie z treścią art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania
+wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego, z postępowania o udzielenie zamówienia
+publicznego lub konkursu prowadzonego na podstawie ustawy Pzp wyklucza się:
+1) wykonawcę oraz uczestnika konkursu wymienionego w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu
+269/2014 albo wpisanego na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o
+którym mowa w art. 1 pkt 3 ustawy;
+2) wykonawcę oraz uczestnika konkursu, którego beneficjentem rzeczywistym w rozumieniu ustawy z dnia 1 marca 2018 r. o
+przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2022 r. poz. 593 i 655) jest osoba wymieniona w
+wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisana na listę lub będąca takim
+beneficjentem rzeczywistym od dnia 24 lutego 2022 r., o ile została wpisana na listę na podstawie decyzji w sprawie wpisu na
+listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3 ustawy;
+3) wykonawcę oraz uczestnika konkursu, którego jednostką dominującą w rozumieniu art. 3 ust. 1 pkt 37 ustawy z dnia 29
+września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106), jest podmiot wymieniony w wykazach określonych w
+rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisany na listę lub będący taką jednostką dominującą od dnia 24
+lutego 2022 r., o ile został wpisany na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu
+środka, o którym mowa w art. 1 pkt 3 ustawy.
+SWZ – usługa wydruku                                                                                znak postępowania : 580000. 271. 2.2025 -ZAP
+Strona | 62
+ZAŁĄCZNIK NR 10  DO SWZ
+Szczegółowy o pis przedmiotu zamówienia
+(zna jdują się w osobny m pliku  – stanowi załącznik do projektowanych postanowień umowy  )
+ZAŁĄCZNIK NR 11  DO SWZ
+PROJEKTOWANE POSTANOWIENIA UMOWY
+(znajduje się w osobnym pliku)
+ZAŁĄCZNIK NR 12  DO SWZ
+JEDZ
+(znajduje się w osobnym pliku)

@@ -1,0 +1,1553 @@
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364 -16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 1 z 37
+Znak sprawy: OKA -II.271 .20.2025                               Kielce dn.  27.06.202 5 r.
+SPECYFIKACJA WARUNKÓW ZAMÓWIENIA
+(SWZ)
+TRYB PODSTAWOWY
+„Dostawa komputerów przenośnych, akcesoriów komputerowych, systemu kopii
+bezpieczeństwa i urządzenia wielofunkcyjnego. ”
+I. ZAMAWIAJĄCY
+1. Nazwa Zamawiającego : Wojewódzki Urząd Pracy w Kielcach
+2. Adres Zamawiającego : ul. Witosa 86, 25 -561 Kielce
+3. Godziny urzędowania zamawiającego : od poniedziałku do piątku w godzinach od 730 do
+1530
+4. Numer telefonu : (41) 36 -41-600
+5. Adres poczty elektronicznej Zamawiającego : wup@wup.kielce.pl
+6. Adres strony internetowej Zamawiającego : https://wupkielce.praca.gov.pl/
+7. Adres strony internetowej prowadzonego postępowania :
+https://ezamowienia.gov.pl/pl/
+8. Adres strony internetowej, na której udostępniane będą zmiany i wyjaśnienia treści SWZ
+oraz inne dokumenty zamówienia bezpośrednio związane z postępowaniem
+o udzielenie zamówienia:
+https://ezamowienia.gov.pl/mp -client/search/list/ocds -148610 -400f8892 -76be -4805 -
+8a7c -b60d939d26f8
+II. TRYB UDZIELENIA ZAMÓWIENIA
+1. Trybem udzielenia zamówienia jest tryb podstawowy, o którym mowa w art. 275 pkt 1
+ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (t. j. Dz.U. z 202 4 r. poz.
+1320  ze zm.), zwanej dalej „ustawą Pzp".
+2. Zamawiający nie przewiduje wyboru najkorzystniejszej oferty z możliwością prowadzenia
+negocjacji.
+3. Do czynności podejmowanych przez Zamawiającego i wykonawców w postępowaniu
+o udzielenie zamówienia publicznego stosuje się przepisy ustawy Pzp dotyczące zamówień
+o wartości poniżej 221 000 EURO oraz aktów wykonawczych wydanych na jej podstawie.
+4. Do spraw nieuregulowanych w SWZ zastosowanie mają przepisy ustawy Pzp.
+5. Do spraw nieuregulowanych ustawą Pzp mają zastosowanie przepisy Kodeksu cywilnego.
+6. Integralną część SWZ stanowią: załącznik nr 1, 2, 3a, 3b, 3c, 3d, 3e, 4, 5, 6  do SWZ.
+7. Zamawiający:
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 2 z 37
+1) podzielił niniejsze zamówienie na 5 Części i dopuszcza składanie ofert częściowych.
+Wykonawcy przystępujący do postępowania mogą złożyć swoją ofertę na wszystkie lub
+wybrane Części zamówienia – wówczas należy wypełnić odpowiednią dla danej Części
+zamówienia Część Formularza oferty (Załącznik nr 2 do SWZ) oraz odpowiedni dla danej
+Części zamówienia Formularz asortymentowo – cenowy  (Załącznik nr 3a, 3b, 3c, 3d lub
+3e)
+Jeżeli Wykonawca nie składa oferty na daną Część zamówienia nie wypełnia wtedy części
+Formularza oferty dla danej Części zamówienia;
+2) nie dopuszcza składania ofert wariantowych;
+3) nie określa wymagań w zakresie zatrudnienia na podstawie stosunku pracy,
+w okolicznościach, o których mowa w art. 95 ustawy Pzp;
+4) nie określa dodatkowych wymagań związanych z zatrudnianiem osób, o których mowa
+w art. 96 ust. 2 pkt 2 ustawy Pzp;
+5) nie zastrzega możliwości ubiegania się o udzielenie zamówienia wyłącznie przez
+wykonawców, o których mowa w art. 94 ustawy Pzp;
+6) nie przewiduje udzielania zamówień, o których mowa w art. 214 ust. 1 pkt 7 i 8 ustawy
+Pzp;
+7) nie przewiduje przeprowadzenia wizji lokalnej i sprawdzenia przez wykonawcę
+dokumentów niezbędnych do realizacji zamówienia dostępnych na miejscu
+u Zamawiającego;
+8) nie przewiduje zawarcia umowy ramowej;
+9) nie przewiduje aukcji elektronicznej;
+10) nie wymaga złożenia ofert w postaci katalogów elektronicznych lub dołączenia
+katalogów elektronicznych do oferty, w sytuacji określonej w art. 93 ustawy Pzp;
+11) nie przewiduje zwrotu kosztów udziału w postępowaniu;
+12) nie przewiduje udzielenia zaliczek na poczet wykonania zamówienia.
+8. Informacja o przetwarzaniu danych osobowych
+1. Zgodnie z art. 13 i 14  rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679
+z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku
+z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich
+danych oraz uchylenia dyre ktywy 95/46/WE (ogólne rozporządzenie o ochronie
+danych) zwanym dalej „RODO”, informuję, że administratorem Pani/Pana danych
+osobowych jest Wojewódzki Urząd Pracy w Kielcach (WUP) z siedzibą ul. Witosa 86,
+25-561 Kielce, adres e -mail: wup@wup.kielce.pl ,
+2. Szczegółowa informacja o przetwarzaniu danych osobowych przez administratorów
+jest dostępna na stronie internetowej WUP Kielce:
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 3 z 37
+https://wupkielce.praca.gov.pl/rodo/klauzule/  oraz stanowi integralną część
+dokumentów w niniejszym  postępowaniu – Załącznik nr 6 do SWZ -  Klauzula
+informacyjna RODO .
+III. OPIS PRZEDMIOTU ZAMÓWIENIA
+1. Przedmiotem zamówienia jest dostawa komputerów przenośnych, akcesoriów
+komputerowych, systemu kopii bezpieczeństwa oraz urządzenia wielofunkcyjnego .
+Przedmiot zamówienia został podzielony na 5 części.
+2. Szczegółowy opis przedmiotu zamówienia w zakresie C zęści  1, Części  2, Części  3, Części  4
+oraz Części 5 zamówienia zawarty został w Załączniku nr 1 do SWZ.
+3. Wszystkie wskazane nazwy wyrobów należy rozumieć jako określenie wymaganych
+parametrów technicznych lub standardów jakościowych. Ilekroć w dokumentacji
+postępowania wskazane są znaki towarowe, nazwy wyrobów, patenty, pochodzenie,
+normy, źródła lub szczegól ne procesy charakteryzujące określone produkty dostarczone
+przez konkretnego Wykonawcę, jeżeli mogłoby to doprowadzić do uprzywilejowania lub
+wyeliminowania niektórych Wykonawców lub produktów, oznacza to, że jest to
+uzasadnione specyfiką przedmiotu zamówi enia, i że Zamawiający nie może opisać
+przedmiotu zamówienia za pomocą dostatecznie dokładnych określeń. W takim przypadku
+Zamawiający na podstawie art. 99 ust. 5 ustawy Pzp dopuszcza możliwość zastosowania
+rozwiązań równoważnych. Poprzez rozwiązania równo ważne zamawiający rozumie takie,
+które co najmniej spełniają wymogi określone w dokumentacji postępowania, w tym
+w szczególności charakteryzują się parametrami technicznymi, standardami jakościowymi,
+eksploatacyjnymi i użytkowymi nie gorszymi niż określone  w Opisie przedmiotu
+zamówienia.
+4. Kod Wspólnego Słownika Zamówień (CPV):
+30233141 -1 -Nadmiarowa macierz niezależnych dysków (RAID)
+30213100 -6 -Komputery przenośne
+30237200 -1 -Akcesoria komputerowe
+30233160 -0 -Jednostki pamięci taśmowej
+48710000 -8 -Pakiety oprogramowania do kopii zapasowych i odzyskiwania
+30232110 -8 -Drukarki laserowe
+38520000 -6 -Skanery
+IV. OPIS CZĘŚCI ZAMÓWIENIA, JEŻELI DOPUSZCZA SIĘ SKŁADANIE OFERT CZĘŚCIOWYCH.
+1) Zamawiający dopuszcza składanie ofert częściowych.
+2) Wykonawca może złożyć ofertę na dowolnie wybraną Część lub Części zamówienia.
+3) Zamówienie podzielone jest na 5 (pięć) Części :
+Część 1 – Komputery przenośne - Fundusz Pracy
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 4 z 37
+Część  2 – Akcesoria komputerowe - Fundusz Pracy
+Część  3 – System kopii bezpieczeństwa - Fundusz Pracy
+Część 4 – Komputery przenośne  - Budżet JST
+Część 5 – Urządzenie wielofunkcyjne - Budżet JST
+4) Ocena ofert oraz wybór  najkorzystniejszej oferty zostanie przeprowadzona odrębnie
+dla każdej części zamówienia.
+V. POWIERZENIE WYKONANIA CZĘŚCI ZAMÓWIENIA PODWYKONAWCOM.
+1. Zamawiający nie zastrzega osobistego wykonania przez wykonawcę kluczowych zadań.
+2. Zamawiający dopuszcza wykonanie części przedmiotu zamówienia przy udziale
+podwykonawców.
+3. Zamawiający , na podstawie art. 462 ust. 2 ustawy Pzp,  żąda wskazania przez Wykonawcę
+w Formularzu oferty części zamówienia, których wykonanie zamierza powierzyć
+podwykonawcom i podania przez wykonawcę firm podwykonawców o ile są mu znane.
+4. W przypadku niewskazania części zamówienia, która ma być realizowana przez
+podwykonawcę, zamawiający uzna, że całość zamówienia będzie wykonywana przez
+Wykonawcę osobiście.
+5. Powierzenie części zamówienia podwykonawcom nie zwalnia Wykonawcy
+z odpowiedzialności za należyte wykonanie zamówienia. Wykonawca będzie
+odpowiedzialny za działania, uchybienia i zaniedbania podwykonawców i ich pracowników
+w takim samym stopniu jakby to były działania, uchybienia i zaniedbania jego własnych
+prac owników.
+VI. TERMIN WYKONANIA ZAMÓWIENIA
+1. Termin wykonania zamówienia:  w Części 1, Części 2, Części  3, Części 4 oraz Części 5
+w terminie 30 dni kalendarzowych od dnia zawarcia umowy.
+2. Wykonawca zobowiązany będzie do dostarczenia  przedmiotu zamówienia w jednej
+dostawie oraz uzgodnienia warunków w/w dostawy z Zamawiającym.
+VII. PROJEKTOWANE POSTANOWIENIA UMOWY W SPRAWIE ZAMÓWIENIA PUBLICZNEGO,
+KTÓRE ZOSTANĄ WPROWADZONE DO TREŚCI TEJ UMOWY
+Projektowane postanowienia umowy w sprawie zamówienia publicznego, które zostaną
+wprowadzone do treści um ów w zakresie poszczególnych części zamówienia , określone
+zostały w Załączniku nr 5 do SWZ.
+VIII. INFORMACJE O ŚRODKACH KOMUNIKACJI ELEKTRONICZNEJ, PRZY UŻYCIU KTÓRYCH
+ZAMAWIAJĄCY  BĘDZIE  KOMUNIKOWAŁ  SIĘ Z WYKONAWCAMI ORAZ INFORMACJE
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 5 z 37
+O WYMAGANIACH TECHNICZNYCH I ORGANIZACYJNYCH SPORZĄDZANIA, WYSYŁANIA
+I ODBIERANIA KORESPONDENCJI ELEKTRONICZNEJ
+1. W postępowaniu o udzielenie zamówienia publicznego komunikacja między Zamawiającym
+a Wykonawcami  odbywa  się przy  użyciu  Platformy e -Zamówienia , która jest dostępna pod
+adresem https://ezamowienia.gov.pl .
+2. Korzystanie z Platformy e -Zamówienia jest bezpłatne.
+3. Adres strony internetowej prowadzonego postępowania (link prowadzący bezpośrednio do
+widoku postępowania na Platformie e -Zamówienia):
+https://ezamowienia.gov.pl/mp -client/search/list/ocds -148610 -400f8892 -76be -4805 -
+8a7c -b60d939d26f8
+4. Postępowanie można wyszukać również ze strony głównej Platformy e -Zamówienia
+(przycisk „Przeglądaj postępowania/konkursy”).
+5. Identyfikator (ID) postępowania na Platformie e -Zamówienia:
+ocds -148610 -400f8892 -76be -4805 -8a7c -b60d939d26f8
+6. Wykonawca zamierzający wziąć udział w postępowaniu o udzielenie zamówienia
+publicznego musi posiadać konto podmiotu „Wykonawca” na Platformie
+e-Zamówienia. Szczegółowe informacje na temat zakładania kont podmiotów oraz zasady
+i warunki korzystania z Platformy e -Zamówienia określa Regulamin Platformy
+e-Zamówienia, dostępny na stronie internetowej https://ezamowienia.gov.pl  oraz
+informacje zamieszczone w zakładce „Centrum Pomocy”.
+7. Przeglądanie i pobieranie publicznej treści dokumentacji postępowania nie wymaga
+posiadania konta na Platformie e -Zamówienia ani logowania.
+8. Sposób sporządzenia dokumentów elektronicznych lub dokumentów elektronicznych
+będących kopią elektroniczną treści zapisanej w postaci papierowej (cyfrowe
+odwzorowania) musi być zgodny z wymaganiami określonymi w rozporządzeniu Prezesa
+Rady Ministrów z dnia  30 grudnia 2020 r. w sprawie sposobu sporządzania i przekazywania
+informacji oraz wymagań technicznych dla dokumentów elektronicznych oraz środków
+komunikacji elektronicznej w postępowaniu o udzielenie zamówienia publicznego lub
+konkursie (Dz. U. z 2020 r . poz. 2452), zwane dalej: „ rozporządzenie Prezesa Rady Ministrów
+w sprawie wymagań dla dokumentów elektronicznych” .
+9. Dokumenty elektroniczne, o których mowa w § 2 ust. 1 rozporządzenia Prezesa Rady
+Ministrów w sprawie wymagań dla dokumentów elektronicznych, sporządza się w postaci
+elektronicznej, w formatach danych określonych w przepisach rozporządzenia Rady
+Ministrów z dnia 21.05. 2024 r. w sprawie Krajowych Ram Interoperacyjności, minimalnych
+wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 6 z 37
+minimalnych wymagań dla systemów teleinformatycznych (t.j. Dz. U. z  2024 r. poz. 773),
+zwane dalej: „rozporządzenie Rady Ministrów w sprawie Krajowych Ram
+Interoperacyjności”, z uwzględnieniem rodzaju przekazywanych danych i przekazuje się jako
+załączniki. W przypadku formatów, o których mowa w art. 66 ust. 1 ustawy Pzp, ww.
+regulacje nie  będą miały bezpośredniego zastosowania.
+10. Informacje, oświadczenia lub dokumenty, inne niż wymienione w § 2 ust. 1 rozporządzenia
+Prezesa Rady Ministrów w sprawie wymagań dla dokumentów elektronicznych
+przekazywane w postępowaniu sporządza się w postaci elektronicznej:
+1) w formatach danych określonych w przepisach rozporządzenia Rady Ministrów
+w sprawie Krajowych Ram Interoperacyjności (i przekazuje się jako załącznik), lub
+2) jako tekst wpisany bezpośrednio do wiadomości przekazywanej przy użyciu środków
+komunikacji elektronicznej (np. w treści wiadomości e -mail lub w treści „Formularza do
+komunikacji”).
+11. Jeżeli dokumenty elektroniczne, przekazywane przy użyciu środków komunikacji
+elektronicznej, zawierają informacje stanowiące tajemnicę przedsiębiorstwa
+w rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej
+konkurencji (t.j. Dz. U. z 2022 r. poz. 1233) wykonawca, w celu utrzymania w poufności tych
+informacji, przekazuje je w wydzielonym i odpowiednio oznaczonym pliku, wraz
+z jednoczesnym zaznaczeniem w nazwie pliku „Dokument stanowiący tajemnicę
+przedsiębiorstwa”.
+12. Komunikacja w postępowaniu, z wyłączeniem składania ofert,  odbywa się drogą
+elektroniczną za pośrednictwem formularzy do komunikacji dostępnych w zakładce
+„Formularze” („Formularze do komunikacji”). Za pośrednictwem „Formularzy do
+komunikacji” odbywa się w szczególności przekazywanie wezwań i zawiadomień,
+zadawanie pytań i udzielanie odpowiedzi. Formularze do komunikacji umożliwiają również
+dołączenie załącznika do przesyłanej wiadomości (przycisk „dodaj załącznik”). W  przypadku
+załączników, które są zgodni e z ustawą Pzp lub rozporządzeniem Prezesa Rady Ministrów
+w sprawie wymagań dla dokumentów elektronicznych opatrzone kwalifikowanym
+podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym, mogą być
+opatrzone, zgodnie z wyborem wykonawcy/wykonawcy wspólnie ubiegającego się
+o udzielenie zamówienia/podmiotu udostępniającego zasoby, podpisem zewnętrznym  lub
+wewnętrznym.  W zależności od rodzaju podpisu i jego typu (zewnętrzny, wewnętrzny)
+dodaje się do przesyłanej wiadomości uprzednio podpisane dokum enty
+wraz  z wygenerowanym plikiem podpisu (typ zewnętrzny) lub dokument z wszytym
+podpisem (typ wewnętrzny).
+13. Możliwość korzystania w postępowaniu z „Formularzy do komunikacji” w pełnym zakresie
+wymaga posiadania konta „Wykonawcy” na Platformie e -Zamówienia oraz zalogowania się
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 7 z 37
+na Platformie e -Zamówienia. Do korzystania z „Formularzy do komunikacji” służących do
+zadawania pytań dotyczących treści dokumentów zamówienia1 wystarczające jest
+posiadanie tzw. konta uproszczonego na Platformie e -Zamówienia.
+14. Wszystkie wysłane i odebrane w postępowaniu przez Wykonawcę wiadomości widoczne są
+po zalogowaniu w podglądzie postępowania w zakładce „Komunikacja”.
+15. Maksymalny rozmiar plików przesyłanych za pośrednictwem „Formularzy do komunikacji”
+wynosi 25 MB (wielkość ta dotyczy plików przesyłanych jako załączniki do jednego
+formularza).
+16. Minimalne wymagania techniczne dotyczące sprzętu używanego w celu korzystania
+z usług Platformy e -Zamówienia oraz informacje dotyczące specyfikacji połączenia określa
+Regulamin Platformy e -Zamówienia.
+17. W przypadku problemów technicznych i awarii związanych z funkcjonowaniem Platformy
+e-Zamówienia użytkownicy mogą skorzystać ze wsparcia technicznego dostępnego poprzez
+formularz udostępniony na stronie internetowej https://ezamowienia.gov.pl  w zakładce
+„Zgłoś problem”.
+18. W szczególnie uzasadnionych przypadkach uniemożliwiających komunikację Wykonawcy
+i Zamawiającego za pośrednictwem Platformy e -Zamówienia, Zamawiający dopuszcza
+komunikację za pomocą poczty elektronicznej na adres e -mail: wup@wup.kielce.pl  (nie
+dotyczy składania ofert).
+IX. OPIS SPOSOBU SKŁADANIA OFERTY
+1. Wykonawca przygotowuje ofertę przy pomocy „Formularza oferty” stanowiącego Załącznik
+nr 2 do SWZ udostępnionego przez Zamawiającego na Platformie e -Zamówienia
+i zamieszczonego w podglądzie postępowania w zakładce „Informacje podstawowe”
+w polu „Pozostałe dokumenty postępowania”.
+2. Zamawiający nie udostępnia interaktywnego „Formularza ofertowego” generowanego
+z Platformy e -Zamówienia.
+3. Wykonawca powinien pobrać „Formularz oferty” stanowiący Załącznik nr 2 do SWZ,
+uzupełnić danymi wymaganymi przez Zamawiającego i podpisać odpowiednim rodzajem
+podpisu elektronicznego, zgodnie z pkt 7.
+4. Wykonawca składa ofertę za pośrednictwem zakładki „Oferty/wnioski”, widocznej
+w podglądzie postępowania po zalogowaniu się na konto Wykonawcy. Po wybraniu
+przycisku „Złóż ofertę” system prezentuje okno składania oferty umożliwiające
+przekazanie dokumentów elektronicznych, w którym znajdują się dwa pola drag&drop
+(„przeciągnij” i „upuść”) służące do dodawania plików.
+1 Dotyczy w szczególności SWZ.
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 8 z 37
+5. Wykonawca dodaje wybrany z dysku i uprzednio podpisany „Formularz oferty”
+w pierwszym polu („Wypełniony formularz oferty”). W kolejnym polu („Załączniki
+i inne dokumenty przedstawione w ofercie przez Wykonawcę”) wykonawca dodaje
+pozostałe pliki stanowiące ofertę lub składane wraz z ofertą2.
+6. Jeżeli wraz z ofertą składane są dokumenty zawierające tajemnicę przedsiębiorstwa
+wykonawca, w celu utrzymania w poufności tych informacji, przekazuje je w wydzielonym
+i odpowiednio oznaczonym pliku, wraz z jednoczesnym zaznaczeniem w nazwie pliku
+„Dokumen t stanowiący tajemnicę przedsiębiorstwa”. Zarówno załącznik stanowiący
+tajemnicę przedsiębiorstwa jak i uzasadnienie zastrzeżenia tajemnicy przedsiębiorstwa
+należy dodać w polu „Załączniki i inne dokumenty przedstawione w ofercie przez
+Wykonawcę”.
+7. Formularz oferty podpisuje się kwalifikowanym podpisem elektronicznym,
+podpisem zaufanym lub podpisem osobistym. Rekomendowanym wariantem
+podpisu jest typ wewnętrzny . Podpis Formularza oferty wariantem podpisu w typie
+zewnętrznym  również jest możliwy, tylko w tym przypadku, powstały oddzielny plik
+podpisu dla tego Formularza należy załączyć w polu „Załączniki i inne dokumenty
+przedstawione w ofercie przez Wykonawcę”.
+8. Pozostałe dokumenty  wchodzące w skład oferty lub składane wraz z ofertą, które są zgodne
+z ustawą Pzp lub rozporządzeniem Prezesa Rady Ministrów w sprawie wymagań dla
+dokumentów elektronicznych opatrzone kwalifikowanym podpisem elektronicznym,
+podpisem zaufanym lub podpisem osobistym, mogą być zgodnie z wyborem
+Wykonawcy/ Wykonawcy wspólnie ubiegającego się o udzielenie zamówienia/podmiotu
+udostępniającego zasoby opatrzone podpisem typu zewnętrznego lub wewnętrznego.
+W zależności od rodzaju pod pisu i jego typu (zewnętrzny, wewnętrzny) w polu „Załączniki
+i inne dokumenty przedstawione w ofercie przez Wykonawcę” dodaje się uprzednio
+podpisane dokumenty wraz z wygenerowanym plikiem podpisu (typ zewnętrzny) lub
+dokument z wszytym podpisem (typ wewnętrzny).
+W przypadku przekazywania dokumentu elektronicznego w formacie poddającym dane
+kompresji, opatrzenie pliku zawierającego skompresowane dokumenty
+kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym,
+jest równoznaczne z opatrzeniem wszystkich dokumentów zawartych  w tym pliku
+odpowiednio kwalifikowanym podpisem elektronicznym, podpisem  zaufanym lub
+podpisem osobistym.
+9. System sprawdza, czy złożone pliki są podpisane i automatycznie je szyfruje,
+jednocześnie informując o tym wykonawcę. Potwierdzenie czasu przekazania i odbioru
+2 Wykaz poszczególnych dokumentów i oświadczeń składanych wraz z ofertą, został określony przez
+Zamawiającego w rozdz. XVI I SWZ.
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 9 z 37
+oferty znajduje się w Elektronicznym Potwierdzeniu Przesłania (EPP) i Elektronicznym
+Potwierdzeniu Odebrania (EPO). EPP i EPO dostępne są dla zalogowanego Wykonawcy
+w zakładce „Oferty/Wnioski”.
+10. Oferta może być złożona tylko do upływu terminu składania ofert.
+11. Wykonawca może przed upływem terminu składania ofert wycofać ofertę.
+Wykonawca wycofuje ofertę w zakładce „Oferty/wnioski” używając przycisku „Wycofaj
+ofertę”.
+12. Maksymalny łączny rozmiar plików stanowiących ofertę lub składanych wraz z ofertą to 250
+MB.
+13. UWAGA!
+Zamawiający nie udostępnił dla Wykonawców interaktywnego Formularza ofertowego
+generowanego z Platformy e -Zamówienia, lecz udostępnił własny Formularz oferty, który
+stanowi Załącznik nr 2 do SWZ (udostępniony przez Zamawiającego w zakładce
+„Informacje podstawowe” w polu „Pozostałe dokume nty postępowania”).
+Wykonawca składa swoją ofertę z wykorzystaniem ww. Formularza oferty Zamawiającego.
+W tym przypadku podczas przesyłania oferty może pojawić się następujący komunikat:
+„Czy chcesz kontynuować?
+Postępowanie nie posiada opublikowanego formularza do tego etapu
+postępowania.
+Plik [w tym miejscu pojawia się nazwa pliku]  nie jest poprawnym formularzem
+interaktywnym wygenerowanym na Platformie”.
+Wykonawca potwierdza chęć złożenia oferty  poprzez wybranie przycisku „ Tak, chcę
+kontynuować” . Oferta zostanie złożona z wykorzystaniem tego formularza ofertowego.
+14. W przypadku, gdy informacje zawarte w dokumentach przesyłanych Zamawiającemu przez
+Wykonawcę stanowią tajemnicę przedsiębiorstwa, w rozumieniu przepisów ustawy z dnia
+16 kwietnia 1993 roku o zwalczaniu nieuczciwej konkurencji, wykonawca winien w sposób
+niebudzący wątpliwości zastrzec, że nie mogą być udostępniane oraz wykazać, że
+zastrzeżone informacje stanowią tajemnicę przedsiębiorstwa. Wykonawca nie może
+zastrzec informacji, o których mowa w art. 222 ust. 5 ustawy Pzp.
+15. W przypadku gdy dokumenty elektroniczne w postępowaniu, przekazywane przy użyciu
+środków komunikacji elektronicznej, zawierają informacje stanowiące tajemnicę
+przedsiębiorstwa w rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu
+nieuczciwe j konkurencji, wykonawca, w celu utrzymania w poufności tych informacji,
+przekazuje je w wydzielonym i odpowiednio oznaczonym pliku.
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 10 z 37
+X. INFORMACJE O SPOSOBIE KOMUNIKOWANIA SIĘ ZAMAWIAJĄCEGO
+Z WYKONAWCAMI W INNY SPOSÓB NIŻ PRZY UŻYCIU ŚRODKÓW KOMUNIKACJI
+ELEKTRONICZNEJ  W PRZYPADKU  ZAISTNIENIA  JEDNEJ Z SYTUACJI OKREŚLONYCH
+W ART. 65 UST. 1, ART. 66 I ART. 69
+Zamawiający nie przewiduje sposobu komunikowania się z Wykonawcami w inny sposób
+niż przy użyciu środków komunikacji elektronicznej, wskazanych w Rozdziale VII I SWZ.
+XI. WSKAZANIE OSÓB UPRAWNIONYCH DO KOMUNIKOWANIA SIĘ Z  WYKONAWCAMI
+Osoby upoważnione do kontaktu z wykonawcami w sprawach dotyczących niniejszego
+postępowania są:
+1. w kwestiach dotyczących procedury postępowania – Maja Gudwańska, Grzegorz Skiba ,
+adres email: wup@wup.kielce.pl , nr tel. 41  364 16 00.
+2. w kwestiach merytorycznych – Paweł Mularczyk, Karol Żelazn y adres email:
+wup@wup.kielce.pl , nr tel. 41  364 16 00.
+XII. TERMIN ZWIĄZANIA OFERTĄ
+1. Wykonawca jest związany ofertą przez okres 30 dni, tj. od dnia upływu terminu składania
+ofert tj. do dnia  05.08.202 5 r.
+2. W przypadku gdy wybór najkorzystniejszej oferty nie nastąpi przed upływem terminu
+związania ofertą, o którym mowa powyżej, Zamawiający przed upływem terminu
+związania ofertą, zwraca się jednokrotnie do Wykonawców o wyrażenie zgody na
+przedłużenie tego terminu o wskazywany przez niego okres, nie dłuższy niż 30 dni.
+3. Przedłużenie terminu związania ofertą, o którym mowa w ust. 2, wymaga złożenia przez
+Wykonawcę pisemnego oświadczenia o wyrażeniu zgody na przedłużenie terminu
+związania ofertą.
+XIII.  WADIUM
+Zamawiający nie żąda wniesienia wadium przez Wykonawcę.
+XIV. OPIS SPOSOBU PRZYGOTOWANIA OFERTY
+1. Wykonawca powinien zapoznać się z całością SWZ, której integralną część stanowią
+załączniki nr 1 -6 do SWZ.
+2. Treść oferty musi odpowiadać treści SWZ.
+3. Każdy Wykonawca może złożyć tylko jedną ofertę w zakresie każdej z C zęści , w której musi
+być zaproponowana tylko jedna cena - zgodnie z wymaganiami określonymi w SWZ.
+4. Wykonawca może zwrócić się do Zamawiającego z wnioskiem o wyjaśnienie treści SWZ.
+5. Zamawiający jest obowiązany udzielić wyjaśnień niezwłocznie, jednak nie później niż na
+2 dni przed upływem terminu składania ofert, pod warunkiem , że wniosek o wyjaśnienie
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 11 z 37
+treści SWZ wpłynął do Zamawiającego nie później niż na 4 dni przed upływem terminu
+składania ofert.
+6. Jeżeli Zamawiający nie udzieli wyjaśnień w terminie, o którym mowa w ust. 5, przedłuża
+termin składania ofert o czas niezbędny do zapoznania się wszystkich zainteresowanych
+Wykonawców z wyjaśnieniami niezbędnymi do należytego przygotowania i złożenia ofert.
+W przypadku gdy wniosek o wyjaśnienie treści SWZ nie wpłynął w terminie, o którym mowa
+w ust. 5, Zamawiający nie ma obowiązku udzielania wyjaśnień SWZ oraz obowiązku
+przedł użenia terminu składania ofert.
+7. Przedłużenie terminu składania ofert, o którym mowa w ust. 6, nie wpływa na bieg terminu
+składania wniosku o wyjaśnienie treści SWZ.
+8. Treść zapytań wraz z wyjaśnieniami Zamawiający udostępnia, bez ujawniania źródła
+zapytania, na stronie internetowej prowadzonego postępowania.
+9. W uzasadnionych przypadkach Zamawiający może przed upływem terminu składania ofert
+zmienić treść SWZ. Dokonaną zmianę treści SWZ Zamawiający udostępnia na stronie
+internetowej prowadzonego postępowania.
+10. Postępowanie prowadzone jest w języku polskim.
+11. Wykonawca ponosi wszelkie koszty związane z przygotowaniem i złożeniem oferty.
+12. Oferta musi obejmować całość zamówienia i musi być sporządzona w języku polskim.
+Wszelkie pisma sporządzone w językach obcych muszą być przetłumaczone na język polski
+i podczas oceny ofert Zamawiający będzie opierał się na tekście przetłumaczonym. Każdy
+dokument składający się na ofertę powinien być czytelny.
+13. Oferta wraz z załącznikami powinna być sporządzona w formie elektronicznej (w postaci
+elektronicznej, opatrzonej kwalifikowanym podpisem elektronicznym) lub w postaci
+elektronicznej pod rygorem nieważności i opatrzona podpisem zaufanym lub podpisem
+osobist ym.
+14. Zamawiający informuje, iż zgodnie z art. 18 w zw. z art. 74 ust 1 i 2 ustawy Pzp, oferty
+składane w postępowaniu o udzielenie zamówienia publicznego są jawne i podlegają
+udostępnieniu na wniosek niezwłocznie po otwarciu ofert, nie później jednak niż w term inie
+3 dni od dnia otwarcia ofert, z wyjątkiem informacji stanowiących tajemnicę
+przedsiębiorstwa w  rozumieniu ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej
+konkurencji (Dz. U. z 2022 r. poz. 1233).
+15. Wszelkie informacje, które wykonawca pragnie zastrzec, jako tajemnicę przedsiębiorstwa,
+powinny zostać załączone na Platformie w osobnym pliku wraz z jednoczesnym
+zastrzeżeniem dokumentu jako „tajemnicy przedsiębiorstwa” podczas określania typu
+dokumentu. Zgodnie z przepisem art. 18 ust. 3 ustawy Pzp, nie ujawnia się tajemnicy
+przedsiębiorstwa, w  rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, jeżeli
+wykonawca nie później niż w  terminie składania ofert, w sposób niebudzący wątpliwości
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 12 z 37
+zastrzegł, że nie mogą być one udostępnione oraz wykazał, załączając stosowne
+wyjaśnienia, iż zastrzeżone informacje stanowią tajemnicę przedsiębiorstwa, tj. spełniają
+przesłanki wskazane w  przepisie art. 11 ust. 4 ustawy z  dnia 16 kwietnia 1993 r.
+o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233) – „Przez tajemnicę
+przedsiębiorstwa rozumie się nieujawnione do wiadomości publicznej informacje
+techniczne, technologiczne, organizacyjne przedsiębiorstwa lub inne informacje
+posiadające wa rtość gospodarczą, co do których przedsiębiorca podjął niezbędne działania
+w celu zachowania ich poufności”.
+16. Oferta powinna być sporządzona na Formularzu oferty, a wszystkie wymagane
+oświadczenia i dokumenty z ust. 22 niniejszego rozdziału, muszą stanowić załączniki do
+oferty.
+17. Zaleca się, aby oferta została złożona przy wykorzystaniu załączników do niniejszej SWZ.
+Zamawiający dopuszcza złożenie oferty i załączników do oferty na formularzach
+sporządzonych przez wykonawcę pod warunkiem, że ich treść odpowiadać będzie treści
+zawart ej przez Zamawiającego w załącznikach do niniejszej SWZ.
+18. Oferta powinna być podpisana przy użyciu kwalifikowanego podpisu elektronicznego,
+podpisu zaufanego lub podpisu osobistego przez osobę uprawnioną lub upoważnioną do
+reprezentowania firmy na zewnątrz, zgodnie z formą reprezentacji wykonawcy określoną
+w rejestrze handlowym lub innym dokumencie właściwym dla formy organizacyjnej
+wykonawcy. Wszelkie oświadczenia i dokumenty powinny być podpisane przez osobę
+uprawnioną do reprezentowania firmy lub upoważnionego przez nią przedstawiciela.
+19. Dokumenty lub oświadczenia, Wykonawca składa w oryginale lub kopii poświadczonej za
+zgodność z oryginałem w formie elektronicznej, w postaci elektronicznej opatrzonej
+podpisem zaufanym lub podpisem osobistym. Jeżeli oryginał dokumentu lub
+oświadczenia, o których mowa powyżej nie zosta ły sporządzone w postaci dokumentu
+elektronicznego, wykonawca może sporządzić i przekazać elektroniczną kopię
+posiadanego dokumentu lub oświadczenia. W przypadku przekazywania przez
+wykonawcę elektronicznej kopii dokumentu lub oświadczenia, opatrzenie jej
+kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym
+przez wykonawcę jest równoznaczne z  poświadczeniem elektronicznej kopii dokumentu
+lub oświadczenia za zgodność z  oryginałem.
+20. Sposób sporządzenia dokumentów elektronicznych musi być zgodny z wymaganiami
+określonymi w rozporządzeniu Prezesa Rady Ministrów w sprawie wymagań dla
+dokumentów elektronicznych oraz w rozporządzeniu Ministra Rozwoju, Pracy
+i Technologii z dnia 23 grudnia 2020 r. w sprawie podmiotowych środków dowodowych
+oraz innych dokumentów lub oświadczeń, jakich może żądać zamawiający od wykonawcy
+(Dz. U z 2020 r. poz. 2415 ze zm.) tj.:
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 13 z 37
+1) W przypadku gdy podmiotowe środki dowodowe, przedmiotowe środki dowodowe,
+inne dokumenty, w tym dokumenty, o których mowa w art. 94 ust. 2 ustawy, lub
+dokumenty potwierdzające umocowanie do reprezentowania odpowiednio
+wykonawcy, wykonawców wspólnie ubiegaj ących się o udzielenie zamówienia
+publicznego, podmiotu udostępniającego zasoby na zasadach określonych w art. 118
+ustawy lub podwykonawcy niebędącego podmiotem udostępniającym zasoby na
+takich zasadach, zwane dalej „dokumentami potwierdzającymi umocowanie  do
+reprezentowania”, zostały wystawione przez upoważnione podmioty inne niż
+wykonawca, wykonawca wspólnie ubiegający się o udzielenie zamówienia, podmiot
+udostępniający zasoby lub podwykonawca, jako dokument elektroniczny, przekazuje
+się ten dokument.
+2) W przypadku gdy podmiotowe środki dowodowe, przedmiotowe środki dowodowe,
+inne dokumenty, w tym dokumenty, o których mowa w art. 94 ust. 2 ustawy, lub
+dokumenty potwierdzające umocowanie do reprezentowania, zostały wystawione
+przez upoważnione podmioty inn e niż wykonawca, wykonawca wspólnie ubiegający
+się o  udzielenie zamówienia, podmiot udostępniający zasoby lub podwykonawca jako
+dokument w postaci papierowej, przekazuje się cyfrowe odwzorowanie tego
+dokumentu opatrzone kwalifikowanym podpisem elektroniczn ym, podpisem
+zaufanym lub podpisem osobistym, poświadczające zgodność cyfrowego
+odwzorowania z  dokumentem w postaci papierowej.
+3) Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci
+papierowej, o którym mowa w ust. 20 pkt 2), dokonuje w przypadku:
+a. podmiotowych środków dowodowych oraz dokumentów potwierdzających
+umocowanie do reprezentowania - odpowiednio wykonawca, wykonawca
+wspólnie ubiegający się o udzielenie zamówienia, podmiot udostępniający zasoby
+lub podwykonawca, w zakresie podmiotowych środk ów dowodowych lub
+dokumentów potwierdzających umocowanie do reprezentowania, które każdego
+z nich dotyczą;
+b. przedmiotowych środków dowodowych - odpowiednio wykonawca lub
+wykonawca wspólnie ubiegający się o udzielenie zamówienia;
+c. innych dokumentów, w tym dokumentów, o których mowa w art. 94 ust. 2 ustawy
+- odpowiednio wykonawca lub wykonawca wspólnie ubiegający się o udzielenie
+zamówienia, w zakresie dokumentów, które każdego z nich dotyczą.
+4) Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci
+papierowej, o którym mowa w ust. 20 pkt 2), może dokonać również notariusz.
+5) Podmiotowe środki dowodowe, w tym oświadczenie, o którym mowa w art. 117 ust. 4
+ustawy, oraz zobowiązanie podmiotu udostępniającego zasoby, przedmiotowe środki
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 14 z 37
+dowodowe, dokumenty, o których mowa w art. 94 ust. 2 ustawy, wystawione przez
+wykonawcę, wykonawcę wspólnie ubiegającego się o udzielenie zamówienia, podmiot
+udostępniający zasoby, podwykonawcę, oraz pełnomocnictwo przekazuje się w postaci
+elektronicznej i  opatruje się kwalifikowanym podpisem elektronicznym, podpisem
+zaufanym lub podpisem osobistym.
+6) W przypadku gdy podmiotowe środki dowodowe, w tym oświadczenie, o którym
+mowa w art. 117 ust. 4 ustawy, oraz zobowiązanie podmiotu udostępniającego zasoby,
+przedmiotowe środki dowodowe, dokumenty, o których mowa w art. 94 ust. 2 ustawy,
+wystawione przez wy konawcę, wykonawcę wspólnie ubiegającego się o udzielenie
+zamówienia, podmiot udostępniający zasoby, podwykonawcę lub pełnomocnictwo,
+zostały sporządzone jako dokument w postaci papierowej i opatrzone własnoręcznym
+podpisem, przekazuje się cyfrowe odwzorow anie tego dokumentu opatrzone
+kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem
+osobistym, poświadczającym zgodność cyfrowego odwzorowania z dokumentem
+w postaci papierowej.
+7) Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci
+papierowej, o którym mowa w pkt. 6, dokonuje w przypadku:
+a. podmiotowych środków dowodowych - odpowiednio wykonawca, wykonawca
+wspólnie ubiegający się o udzielenie zamówienia, podmiot udostępniający zasoby
+lub podwykonawca, w zakresie podmiotowych środków dowodowych, które
+każdego z nich dotyczą;
+b. przedmiotowego środka dowodowego, dokumentu, o którym mowa w art. 94 ust.
+2 ustawy, oświadczenia, o którym mowa w art. 117 ust. 4 ustawy, lub
+zobowiązania podmiotu udostępniającego zasoby - odpowiednio wykonawca lub
+wykonawca wspólnie ubiegający się o udzi elenie zamówienia;
+c. pełnomocnictwa - mocodawca.
+8) Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci
+papierowej, o którym mowa w ust. 20 pkt 6), może dokonać również notariusz.
+9) Przez cyfrowe odwzorowanie, o którym mowa w rozporządzeniu Prezesa Rady
+Ministrów w sprawie wymagań dla dokumentów elektronicznych, należy rozumieć
+dokument elektroniczny będący kopią elektroniczną treści zapisanej w postaci
+papierowej, umożliwiający zapoz nanie się z tą treścią i jej zrozumienie, bez
+konieczności bezpośredniego dostępu do oryginału.
+10) W przypadku przekazywania w postępowaniu dokumentu elektronicznego w formacie
+poddającym dane kompresji, opatrzenie pliku zawierającego skompresowane
+dokumenty kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub
+podpisem osobistym, jest równoznac zne z opatrzeniem wszystkich dokumentów
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 15 z 37
+zawartych w tym pliku odpowiednio kwalifikowanym podpisem elektronicznym,
+podpisem zaufanym lub podpisem osobistym.
+21. Oferta składa się z wypełnionego  w zakresie danej Części  i podpisanego Formularza oferty
+- wg wzoru określonego w Załączniku nr 2 do SWZ.
+22. Do oferty należy dołączyć:
+1) Formularz asortymentowo -cenowy wg wzoru określonego w Załączniku nr 3a do SWZ
+w zakresie C zęści  1, w Załączniku nr  3b do SWZ w zakresie C zęści  2, w Załączniku nr  3c
+do SWZ w zakresie C zęści  3, w Załączniku nr  3d do SWZ w zakresie Części 4 ,
+w Załączniku nr 3e do SWZ w zakresie Części 5.
+2) Wypełnione i podpisane Oświadczenie wykonawcy dotyczące przesłanek wykluczenia
+z postępowania – wg wzoru określonego w Załączniku nr 4 do SWZ .
+3) Dokumenty, potwierdzające umocowanie do reprezentowania odpowiednio
+wykonawcy, wykonawców wspólnie ubiegających się o udzielenie zamówienia
+publicznego – odpis lub informacja z Krajowego Rejestru Sądowego, Centralnej
+Ewidencji i Informacji o Działalności Gospodarczej lub innego właściwego rejestru,
+chyba że wykonawca wskaże w Formularzu oferty dane, umożliwiające
+Zamawiającemu uzyskanie tych dokumentów za pomocą bezpłatnych
+i ogólnodostępnych baz danych.
+W przypadku wspólnego ubiegania się o udzielenie zamówienia Wykonawców
+występujących wspólnie (dotyczy również spółki cywilnej) – pełnomocnictwa do
+reprezentowania w postępowaniu o udzielenie zamówienia publicznego albo
+reprezentowania w postępowaniu i zawarcia umowy w sprawie zamówienia
+publicznego.
+4) Pełnomocnictwa określającego jego zakres – w przypadku  gdy Wykonawcę
+reprezentuje pełnomocnik.
+XV. TERMIN SKŁADANIA OFERT ORAZ TERMIN OTWARCIA OFERT
+1. Zasady i sposób składania oferty w postaci elektronicznej określone zostały w rozdziale IX
+SWZ.
+2. Termin składania ofert upływa w dniu  07.07.202 5 roku , o godz. 10:00.
+3. Otwarcie ofert nastąpi w dniu  07.07.202 5 roku  o godz. 11:00.
+4. W przypadku awarii systemu teleinformatycznego przy użyciu którego następuje otwarcie
+ofert, która powoduje brak możliwości ich otwarcia w terminie określonym przez
+Zamawiającego, otwarcie ofert następuje niezwłocznie po usunięciu awarii.
+5. Zamawiający informuje o zmianie terminu otwarcia ofert na stronie internetowej
+prowadzonego postępowania.
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 16 z 37
+6. Zamawiający, najpóźniej przed otwarciem ofert, udostępni na stronie internetowej
+prowadzonego postępowania informację o kwocie, jaką zamierza się przeznaczyć
+na sfinansowanie zamówienia.
+7. Zamawiający, niezwłocznie po otwarciu ofert, udostępni na stronie internetowej
+prowadzonego postępowania informacje o:
+1) nazwach albo imionach i nazwiskach oraz siedzibach lub miejscach prowadzonej
+działalności gospodarczej albo miejscach zamieszkania wykonawców, których oferty
+zostały otwarte,
+2) cenach lub kosztach zawartych w ofertach.
+XVI. INFORMACJA O WARUNKACH UDZIAŁU W POSTĘPOWANIU ORAZ PODSTAWACH
+WYKLUCZENIA Z POSTĘPOWANIA
+1. O udzielenie zamówienia mogą ubiegać się wykonawcy, którzy:
+1) spełniają warunki udziału w postępowaniu dotyczące:
+Zamawiający nie precyzuje warunków udziału w postępowaniu.
+2) nie podlegają wykluczeniu na podstawie:
+a. na podstawie art. 108 ust. 1 ustawy Pzp:
+b. na podstawie w art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych
+rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz
+służących ochronie bezpieczeństwa narodowego.
+2. Zamawiający nie określa podstaw wykluczenia, o których mowa w art. 109 ust. 1 ustawy
+Pzp.
+3. Wykluczenie wykonawcy następuje zgodnie z art. 111 ustawy Pzp.
+4. Wykonawca może zostać wykluczony przez Zamawiającego na każdym etapie
+postępowania o udzielenie zamówienia.
+5. Opis sposobu dokonywania oceny spełniania niepodlegania wykluczenia
+z postepowania:
+Ocena spełniania niepodlegania wykluczenia z postepowania nastąpi na podstawie
+złożonego oświadczenia z art. 125 ust. 1 ustawy Pzp dotyczące przesłanek wykluczenia
+z postępowania.
+XVII. OŚWIADCZENIA, PRZEDMIOTOWE I PODMIOTOWE ŚRODKI DOWODOWE, JAKIE
+ZOBOWIĄZANI SĄ DOSTARCZYĆ WYKONAWCY W  CELU WYKAZANIA BRAKU
+PODSTAW WYKLUCZENIA ORAZ POTWIERDZAJĄCYCH SPEŁNIENIE WARUNKÓW
+UDZIAŁU W  POSTĘPOWANIU, A TAKŻE INNE NIEZBĘDNE DOKUMENTY.
+1. Oświadczenie , o którym mowa w art. 125 ust. 1 ustawy Pzp potwierdzające brak podstaw
+do wykluczenia:
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 17 z 37
+1) Oświadczenie, stanowiące dowód potwierdzający brak podstaw wykluczenia na dzień
+składania ofert – według wzoru określonego w Załączniku nr 4 do SWZ  (składane wraz
+z ofertą).
+W przypadku wspólnego ubiegania się o zamówienie przez Wykonawców,
+oświadczenie, o którym mowa powyżej, składa każdy z Wykonawców - wg wzoru
+określonego w Załączniku nr 4 do SWZ (składane wraz z ofertą).
+2. Przedmiotowe środki dowodowe potwierdzające, że oferowana dostawa odpowiada
+wymaganiom określonych przez Zamawiającego (składane wraz z ofertą):
+✓ Formularz asortymentowo -cenowy stanowiący Załącznik nr 3a do SWZ w zakresie
+Części  1,
+✓ Formularz asortymentowo -cenowy stanowiący Załącznik nr 3b do SWZ w zakresie
+Części  2,
+✓ Formularz asortymentowo -cenowy stanowiący Załącznik nr 3c do SWZ w zakresie
+Części  3,
+✓ Formularz asortymentowo -cenowy stanowiący Załącznik nr 3d do SWZ w zakresie
+Części 4 .
+✓ Formularz asortymentowo -cenowy stanowiący Załącznik nr 3e do SWZ w zakresie
+Części 5.
+3. Wykaz pozostałych dokumentów i dodatkowe informacje :
+1) Wypełniony i podpisany przez wykonawcę Formularz oferty - wg wzoru określonego
+w Załączniku nr 2 do SWZ.
+2) Dokumenty, potwierdzające umocowanie do reprezentowania odpowiednio
+Wykonawcy, Wykonawców wspólnie ubiegających się o udzielenie zamówienia
+publicznego - odpis lub informacja z Krajowego Rejestru Sądowego, Centralnej
+Ewidencji i Informacji o Działalności Gospodarczej lub innego właściwego rejestru,
+chyba że Wykonawca wskaże w Formularzu oferty dane, umożliwiające
+Zamawiającemu uzyskanie tych dokumentów za pomocą bezpłatnych
+i ogólnodostępnych baz danych.
+3) W przypadku wspólnego ubiegania się o udzielenie zamówienia wykonawców
+występujących wspólnie (dotyczy również spółki cywilnej) - pełnomocnictwo do
+reprezentowania w postępowaniu o udzielenie zamówienia publicznego albo
+reprezentowania w postępowaniu i zaw arcia umowy w sprawie zamówienia
+publicznego.
+4) Pełnomocnictwo określające jego zakres - w przypadku , gdy wykonawcę reprezentuje
+pełnomocnik.
+5) Za osoby uprawnione do składania oświadczeń woli w imieniu wykonawców, uznaje
+się:
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 18 z 37
+a. osoby wykazane w prowadzonych przez sądy rejestrach handlowych, rejestrach
+spółdzielni lub rejestrach przedsiębiorstw państwowych, fundacji, stowarzyszeń
+itp.;
+b. osoby wykazane w ewidencji działalności gospodarczej;
+c. osoby legitymujące się odpowiednim pełnomocnictwem udzielonym przez osoby,
+o których mowa powyżej; w przypadku podpisania oferty przez pełnomocnika
+wykonawcy pełnomocnictwo musi być dołączone do oferty w wymaganej formie.
+6) Jeżeli Wykonawca nie złożył oświadczenia, o którym mowa w ust. 1 pkt 1,
+przedmiotowych środków dowodowych (z  uwzględnieniem zapisów w ust. 2
+niniejszego Rozdziału), innych dokumentów lub oświadczeń składanych
+w postępowaniu lub są one niekompletne lub zawierają bł ędy, Zamawiający wzywa
+wykonawcę odpowiednio do ich złożenia, poprawienia lub uzupełnienia
+w wyznaczonym terminie, chyba że:
+a. oferta wykonawcy podlega odrzuceniu bez względu na ich złożenie, uzupełnienie
+lub poprawienie lub
+b. zachodzą przesłanki unieważnienia postępowania.
+7) Zamawiający może żądać od wykonawców wyjaśnień dotyczących treści oświadczenia,
+o którym mowa w ust. 1 pkt 1), przedmiotowych środków dowodowych lub innych
+dokumentów lub oświadczeń składanych w postępowaniu.
+XVIII.  WYKONAWCY WSPÓLNIE UBIEGAJĄCY SIĘ O ZAMÓWIENIE
+1. Wykonawcy mogą wspólnie ubiegać się o udzielenie zamówienia. W takim przypadku
+Wykonawcy ustanawiają pełnomocnika do reprezentowania ich w postępowaniu
+o udzielenie zamówienia albo reprezentowania ich w postępowaniu i zawarcia umowy
+w sprawie zamówienia publicznego. Wszelka korespondencja prowadzona będzie
+wyłącznie z pełnomocnikiem.
+2. Każdy z Wykonawców występujących wspólnie musi z osobna potwierdzić braku podstaw
+do wykluczenia z postępowania o udzielenie zamówienia publicznego, o których mowa
+w art. 108 ust. 1 ustawy Pzp oraz o których mowa w art. 7 ust. 1 ustawy z 13 kwietnia 2022r.
+o szczeg ólnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę
+oraz służących ochronie bezpieczeństwa narodowego (t. j. Dz.U. z 202 5 r. poz. 5 14).
+3. W przypadku gdy oferta złożona przez Wykonawców wspólnie ubiegających się o udzielenie
+zamówienia zostanie uznana przez Zamawiającego za najkorzystniejszą, Zamawiający może
+żądać przed zawarciem umowy w sprawie zamówienia publicznego spełnienia
+następujących warunków:
+1) Wykonawcy przedłożą umowę regulującą ich współpracę;
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 19 z 37
+2) umowa winna być zawarta na okres realizacji całości zamówienia i nie może być
+rozwiązana przed upływem terminu realizacji zamówienia;
+3) Wykonawcy występujący wspólnie ponosić będą solidarną odpowiedzialność za
+niewykonanie lub nienależyte wykonanie zamówienia.
+4.  W przypadku Wykonawców wspólnie ubiegających się o udzielenie zamówienia:
+1) żaden z nich nie może podlegać wykluczeniu z postępowania o udzielenie zamówienia
+publicznego w okolicznościach, o których mowa w rozdz . XVI ust. 1 pkt 2 SWZ;
+2) oświadczenie stanowiące Załącznik nr 4 do SWZ, składa każdy z wykonawców wspólnie
+ubiegających się o udzielenie zamówienia. Oświadczenie ma potwierdzać brak
+podstaw do wykluczenia w zakresie, w którym każdy z wykonawców wykazuje brak
+podstaw wykluczenia;
+3) dokumenty dotyczące umocowania do reprezentowania Wykonawcy, o których mowa
+w rozdz. XVI I ust. 3 pkt 2 SWZ - składa każdy wykonawca;
+4) składają łącznie: pełnomocnictwo, o którym mowa w rozdz. XVI I ust. 3 pkt 3 SWZ.
+5.  W przypadku wykonawców wspólnie ubiegających się o udzielenie zamówienia,
+poświadczenia za zgodność z oryginałem dokonuje wykonawca wspólnie ubiegający się
+o udzielenie zamówienia, w zakresie dokumentów lub oświadczeń, które każdego z nich
+dotyczą.
+XIX. SPOSÓB OBLICZENIA CENY
+1. Wykonawca określa cenę realizacji zamówienia w Formularzu oferty - Załącznik nr 2 do
+SWZ .
+2. Łączna cena oferty (brutto) musi uwzględniać wszystkie koszty związane z realizacją
+przedmiotu zamówienia zgodnie z postanowieniami opisanymi w SWZ.
+3. Cena musi być podana i wyliczona w zaokrągleniu do dwóch miejsc po przecinku, zgodnie
+z zasadami matematycznymi.
+4. Cena oferty winna być wyrażona w złotych polskich.
+5. Zamawiający nie przewiduje rozliczenia w walutach obcych. Wszelkie rozliczenia między
+Zamawiającym a Wykonawcą będą prowadzone wyłącznie w złotych polskich.
+6. Do wyliczenia ceny oferty (brutto), Wykonawca zastosuje właściwą stawkę podatku od
+towarów i usług (VAT) w wysokości procentowej obowiązującej w dniu składania ofert.
+7. Wykonawca oblicza  Cenę oferty (brutto) wypełniając Formularz asortymentowo -cenowy,
+stanowiący dla Części 1 zamówienia Załącznik nr 3a do SWZ, dla Części 2 zamówienia
+Załącznik nr 3b do SWZ, dla Części 3 zamówienia Załącznik nr 3c do SWZ , dla Części 4
+zamówienia Załącznik nr 3d do SWZ , dla Części 5 zamówienia Załącznik nr 3e do SWZ .
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 20 z 37
+8. Sposób wypełnienia Formularza asortymentowo -cenowego:
+a) w kolumnie Cena jednostkowa netto (w zł) należy wpisać cenę za 1 sztukę (netto)
+w każdym wierszu,
+b) w kolumnie Wartość netto (w zł)  obliczana zostaje wartość wynikająca z przemnożenia
+wartości z kolumny Cena jednostkowa netto (w zł) oraz  Ilość sz t.,
+c)  w kolumnie Stawka podatku VAT (w %)  należy określić obowiązującą stawkę podatku
+od towarów i usług dla każdej pozycji,
+d) w pozycji Razem netto  (w zł)  obliczana zostaje  suma wartości z kolumny Wartość netto
+(w zł),
+e) w pozycji Kwota VAT  (w zł) należy wpisać obliczoną wartość podatku wynikającą
+z przemnożenia wartości z pozycji Razem netto (w zł ) przez Stawka podatku VAT
+(w %) ,
+f) Cenę oferty brutto  (w zł)  dla zamówienia należy obliczyć w rubryce zamieszczonej na
+końcu tabeli, jako sumę wartości z pozycji  Razem netto (w zł) oraz wartości z pozycji
+Kwota VAT  (w zł) .
+g) Wykonawca uzupełnia pozostałe kolumny Formularza asortymentowo -cenowego
+zgodnie z tytułem kolumny identyfikującą jej zawartość .
+9. Obliczoną za pomocą odpowiedniego dla danej części Formularza asortymentowo -
+cenowego cenę oferty brutto należy wpisać w odpowiednim miejscu w Formularzu oferty
+wg. wzoru określonego w Załączniku nr 2 do SWZ  (odpowiednio dla danej Części).
+10. Cena oferty brutt o (w zł)  w Formularzu oferty obejmuje wszystkie koszty związane
+z wykonywaniem zamówienia, łącznie z transportem i rozładunkiem w miejscu dostawy, tj.
+w siedzibie Zamawiającego.
+11. Jeżeli złożona zostanie oferta, której wybór prowadziłby do powstania u zamawiającego
+obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów
+i usług, dla celów zastosowania kryterium ceny zamawiający doliczy do przedstawionej
+w tej ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć.
+W ofercie wykonawca ma obowiązek: poinformowania zamawiającego, że wybór jego
+oferty będzie prowadził do powstania u zamawiającego obowiązku podatkowego;
+wskazania nazwy  (rodzaju) towaru lub usługi, których dostawa lub świadczenie będą
+prowadziły do powstania obowiązku podatkowego; wskazania wartości towaru lub usługi
+objętego obowiązkiem podatkowym zamawiającego, bez kwoty podatku; wskazania stawki
+podatku od towarów i u sług, która zgodnie z wiedzą wykonawcy, będzie miała
+zastosowanie.
+12. W toku badania i oceny ofert Zamawiający może żądać od Wykonawców wyjaśnień
+dotyczących treści złożonych ofert oraz przedmiotowych środków dowodowych lub innych
+składanych dokumentów lub oświadczeń. Niedopuszczalne jest prowadzenie między
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 21 z 37
+Zamawiającym a Wykonawcą negocjacji dotyczących złożonej oferty oraz dokonywanie
+jakiejkolwiek zmiany w jej treści, z zastrzeżeniem ust. 13 niniejszego rozdziału.
+13. Zamawiający poprawi w ofercie:
+1) oczywiste omyłki pisarskie,
+2) oczywiste omyłki rachunkowe, z uwzględnieniem konsekwencji rachunkowych
+dokonanych poprawek,
+3) inne omyłki polegające na niezgodności oferty z dokumentami zamówienia,
+niepowodujące istotnych zmian w treści oferty,
+− niezwłocznie zawiadamiając o tym wykonawcę, którego oferta została poprawiona.
+14. W przypadku, o którym mowa w ust. 13 pkt 3), Zamawiający wyznaczy Wykonawcy
+odpowiedni termin na wyrażenie zgody na poprawienie w ofercie omyłki lub
+zakwestionowanie jej poprawienia. Brak odpowiedzi w wyznaczonym terminie uznaje się
+za wyrażenie zgody na p oprawienie omyłki.
+15. Jeżeli zaoferowana cena lub jej istotne części składowe, wydają się rażąco niskie
+w stosunku do przedmiotu zamówienia lub budzą wątpliwości zamawiającego co do
+możliwości wykonania przedmiotu zamówienia zgodnie z wymaganiami określonymi
+w dokumentach zamówienia lub wynikającymi z odrębnych przepisów, zamawiający zażąda
+od Wykonawcy wyjaśnień, w tym złożenia dowodów w zakresie wyliczenia ceny, lub jej
+istotnych części składowych.
+16. Obowiązek wykazania, że oferta nie zawiera rażąco niskiej ceny lub kosztu spoczywać
+będzie na Wykonawcy.
+17. Odrzuceniu jako oferta z rażąco niską ceną, podlega oferta Wykonawcy, który nie udzieli
+wyjaśnień w wyznaczonym terminie, lub jeżeli złożone wyjaśnienia wraz z dowodami nie
+uzasadniają podanej w ofercie ceny.
+18. Zamawiający odrzuci ofertę, jeżeli wystąpi co najmniej jedna przesłanka unormowana
+w art. 226 ust. 1 ustawy Pzp.
+XX. OPIS KRYTERIÓW OCENY OFERT, WRAZ Z PODANIEM WAG TYCH KRYTERIÓW I SPOSOBU
+OCENY OFERT
+CZĘŚĆ 1 ZAMÓWIENIA
+1. Kryteria, którymi Zamawiający będzie się kierował przy wyborze oferty w Części  1 są:
+Cena, Okres gwarancji komputera , Ilość pamięci RAM .
+2. Znaczenie kryterium:
+a) Cena - 60 % wagi
+b) Okres gwarancji komputera – 20 % wagi
+c) Ilość pamięci RAM – 20 % wagi
+gdzie 1% = 1  pkt.
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 22 z 37
+3. Zasady przyznawania punktów:
+3.1 Opis kryterium: Cena  (waga 60 % )
+Ocenie zostanie poddana cena oferty (brutto)  za realizację zamówienia obliczona przez
+Wykonawcę zgodnie z obowiązującymi przepisami prawa i podana w  Formularzu oferty
+(dla Części 1 zamówienia).
+Sposób obliczenia ceny określony został w rozdziale XIX SWZ .
+Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium w  %
+(maksymalnie 60 punktów).
+Uzyskana liczba punktów w ramach kryterium zaokrąglona zostanie do drugiego miejsca
+po przecinku.
+Ocena oferty według tego kryterium zostanie dokonana w oparciu o poniższy wzór:
+C= Cmin/Cbad* 60 pkt
+gdzie:
+C – ilość punktów przyznana ocenianej ofercie w ramach kryterium Cena (brutto)
+za realizację zamówienia,
+Cmin – najniższa cena (brutto) zaoferowana spośród ofert złożonych na realizację
+zamówienia,
+Cbad – cena (brutto) oferty badanej złożonej na realizację zamówienia.
+3.2 Opis kryterium: Okres gwarancji komputera  (waga 20 % )
+Ocenie zostanie poddany okres gwarancji na komputer , przy czym minimalny wymagany
+przez Zamawiającego okres gwarancji  producenta  wynosi 2 lata (wartość musi być podan a
+w pełnych latach ).
+Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium
+w % (maksymalnie 20 punktów).
+Przyznawanie ilości punktów poszczególnym ofertom odbywać się będzie według
+następującej zasady:
+min. 2 lata  – 0 pkt
+3 lata  – 10 pkt
+4 lata i więcej  - 20 pkt
+Wykonawca wskazuje zaoferowany okres gwarancji na komputer  (w pełnych  latach)
+w odpowiedni m miejscu  w Formularzu  oferty (w Części 1 zamówienia).
+W przypadku niepodania przez Wykonawcę w Formularzu oferty (w  Części 1 zamówienia)
+okresu gwarancji na komputer  lub w przypadku podania okresu gwarancji
+w niepełnych latach , Zamawiający uzna, iż Wykonawca zaoferował minimalny, wymagany
+przez Zamawiającego okres gwarancji  producenta  na komputer  i nie przyzna punktów
+w przedmiotowym kryterium.
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 23 z 37
+3.3 Opis kryterium: Ilość zaoferowanej pamięci RAM komputera  przenośnego
+(waga 20%)
+Ocenie zostanie poddana  ilość zaoferowanej pamięci RAM komputera przenośnego, przy
+czym minimalna, wymagana przez Zamawiającego ilość pamięci RAM komputera
+przenośnego wynosi 16 GB.
+Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium
+w % (maksymalnie 20 punktów).
+Przyznawanie ilości punktów poszczególnym ofertom odbywać się będzie według
+następującej zasady:
+16 GB – 0 pkt
+32 GB – 10 pkt
+64 GB i więcej – 20 pkt.
+Wykonawca wskazuje zaoferowaną ilość pamięci RAM komputera przenośnego
+w odpowiednim miejscu w Formularzu oferty (w C zęści  1 zamówienia).
+W przypadku niepodania przez Wykonawcę w Formularzu oferty (w  Części  1 zamówienia)
+ilości pamięci RAM komputera przenośnego, Zamawiający uzna, iż Wykonawca
+zaoferował minimalną, wymaganą przez Zamawiającego ilość pamięci RAM komputera
+przenośnego i nie przyzna punktów w przedmiotowym kryterium.
+4. Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium
+w punktach. Przyznane punkty zostaną zsumowane.
+5. Za najkorzystniejszą zostanie uznana oferta, która uzyska najwyższą łączną liczbę
+punktów wyliczonych wg zasad, o których mowa w tym rozdziale SWZ.
+6. Maksymalna liczba punktów za w/w kryteria wynosi 100 punktów.
+7. Jeżeli nie można wybrać najkorzystniejszej oferty z uwagi na to, że dwie lub więcej ofert
+przedstawia taki sam bilans ceny i innych kryteriów oceny ofert, zamawiający wybiera
+spośród tych ofert ofertę, która otrzymała najwyższą ocenę w kryterium o najwyższ ej
+wadze.
+8. Jeżeli oferty otrzymały taką samą ocenę w kryterium o najwyższej wadze, Zamawiający
+wybiera ofertę z najniższą ceną.
+9. Jeżeli nie można dokonać wyboru oferty w sposób, o którym mowa w ust. 8,
+Zamawiający wzywa Wykonawców, którzy złożyli te oferty, do złożenia w terminie
+określonym przez Zamawiającego ofert dodatkowych zawierających nową cenę.
+10. Wykonawcy, składając oferty dodatkowe, nie mogą oferować cen wyższych niż
+zaoferowane w uprzednio złożonych przez nich ofertach.
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 24 z 37
+CZĘŚĆ 2 ZAMÓWIENIA
+1. Kryteria, którymi Zamawiający będzie się kierował przy wyborze oferty w Części  2
+zamówienia są : Cena, Okres gwarancji Routera bezprzewodowego z modemem 5G , Okres
+gwarancji zestawu mysz komputerowa + klawiatura  oraz  Okres gwarancji dysków NVME.
+2. Znaczenie kryterium:
+a) Cena - 60 % wagi
+b) Okres gwarancji Routera bezprzewodowego z modemem 5G – 15 % wagi
+c) Okres gwarancji zestawu mysz komputerowa + klawiatura – 15 % wagi
+d) Okres gwarancji dysków NVME – 10% wagi
+gdzie 1% = 1 pkt.
+3. Zasady przyznawania punktów:
+3.1 Opis kryterium: Cena  (waga 60%)
+Ocenie zostanie poddana cena oferty (brutto)  za realizację zamówienia obliczona przez
+Wykonawcę zgodnie z obowiązującymi przepisami prawa i podana w  Formularzu oferty
+(dla C zęści  2 zamówienia).
+Sposób obliczenia ceny określony został w rozdziale XIX SWZ .
+Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium w  %
+(maksymalnie 60 punktów).
+Uzyskana liczba punktów w ramach kryterium zaokrąglona zostanie do drugiego miejsca
+po przecinku.
+Ocena oferty według tego kryterium zostanie dokonana w oparciu o poniższy wzór:
+C= Cmin/Cbad* 60 pkt
+gdzie:
+C – ilość punktów przyznana ocenianej ofercie w ramach kryterium Cena (brutto)
+za realizację zamówienia,
+Cmin  – najniższa cena (brutto) zaoferowana spośród ofert złożonych na realizację
+zamówienia,
+Cbad – cena (brutto) oferty badanej złożonej na realizację zamówienia.
+3.2 Opis kryterium: Okres gwarancji Routera bezprzewodowego z modemem 5G (waga
+15 % )
+Ocenie zostanie poddany o kres gwarancji na zaoferowany  Router bezprzewodowy
+z modemem 5G (wartość musi być podana w pełnych latach ), przy czym minimalny  okres
+gwarancji producenta wymagany przez Zamawiającego to 1 rok.
+Maksymalna liczba punktów w tym kryterium równa jest określonej wadze kryterium
+w % (maksymalnie 15 punktów).
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 25 z 37
+Przyznawanie ilości punktów poszczególnym ofertom odbywać się będzie według
+następującej zasady:
+min. 1 rok – 0 pkt
+2 lata – 5 pkt
+3 lata  – 10 pkt
+4 lata i więcej – 15 pkt.
+Wykonawca wskazuje zaoferowany okres gwarancji na Router bezprzewodowy
+z modemem 5G  (w pełnych latach ) w odpowiednim miejscu w Formularzu oferty  (w C zęści
+2 zamówienia).
+W przypadku niepodania przez Wykonawcę w Formularzu oferty (w  Części  2 zamówienia)
+okresu gwarancji na Router bezprzewodowy z modemem 5G  lub w przypadku podania
+okresu gwarancji w niepełnych latach , Zamawiający uzna, iż Wykonawca zaoferował
+minimalny, wymagany przez Zamawiającego okres gwarancji producenta na Router
+bezprzewodowy z modemem 5G  i nie przyzna punktów w  przedmiotowym kryterium.
+3.3 Opis kryterium: Okres gwarancji zestawu mysz komputerowa + klawiatura (waga 15
+Ocenie zostanie poddany o kres gwarancji  zaoferowany  na mysz komputerow ą +
+klawiatura  (wartość musi być podana w pełnych latach ) przy czym minimalny okres
+gwarancji producenta  wymagany przez Zamawiającego to 2 lata.
+Maksymalna liczba punktów w tym kryterium równa jest określonej wadze kryterium
+w % (maksymalnie 15 punktów).
+Przyznawanie ilości punktów poszczególnym ofertom odbywać się będzie według
+następującej zasady:
+min. 2 lata  – 0 pkt
+3 lata – 7 pkt
+4 lata  i więcej – 15 pkt
+Wykonawca wskazuje zaoferowany okres gwarancji na mysz komputerowa  + klawiatura
+(w pełnych latach ) w odpowiednim miejscu w Formularzu oferty  (w Części 2 zamówienia).
+W przypadku niepodania przez Wykonawcę w Formularzu oferty (w  Części 2 zamówienia)
+okresu gwarancji na mysz komputerowa + klawiatura lub w przypadku podania okresu
+gwarancji w niepełnych latach , Zamawiający uzna, iż Wykonawca zaoferował minimalny,
+wymagany przez Zamawiającego okres gwarancji producenta na mysz komputerowa +
+klawiatura  i nie przyzna punktów w  przedmiotowym kryterium.
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 26 z 37
+3.4 Opis kryterium: Okres gwarancji dysków NVME (waga  10% )
+Ocenie zostanie poddany o kres gwarancji zaoferowany na dysk NVME (wartość musi być
+podana w pełnych latach ) przy czym minimalny okres gwarancji producenta wymagany
+przez Zamawiającego to 2 lata .
+Maksymalna liczba punktów w tym kryterium równa jest określonej wadze kryterium
+w % (maksymalnie 10 punktów).
+Przyznawanie ilości punktów poszczególnym ofertom odbywać się będzie według
+następującej zasady:
+2 lata – 0 pkt
+3 lata  – 5 pkt
+4 lata i więcej  – 10 pkt.
+Wykonawca wskazuje zaoferowany okres gwarancji na dysk NVME  (w pełnych latach )
+w odpowiednim miejscu w Formularzu oferty (w Części 2 zamówienia).
+W przypadku niepodania przez Wykonawcę w Formularzu oferty (w  Części 2 zamówienia)
+okresu gwarancji  na dysk NVME lub w przypadku podania okresu gwarancji
+w niepełnych latach , Zamawiający uzna, iż Wykonawca zaoferował minimalny, wymagany
+przez Zamawiającego okres gwarancji  producenta  na dysk NVME i nie przyzna punktów
+w przedmiotowym kryterium.
+4. Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium
+w punktach. Przyznane punkty zostaną zsumowane.
+5. Za najkorzystniejszą zostanie uznana oferta, która uzyska najwyższą łączną liczbę punktów
+wyliczonych wg zasad, o których mowa w tym rozdziale SWZ.
+6. Maksymalna liczba punktów za w/w kryteria wynosi 100 punktów.
+7. Jeżeli nie można wybrać najkorzystniejszej oferty z uwagi na to, że dwie lub więcej ofert
+przedstawia taki sam bilans ceny i innych kryteriów oceny ofert, Zamawiający wybiera
+spośród tych ofert ofertę, która otrzymała najwyższą ocenę w kryterium o najwyższej
+wadze.
+8. Jeżeli oferty otrzymały taką samą ocenę w kryterium o najwyższej wadze, Zamawiający
+wybiera ofertę z najniższą ceną.
+9. Jeżeli nie można dokonać wyboru oferty w sposób, o którym mowa w ust. 8, Zamawiający
+wzywa Wykonawców, którzy złożyli te oferty, do złożenia w terminie określonym przez
+Zamawiającego ofert dodatkowych zawierających nową cenę.
+10. Wykonawcy, składając oferty dodatkowe, nie mogą oferować cen wyższych niż
+zaoferowane w uprzednio złożonych przez nich ofertach.
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 27 z 37
+CZĘŚĆ 3 ZAMÓWIENIA
+1. Kryteria, którymi Zamawiający będzie się kierował przy wyborze oferty w Części 3  są: Cena,
+okres gwarancji Serwera, okres gwarancji biblioteki taśmowej.
+2. Znaczenie kryterium:
+a) Cena - 60 %
+b) Okres gwarancji Serwera   – 25%
+c) okres gwarancji biblioteki taśmowej  – 15%
+gdzie 1% = 1 pkt.
+3. Zasady przyznawania punktów:
+3.1 Opis kryterium : Cena (waga 60%)
+Ocenie zostanie poddana cena oferty (brutto)  za realizację zamówienia obliczona przez
+Wykonawcę zgodnie z obowiązującymi przepisami prawa i podana w  Formularzu oferty
+(w Części 3 zamówienia).
+Sposób obliczenia ceny określony został w rozdziale XIX SWZ.
+Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium w  %
+(maksymalnie 60 punktów).
+Uzyskana liczba punktów w ramach kryterium zaokrąglona zostanie do drugiego miejsca
+po przecinku.
+Ocena oferty według tego kryterium zostanie dokonana w oparciu o poniższy wzór:
+C= Cmin/Cbad* 60 pkt
+gdzie:
+C – ilość punktów przyznana ocenianej ofercie w ramach kryterium Cena (brutto)
+za realizację zamówienia,
+Cmin  – najniższa cena (brutto) zaoferowana spośród ofert złożonych na realizację
+zamówienia,
+Cbad – cena (brutto) oferty badanej złożonej na realizację zamówienia.
+3.2 Opis kryterium: Okres gwarancji Serwera (waga 25%)
+Ocenie zostanie poddany o kres gwarancji  zaoferowany  na Serwer  (wartość musi być
+podana w pełnych latach ) przy czym minimalny okres gwarancji producenta na Serwer
+wymagany przez Zamawiającego to 3 lata.
+Maksymalna liczba punktów w tym kryterium równa jest określonej wadze kryterium
+w % (maksymalnie 25 punktów).
+Przyznawanie ilości punktów poszczególnym ofertom odbywać się będzie według
+następującej zasady:
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 28 z 37
+min.  3 lata  – 0 pkt
+4 lata  – 12 pkt
+5 lat  i więcej  – 25 pkt.
+Wykonawca wskazuje zaoferowany okres gwarancji na Serwer  (w pełnych latach )
+w odpowiednim miejscu w Formularzu oferty (w Części 3 zamówienia).
+W przypadku niepodania przez Wykonawcę w Formularzu oferty (w  Części 3 zamówienia)
+okresu gwarancji na Serwer  lub w przypadku podania okresu gwarancji w niepełnych
+latach , Zamawiający uzna, iż Wykonawca zaoferował minimalny, wymagany przez
+Zamawiającego okres gwarancji producenta  na Serwer  i nie przyzna punktów
+w przedmiotowym kryterium.
+3.3 Opis kryterium: Okres gwarancji biblioteki taśmowej (waga 15 % )
+Ocenie zostanie poddany o kres gwarancji  zaoferowany  na bibliotekę taśmową (wartość
+musi być podana w pełnych latach ) przy czym minimalny okres gwarancji producenta na
+bibliotekę taśmową wymagany przez Zamawiającego to 3 lata.
+Maksymalna liczba punktów w tym kryterium równa jest określonej wadze kryterium
+w % (maksymalnie 15 punktów).
+Przyznawanie ilości punktów poszczególnym ofertom odbywać się będzie według
+następującej zasady:
+min. 3 lata – 0 pkt
+4 lata  – 7 pkt
+5 lat i więcej – 15 pkt.
+Wykonawca wskazuje zaoferowany okres gwarancji na bibliotekę taśmową
+(w pełnych latach ) w odpowiednim miejscu w Formularzu oferty (w Części 3 zamówienia).
+W przypadku niepodania przez Wykonawcę w Formularzu oferty (w  Części 3 zamówienia)
+okresu gwarancji na bibliotekę taśmową  lub w przypadku podania okresu gwarancji
+w niepełnych latach , Zamawiający uzna, iż Wykonawca zaoferował minimalny, wymagany
+przez Zamawiającego okres gwarancji producenta  na bibliotekę taśmową  i nie przyzna
+punktów w  przedmiotowym kryterium.
+4. Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium
+w punktach. Przyznane punkty zostaną zsumowane.
+5. Za najkorzystniejszą zostanie uznana oferta, która uzyska najwyższą łączną liczbę punktów
+wyliczonych wg zasad, o których mowa w  tym rozdziale SWZ.
+6. Maksymalna liczba punktów za w/w kryteria wynosi 100 punktów.
+7. Jeżeli nie można wybrać najkorzystniejszej oferty z uwagi na to, że dwie lub więcej ofert
+przedstawia taki sam bilans ceny i innych kryteriów oceny ofert, Zamawiający wybiera
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 29 z 37
+spośród tych ofert ofertę, która otrzymała najwyższą ocenę w kryterium o najwyższej
+wadze.
+8. Jeżeli oferty otrzymały taką samą ocenę w kryterium o najwyższej wadze, Zamawiający
+wybiera ofertę z najniższą ceną.
+9. Jeżeli nie można dokonać wyboru oferty w sposób, o którym mowa w ust. 8, Zamawiający
+wzywa Wykonawców, którzy złożyli te oferty, do złożenia w terminie określonym przez
+Zamawiającego ofert dodatkowych zawierających nową cenę.
+10. Wykonawcy, składając oferty dodatkowe, nie mogą oferować cen wyższych niż
+zaoferowane w uprzednio złożonych przez nich ofertach.
+CZĘŚĆ 4 ZAMÓWIENIA
+1. Kryteria, którymi Zamawiający będzie się kierował przy wyborze oferty w Części 4  są
+Cena, Okres gwarancji komputera, Ilość pamięci RAM .
+2. Znaczenie kryterium:
+a) Cena - 60 % wagi
+b) Okres gwarancji komputera – 20 % wagi
+c) Ilość pamięci RAM – 20 % wagi
+gdzie 1% = 1 pkt .
+3. Zasady przyznawania punktów:
+3.1 Opis kryterium: Cena  (waga 60 % )
+Ocenie zostanie poddana cena oferty (brutto)  za realizację zamówienia obliczona przez
+Wykonawcę zgodnie z obowiązującymi przepisami prawa i podana w  Formularzu oferty
+(dla Części 4 zamówienia).
+Sposób obliczenia ceny określony został w rozdziale X IX SWZ.
+Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium w  %
+(maksymalnie 60 punktów).
+Uzyskana liczba punktów w ramach kryterium zaokrąglona zostanie do drugiego miejsca
+po przecinku.
+Ocena oferty według tego kryterium zostanie dokonana w oparciu o poniższy wzór:
+C= Cmin/Cbad*60 pkt
+gdzie:
+C – ilość punktów przyznana ocenianej ofercie w ramach kryterium Cena (brutto)
+za realizację zamówienia,
+Cmin – najniższa cena (brutto) zaoferowana spośród ofert złożonych na realizację
+zamówienia,
+Cbad – cena (brutto) oferty badanej złożonej na realizację zamówienia.
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 30 z 37
+3.2 Opis kryterium: Okres gwarancji komputera  (waga 20 % )
+Ocenie zostanie poddany okres gwarancji na komputer, przy czym minimalny wymagany
+przez Zamawiającego okres gwarancji  producenta  wynosi 2 lata (wartość musi być podana
+w pełnych latach ).
+Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium
+w % (maksymalnie 20 punktów).
+Przyznawanie ilości punktów poszczególnym ofertom odbywać się będzie według
+następującej zasady:
+2 lata – 0 pkt
+3 lata  – 10 pkt
+4 lata  i więcej - 20 pkt
+Wykonawca wskazuje zaoferowany okres gwarancji na komputer  (w pełnych latach)
+w odpowiednim miejscu w Formularzu oferty  (w Części 4 zamówienia).
+W przypadku niepodania przez Wykonawcę w Formularzu oferty (w  Części 4 zamówienia)
+okresu gwarancji na komputer lub w przypadku podania okresu gwarancji w niepełnych
+latach , Zamawiający uzna, iż Wykonawca zaoferował minimalny, wymagany przez
+Zamawiającego okres gwarancji producenta na komputer i nie przyzna punktów
+w przedmiotowym kryterium.
+3.3 Opis kryterium: Ilość zaoferowanej pamięci RAM komputera przenośnego
+(waga 20%)
+Ocenie zostanie poddana  ilość zaoferowanej pamięci RAM komputera przenośnego, przy
+czym minimalna, wymagana przez Zamawiającego ilość pamięci RAM komputera
+przenośnego wynosi 8 GB.
+Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium
+w % (maksymalnie 20 punktów).
+Przyznawanie ilości punktów poszczególnym ofertom odbywać się będzie według
+następującej zasady:
+8 GB – 0 pkt
+16 GB – 10 pkt
+32 GB i więcej – 20 pkt.
+Wykonawca wskazuje zaoferowaną Ilość pamięci RAM komputera przenośnego
+w odpowiednim miejscu w Formularzu oferty (w Części 4 zamówienia).
+W przypadku niepodania przez Wykonawcę w Formularzu oferty (w  Części 4 zamówienia)
+ilości pamięci RAM komputera przenośnego, Zamawiający uzna, iż Wykonawca
+zaoferował minimalną, wymaganą przez Zamawiającego ilość pamięci RAM komputera
+przenośnego i nie przyzna punktów w przedmiotowym kryterium.
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 31 z 37
+4. Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium
+w punktach. Przyznane punkty zostaną zsumowane.
+5. Za najkorzystniejszą zostanie uznana oferta, która uzyska najwyższą łączną liczbę
+punktów wyliczonych wg zasad, o których mowa w  tym rozdziale SWZ.
+6. Maksymalna liczba punktów za w/w kryteria wynosi 100 punktów.
+7. Jeżeli nie można wybrać najkorzystniejszej oferty z uwagi na to, że dwie lub więcej ofert
+przedstawia taki sam bilans ceny i innych kryteriów oceny ofert, Zamawiający wybiera
+spośród tych ofert ofertę, która otrzymała najwyższą ocenę w kryterium o najwyższej
+wadze.
+8. Jeżeli oferty otrzymały taką samą ocenę w kryterium o najwyższej wadze, Zamawiający
+wybiera ofertę z najniższą ceną.
+9. Jeżeli nie można dokonać wyboru oferty w sposób, o którym mowa w ust. 8,
+Zamawiający wzywa Wykonawców, którzy złożyli te oferty, do złożenia w terminie
+określonym przez Zamawiającego ofert dodatkowych zawierających nową cenę.
+10. Wykonawcy, składając oferty dodatkowe, nie mogą oferować cen wyższych niż
+zaoferowane w uprzednio złożonych przez nich ofertach.
+CZĘŚĆ 5 ZAMÓWIENIA
+1. Kryteria, którymi Zamawiający będzie się kierował przy wyborze oferty w Części 5  są
+Cena, Okres gwarancji na urządzenie wielofunkcyjne, Szybkość  drukowania strony A4,
+Szybkość skanowania strony A4.
+2. Znaczenie kryterium:
+a) Cena – waga  60 %
+b) Okres gwarancji na urządzenie wielofunkcyjne – waga  20%
+c) Szybkość drukowania strony A4 – waga  10%
+d) Szybkość skanowania strony A4 – waga 10 %
+gdzie 1% = 1 pkt .
+3. Zasady przyznawania punktów:
+3.1 Opis kryterium: Cena  (waga  60 % )
+Ocenie zostanie poddana cena oferty (brutto)  za realizację zamówienia obliczona przez
+Wykonawcę zgodnie z obowiązującymi przepisami prawa i podana w  Formularzu oferty
+(dla Części 5 zamówienia).
+Sposób obliczenia ceny określony został w rozdziale XIX SWZ .
+Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium w  %
+(maksymalnie 60 punktów).
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 32 z 37
+Uzyskana liczba punktów w ramach kryterium zaokrąglona zostanie do drugiego miejsca
+po przecinku.
+Ocena oferty według tego kryterium zostanie dokonana w oparciu o poniższy wzór:
+C= Cmin/Cbad*60 pkt
+gdzie:
+C – ilość punktów przyznana ocenianej ofercie w ramach kryterium Cena (brutto)
+za realizację zamówienia,
+Cmin – najniższa cena (brutto) zaoferowana spośród ofert złożonych na realizację
+zamówienia,
+Cbad – cena (brutto) oferty badanej złożonej na realizację zamówienia.
+3.2 Opis kryterium: Okres gwarancji na urządzenie wielofunkcyjne  (waga  20% )
+Ocenie zostanie poddany okres gwarancji na zaoferowane urządzenie wielofunkcyjne,
+przy czym minimalny wymagany przez Zamawiającego okres gwarancji producenta
+wynosi 2  lata (wartość musi być podana w pełnych  latach ).
+Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium
+w % (maksymalnie 20 punktów).
+Przyznawanie ilości punktów poszczególnym ofertom odbywać się będzie według
+następującej zasady:
+min. 2 lata  – 0 pkt
+3 lata  – 10 pkt
+4 lata  i więcej - 20 pkt
+Wykonawca wskazuje zaoferowany okres gwarancji na urządzenie wielofunkcyjne
+(w pełnych latach ) w odpowiednim miejscu w Formularzu oferty
+(w Części 5 zamówienia).
+W przypadku niepodania przez Wykonawcę w Formularzu oferty (w  Części 5 zamówienia)
+okresu gwarancji na urządzenie wielofunkcyjne lub w przypadku podania okresu
+gwarancji w niepełnych latach , Zamawiający uzna, iż Wykonawca zaoferował minimalny,
+wymagany przez Zamawiającego okres gwarancji producenta na urządzenie
+wielofunkcyjne i nie przyzna punktów w  przedmiotowym kryterium.
+3.3 Opis kryterium: Szybkość drukowania strony A4  (waga  10% )
+Ocenie zostanie poddana szybkość drukowania strony A4 – dotyczy drugiej i każdej
+kolejnej strony, przy czym minimalna szybkość drukowania drugiej i każdej kolejnej strony
+wymagana przez Zamawiającego to 30 str./min.
+Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium w %
+(maksymalnie 10 punktów).
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 33 z 37
+Przyznawanie ilości punktów poszczególnym ofertom odbywać się będzie według
+następującej zasady:
+30 str/min – 0 pkt.
+31-34 str/min – 5 pkt
+35 str/min  i szybciej  – 10 pkt
+Wykonawca wskazuje szybkość drukowania strony A4 – dotyczy drugiej i każdej kolejnej
+strony w odpowiednim miejscu w Formularzu oferty (w Części 5 zamówienia).
+W przypadku niepodania przez Wykonawcę w Formularzu oferty (w Części 5 zamówienia)
+szybkości drukowania  strony A4, Zamawiający uzna, iż Wykonawca zaoferował
+minimalną, wymaganą przez Zamawiającego szybkość drukowania strony A4  i nie przyzna
+punktów w przedmiotowym kryterium.
+3.4 Opis kryterium: Szybkość skanowania strony A4  (waga  10% )
+Ocenie zostanie poddana szybkość skanowania strony A4 – dotyczy drugiej i każdej
+kolejnej strony, przy czym minimalna szybkość skanowania drugiej i każdej kolejnej strony
+wymagana przez Zamawiającego to 30 str./min.
+Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium w %
+(maksymalnie 10 punktów).
+Przyznawanie ilości punktów poszczególnym ofertom odbywać się będzie według
+następującej zasady:
+30 str/min – 0 pkt.
+31-44 str/min – 5 pkt
+45 str/min  i szybciej  – 10 pkt
+Wykonawca wskazuje szybkość skanowania strony A4 w – dotyczy drugiej i każdej kolejnej
+strony w odpowiednim miejscu w Formularzu oferty (w Części 5 zamówienia).
+W przypadku niepodania przez Wykonawcę w Formularzu oferty (w Części 5 zamówienia)
+szybkości skanowania strony A4, Zamawiający uzna, iż Wykonawca zaoferował
+minimalną, wymaganą przez Zamawiającego szybkość skanowania strony A4 i nie przyzna
+punktów w przedmiotowym kryterium.
+4. Maksymalna liczba punktów w kryterium równa jest określonej wadze kryterium
+w punktach. Przyznane punkty zostaną zsumowane.
+5. Za najkorzystniejszą zostanie uznana oferta, która uzyska najwyższą łączną liczbę
+punktów wyliczonych wg zasad, o których mowa w  tym rozdziale SWZ.
+6. Maksymalna liczba punktów za w/w kryteria wynosi 100 punktów.
+7. Jeżeli nie można wybrać najkorzystniejszej oferty z uwagi na to, że dwie lub więcej ofert
+przedstawia taki sam bilans ceny i innych kryteriów oceny ofert, Zamawiający wybiera
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 34 z 37
+spośród tych ofert ofertę, która otrzymała najwyższą ocenę w kryterium o najwyższej
+wadze.
+8. Jeżeli oferty otrzymały taką samą ocenę w kryterium o najwyższej wadze, Zamawiający
+wybiera ofertę z najniższą ceną.
+9. Jeżeli nie można dokonać wyboru oferty w sposób, o którym mowa w ust. 8,
+Zamawiający wzywa Wykonawców, którzy złożyli te oferty, do złożenia w terminie
+określonym przez Zamawiającego ofert dodatkowych zawierających nową cenę.
+10. Wykonawcy, składając oferty dodatkowe, nie mogą oferować cen wyższych niż
+zaoferowane w uprzednio złożonych przez nich ofertach.
+XXI. INFORMACJE O FORMALNOŚCIACH, JAKIE MUSZĄ ZOSTAĆ DOPEŁNIONE PO WYBORZE
+OFERTY W CELU ZAWARCIA UMOWY W SPRAWIE ZAMÓWIENIA PUBLICZNEGO
+1. Niezwłocznie po wyborze najkorzystniejszej oferty Zamawiający informuje równocześnie
+Wykonawców, którzy złożyli oferty, o:
+1) wyborze najkorzystniejszej oferty, podając nazwę albo imię i nazwisko, siedzibę albo
+miejsce zamieszkania, jeżeli jest miejscem wykonywania działalności Wykonawcy,
+którego ofertę wybrano, oraz nazwy albo imiona i nazwiska, siedziby albo miejsca
+zamieszkania, jeżeli są miejscami wykonywania działalności Wykonawców, którzy
+złożyli oferty, a także punktację przyznaną ofertom w każdym kryterium oceny ofert
+i łączną punktację,
+2) Wykonawcach, których oferty zostały odrzucone - podając uzasadnienie faktyczne
+i prawne.
+2. Zamawiający udostępnia niezwłocznie informacje, o których mowa w ust. 1 pkt 1, na stronie
+internetowej prowadzonego postępowania.
+3. Z Wykonawcą, którego oferta została uznana jako oferta najkorzystniejsza zostanie zawarta
+umowa zgodnie z projektowanymi postanowieniami umowy w sprawie zamówienia
+publicznego.
+4. Zamawiający zawrze umowę w sprawie zamówienia publicznego w terminie nie krótszym
+niż 5 dni od dnia przesłania zawiadomienia o wyborze najkorzystniejszej oferty.
+5. Zamawiający może zawrzeć umowę w sprawie zamówienia publicznego przed upływem
+terminu, o którym mowa w ust. 4, jeżeli w postępowaniu o udzielenie zamówienia
+prowadzonym w trybie podstawowym złożono tylko jedną ofertę.
+6. Wykonawca będzie zobowiązany do podpisania umowy w miejscu i terminie wskazanym
+przez Zamawiającego.
+7. Jeżeli Wykonawca, którego oferta została wybrana jako najkorzystniejsza, uchyla się od
+zawarcia umowy w sprawie zamówienia publicznego, Zamawiający może dokonać
+ponownego badania i oceny ofert spośród ofert pozostałych w postępowaniu
+Wykonawców oraz wybrać najkorzystniejszą ofertę albo unieważnić postępowanie.
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 35 z 37
+8. W przypadku wyboru oferty złożonej przez wykonawców wspólnie ubiegających się
+o udzielenie zamówienia Zamawiający może żądać przed zawarciem umowy w sprawie
+zamówienia publicznego kopii umowy regulującej współpracę tych Wykonawców.
+9. Przed zawarciem umowy wykonawca zobowiązany jest do przedłożenia Zamawiającemu
+dokumentów wymaganych przepisami prawa oraz w SWZ, w szczególności pełnomocnictw,
+chyba, że w ofercie znajdują się dokumenty lub pełnomocnictwa upoważniające osoby lub
+osobę do podpisania umowy w sprawie udzielenia zamówienia publicznego w imieniu
+Wykonawcy lub w imieniu wykonawców wspólnie ubiegających się o udzielenie
+zamówienia publicznego.
+XXII. ZABEZPIECZENIE NALEŻYTEGO WYKONANIA UMOWY
+Zamawiający nie żąda od Wykonawcy wniesienia zabezpieczenia należytego wykonania
+umowy.
+XXIII.  POUCZENIE O ŚRODKACH OCHRONY PRAWNEJ PRZYSŁUGUJĄCYCH WYKONAWCY
+Środkami ochrony prawnej w niniejszym postępowaniu są odwołanie i skarga do sądu,
+przewidziane w Dziale IX ustawy Pzp, które przysługują Wykonawcy oraz innemu
+podmiotowi, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może
+ponieść szkodę w wyniku naruszenia przez zamawiającego przepisów ustawy Pzp. Środki
+ochrony prawnej wobec ogłoszenia wszczynającego postępowanie o udzi elenie
+zamówienia oraz dokumentów zamówienia przysługują również organizacjom wpisanym
+na listę, o  której mowa w art. 469 pkt 15 ustawy Pzp, oraz Rzecznikowi Małych i Średnich
+Przedsiębiorców.
+1. Odwołanie
+1) Odwołanie przysługuje na:
+a. niezgodną z przepisami ustawy czynność zamawiającego, podjętą w postępowaniu
+o udzielenie zamówienia, w tym na projektowane postanowienie umowy;
+b. zaniechanie czynności w postępowaniu o udzielenie zamówienia, do której
+zamawiający był obowiązany na podstawie ustawy Pzp.
+2) Odwołanie wnosi się do Prezesa Krajowej Izby Odwoławczej (dalej: „Prezes Izby”)
+w formie pisemnej albo w formie elektronicznej (w postaci elektronicznej, opatrzonej
+kwalifikowanym podpisem elektronicznym) albo w postaci elektronicznej opatrzone
+podpisem zaufanym.
+3) Odwołanie zawiera m. in. wskazanie czynności lub zaniechania czynności
+zamawiającego, której zarzuca się niezgodność z przepisami ustawy Pzp, zawiera
+zwięzłe przedstawienie zarzutów, określa żądanie oraz zawiera wskazanie okoliczności
+faktycznych i prawnyc h uzasadniających wniesienie odwołania oraz dowodów na
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 36 z 37
+poparcie przytoczonych okoliczności. Szczegółowe informacje zawarte zostały w art.
+516 ust. 1 ustawy Pzp.
+4) Odwołanie wnosi się w terminie:
+a. 5 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej
+podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków
+komunikacji elektronicznej,
+b. 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej
+podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż
+określony w lit. a.
+5) Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie
+zamówienia lub wobec treści dokumentów zamówienia wnosi się w terminie 5 dni od
+dnia zamieszczenia ogłoszenia w Biuletynie Zamówień Publicznych lub dokumentów
+zamówienia na stronie internetowej.
+6) Odwołanie w przypadkach innych niż określone powyżej wnosi się w terminie 5 dni od
+dnia, w którym powzięto lub przy zachowaniu należytej staranności można było
+powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia.
+7) Jeżeli zamawiający mimo takiego obowiązku nie przesłał Wykonawcy zawiadomienia
+o wyborze najkorzystniejszej oferty odwołanie wnosi się nie później niż w terminie:
+a. 15 dni od dnia zamieszczenia w Biuletynie Zamówień Publicznych ogłoszenia
+o wyniku postępowania;
+b. miesiąca od dnia zawarcia umowy, jeżeli zamawiający nie zamieścił Biuletynie
+Zamówień Publicznych ogłoszenia o wyniku postępowania.
+8) Odwołujący przekazuje zamawiającemu odwołanie wniesione w formie elektronicznej
+albo postaci elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione
+w formie pisemnej, przed upływem terminu do wniesienia odwołania w taki sposób,
+aby mógł on zapoznać się z jego treścią przed upływem tego terminu.
+2. Skarga
+1) Na orzeczenie Krajowej Izby Odwoławczej (dalej: „Izba”) oraz postanowienie Prezesa
+Izby, o którym mowa w art. 519 ust. 1 ustawy Pzp, stronom oraz uczestnikom
+postępowania odwoławczego przysługuje skarga do sądu.
+2) Skargę wnosi się do Sądu Okręgowego w Warszawie – sądu zamówień publicznych,
+zwanego dalej „sądem zamówień publicznych”.
+3) Skargę wnosi się za pośrednictwem Prezesa Izby, w terminie 14 dni od dnia doręczenia
+orzeczenia Izby lub postanowienia Prezesa Izby, o którym mowa w art. 519 ust. 1
+ustawy Pzp, przesyłając jednocześnie jej odpis przeciwnikowi skargi.
+4) Prezes Izby przekazuje skargę wraz z aktami postępowania odwoławczego do sądu
+zamówień publicznych w terminie 7 dni od dnia jej otrzymania.
+WOJEWÓDZKI URZĄD PRACY
+W KIELCACH
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86, 25 -561 Kielce
+tel.: (048) 41 364 -16-00, fax: (048) 41 364-16-66
+e-mail: wup@wup.kielce.pl,   wupkielce.praca.gov.pl
+Strona 37 z 37
+5) Skargę może wnieść również Prezes Urzędu Zamówień Publicznych, w terminie 30 dni
+od dnia wydania orzeczenia Izby lub postanowienia Prezesa Izby, o którym mowa w  art.
+519 ust. 1 ustawy Pzp. Prezes Urzędu Zamówień Publicznych może także przystąpić do
+toczące go się postępowania. Do czynności podejmowanych przez Prezesa Urzędu
+Zamówień Publicznych stosuje się odpowiednio przepisy ustawy z dnia 17 listopada
+1964 r. – Kodeks postępowania cywilnego o prokuratorze.
+XXIV.  WYKAZ ZAŁĄCZNIKÓW DO SWZ
+Załącznik nr 1 - Opis Przedmiotu Zamówienia.
+Załącznik nr 2 - Formularz oferty
+Załącznik nr 3a - Formularz asortymentowo -cenowy w zakresie C zęści  1
+Załącznik nr 3b - Formularz asortymentowo -cenowy w zakresie Części  2
+Załącznik nr 3c - Formularz asortymentowo -cenowy w zakresie C zęści  3
+Załącznik nr 3d - Formularz asortymentowo -cenowy w zakresie Części 4
+Załącznik nr 3 e - Formularz asortymentowo -cenowy w zakresie Części 5
+Załącznik nr 4 - Oświadczenie wykonawcy dotyczące przesłanek wykluczenia z postępowania
+Załącznik nr 5 - Projektowane postanowienia umowy
+Załącznik nr 6 - Klauzula  informacyjna  RODO
+Dyrektor
+Wojewódzkiego Urzędu Pracy
+Aleksandra Marcinkowska
+Dokument podpisany elektronicznie
+27.06.2025 r.

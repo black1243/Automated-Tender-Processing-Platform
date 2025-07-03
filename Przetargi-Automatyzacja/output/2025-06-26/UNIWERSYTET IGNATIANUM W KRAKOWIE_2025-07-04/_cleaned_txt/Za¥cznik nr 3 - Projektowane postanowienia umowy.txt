@@ -1,0 +1,688 @@
+Oznaczenie sprawy: BZP/202 5/302 Załącznik nr 3 do SWZ
+Strona 1 z 16
+UMOWA
+projektowane postanowienia umowy (projekt umowy/ PPU)
+Zawarta  w dniu ..........................  r. w Krakowie  pomiędzy:
+Uniwersytetem  Ignatianum w Krakowie z siedzibą przy ul Mikołaja  Kopernika26, 31 -501 Kraków, NIP
+6761687491, REGON: 357244777 zwanym dalej „Zamawiającym”, reprezentowanym  przez:
+(Komparycja Umowy w zakresie danych osób reprezentujących Zamawiającego zostanie uzupełniona na dzień
+zawarcia umowy)
+a
+REGON:………..…NIP:…............. .…….., zwanym dalej „Wykonawcą” reprezentowanym przez:
+……………………………………………..... ………………………………………………………. w treści
+umowy Zamawiający i Wykonawca zwanymi są dalej również „Stroną” lub „Stronami”.
+(Komparycja Umowy w zakresie danych Wykonawcy zostanie uzupełniona  na dzień zawarcia umowy, w tym
+dostosowana do formy organizacyjno -prawnej Wykonawcy)
+Reprezentanci  stron  oświadczają,  że są w pełni  uprawnieni  do zawarcia  niniejszej  umowy  oraz,  że ich
+umocowania nie wygasły ani nie zostały ograniczone. W szczególności dz iałający w imieniu Wykonawcy
+oświadczają, że posiadają wymagane uprawienia, zgody, zezwolenia i kwalifikacje, niezbędne do skutecznego
+zawarcia niniejszej umowy oraz jej  wykonania.
+W wyniku rozstrzygnięcia postępowania o udzielenie zamówienia publicznego przeprowadzonego w trybie
+podstawowym bez możliwości negocjacji na „Dostawa różnego sprzętu komputerowego i oprogramowania  -
+4 części ” o nr sprawy: BZP/ 2025/ 302, zgodnie z ustawą z d nia 11 września  2019  r. – Prawo  zamówień
+publicznych  (Dz. U. z 2024 r. poz. 1320) - Strony  zawarły  umowę następującej  treści:
+§ 1
+1. Zamawiający powierza a Wykonawca przyjmuje do wykonani a dostawę sprzętu komputerowego/sprzętu
+komputerowego i oprogramowania w  konfigura cji i o parametrach zgodnych z ofertą przetargową Wykonawcy
+złożoną w dniu …………… , w następującym  zakresie:
+a. Część nr 1 zamówienia;
+b. Część nr 2 zamówienia;
+c. Część nr 3 zamówienia;
+d. Część nr 4 zamówienia;
+*umowa może zostać zawarta na jedną lub więcej części zamówienia
+zgodnie z Załącznikami nr 1 i 2 do umowy, zwanych dalej również „asortymentem” lub „przedmiotem
+umowy”, przy czym przedmiot umowy obejmuje również dostarczenie do lokalizacji wskazanej w ust.  5, oraz
+udzielenie gwarancji na zasadach i w trybie określonym w § 6 niniejszej umowy.
+2. Integralną częścią niniejszej umowy jest: dokumentacja postępowania, a w szczególności Specyfikacja
+Warunków Zamówienia (dalej zwana również „SWZ”) wraz z załącznikami i oferta  Wykonawcy.
+3. Wykonawca zobowiązuje się wykonać przedmiot umowy w terminie do 14 dni od dnia zawarcia niniejszej
+umowy.
+4. Przedmiot umowy zostanie dostarczony do następującej lokalizacji: ul. Mikołaja Kopernika 26, 31 -501
+Kraków . Dostarczenie obejmuje transport, rozładunek wraz z wniesieniem do wskazanych przez
+Zamawiającego pomieszczeń, ustawieniem we wskazanych miejscach i inne czynności niezbędne do
+prawidłowego  wykonania  zamówienia,  zgodnie z przedmiotem i zakresem dostawy  przewidzia nym
+w Załączniku  nr 1 do  umowy.
+Oznaczenie sprawy: BZP/202 5/302 Załącznik nr 3 do SWZ
+Strona 2 z 16
+5. Wszelkie postanowienia umowy odnoszące się zbiorczo do asortymentu mają także zastosowanie do
+poszczególnych i pojedynczych sprzętów, a także do ich części/ elementów, w tym  oprogramowania.
+6. Wykonawca zobowiązuje się wykonać wszelkie niezbęd ne czynności dla prawidłowego zrealizowania
+przedmiotu umowy określonego w ust.  1.
+7. Wykonawca ponosi całkowitą odpowiedzialność materialną i prawną za powstałe u Zamawiającego, jak i osób
+trzecich szkody spowodowane działalnością wynikłą z realizacji niniej szej umowy.
+8. Zlecenie wykonania części umowy podwykonawcom nie zmienia zobowiązań Wykonawcy wobec
+Zamawiającego  za wykonanie tej  części umowy. Wykonawca jest odpowiedzialny za  działania,  uchybienia
+i zaniedbania podwykonawców i ich pracowników w takim samym  stopniu, jakby to były działania, uchybienia
+lub zaniedbania własne. Korzystanie ze świadczeń podwykonawców niezgodnie z postanowieniami niniejszej
+umowy traktowane będzie jako istotne naruszenie warunków umowy oraz ważny powód rozwiązania Umowy
+przez  Zamawiającego.
+9. Wykonawca zrealizuje niniejszą umowę własnymi siłami/* powierza  następującym  podwykonawcom
+................................ ................................ . (nazwa  firmy/podwykonawcy)  wykonanie  umowy
+w części/w  zakresie zgodnie ze złożoną ofertą ( Zapis zostanie dostosowany do okoliczności, stosownie do oferty
+Wykonawcy).
+10. Wykonawca oświadcza,  iż:
+a. dotrzyma umówionych terminów oraz wykona umowę przy zachowaniu należytej staranności,
+uwzględniając zawodowy charakter prowadzonej przez niego  działalności;
+b. dochowane zostaną przez niego wszelkie parametry oraz wymagania i w arunki techniczne, funkcjonalne
+i jakościowe przedmiotu umowy, a przedmiot umowy jest wykonany z zachowaniem wysokiej jakości
+użytych materiałów, przy zachowaniu należytej staranności uwzględniając zawodowy charakter
+prowadzonej przez Wykonawc ę działalności,  przy czym  przez „wysoką  jakość  użytych  materiałów”
+rozumieć należy produkty  i elementy składające się na przedmiot zamówienia zapewniające osiągnięcie
+co najmniej wymaganych parametrów, funkcjonalności i zakresów wynikających z opisu przedm iotu
+zamówienia zawartego w SWZ (załącznik  nr ………..  do SWZ  - Opis  przedmiotu  zamówienia  do
+części  nr  ................................ .. zamówienia*).  Ponadto  oświadcza, że przedmiot umowy charakteryzuje
+się wysoką trwałością, w tym również w odniesieniu do części zamiennych.
+c. uzyskał od Zamawiającego wszelkie informacje niezbędne do prawidłowego wykonania  umowy.
+11. Wykonawca zapewnia, że dostarczony sprzęt komputerowy posiada stosowne oprogramowanie wymagane dla
+jego prawidłowej pracy.
+12. Wykonawca zapewnia również, iż posiada stosowne licencje  na korzystanie z dostarczonego w ramach umowy
+oprogramowania, w tym oprogramowania systemowego oraz oprogramowania dodatkowego (jeśli dot.) i prawo
+udzielania sublicencji na korzystanie z nich bądź też jest wyłącznym właścicielem praw autorskich do tego
+oprogramowania, bądź też zapewni udzielenie Zamawiającemu przez producenta oprogramowania lub inny
+upoważniony podmiot licencji na korzystanie z dostarczonego w ramach umowy oprogramowania (w tym
+oprogramowania systemowego i/ lub oprogramowania dodatkowego)  względnie, że udzielane przez producenta
+oprogramowania licencje są  nieodpłatne.*
+13. Strony przyjmują, że z chwilą podpisania protokołu odbioru potwierdzającego dostawę Wykonawca, w ramach
+wynagrodzenia przewidzianego postanowieniami niniejszej umowy, udziel a Zamawiającemu lub zapewnia
+udzielenie Zamawiającemu przez producenta oprogramowania lub inny upoważniony podmiot w możliwie
+najszerszym zakresie niewyłącznej i nieograniczonej czasowo ani terytorialnie, licencji bądź sublicencji na
+korzystanie z oprogram owania, o  którym mowa  wyżej,  na polach eksploatacji pozwalających na  korzystanie
+z urządzeń zgodnie z przeznaczeniem, w tym na polach eksploatacji obejmujących: trwałe lub czasowe
+zwielokrotnianie w całości lub części jakimikolwiek środkami i w jakiejkolwi ek formie, wprowadzanie do
+pamięci komputerów, wewnętrznych sieci Zamawiającego i podmiotów z nim  współpracujących.*
+14. Licencje/sublicencje będą udzielone na wersje oprogramowania stanowiącego przedmiot licencji aktualne
+(bieżące) w dacie ich udzielenia Zama wiającemu oraz na kolejne wersje oprogramowania stanowiącego
+przedmiot  licencji  (aktualizacje)  instalowane  w ramach  licencji,  w szczególności  dostępne  w okresie
+Oznaczenie sprawy: BZP/202 5/302 Załącznik nr 3 do SWZ
+Strona 3 z 16
+użytkowania  dostarczanego urządzenia (jednak z zastrzeżeniem przypadków ograniczonej czasowo dla
+Zamawiającego dostępności do wsparcia i aktualizacji jeżeli takie ogranic zenia zostały wprost wskazane
+w załączni ku nr 1 do umowy), odpowiednio do części przedmiotu  zamówienia  nr………………. (zostanie
+wpisana część zamówienia,  na którą udzielane jest Wykonaw cy zamówienie/ zawierana umowa ). *
+15. Wykonawca oświadcza, że przysługują mu wszelkie prawa  do udzielenia licencji, o której  mowa w zakresie,
+o którym mowa  w niniejszej  umowie,  oraz posiada  wszelkie  niezbędne umocowania do  udzielenia licencji
+i wypełnienia wszelkich zobowiązań z niej wynikających. W przypadku zgłoszenia wobec Zamawiającego
+jakichkolwiek roszczeń z tytułu naruszenia praw osób trzecich, w tym z tytułu ochrony praw autorskich
+przysługujących twórcom oprogramowania bądź innym podmiotom uprawnion ym do realizacji tych praw,
+Wykonawca  zobowiązuje  się zwolnić  Zamawiającego  z odpowiedzialności  wynikającej  z naruszeń  oraz zwrócić
+Zamawiającemu wszelkie koszty,  jakie  poniesie  Zamawiający w  wyniku realizacji roszczeń osób  trzecich.  W
+przypadku  dochodzeni a na drodze  sądowej  przez  osoby  trzecie  roszczeń  wynikających  z naruszenia  ich praw,
+w tym w szczególności praw autorskich, przeciwko Zamawiającemu, Wykonawca będzie zobowiązany do
+przystąpienia w procesie po stronie Zamawiającego i podjęcia wszelkich czynności w celu zwolnienia
+Zamawiającego z udziału w  postępowaniu.*
+16. W zakresie realizacji przedmiotu niniejszej umowy Wykonawca zobowiązany jest dostarczyć Zamawiającemu
+nośniki z tym oprogramowaniem i /lub zapewnić dostęp Zamawiającemu do zasobu internet owego lub innego
+źródła  w celu pobrania  oprogramowania  drogą  elektroniczną  oraz dostarczyć  klucze  licencyjne,  które  uruchomią
+procedurę dostępu i pozwolą na korzystanie z oprogramowania wraz z odpowiednimi certyfikatami/
+dokumentami potwierdzającymi prawo do korzystania z niego, co zostanie potwierdzone protokołem odbioru,
+podpisanym przez obie Strony. Wraz z udzieleniem Zamawiającemu licencji/ sublicencji nastąpi przeniesienie
+na Zamawiającego własności nośników na których utrwalono oprogramowanie w chwili  jego wydania, o ile
+wydanie następuje w formie fizycznej, a nie poprzez jego udostępnienie w poprzez zasób internetowy lub inny
+system  informatyczny.*
+17. Zamawiający zastrzega sobie prawo weryfikacji czy oprogramowanie i powiązane z nim elementy, takie  jak
+certyfikaty/etykiety producenta oprogramowania dołączone do tego oprogramowania są oryginalne
+i licencjonowane zgodnie z prawem. W powyższym celu Zamawiający może zwrócić się do pr oducenta danego
+oprogramowania z prośbą o weryf ikację czy oferowane oprogramo wanie i materiały z nim związane są
+oryginalne.  *
+§ 2
+1. Wykonawca oświadcza, że posiada odpowiednią wiedzę, doświadczenie i dysponuje stosowną bazą do
+wykonania przedmiotu  umowy.
+2. Wykonawca oświadcza, iż przedmiot umowy wykona przy zachowaniu należytej staranności uwzględniając
+zawodowy charakter prowadzonej przez niego  działalności.
+3. Wykonawca oświadcza, iż asortyment dostarczany w ramach niniejszej umowy jest fabrycznie nowy to jest nie
+używany przed dniem dostarczenia z wyłączeniem używania niezbędnego  do przeprowadzenia testu jego
+poprawnego działania, niepowystawowy, nieregenerowany, nienaprawiany,  nierefabrykowany,  kompletny  (w
+szczególności ze wszystkimi podzespołami, częściami, materiałami, oprogramowaniem/ licencjami
+niezbędnymi do uruchomienia i użytkowania), wolny od jakichkolwiek wad fizycznych i prawnych, sprawny
+technicznie, w  oryginalnych  opakowaniach  (których  przechowywanie  przez  Zamawiającego  nie jest wymagane
+do zachowania udzielonej gwarancji), pochodzi z oficjalnego kanału dystrybucyjneg o producenta dla Unii
+Europejskiej, jego zakup i korzystanie zgodnie z przeznaczeniem nie narusza prawa, w tym również praw osób
+trzecich. Jeżeli z powodu wady prawnej przedmiotu umowy Zamawiający będzie zmuszony wydać przedmiot
+umowy  osobie  trzeciej,  Wyko nawca  jest obowiązany  do zwrotu  wartości  ofertowej  wydanego  asortymentu,  bez
+względu na inne postanowienia  umowy.
+4. Przy realizacji postanowień niniejszej umowy Wykonawca  zobowiązany jest do uwzględniania  wskazówek
+i zaleceń  Zamawiającego  zgłaszanych  w trakcie  wykonywania  zobowiązań  objętych  niniejszą  umową,  chyba  że
+byłyby  one niezgodne  z przepisami  prawa,  zasadami  wiedzy  technicznej  lub wykraczały  poza  przedmiot  umowy.
+5. Wykonawca oświadcza, że nie zachodzą względem niego jakiekolwiek przesłanki lub okoliczności
+wskazane w 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie
+Oznaczenie sprawy: BZP/202 5/302 Załącznik nr 3 do SWZ
+Strona 4 z 16
+przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochroni e bezpieczeństwa narodowego
+(Dz. U. poz. 835 z dnia  2022.04.15).
+§ 3
+1. Wysokość  wynagrodzenia  przysługującego  Wykonawcy  za wykonanie  przedmiotu  umowy  ustalona  została  na
+podstawie oferty  Wykonawcy.
+2. Z tytułu należytego wykonania przedmiotu niniejszej umowy Wykonawca otrzyma maksymalne łączne
+wynagrodzenie w wysokości: ……………….  zł brutto, w tym podatek VAT w wysokości/  wg stawki ……… .%
+zgodnie z obowiązującymi  przepisami  prawa podatkowego, w tym za:
+(zgodnie z ofertą Wykonawcy), w tym za:
+a. Część nr 1 przedmiotu za mówienia: kwota netto: ……….., brutto: ……………… , VAT: …………. ,
+zgodnie z ofertą Wykonawcy: Formularzem ofertowym/ cenowym stanowiącym Załącznik nr 2 do
+umowy , zawierającym ceny  jednostkowe;*
+b. Część nr 2 przedmiotu zamówienia: kwota netto: ……….., brutto: ……………… , VAT: …………. ,
+zgodnie z ofertą Wykonawcy: Formularzem ofertowym/ cenowym stanowiącym Załącznik nr 2 do
+umowy , zawierającym ceny  jednostkowe;*
+c. Część nr 3 przedmiotu zamówienia: kwota netto: ……….., brutto: ……………… , VAT: …………. ,
+zgodnie z ofertą Wykonawcy: Formul arzem ofertowym/ cenowym stanowiącym Załącznik nr 2 do
+umowy , zawierającym ceny  jednostkowe;*
+d. Część nr 4 przedmiotu zamówienia: kwota netto: ……….., brutto: ……………… , VAT: …………. ,
+zgodnie z ofertą Wykonawcy: Formularzem ofertowym/ cenowym stanowiącym Załącznik  nr 2 do
+umowy , zawierającym ceny  jednostkowe;*
+3. Wynagrodzenie określone w ust. 2 ustala się jako ryczałtowe. Wynagrodzenie, o którym mowa obejmuje
+wszelkie koszty związane z realizacją umowy, które Wykonawca powinien był przewidzieć w celu
+prawidłowego  wykonania  umowy,  z uwzględnieniem  podatków,  ceł, innych  danin  i opłat,  kosztów  związanych
+z wydaniem przedmiotu umowy, w tym za transport, opakowanie i ubezpieczenie, rozładunek, wniesienie do
+pomieszczeń i ustawienie we wskazanym miejscu, koszty usług świadc zonych w ramach gwarancji,
+odpowiedzialności  z tytułu  rękojmi  za wady  i wszelkie  inne koszty,  nawet  jeśli nie zostały  wprost  wymienione.
+Wykonawcy nie przysługuje zwrot od Zamawiającego jakichkolwiek dodatkowych kosztów poniesionych przez
+Wykonawcę w związku z realizacją umowy. Wynagrodzenie, o którym mowa w ust. 2, wyczerpuje wszelkie
+roszczenia majątkowe Wykonawcy wobec Zamawiającego związane z realizacją  umowy.
+§ 4
+1. Wykonawca  otrzyma  wynagrodzenie  po wykonaniu  przedmiotu  umowy,  potwierdzonym  protokołem  odbioru
+**bez zastrzeżeń, z uwzględnieniem ust. poniższych.
+2. Zamawiający dokona płatności przelewem, na podstawie prawidłowo wystawionej faktury w terminie 30 dni
+od jej otrzymania,  przy czym  Wykonawca  zobowiązany  jest do wskazania  na fakturze  numeru  rachunku,  który
+został ujawniony w wykazie podmiotów zarejestrowanych jako podatnicy VAT, niezarejestrowanych oraz
+wykreślonych i przywróconych do rejestru VAT prowadzonym przez Szefa Krajowej Administracji Skarbowej
+(dalej: „Biała lista” – art. 96b u st. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i  usług  – t. j. Dz. U.
+z 2020 poz. 106 z późn. zm.). W razie braku ujawnienia bankowego rachunku rozliczeniowego Wykonawcy na
+„Białej liście”, Zamawiający będzie uprawniony do zapłaty wynagrodzenia na rachunek wskazany w fakturze,
+jednakże z jednoczesnym wypełnieniem obowiązków wynikających z obowiązujących przepisów prawa, w tym
+powiadomienia organów Krajowej Administracji Skarbowej.
+3. Nieprawidłowo  wystawiona faktura VAT nie będzie stanowiła  podstawy  do zapłaty  wynagrodzenia, a
+Zamawiający na piśmie (np. mailowo na adres poczty elektronicznej Wykonawcy wskazany w §11 lit b umowy)
+powiadomi Wykonawcę o zastrzeżeniach wobec tej faktury. Wykonawca bezzwłocznie dokona korekty i
+przekaże skorygowaną faktur ę VAT Zamawiającemu, nie później niż w terminie 7 dni od dnia zgłoszenia
+zastrzeżeń przez Zamawiającego. W takim przypadku termin zapłaty należnego Wykonawcy wynagrodzenia
+biegnie od dnia doręczenia Zamawiającemu skorygowanej faktury  VAT.
+Oznaczenie sprawy: BZP/202 5/302 Załącznik nr 3 do SWZ
+Strona 5 z 16
+4. Wykonawca wystawi  fakturę z tytułu dostawy przedmiotu umowy , na podstawie podpisanego bez zastrzeżeń
+protokołu odbioru **, którego wzór stanowi Załącznik nr 3 do  umowy.
+5. Faktura winna być wystawiona na Uniwersytet  Ignatianum w Krakowie, ul. Mikołaja Kopernika 26, 31 -501,
+Kraków, NIP 6761687491 i opisana w odniesieniu do Projektu ( to ostatnie, jeśli dot.).
+6. Za dzień zapłaty uważa się dzień obciążenia rachunku bankowego  Zamawiającego.
+7. Zamawiający dopuszcza możliwość przesłania ustrukturyzowanej faktury elektronicznej, zgodnie  z ustawą  z
+dnia 9 listopada 2018 r. o elektronicznym fakturowaniu w zamówieniach publicznych, koncesjach na roboty
+budowlane lub usługi oraz partnerstwie publiczno -prywatnym (Dz.U. z 2018 r. poz. 2191 ze zm.). Zamawiający
+posiada konto na Platformie Elekt ronicznego Fakturowania (PEF Infinite) nr PEPPOL/ NIP: 6761687491.
+Jednocześnie Zamawiający nie dopuszcza wysyłania i odbierania za pośrednictwem platformy innych
+ustrukturyzowanych dokumentów elektronicznych, za wyjątkiem faktur korygujących.  Postanowieni a umowy
+dotyczące zapłaty wynagrodzenia na podstawie faktury VAT stosuje się odpowiednio do faktury wskazanej  w
+zdaniach  poprzednich.  Terminem  otrzymania  ustrukturyzowanej  faktury  elektronicznej  jest data dostępności
+faktury w platformie dla Zamawiającego potwierdzona otrzymaną wiadomością  e-mail.
+8. W przypadkach  prawem  podatkowym  przewidzianych  należny  od kwoty  wynagrodzenia  podatek  od towarów i
+usług VAT, pokryje Zamawiający na konto właściwego Urzędu  Skarbowego.
+9. Zamawiający w przypadku, gdy Wykonawca jest zarejestrowany jako czynny podatnik podatku od towarów i
+usług Zamawiający może dokonać płatności wynagrodzenia z zastosowaniem mechanizmu podzielonej
+płatności,  to jest w  sposób  wskazany  w art. 108a  ust. 2 ustawy  z dnia 11 marca  2004  r. o podatku  od towarów i
+usług (t. j. Dz. U. 2018 poz. 2174 ze zm.). Postanowień zdania pierwszego nie stosuje się, gdy przedmiot umowy
+stanowi czynność zwolnioną z podatku VAT albo jest on objęty 0% stawką podatku  VAT.
+10. Wykonawca oświadcza, że jest czynnym podat nikiem po datku VAT */ nie jest czynnym podatnikiem podatku
+VAT * na terytorium Rzeczypospolitej  Polskiej.
+11. Zamawiający oświadcza, że ma status podatnika zwolnionego z podatku VAT .
+12. Wykonawca potwierdza, iż ujawniony na fakturze bankowy rachunek rozliczeniowy służy mu  dla celów
+rozliczeń z tytułu prowadzonej przez niego działalności gospodarczej, dla którego prowadzony jest rachunek
+VAT.  *
+13. Zamawiający oświadcza, iż zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług (t. j.  Dz.
+U. z 2020 poz. 106 z póź n. zm.). będzie ubiegał się o zgodę na zastosowanie 0% stawki podatku od towarów i
+usług VAT na zamawiany asortyment w zakresie objętym ww. stawką podatkową – zgodnie z art. 83 ust. 1 pkt
+26 przywołanej ustawy. *
+14. Wykonawca w ciągu 14 dni od otrzymania od Z amawiającego zawiadomienia przesłanego na adres poczty
+elektronicznej Wykonawcy wskazany w §11 pkt 1 lit b) umowy o wydaniu zaświadczenia przez ministra
+właściwego ds. szkolnictwa wyższego, potwierdzającego przeznaczenie dostarczonego asortymentu dla
+placó wki oświatowej  w rozumieniu  art. 83 ust. 1 pkt 26 ustawy  z dnia 11 marca  2004  r. o podatku  od towarów i
+usług (Dz. U. 2020 poz. 106 z późn. zm.), doręczy wystawioną korektę faktury opiewającą na kwotę netto (bez
+podatku VAT) w zakresie objętym stawką 0% VAT do siedziby  Zamawiającego  w Krakowie (31 -501) przy ul.
+Mikołaja Kopernika 26. Postanowienia zdania pierwszego nie stosuje się w przypadku, gdy Wykonawca
+wystawił fakturę opiewającą na kwotę wynagrodzenia netto.  *
+§ 5
+1. Wykonawca  dostarczy  asortyment  do wskazanej  przez  Zamawiającego  lokalizacji,  o której  mowa  w § 1 ust. 5
+umowy. Przyjęcie dostawy oraz wykonanie usług towarzyszących dostawie nastąpi w dniach roboczych. Ilekroć
+w niniejszej umowie jest mowa o dniach roboczych należy przez to rozumieć dni od  poniedziałku do piątku, za
+wyjątkiem dni ustawowo wolnych od pracy, w godzinach od 8:30 do  15:30.
+2. Dostawa przedmiotu umowy zostanie zgłoszona przez Wykonawcę osobie wskazanej w § 11 lit. a) umowy,
+z odpowiednim uprzedzeniem to jest na  minimum 2 (dwa) dni robocze przed planowaną datą jej realizacji,  w
+ramach terminu, o którym mowa w § 1 ust. 4  umowy.
+3. Wykonawca jest zobowiązany dostarczyć asortyment do lokalizacji wskazanej w § 1 ust. 5 umowy na koszt
+Oznaczenie sprawy: BZP/202 5/302 Załącznik nr 3 do SWZ
+Strona 6 z 16
+własny i własnym staraniem. Realizacja dostawy odbędzie s ię transportem odpowiednio przygotowanym do
+przewozu i zabezpieczonym przed ujemnym wpływem warunków atmosferycznych, przemieszczaniem
+ładunku i innymi czynnikami wpływającymi na obniżenie jakości przedmiotu  umowy.
+4. Prawo własności do sprzętu komputerowego,  jak również odpowiedzialność z tytułu jego uszkodzenia lub
+utraty, przechodzi na Zamawiającego z chwilą podpisania właściwego protokołu odbioru**. W tym też
+momencie następuje nabycie prawa do korzystania z oprogramowania /licencji, w tym systemowego i in nego
+oprogramowania dodatkowego (jeśli dot.) Przez oprogramowanie systemowe rozumie się w szczególności
+oprogramowanie  będące  integralnym  i nieodłącznym  składnikiem  sprzętu  oraz pozwalające  na jego poprawne
+działanie.
+5. Uważa  się, że termin  określony  w § 1 ust. 4 umowy  za dotrzymany,  jeśli wykonanie  przedmiotu  umowy  przez
+Wykonawcę (dostarczenie asortymentu i wykonanie usług składających się na przedmiot umowy) nastąpiło w
+granicach  tego terminu,  co zostanie  poświadczone  protokołem  odbioru  ** bez zastrzeżeń  (w zakresie  odbioru
+ilościowego i  jakościowego).
+6. Zamawiający  zastrzega,  iż podpisanie  protokołu  odbioru  **(wzór  stanowi  Załącznik  nr 3 do umowy ) nastąpi
+w terminie do 7 (siedmiu) dni roboczych od dnia zrealizowania przez Wykonawcę całego przedmiotu umowy
+lub całości  przedmiotu  umowy  w obrębie  danej  części  zamówienia  (umowy),  w tym dostarczenia  asortymentu
+do lokalizacji wskazanej w § 1 ust. 5 umowy i zrealizowania wszystkich zadań przewidzianych w umowie
+odpowiednio do odbieranego zakresu umowy.
+7. Protokół o dbioru ** będzie sporządzony po sprawdzeniu zgodności realizacji umowy z warunkami umowy,
+SWZ i ofertą Wykonawcy. Warunkiem odebrania przedmiotu umowy i podpisania przez przedstawiciela
+Zamawiającego protokołu odbioru** będzie również dostarczenie: dokumen tów gwarancyjnych/kart
+gwarancyjnych, w tym oświadczenia  gwaranta  o warunkach gwarancji  i serwisu,  instrukcji  użytkowania i
+obsługi w języku polskim (lub w języku angielskim przewidziano taką możliwość w SWZ) oraz jeśli były
+wymagane zapisami SWZ – innych dokumentów, w szczególności potwierdzających legalność
+oprogramowania/ licencji (te ostatnie jeśli  dot.)
+8. Podpisanie protokołu odbioru ** nie wyłącza dochodzenia przez Zamawiającego roszczeń z tytułu rękojmi,
+nienależytego wykonania umowy, w szczególności w  przypadku wykrycia wad przedmiotu umowy przez
+Zamawiającego po dokonaniu  odbioru.
+§ 6
+1. Wykonawca zobowiązuje się wykonać przedmiot umowy bez wad (usterek), przy czym jest zobowiązany
+zweryfikować zgodność znajdujących  się na dostarczonym  asortymencie  oznac zeń z danymi  zawartymi  w
+dokumencie  gwarancyjnym  (oświadczeniu  gwaranta)  wskazanym  w ust. 2 niniejszego  paragrafu  umowy  oraz
+stan plomb i innych umieszczonych na nim zabezpieczeń, o ile takie zabezpieczenia zostały  zastosowane.
+2. Wykonawca wraz z dostawą cał ości przedmiotu niniejszej umowy, wyda Zamawiającemu dokument
+gwarancyjny (kartę gwarancyjną/ oświadczenie gwaranta), którego treść będzie obejmowała co najmniej
+następujące informacje: nazwę i adres gwaranta, czas trwania i terytorialny zasięg ochrony gwa rancyjnej,
+uprawnienia przysługujące Zamawiającemu  w razie  stwierdzenia  wady  fizycznej,  a także  stwierdzenie,  że
+gwarancja  nie wyłącza,  nie ogranicza  ani nie zawiesza  uprawnień  Zamawiającego  wynikających  z przepisów o
+rękojmi  za wady przedmiotu  umowy.  Postanowienia   umowy   dotyczące   gwarancji   (w tym  ujęte w
+Załącznikach nr 1 i 2 do umowy) , mają pierwszeństwo przed ogólnymi warunkami gwarancji gwaranta (w
+tym producenta – gwaranta lub jego upoważnionego przedstawiciela), chyba że ogólne warunki gwaran cji
+gwaranta (w tym producenta – gwaranta lub jego upoważnionego przedstawiciela) są korzystniejsze dla
+Zamawiającego.
+3. Gwarancja  na przedmiot  umowy  zostaje  udzielona  na okres  ............................  (stosownie do zapisów OPZ
+zgodnie z częścią na którą zawierana jest umowa ) licząc  od dnia wykonania  umowy  tj. od daty odbioru
+przedmiotu  umowy,  potwierdzonego  protokołem  odbioru** bez zastrzeżeń, z uwzględnieniem zapisów
+dotyczących warunków gwarancyjnych wynikających z SWZ i niniejszej umowy. W ramach gwarancji gwarant
+będzie świadczy ł nieodpłatny (wliczony w cenę oferty) serwis gwarancyjny.
+4. Gwarancja  obejmuje  cały asortyment  (wszystkie  urządzenia  wraz  ze składowym  oprogramowaniem/  licencjami
+(jeśli dot.), części składowe, podzespoły oraz inne elementy wchodzące w skład przedmiotu umowy lub usługi
+Oznaczenie sprawy: BZP/202 5/302 Załącznik nr 3 do SWZ
+Strona 7 z 16
+nabyte   u  podmiotów   trzecich   przez   Wykonawcę).   Gwarancji   podlegają   usterki,   wady   materiałowe i
+konstrukcyjne,  a także  nie spełnia nie funkcji  użytkowych  przez  dostarczony  asortyment, deklarowanych  przez
+Wykonawcę w ofercie. Wszystkie koszty związane z realizacją gwarancji pokrywa  Wykonawca.
+5. Świadczenia gwarancyjne będą wykonywane na koszt Wykonawcy lub gwaranta w siedzibie Zamawiającego
+(on site), a jeżeli jest to technicznie niemożliwe to wszelkie działania organizacyjne i koszty związane ze
+świadczeniem usługi gwarancyjnej poza siedzibą Zam awiającego ponosi Wykonawca lub  gwarant.
+6. W przypadku stwierdzenia wad w wykonanym przedmiocie umowy Wykonawca zobowiązuje się do jego
+nieodpłatnej  wymiany  lub usunięcia  wad na zasadach  i w trybie  określonym  w treści  dokumentu  gwarancyjnego
+(karcie  gwarancy jnej /oświadczeniu  gwaranta)  o którym  mowa  w ust. 2 powyżej,  z uwzględnieniem  postanowień
+niniejszego paragrafu  umowy.
+7. Odpowiedzialność z tytułu gwarancji obejmuje zarówno wady powstałe z przyczyn tkwiących w przedmiocie
+umowy w chwili dokonania odbioru przez Zamawiającego, jak i wszelkie inne wady fizyczne za które
+Wykonawca  ponosi  odpowiedzialność,  pod warunkiem,  że wady  te ujawnią  się w ciągu  terminu  obowiązywania
+gwarancji.
+8. Bieg  terminu  gwarancji  rozpoczyna  się w dniu następnym,  po odbiorze  bez zastrzeżeń  przedmiotu  umowy,  przy
+czym w przypadku wymiany wadliwego przedmiotu umowy (jego elementu lub modułu) na nowy albo
+dokonania usunięcia istotnej wady (usterki) termin gwarancji biegnie na nowo od chwili ponownego
+dostarczenia Zamawiającemu napraw ionych rzeczy (odpowiednio przedmiotu umowy, jego elementu lub
+modułu).
+9. Czas  usunięcia  wad,  w tym naprawy  wynosi  maksymalnie  30 dni roboczych  od daty zgłoszenia  wady  do serwisu,
+o którym mowa w Załączniku nr 2 do umowy . Ponadto Strony ze względu na uzasadnione okoliczności  mogą
+ustalić inny termin usunięcia wady, co wymaga pisemnego potwierdzenia, przy czym taka zmiana terminu nie
+stanowi zmiany umowy. Do czasu usunięcia wady wlicza się dzień reakcji serwisu. Okres gwarancji ulega
+automatycznie przed łużeniu o okres naprawy lub wymiany rzeczy wadliwej na nową wolną od wad, tj. o czas
+liczony od zgłoszenia do usunięcia awarii czy  usterki.
+10. Zamawiający  może  wykonywać  uprawnienia  z tytułu  rękojmi  za wady  fizyczne  rzeczy  niezależnie  od uprawnień
+wynikającyc h z gwarancji, przy czym okres rękojmi, zgodnie z art. 558 § 1 Kodeksu cywilnego jest zrównany
+z okresem gwarancji i jest liczony od momentu wykonania przedmiotu umowy potwierdzonego podpisanym
+protokołem odbioru** bez zastrzeżeń, przy czym w razie wykonyw ania przez Zamawiającego uprawnień z
+gwarancji bieg terminu do wykonania uprawnień z tytułu rękojmi ulega zawieszeniu z dniem zawiadomienia
+Wykonawcy o wadzie. Termin ten biegnie dalej od dnia odmowy przez Wykonawcę wykonania obowiązków
+wynikających z gwar ancji albo bezskutecznego upływu terminu określonego na usunięcie wady przedmiotu
+umowy.
+11. W przypadku, gdy gwarant lub Wykonawca nie wypełni warunków gwarancji lub nie zastosuje się do
+powyższych zasad Zamawiający jest uprawniony do usunięcia wad w drodze n aprawy, na ryzyko i koszt
+Wykonawcy lub gwaranta, zachowując przy tym inne uprawnienia przysługujące mu na  podstawie  umowy. W
+takich przypadkach Zamawiający ma prawo zaangażować inny podmiot do usunięcia wad, a Wykonawca lub
+gwarant zobowiązany  jest pokryć  związane  z tym koszty  w ciągu  14 dni od daty otrzymania  wezwania  wraz z
+dowodem  zapłaty  za ww. wykonanie  zastępcze.
+12. Zamawiający zobowiązuje się dotrzymywać podstawowych warunków eksploatacji określonych przez
+producenta w zapisach karty gwarancyjnej /oświ adczeniu gwaranta zawartego w dokumentach gwarancyjnych
+lub instrukcjach eksploatacji dostarczonych przez Wykonawcę przy odbiorze przedmiotu umowy, w zakresie
+w jakim nie jest ono sprzeczne z postanowieniami niniejszej umowy i  SWZ.
+13. Warunki gwarancji nie mo gą nakazywać Zamawiającemu przechowywania opakowań, w których asortyment
+był dostarczony. Zamawiający może usunąć opakowania, co nie spowoduje utraty gwarancji, a dostarczony
+asortyment pomimo braku opakowań będzie podlegał świadczeniom gwarancyjnym, w tym  serwisowi.
+§ 7
+1. Strony zastrzegają sobie prawo do dochodzenia kar umownych za niezgodne z niniejszą umową lub nienależyte
+wykonanie zobowiązań z umowy wynikających.
+Oznaczenie sprawy: BZP/202 5/302 Załącznik nr 3 do SWZ
+Strona 8 z 16
+2. Wykonawca,  z zastrzeżeniem  ust. 3 niniejszego  paragrafu,  zapłaci  Zamawiającemu  karę umowną  w poniższej
+wysokości w  przypadku:
+a. odstąpienia w całości lub  części  od umowy wskutek okoliczności  od Zamawiającego  niezależnych  w
+wysokości 10% wynagrodzenia brutto ustalonego odpowiednio w § 3 ust. 2 umowy dla przypadku całości
+lub części umowy  (zamówieni a).
+b. niewykonania lub nienależytego wykonania umowy lub jej części w wysokości 10% wynagrodzenia
+brutto ustalonego odpowiednio w § 3 ust. 2 umowy do przypadku dla całości lub części umowy
+(zamówienia) przy czym nienależyte wykonanie umowy to jej realizacja,  która pozostaje w sprzeczności
+z zapisami umowy lub ofertą Wykonawcy, bądź zapisami SWZ, Z ałączników 1 i 2 do umowy , albo też
+nie zapewnia osiągnięcia wymaganych parametrów, funkcjonalności i zakresów wynikających z SWZ,
+załącznika 1 do umowy i użytkowych  przedmiotu  umowy;
+c. zwłoki w wykonaniu przedmiotu umowy w wysokości 0,2% wynagrodzenia brutto ustalonego
+odpowiednio w § 3 ust. 2 umowy dla całości lub części umowy (zamówienia), za każdy dzień zwłoki
+licząc od dnia następnego po upływie terminu realizacji odpowiednio całości lub części przedmiotu
+umowy określonego w § 1 ust. 4 umowy;
+d. zwłoki w usunięciu wad przedmiotu umowy stwierdzonych przy odbiorze, w wysokości 0,2%
+wynagrodzenia brutto ustalonego w § 3 ust. 2 umowy odpowiednio dla całości lub części prze dmiotu
+umowy (zamówienia) za każdy dzień zwłoki, licząc od następnego dnia po upływie terminu  określonego
+przez Zamawiającego w celu usunięcia  wad;
+e. zwłoki  w spełnianiu  usług  serwisu  gwarancyjnego,  o którym  mowa  w § 6 umowy  w stosunku  do terminów
+tam określonych,  w wysokości  5 % wartości  ustalonej  w § 3 ust. 2 umowy  dla części  przedmiotu  umowy,
+której serwis dotyczy, za każdy rozpoczęty dzień zwłoki w usunięciu wady poprzez wymianę na nowy
+asortyment wolny od wad lub dokonaniu skutecznej naprawy rozumianej jako przywrócenie pełnej
+sprawności  działania;
+f. Zamawiający zapłaci Wykonawcy karę umowną w przydatku odstąpienia od niniejszej umowy w całości
+lub części przez Wykonawcę z przyczyn leżących wyłącznie po stronie Zamawiającego w wysokości
+10% wyna grodzenia  brutto  ustalonego  w § 3 ust.  2 umowy  odpowiednio  do przypadku  całości  lub części
+umowy  (zamówienia).
+3. Łączna wysokość należności, jakie Wykonawca będzie zobowiązany zapłacić Zamawiającemu z tytułu  kar
+umownych przewidzianych w § 7 ust. 2 niniejszej umowy, nie może przekroczyć 30% łącznego maksymalnego
+wynagrodzenia brutto określonego w § 3 ust. 2  umowy.
+4. Na kary umowne zostanie wystawiona przez Zamawiającego nota  obciążeniowa.
+5. Wykonawca zobowiązuje się do zapłaty kary umownej w terminie 7 d ni od dnia otrzymania noty obciążeniowej,
+na rachunek bankowy wskazany tej nocie obciążeniowej.
+6. Strony mogą dochodzić na zasadach ogólnych odszkodowania przewyższającego wysokość zastrzeżonych kar
+umownych.
+7. Roszczenie  o zapłatę  kar umownych  staje się wymag alne począwszy  od dnia następnego  po dniu,  w którym
+miały miejsce okoliczności faktyczne określone w niniejszej umowie stanowiące podstawę do ich naliczenia.
+8. Zamawiający jest uprawniony do potrącenia ewentualnych kar umownych z wymagalnej i należnej Wykona wcy
+kwoty wynagrodzenia określonej w fakturze lub innych ewentualnych wierzytelności Wykonawcy względem
+Zamawiającego, na co Wykonawca wyraża  zgodę.
+9. Zapłata kar umownych nie zwalnia Wykonawcy od obowiązku wykonania  umowy.
+10. W przypadku odstąpienia od umowy, Strony zachowują prawo egzekucji kar  umownych.
+11. Zapisy umowy dotyczące naliczania kar umownych nie mają zastosowania za zachowanie Wykonawcy
+niezwiązane bezpośrednio lub pośrednio z przedmiotem umowy lub jej prawidłowym wykonaniem.
+Wykonawca nie ponosi odpowiedzialności za okoliczności, za które wyłączną odpowiedzialność ponosi
+Zamawiający.
+Oznaczenie sprawy: BZP/202 5/302 Załącznik nr 3 do SWZ
+Strona 9 z 16
+§ 8
+1. Oprócz przypadków wymienionych w Kodeksie cywilnym Stronom przysługuje prawo odstąpienia od
+niniejszej umowy w razie zaistnienia okoliczności wskazanych w ust. 2 i 3.
+2. Zamawiającemu  przysługuje  prawo  do odstąpienia  zgodnie  z art. 456 ust. 1 pkt 1 ustawy  Pzp w razie  zaistnienia
+istotnej zmiany okoliczności powodującej, że wykonanie umowy nie leży w interesie publicznym, czego nie
+można  było przewidzieć  w chwili  zawarcia  umowy  lub dalsze  wykonywanie  umowy  może  zagrozić  istotnemu
+interesowi bezpieczeństwa państwa lub bezpieczeństwu publicznemu. W tym przypadku Zamawiający może
+odstąpić od umowy w terminie 30 dni od powzięcia wiadomości o tych okolicznościach. W tym  przypadku
+Wykonawca może żądać jedynie wynagrodzenia należnego mu z tytułu wykonania części  umowy.
+3. Ponadto Zamawiający może odstąpić od umowy nie wcześniej niż w terminie 7 dni od dnia powzięcia
+wiadomości o zaistnieniu jednej z poniższych  okoliczności:
+a. zostanie podjęta likwidacja lub rozwiązanie Wykonawcy bez przeprowadzania  likwidacji,
+b. został wydany nakaz zajęcia majątku Wykonawcy,
+c. w celu zawarcia umowy Wykonawca przedstawił fałszywe oświadczenia lub  dokumenty;
+d. Wykonawca dostarczył asortyment nie odpowia dający warunkom umowy lub przekroczył terminu
+realizacji umowy o 10 dni i w dodatkowym, wyznaczonym przez Zamawiającego terminie nie
+dłuższym niż 10 dni, nie wykonał umowy zgodnie z jej  postanowieniami;
+e. jeżeli wysokość kar umownych naliczonych Wykonawcy os iągnie wysokość co najmniej
+równowartość 50% łącznej wartości umowy brutto, o której mowa w § 3 ust. 1  umowy;
+f. wystąpią inne nieprawidłowości w realizacji umowy, które czynią dalszą realizację umowy
+niemożliwą lub niecelową.
+4. Wykonawcy nie przysługuje odszko dowanie z tytułu odstąpienia przez Zamawiającego od umowy z powodu
+okoliczności leżących po stronie  Wykonawcy.
+5. Oświadczenie o odstąpieniu powinno być dokonane w ciągu 30 dni od powzięcia wiadomości o okoliczności
+skutkującej  odstąpieniem  w formie  pisemnej  na zasadach  wskazanych  w art. 78 lub 78(1)  Kodeksu  cywilnego.
+Oświadczenie to musi zawierać  uzasadnienie.
+6. Odstąpienie od umowy nie wpływa na istnienie i skuteczność roszczeń o zapłatę kar  umownych.
+7. Zamawiający,  korzystając  z umownego  lub ustawowego  prawa  odstąpienia  od umowy  może  odstąpić  - zgodnie
+ze swoim wyborem - od całości umowy lub od jej części. Zamawiający jest uprawniony do korzystania z tej
+części umowy, której odstąpienie nie dotyczy. W takiej sytuacji Wykonawca jest uprawniony do wynagrodzenia
+w części, której odstąpienie nie  dotyczy.
+§ 9
+1. Żadna ze stron nie może zostać pociągnięta do odpowiedzialności za szkodę, koszty lub wydatki powstałe  w
+wyniku lub w związku z opóźnieniem, nienależytym wykonaniem lub niewykonaniem umowy, jeżeli nastąpiło
+to w związku  z zaistnieniem  okoliczności  siły wyższej.  W takim  przypadku  żadna  ze stron  nie może także
+naliczyć kar  umownych.
+2. Siła wyższa  w rozumieniu niniejszej  umowy oznacza  wszelkie nieprzewidywalne sytuacje lub zdarzenia,  o
+charakterze wyjątkowym, pozostające poza kontrolą stron, uniemożliwiające którejkolwiek z nich wypełnienie
+jakichkolwiek spośród jej zobowiązań przewidzianych niniejszą umową, niewynikające z błędu lub zaniedbania
+stron oraz pozostające nie do pokonania, pomim o dołożenia wszelkie j należytej staranności a w szczególno ści:
+zdarzeni o charakt erze katastrof przyrodniczych  typu powódź,  huragan, wichury  o nadzwyc zajnej sile, trąby
+powietrzne, wyją tkowo intensywne i długotrwałe ulewy albo nadzwyczajnych i zewnętrznych wydarzeń,
+którym ni e można było zapobiec (wojna, restrykcje stanu wojennego, powstanie, rewolucja,  zamieszki,  itp.),  a
+także  stan epidemii,  stan zagrożenia  epidemicznego,  wprowadzenie  kwarantanny w  związku  ze stwierdzeniem
+choroby  zakaźnej  bądź innych  środków  lub ograniczeń  w związku  z przeciwdziałaniem takiej chorobie (nie
+wyłączając skutków COVID -19, SARS -CoV -2 lub jego mutacji nieznanych w momencie zawierania umowy),
+działania legislacyjne władz lub działania organów administracji powodujące niemożność realizacji przedmiot u
+Oznaczenie sprawy: BZP/202 5/302 Załącznik nr 3 do SWZ
+Strona 10 z 16
+umowy. W rozumieniu niniejszej umowy siłą wyższą nie są w szczególności deficyt sprzętowy, kadrowy,
+materiałowy, spory pracownicze, strajki, trudności finansowe ani też kumulacja takich czynników.
+3. Strona umowy stojąca  w obliczu  siły wyższej  musi  niezwłoc znie poinformować  drugą  stronę  umowy o
+zaistniałej sytuacji, naturze problemu, przewidywanym czasie trwania oraz przewidywanych konsekwencjach,
+jak również podjąć działania w celu zminimalizowania możliwych  szkód.
+4. Strona umowy powołująca się na okoliczność  siły wyższej powinna udokumentować jej  zaistnienie.
+§ 10
+1. Strony dopuszczają, poza zmianami wskazanymi w art. 455 ustawy Pzp, możliwość zmiany umowy bez
+obowiązku przeprowadzania nowego postępowania, przy zachowaniu ryczałtowego charakteru ceny umowy, w
+następujących przypadkach i  zakresach:
+a. zmiany  terminu  realizacji  zamówienia  poprzez  jego przedłużenie  ze względu  na przyczyny  leżące  po
+stronie Zamawiającego dotyczące np. niedostępności miejsca realizacji dostawy oraz inne
+niezawinione przez  Strony przycz yny, w tym spowodowane przez tzw. siłę wyższą w rozumieniu § 9
+umowy;
+b. wydłużenia terminu gwarancji, w sytuacji przedłużenia jej przez gwaranta lub przez Wykonawcę,
+nieprowadzącego do podwyższenia wynagrodzenia za przedmiot umowy określonego w § 3 ust. 2
+umowy;
+c. zmiany nazwy i/lub typu/ modelu/ symbolu, producenta przedmiotu umowy bądź jego komponentów,
+poprawy jakości lub innych parametrów charakterystycznych dla danego elementu przedmiotu
+umowy lub zmiany technologii na równoważną lub lepszą, w szczególnośc i w przypadku zakończenia
+jego produkcji lub wstrzymania lub wycofania go z produkcji, po przedstawianiu stosownych
+dokumentów od producenta (lub jego przedstawiciela), z tym że wynagrodzenie za przedmiot umowy
+określone w § 3 ust. 2 dla danej części zamów ienia,  której  zmiana  dotyczy,  nie może  ulec
+podwyższeniu,  a parametry  techniczne  nie mogą  być gorsze niż wskazane w treści  oferty;
+d. w razie ujawnienia się powszechnie występujących wad oferowanego asortymentu zmianę polegającą
+na zastąpieniu w ramach wynagrodzenia za przedmiot umowy, o którym mowa w § 3 ust. 2 umowy
+dla danej części  zamówienia,  której  zmiana  dotyczy,  danego  produktu  produktem  zastępczym,
+spełniającym  co najmniej wymagania Zamawiającego przewidziane w opisie przedmiotu zamówienia,
+rekom endowanym przez producenta (lub jego przedstawiciela) lub Wykonawcę w związku z
+ujawnieniem takich wad. Wykonawca zobowiązany jest do przedstawienia co najmniej oświadczenia
+popartego dokumentami pochodzącymi od producenta  (przedstawiciela  producenta)  potw ierdzającego
+fakt spełniania  przez  produkt  zastępczy  wymagań, których mowa  wyżej.
+e. wprowadzenia zmiany warunków licencjonowania oprogramowania przez jego producenta (lub
+autoryzowanego przedstawiciela  producenta);
+f. zmiany podwykonawcy ze względów losowych lub innych korzystnych dla Zamawiającego w
+przypadku zadeklarowania przez Wykonawcę realizacji zamówienia przy pomocy podwykonawców,
+przy czym jeśli Wykonawca  w toku postępowania  o udzielenie  zamówienia  publicznego  w wyniku,
+którego  zawarto  niniejszą umowę , powoływał się na zasoby innych podmiotów będących jego
+podwykonawcami, w celu wykazania spełniania warunków  udziału  w postępowaniu  - Wykonawca  jest
+obowiązany  wykazać,  że proponowany  inny podwykonawca lub on samodzielnie spełnia je w stopniu
+nie mniejszy m niż dotychczasowy podmiot (podwykonawca);
+g. gdy powierzenie wykonania części zamówienia podwykonawcy/ -om nie było przewidziane przez
+Wykonawcę w ofercie, a taka potrzeba wynikła w trakcie realizacji umowy (w szczególności ze
+względów losowych lub innych ko rzystnych dla Zamawiającego), Zamawiający dopuszcza
+możliwość zlecenia wykonania części zamówienia podwykonawcy/ -om; Zamawiający ma prawo nie
+wyrazić zgody na powierzenie wykonania części przedmiotu umowy podwykonawcy/ -om
+wskazanemu przez  Wykonawcę;
+h. zmiana  stosownych postanowień umowy wskutek wystąpienia omyłek pisarskich i/  lub rachunkowych
+w treści niniejszej  umowy.
+Oznaczenie sprawy: BZP/202 5/302 Załącznik nr 3 do SWZ
+Strona 11 z 16
+i. zmiana terminu wykonania zamówienia, zmiana postanowień umowy lub sposobu wykonywania
+umowy przez Wykonawcę wskutek zmiany przepisów prawa Unii Europejskiej lub prawa krajowego,
+które nastąpiły w trakcie realizacji  zamówienia/umowy.
+15. Zmiany, o których mowa w niniejszym paragrafie mogą być powiązane z obniżeniem  wynagrodzenia.
+16. Wszystkie powyższe postanowienia ust. 1 stanowią katalog zmian, na k tóre Zamawiający może wyrazić zgodę.
+Nie stanowią jednocześnie zobowiązania do obligatoryjnego wyrażenia takiej zgody. Warunkiem dokonania
+zmian postanowień zawartej umowy jest zgoda obu Stron wyrażona w formie określonej w §13 ust. 1  umowy.
+17. Zmiany  nie dotyczące  postanowień  umownych  np. gdy z przyczyn  organizacyjnych  konieczna  będzie  zmiana
+danych teleadresowych określonych w umowie lub osób wskazanych w § 11 umowy, nastąpią poprzez
+przekazanie pisemnego oświadczenia Strony, której te zmiany dotyczą, drugie j Stronie.
+§ 11
+1. Strony ustalają, iż do bezpośrednich kontaktów, mających na celu zapewnienie prawidłowej realizacji
+przedmiotu umowy, jego bieżący nadzór, odbiór oraz weryfikację, upoważnione zostają następujące osoby **:
+a. Ze strony Zamawiającego: …………. – tel. ………., e -mail: ……… lub inna osoba wskazana przez
+Zamawiającego, z zastrzeżeniem § 10 ust. 4 umowy. Osoba ta nie jest uprawniona do podejmowania
+decyzji w zakresie zmiany zasad wykonywania umowy, a także zaciągania nowych zobowiązań lub zmiany
+umowy. */  **
+b. Ze strony  Wykonawcy  – ………..  – tel. …………..,  e-mail ..................... lub inna osoba wskazana  przez
+Wykonawcę,  z zastrzeżeniem  § 10 ust. 4 umowy.  Osoba  ta nie jest uprawniona  do podejmowania  decyzji
+w zakresie zmiany zasad wykonywania umowy, a także zaciągania nowych zobowiązań lub zmiany
+umowy. */  **
+§ 12
+1. Zamawiający jest administratorem danych osobowych w rozumieniu art. 4 pkt 7 Rozporządzenia Parlamentu
+Europejskiego i Rady  (UE)  2016/679  z dnia  27 kwietnia  2016 r.  w sprawie  ochrony  osób  fizycznych  w związku
+z przetw arzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia
+dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych - „RODO”) w odniesieniu do danych
+osobowych Wykonawcy i osób, których dane osobowe zostały prze z Wykonawcę u dostępnione w ramach
+wykonywania niniejszej umowy.
+2. Wykonawca oświadcza, że przekazał lub zobowiązuje się – w ramach wykonywania umowy – przekazać
+wszystkim osobom, których dane osobowe udostępnił Zamawiającemu, treść klauzuli informacyjnej
+stanowiącej Załącznik nr 4 do niniejszej  umowy .
+§ 13
+1. Wszelkie zmiany i uzupełnienia treści niniejszej umowy wymagają, dla swej ważności zachowania formy
+pisemnej/formy elektronicznej * aneksu pod rygorem  nieważności.
+2. Strony uzgadniają, iż oświadczenia/zawiadomienia dotycz ące wypowiedzenia lub odstąpienia od umowy, będą
+składane w formie pisemnej, na zasadach wskazanych w art. 78 lub 78(1) Kodeksu cywilnego. Dokumenty
+sporządzone w zwykłej formie pisemnej winny być doręczane drugiej Stronie osobiście lub wysłane za
+potwierd zeniem odbioru listem poleconym. Jednocześnie Strony ustalają, iż w razie doręczenia przesyłki
+poprawnie adresowanej i nieodebrania jej przez Stronę, pomimo dwukrotnego awizowania, następuje skutek
+doręczenia.
+3. Ewentualna nieważność jednego lub kilku postanowień niniejszej umowy nie wpływa na ważność umowy  w
+całości,  a w takim  przypadku  Strony  zastępują  nieważne  postanowienie  postanowieniem  zgodnym  z celem i
+innymi postanowieniami umowy,  bądź  też postanowieniem umownym  w jego  pierwotnym brzmieniu  w
+przypadku dokonania zmian umowy z naruszeniem zapisów ust. 1 niniejszej  umowy.
+4. Żadna  ze Stron  nie jest uprawniona  do przeniesienia  swoich  praw  i zobowiązań  z tytułu  niniejszej  umowy  bez
+uzyskania pisemnej zgody drugiej Strony, w szczególności Wykonawcy nie przysługuje prawo przenoszenia
+wierzytelności wynikających z niniejszej umowy bez uprzedniej pisemnej zgody  Zamawiającego.
+Oznaczenie sprawy: BZP/202 5/302 Załącznik nr 3 do SWZ
+Strona 12 z 16
+5. W przypadku konieczności przetwarzania przez Wykonawcę danych osobowych, których administratorem jest
+Zamawiający w związku z wykonyw aniem niniejszej umowy, Wykonawca zobowiązany będzie na wniosek
+Zamawiającego do zawarcia umowy powierzenia przetwarzania danych osobowych w rozumieniu art. 28
+rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27.04.2016 r. w sprawie ochr ony osób
+fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) przed dokonaniem
+przetwarzania.
+6. Umowa podlega prawu polskiemu i zgodn ie z nim powinna być  interpretowana.
+7. W sprawach nieuregulowanych niniejszą umową mają zastosowanie przepisy ustawy Prawo zamówień
+publicznych oraz Kodeksu Cywilnego, a także ustawy o prawie autorskim i prawach  pokrewnych.
+8. Sądem właściwym dla wszystkich spr aw spornych, które wynikną z realizacji niniejszej umowy będzie sąd
+miejscowo właściwy dla siedziby  Zamawiającego.
+9. Niniejszą  umowę  sporządzono  w trzech  (3) jednobrzmiących  egzemplarzach,  w tym dwa (2) egzemplarze  dla
+Zamawiającego i jeden (1) dla Wykonawcy. */ Strony zgodnie oświadczają, że w przypadku zawarcia niniejszej
+umowy w formie elektronicznej za pomocą kwalifikowanego podpisu elektronicznego powstały  w ten sposób
+dokument elektroniczny stanowi poświadczenie, iż Strony zgodnie złożyły oświa dczenia woli w nim zawarte,
+zaś datą zawarcia jest dzień \złożenia ostatniego (późniejszego)oświadczenia woli o jej zawarciu przez
+umocowanych przedstawicieli każdej ze Stron.  *
+10.  Załączniki do  umowy:
+a. Załączni k nr 1:  Szczegółowy Opis Przedmiotu Zamówienia (SOPZ)/ Wykaz (opis) parametrów
+oferowanych przez Wykonawcę ( odpowiada Załącznikom nr 2.1 – 2.5 do SWZ,
+stosownie do części zamówienia, na które zawierana jest umowa)
+b. Załącznik nr 2:  Oferta Wykonawcy ( odpowiada Załącznikowi nr 1 do SWZ Formularz ofertowy)
+c. Załącznik nr 3:  Protokół odbioru (wzór)
+d. Załącznik nr 4:  Klauzula informacyjna o przetwarzaniu danych osobowych
+Zamawiający  Wykonawca
+Miejsca wykropkowane i/lub oznaczone „*” w projekcie umowy i wzorach załączników zostaną  odpowiednio
+do ich treści wypełnione lub skreślone, w szczególności z uwzględnieniem treści oferty  Wykonawcy.
+** W przypadku zawarcia umowy na więcej niż jedną część zamówienia, przy sukcesywnym realizowaniu
+dostaw w ramach umowy, przez protokół odbioru  rozumie się także protokół o dbioru całości  asortymentu  w
+obrębie poszczególnej części zamówienia określonej w § 1 ust. 1 umowy.
+Oznaczenie sprawy: BZP/202 5/302 Załącznik nr 3 do SWZ
+Strona 13 z 16
+Załącznik nr  3 do umowy
+PROTOKÓŁ ODBIORU
+(wzór)
+sporządzony w siedzibie Zamawiającego – Uniwersytet  Ignatianum w Krakowie, ul. Mikołaja Kopernika
+26, 31 -501 Kraków na podstawie umowy  ……… ..…………….  z dnia  zawartej  pomiędzy:
+Zamawiającym, reprezentowany m przez: ………………………………………….. ,
+a Wykonawc ą: ……………………………………………………..
+reprezentowany przez: …………………………………………..
+Przedmiot umowy w zakresie części nr ……….. zamówienia realizowany w ramach Projektu
+…………………………………………………………………...(jeśli dot.) Dokonano/ nie dokonano * odbioru n/w
+przedmiotu umowy:
+Lp. Wyszczególnienie przedmiotu umowy  Ilość  Uwagi
+1.
+2.
+itd
+1. Potwierdzenie kompletności odbieranego przedmiotu umowy:
+Tak* (potwierdzam odebranie bez zastrzeżeń)
+Tak* (potwierdzam odebranie  – zastrzeżenia  ................................ ................................ .....................  )
+Nie* – …………………………………………….
+2. Końcowy wynik  odbioru:
+Pozytywny*
+Pozytywny* – zastrzeżenia……………………………………….
+Negatywny*  ................................ ................................ .........................  *
+3. Zamawiający wyznacza następujący termin na ich wad / usterek opisanych w zastrzeżeniach usuniecie i
+dostarczenie przedmiotu zgodnego  z umową  ................................ ............................  *
+4. Termin wykonania  umowy:
+zgodny z umową/niezgodny z umową* - zastrzeżenia:
+5. Uwagi*:
+Podpisanie protokołu nie wyłącza dochodzenia przez Zamawiającego roszczeń z tytułu nienależytego
+wykonania umowy, w szczególności w przypadku wykrycia wad przedmiotu umowy przez Zamawiającego po
+dokonaniu odbioru.
+Niniejszy protokół sporz ądzono w 3 jednobrzmiących egzemplarzach, dwa dla Zamawiającego i jeden dla
+Wykonawcy.
+Kraków,  dn. ................................ . r.
+Oznaczenie sprawy: BZP/202 5/302 Załącznik nr 3 do SWZ
+Strona 14 z 16
+Przedstawiciel/ -e Zamawiającego:  Przedstawiciel/ -e Wykonawcy:
+* Niepotrzebne skreślić
+Oznaczenie sprawy: BZP/202 5/302 Załącznik nr 3 do SWZ
+Strona 15 z 16
+Załącznik nr 4 do Umowy
+KLAUZULA INFORMACYJNA O PRZETWARZANIU DANYCH OSOBOWYCH
+Zgodnie  z Rozporządzeniem  Parlamentu  Europejskiego  i Rady  (UE)  2016/679  z dnia 27 kwietnia  2016  r. w
+sprawie  ochrony  osób  fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego
+przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych -
+dalej „RODO”) informujemy,  że:
+1. Administratorem  danych  osobowych  jest Zamawiający  – Uniwers ytet Ignatianum  w Krakowie,  ul. Mikołaja
+Kopernika  26 , 31-501 Kraków (dalej:  „administrator”).
+2. W Uniwersytecie  Ignatianum w Krakowie funkcjonuje inspektor ochrony danych osobowych, z którym można
+skontaktować się osobiście lub korespondencyjnie na adres siedziby administratora, telefonicznie pod nr tel.:
+123 999 502 lub drogą elektroniczną na adres poczty e -mail:  iod@ignatianum.edu.pl
+3. Dane osobowe są przetwarzane przez administratora na podstawie art. 6 ust. 1 lit. c RODO w celach związanych
+z postępowaniem o udzielenie  zamówienia  publicznego,  w szczególności  w celu zebrania  i rozpatrzenia  ofert,
+kontaktowania  się z oferentami,  wezwania  do podania dodatkowych informacji. W przypadku Wykonawcy,
+którego oferta została wybrana - także na podstawie art. 6 ust. 1 lit. b RODO,  w celu zawarcia  i realizacji  umowy
+o zamówienie  publiczne,  również  w odniesieniu  do danych  osobowych  udostępnionych  przez Wykonawcę  (dane
+podwykonawców,  osób  wyznaczonych  do kontaktu  i osób  zatrudnionych  na umowę  o pracę  – jeśli Zamawiający
+tego zażąda). Dane osobowe mogą być również przetwarzane w związku z uzasadnionym interesem
+realizowanym przez administratora np. ustaleniem, dochodzeniem lub obroną roszczeń (art. 6 ust. 1 lit. f
+RODO).
+4. Odbiorcami  danych  osobowych  przetwarzanych  przez  administratora  w ramach  postępowania  o udzielenie
+zamówienia  publicznego  będą osoby  lub podmioty,  którym  udostępniona  zostanie  dokumentacja  postępowania
+w oparciu  o art. 18 oraz art. 74 ustawy  z dnia 11 września 2019  r. – Prawo  zamówień  publicznych  (Dz. U. z 2022
+r. poz. 1710  z późn.  zm.),  dalej  „ustawa  Pzp”,  lub ustawę  z dnia 6 września  2001  r. o dostępie do informacji
+publicznej (Dz. U. z 2020 r., poz. 2176) lub inne przepisy prawa lub umowy zawarte przez Zamawiającego;
+5. Dane osobowe będą przechowywane, zgodnie z art. 78 ustawy Pzp, przez okres 4 lat od dnia zakoń czenia
+postępowania o udzielenie zamówienia, a jeżeli czas trwania umowy przekracza 4 lata, okres przechowywania
+obejmuje cały czas trwania umowy. Po tym czasie Umowa zostanie zarchiwizowana i będzie przechowywana
+zgodnie z przepisami Ustawy z dnia 14 lipc a 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z
+2020 r. poz. 164) oraz aktów  wykonawczych;
+6. Obowiązek podania danych osobowych dotyczących bezpośrednio Wykonawcy jest wymogiem ustawowym
+określonym w przepisach ustawy Pzp, związanym z udziałe m w postępowaniu o udzielenie zamówienia
+publicznego. W przypadku danych osobowych udostępnionych przez Wykonawcę, którego oferta została
+wybrana - także z zawarciem i realizacją umowy; konsekwencje niepodania określonych danych wynikają z
+ustawy  Pzp;
+7. W od niesieniu do danych osobowych przetwarzanych przez administratora w ramach postępowania o udzielenie
+zamówienia publicznego, decyzje nie będą podejmowane w sposób zautomatyzowany, stosownie do art. 22
+RODO;
+8. Osoba, której dane dotyczą,  przysługuje:
+− na podstawie art. 15 RODO prawo dostępu do danych osobowych, z zastrzeżeniem, że w celu realizacji tego
+prawa administrator może  zażądać  podania  dodatkowych  informacji,  w szczególności  wskazania  nazwy  lub
+daty postępowania  o udzielenie  zamówienia publicznego lub konkursu. W przypadku, gdy dane osobowe są
+przechowywane w protokole, administrator w celu realizacji tego prawa może zażądać podania dodatkowych
+informacji, które pozwolą sprecyzować nazwę lub datę zakończonego postępowania o udzielenie
+zamówienia;
+− na podstawie art. 16 RODO prawo do sprostowania danych osobowych  *;
+− na podstawie art. 18 RODO prawo żądania od administratora ograniczenia przetwarzania danych osobowych
+z zastrzeżeniem przypadków, o których mowa w art. 18 ust. 2 RODO **. Wystąpienie z żądan iem
+ograniczenia przetwarzania danych osobowych nie ogranicza tego przetwarzania do czasu zakończenia
+Oznaczenie sprawy: BZP/202 5/302 Załącznik nr 3 do SWZ
+Strona 16 z 16
+postępowania o udzielenie zamówienia publicznego lub  konkursu;
+− prawo do wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych, w przypadku uznania,  że
+przetwarzanie danych osobowych narusza przepisy  RODO;
+9. Osobie, której dane dotyczą nie  przysługuje:
+− w związku z art. 17 ust. 3 lit. b, d lub e RODO prawo do usunięcia danych  osobowych;
+− prawo do przenoszenia danych osobowych, o którym mowa w art. 20  RODO ;
+− na podstawie  art. 21 RODO  prawo  sprzeciwu  wobec  przetwarzania  danych  osobowych,  gdy podstawą  prawną
+przetwarzania  danych osobowych jest art. 6 ust. 1 lit. c  RODO.
+* Wyjaśnienie: skorzystanie z prawa do sprostowania nie może skutkować zmianą wyniku postępowania
+o udzielenie zamówienia publicznego ani zmianą postanowień umowy w zakresie niezgodnym z ustawą Pzp oraz
+nie może naruszać integralności protokołu oraz jego załączników.
+** Wyjaśnienie: prawo do ograniczenia przetwarzania nie ma zastosowania w  odniesieniu do przechowywania,
+w celu zapewnienia korzystania ze środków ochrony prawnej lub w celu ochrony praw innej osoby fizycznej lub
+prawnej, lub z uwagi na ważne względy interesu publicznego Unii Europejskiej lub państwa członkowskiego.

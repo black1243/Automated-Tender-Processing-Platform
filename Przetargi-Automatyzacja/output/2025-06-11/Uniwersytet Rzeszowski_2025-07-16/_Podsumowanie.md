@@ -1,0 +1,361 @@
+## SPECYFIKACJA PRODUKTÓW
+
+Szczegółowa specyfikacja produktów (podzielona na zadania):
+
+**Zadanie nr 1: Sprzedaż i dostawa komputera przenośnego z akcesoriami dla Wydziału Nauk o Zdrowiu i Psychologii**
+*   **Pozycja nr 1: Komputer przenośny (1 szt.):**
+    *   Procesor: Architektura np. typu ARM, najwyższa efektywność energetyczna, zintegrowane GPU i Neural Engine (procesor do AI), np. Apple M4 (10-rdzeniowy: 4 rdzenie wydajnościowe + 6 rdzeni energooszczędnych)
+    *   Płyta główna: Zintegrowana architektura SoC (System on a Chip)
+    *   Obudowa: Metalowa (aluminiowa), kolor przykładowy to księżycowa poświata (złoty)
+    *   Wyświetlacz: 13-calowy wyświetlacz np. Typu Liquid Retina, rozdzielczość co najmniej 2560x1664, szeroka gama kolorów co najmniej P3, True Tone
+    *   Pamięć RAM: Min. 24 GB zunifikowanej pamięci RAM
+    *   Dysk twardy: Min. 512 GB pamięci masowej typu SSD
+    *   Karta graficzna: Zintegrowany obsługa ProRes, Metal, akceleracja AI i wideo, np. 10-rdzeniowy procesor graficzny (GPU)
+    *   Pamięć karty graficznej: GPU korzysta ze wspólnej pamięci RAM.
+    *   Karty sieciowe: WLAN (Wi-Fi 6E (802.11ax) – obsługa pasm 2,4 GHz, 5 GHz oraz 6 GHz), Bluetooth 5.3
+    *   Karta dźwiękowa: Karta dźwiękowa zintegrowana z SoC, System 3 mikrofonów klasy studyjnej z kierunkowym formowaniem wiązki (beamforming). Układ głośników z dźwiękiem przestrzennym (Spatial Audio). Obsługa Dolby Atmos
+    *   Złącza: Dwa porty Thunderbolt 4
+    *   Klawiatura: Podświetlana klawiatura np. typu Magic Keyboard z Touch ID – angielski (międzynarodowy)
+    *   Bateria: Wbudowany akumulator litowo-polimerowy (Li-Po), pojemność co najmniej 50Wh
+    *   System operacyjny: np. Typu MacOS Sonoma
+    *   Zasilanie: Zasilacz o mocy min. 70 W, przewód z magnetycznym łączem np. typu MagSafe 3
+    *   Waga: Nie więcej niż 1,3-1,5 kg
+    *   Atesty i standardy: Laptop posiada certyfikaty CE
+    *   Dokumentacja: Kompleksowa dokumentacja użytkownika dostępna w formie elektronicznej (język polski możliwy do ustawienia w systemie).
+    *   Dodatkowo: Dedykowana torba ochronna na laptop.
+    *   Wbudowana kamera: min. Kamera 12MP Center Stage
+    *   Gwarancja: Min. 24 miesiące, świadczona w systemie door-to-door
+*   **Pozycja nr 2: Akcesoria - przejściówka (1 szt.):**
+    *   Obsługa minimum:
+        *   HDMI: rozdzielczość do 8K/30 Hz
+        *   USB-C PD 3.0: transfer danych do 5 Gbps, 100 W max.
+        *   2 x USB-A 3.0: transfer danych do 5 Gbps
+        *   Gniazda kart Micro SD i SD: obsługuje SC/SDHC/SDXC, SD 3.0 UHS-I, pojemność do 2 TB, transfer danych do 104 Mbps
+        *   Materiał: TPE, aluminium, ABS, PC
+    *   Gwarancja: minimum 24 miesiące
+
+**Zadanie nr 2: Sprzedaż i dostawa urządzenia wielofunkcyjnego dla Wydziału Ekonomii i Finansów (1 szt.)**
+*   Typ drukarki: Kolor
+*   Funkcje: min. Drukowanie, Kopiowanie, Skanowanie, Faksowanie
+*   Wyświetlacz: min. Podświetlany wyświetlacz LCD, min 4,5 cm
+*   Maksymalny rozmiar papieru: A4
+*   Pamięć: min 128 MB
+*   Procesor: min 576 MHz
+*   Technologia: Atramentowa
+*   Połączenie: min. Sieć przewodowa, Sieć bezprzewodowa, Wi-Fi Direct
+*   Lokalny interfejs: min. Hi-Speed USB 2.0
+*   Interfejs sieci przewodowej: min. 10Base-T/100Base-TX
+*   Interfejs sieci bezprzewodowej: min. 802.11 b/g/n
+*   Połączenia mobilne: min. iPrint&Scan Mobile, Airprint, Mopria
+*   Drukowanie:
+    *   Rozdzielczość: Do 6000 x 1200 dpi (pionowo x poziomo)
+    *   Szybkość: do 17 ipm mono i 16,5 ipm kolor (porównywalny z drukiem laserowym)
+    *   Automatyczne drukowanie 2-stronne: Tak
+*   Skanowanie:
+    *   Skanowanie 2-stronne: Nie
+    *   Rozdzielczość: Optyczna do 1200 x 2400 dpi; Interpolowana do 19200 x 19200 dpi
+    *   Skanuj do: min. E-mail, obraz, OCR, Plik, USB
+    *   Szybkość: min 3.35 s. (mono) i 4.38 s. (kolor) przy rozdzielczości 100 dpi (pojedynczy arkusz)
+    *   Typ skanera: CIS
+*   Kopiowanie:
+    *   Kopiowanie 2-stronne: Nie
+    *   Rozdzielczość: Druk do 1200 x 2400 dpi (mono i kolor); Skanowanie: 1200 x 1200 dpi (tryb mono) i do 1200 x 600 dpi (kolor)
+    *   Szybkość: do 13 ipm mono i 10,5 ipm mono (ISO/IEC 24735)
+    *   Współczynnik powiększenia/zmniejszenia: min. od 25 do 400 co 1%
+    *   N na 1: Tak
+*   Faksowanie:
+    *   Faks-modem: PC Fax
+    *   min. 14.4 kb/s: Tak
+*   Obsługa papieru:
+    *   Wejście papieru: Podajnik standardowy – min. 150 arkuszy; Podajnik wielofunkcyjny – min. 80 arkuszy; ADF – min. 20 arkuszy
+    *   Wyjście papieru: min. 50 arkuszy
+*   Specyfikacje nośników:
+    *   Typy i gramatury: Podajnik standardowy – min. 64-220 g/m2; Podajnik wielofunkcyjny – min. 64-220 g/m2; ADF – min. 64-90 g/m2
+    *   Rozmiary: Podajnik standardowy - A4, LTR, EXE, A5, A6, Photo(102 x 152 mm/4x6"), Indexcard(127 x 203 mm/5x8"), Photo-2L(127 x 178 mm/5x7"), C5 Envelope, Com-10, DL Envelope, Monarch; Podajnik wielofunkcyjny - A4, LTR, EXE, A5, A6, Photo(102 x 152 mm/4x6"), Indexcard(127 x 203 mm/5x8"), Photo-L(9 x 13 cm/3.5x5"), Photo-2L(127 x 178 mm/5x7"), C5 Envelope, Com-10, DL Envelope, Monarch
+*   Sieć:
+    *   min. Wi-Fi Direct™: Tak
+    *   min. Sieć przewodowa: 10/100BASE-TX
+    *   min. Bezpieczeństwo sieci przewodowej: SSL/TLS (IPPS, HTTPS)
+    *   min. Sieć bezprzewodowa: IEEE 802.11b/g/n (tryb infrastruktury), IEEE 802.11g/n (Wi-Fi Direct)
+    *   min. Bezpieczeństwo sieci bezprzewodowej: SSID (32 chr), WEP 64/128bit , WPA-PSK(TKIP/AES), WPA2-PSK(TKIP/AES)
+*   Systemy operacyjne i oprogramowanie:
+    *   Obsługiwane: Windows® 7 / 8.1 /10 /11; Windows Server® 2008 / 2008R2 / 2012 / 2012R2 / 2016 / 2019; MacOS 10.13.6/10.14.x/10.15.x
+*   Waga: do 10 kg
+*   Materiały eksploatacyjne i akcesoria:
+    *   Wkłady atramentowe o dużej wydajności: do 7500 stron; cyan / magenta / żółty - C/M/Y do 5000 stron
+*   Gwarancja: min. 24 miesiące
+
+**Zadanie nr 3: Sprzedaż i dostawa stacjonarnego zestawu komputerowego dla Wydziału Biologii i Ochrony Przyrody (1 szt.)**
+*   Procesor:
+    *   Wydajność:
+        *   BAPCo® SYSmark® 2014: nie mniejszy niż 1500 punktów
+        *   PassMark – CPU Mark: min. 27000 pkt. (przy nominalnych ustawieniach procesora bez przetaktowywania)
+*   Pamięć RAM: Min. 2 x 16 GB, np. typu DDR5 CL36
+*   Dysk twardy: Min. 1TB np. typu M.2 PCIe NVMe
+*   Napęd optyczny: -
+*   Monitor:
+    *   Przekątna ekranu: min. 27 cali
+    *   Rodzaj matrycy: typu IPS LED matowa
+    *   Format ekranu: 16:9
+    *   Jasność: min. 350 cd/m2
+    *   Rozdzielczość: min. 2560 x 1440
+    *   Czas reakcji: max. 4 ms
+    *   Kąty widzenia poziomo/pionowo: min. 178/min. 178
+    *   Zakrzywiony ekran: NIE
+    *   Wejścia sygnału: min. 2xHDMI
+    *   Porty USB: min. 3szt.
+    *   Wbudowane głośniki: min. 2 x 3W
+*   Płyta główna:
+    *   Obsługa pamięci RAM:
+        *   Liczba banków pamięci: min. 4 szt.
+        *   Typ obsługiwanej pamięci: min. DDR5 DIMM
+        *   Ilość obsługiwanej pamięci: min. 192 GB
+    *   Obsługa układów graficznych w procesorach: Tak
+    *   Obsługa Audio: Tak
+    *   Interfejsy wew. dysków twardych:
+        *   np. typu M.2 PCIe 4.0 NVMe - min. 2szt.
+        *   np. typu SATA3 6.0 Gb/s - min. 4szt.
+    *   Obsługa min. RAID 0, RAID 1, RAID 5, RAID 10
+    *   Obsługa sieci przewodowej LAN: min. 10/100/1000/2500 MB/s - min. 1szt.
+    *   Gniazda PCI: min. PCIe x16 - min. 3szt.
+    *   Złącza zewnętrzne:
+        *   PS/2 keyboard/mouse port - min.1szt.
+        *   HDMI port - min. 2szt.
+        *   DisplayPorts - min. 1szt.
+        *   USB 3.2 (Gen2) - min. 2szt.
+        *   USB 2.0 - min. 4szt.
+        *   RJ-45 port - min. 2szt.
+        *   audio jacks - min. 3szt.
+    *   Wsparcie dla systemów operacyjnych: Windows 11 64-bit
+*   Karta Dźwiękowa: Zintegrowana
+*   Karta graficzna: Zintegrowana
+*   Karta sieciowe: Przewodowa zintegrowana – min. 2500 Mbps
+*   Obudowa:
+    *   Wysokość max. 400 mm
+    *   Głębokość max. 390mm
+    *   Szerokość max. 190 mm
+    *   Kolor – preferowany czarny
+    *   Złącza USB przedniego panelu:
+        *   USB 3.1 typ C - min. 1szt.
+        *   USB 3.0 - min. 2szt.
+        *   USB 2.0 - min. 2szt.
+    *   Złącze słuch/głoś: min. 1szt.
+    *   Złącze mikrofonowe: min.1szt.
+    *   Ilość wewnętrznych zatok 3.5: min. 3szt.
+    *   Ilość wewnętrznych zatok 2.5: min. 5szt.
+*   Zasilacz:
+    *   Moc: min. 400W
+    *   Standard: ATX
+    *   Ilość wentylatorów: max. 1szt.
+    *   Średnica wentylatora: 120 mm
+    *   Układ PFC: aktywny
+    *   Zabezpieczenia: co najmniej OPP, OVP, SCP, UVP, SIP, AFC
+*   Klawiatura:
+    *   Interfejs: USB przewodowa
+    *   Typ: płaska
+    *   Typ klawiszy: membranowe
+    *   Klawisze numeryczne: TAK
+    *   Klawisze multimedialne: TAK
+    *   Duży klawisz Enter
+    *   Wbudowana podpórka pod nadgarstki
+*   Mysz:
+    *   Interfejs: USB przewodowa
+    *   Typ: optyczna
+    *   Profil: praworęczny
+    *   Rozdzielczość pracy: min. 800 -4000dpi
+    *   Programowalne przyciski: min. 5szt.
+    *   Długość przewodu: min. 1,8m
+*   Kamera internetowa:
+    *   Rozdzielczość połączeń video: min. FullHD (1920x1080)
+    *   Wbudowany mikrofon: - TAK
+    *   Zoom cyfrowy - min. 4x
+    *   Zasłona obiektywu - TAK
+*   Słuchawki:
+    *   Typ: przewodowe douszne
+    *   Złącze: Minjack 3,5mm - min. 1szt.
+    *   Pasmo przenoszenia: min. 20 -20000Hz
+    *   Czułość - min. 95dB
+    *   Mikrofon: Tak wbudowany na pilocie na kablu
+    *   Długość przewodu: min. 1,2m
+    *   Kolor: srebrny
+*   Gwarancja: Min. 24 miesiące
+
+**Zadanie nr 4: Sprzedaż i dostawa komputerów przenośnych i monitora dla Prorektora ds. Finansów Rozwoju i Biura Rektora**
+*   **Pozycja nr 1: Komputery przenośne (2 szt.):**
+    *   Procesor:
+        *   Wydajność:
+            *   BAPCo® SYSmark® 2014: wynik ogólny nie mniejszy niż 1500 punktów
+            *   PassMark – CPU Mark: wynik min. 19 050 pkt. (przy nominalnych ustawieniach procesora bez przetaktowywania)
+    *   Pamięć RAM: Min 32 GB
+    *   Dysk twardy: Min 1 TB np. typu NMVE
+    *   Karta Graficzna: Zintegrowana
+    *   Napęd optyczny: brak
+    *   Karta dźwiękowa:
+        *   - zintegrowana, – kanałowa karta dźwiękowa, możliwość wyłączenia karty muzycznej w BIOS.
+        *   - stereo
+        *   -wbudowany mikrofon i głośniki
+    *   Przekątna: min 14’
+    *   Rozdzielczość: min 2560 x 1600 pikseli
+    *   Karta sieciowa:
+        *   - min WIFI 7,
+        *   - możliwość wyłączenia karty sieciowej w BIOS
+        *   - Bluetooth 5.4
+        *   - LAN (dopuszczalny adapter)
+    *   System operacyjny: Zainstalowany system operacyjny w wersji polskiej, niewymagający aktywacji za pomocą telefonu lub Internetu.
+        *   1. Możliwość dokonywania aktualizacji i poprawek systemu przez Internet z możliwością wyboru instalowanych poprawek;
+        *   2. Możliwość dokonywania uaktualnień sterowników urządzeń przez Internet – witrynę systemu;
+        *   3. Darmowe aktualizacje w ramach wersji systemu operacyjnego przez Internet (niezbędne aktualizacje, poprawki, muszą być dostarczane bez dodatkowych opłat) – wymagane podanie nazwy strony serwera WWW;
+        *   4. Internetowa aktualizacja zapewniona w języku polskim;
+        *   5. Wbudowana zapora internetowa (firewall) dla ochrony połączeń internetowych; zintegrowana z systemem konsola do zarządzania ustawieniami zapory i regułami IP v4 i v6;
+        *   6. Wsparcie dla większości powszechnie używanych urządzeń peryferyjnych (drukarek, urządzeń sieciowych, standardów USB, Plug&Play, Wi-Fi)
+        *   7. Możliwość zdalnej automatycznej instalacji, konfiguracji, administrowania oraz aktualizowania systemu;
+        *   8. Zintegrowane z systemem operacyjnym narzędzia zwalczające złośliwe oprogramowanie; aktualizacje dostępne nieodpłatnie bez ograniczeń czasowych.
+        *   9. Zintegrowany z systemem operacyjnym moduł synchronizacji komputera z urządzeniami zewnętrznymi.
+        *   10. Wbudowany system pomocy w języku polskim;
+        *   11. Wsparcie dla Sun Java i .NET Framework 1.1 i 2.0 i 3.0 – możliwość uruchomienia aplikacji działających we wskazanych środowiskach;
+        *   12. Graficzne środowisko instalacji i konfiguracji;
+        *   13. Zarządzanie kontami użytkowników sieci oraz urządzeniami sieciowymi tj. drukarki, modemy, woluminy dyskowe, usługi katalogowe
+        *   14. wbudowana usługa pulpitu zdalnego jako serwer (przy pomocy tej usługi można uzyskać dostęp do wszystkich plików i programów komputera)
+        *   15. funkcja szyfrowania plików systemowych
+        *   16. System umożliwia dołączenie komputera do usługi domenowej (katalogowej)
+    *   Materiał obudowy: aluminium
+    *   Wbudowana kamera: Tak, min 2 Mpix
+    *   Podświetlana klawiatura: Tak
+    *   Waga: Max 1,7 kg
+    *   Dodatkowe interfejsy:
+        *   Min. HDMI 2.1 x 1,
+        *   Min. Thunderbolt 4 (z DisplayPort/Power Delivery) x 1,
+        *   Min. USB 3.2 x 1,
+        *   Min. USB 3.2 Typ C (z DisplayPort/Power Delivery) x 1
+    *   Klawiatura: układ klawiszy QWERTY, bezprzewodowa
+    *   Mysz: bezprzewodowa
+    *   Stacja dokująca: Tak, pozwalająca podłączyć niezbędne urządzenia peryferyjne, kompatybilna z modelem urządzenia
+    *   Gwarancja: Min 24 miesiące
+*   **Pozycja nr 2: Monitor (1 szt.):**
+    *   Przekątna ekranu min. 27 cali
+    *   Rodzaj matrycy np. typu IPS
+    *   Format ekranu 16:9
+    *   Rozdzielczość co najmniej 3840x2160 (4K)
+    *   Czas reakcji max. 4 ms
+    *   Kontrast dynamiczny co najmniej 3 000:1
+    *   Jasność co najmniej 350 cd/m²
+    *   Kąt widzenia poziom co najmniej 178 °
+    *   Kąt widzenia pion co najmniej 178 °
+    *   Podświetlenie LED Tak
+    *   Wbudowane głośniki: Tak
+    *   Zużycie energii: max 170 W
+    *   Interfejsy min: 2 x HDMI, 2 x USB 3.0, 1 x Audio out, 1 x USB (Type C)
+    *   Gwarancja: Min 24 miesiące
+
+**Zadanie nr 5: Sprzedaż i dostawa komputera przenośnego dla Wydziału Nauk o Zdrowiu i Psychologii (1 szt.)**
+*   Procesor: Jednostka klasy wysokowydajnej (High Performance), przystosowana do pracy wielozadaniowej; Wynik testu wydajnościowego SYSmark 25 Performance Qualification: nie mniej niż 1 900 punktów; Wynik testu SYSmark 25 Responsiveness: nie mniej niż 1 750 punktów;  Minimum 12 rdzeni fizycznych i 16 wątków logicznych;
+*   Pamięć RAM: Pojemność: minimum 32 GB; Typ: DDR4 lub nowszy; Możliwość rozbudowy lub wymiany modułów RAM.
+*   Dysk twardy: Typ: dysk półprzewodnikowy SSD (np. typu NVMe); Pojemność całkowita: minimum 2 TB;
+*   Napęd optyczny: Brak
+*   Karta dźwiękowa: zintegrowana; wbudowany mikrofon i głośniki
+*   Karta graficzna: Zintegrowana lub dedykowana karta graficzna obsługująca rozdzielczość FHD; Obsługa bibliotek graficznych co najmniej DirectX 12 i OpenGL 4.5; Przeznaczona do zastosowań biurowych, multimedialnych i prostych zadań projektowych 2D.
+*   Łączność i złącza: Karta sieci bezprzewodowej Wi-Fi zgodna z co najmniej standardem IEEE 802.11ax (Wi-Fi 6); Moduł Bluetooth w wersji co najmniej 5.2; Minimum: 1x port USB typu C; Minimum: 2x port USB typu A; Minimum: 1x port HDMI; Minimum: 1x czytnik kart pamięci; Minimum: 1x gniazdo audio (combo mikrofon/słuchawki).
+*   Klawiatura i sterowanie: Klawiatura pełnowymiarowa z blokiem numerycznym; Wbudowany touchpad z funkcją wielodotyku; Klawiatura podświetlana.
+*   Kamera i mikrofon: Kamera internetowa HD (minimum 720p); Wbudowany mikrofon wielokierunkowy; Obsługa co najmniej Windows Hello lub równoważna (biometria).
+*   Czytnik kart: -
+*   Typ ekranu: Matryca dotykowa, panoramiczna, z podświetleniem LED; Przekątna: minimum 17 cali; Rozdzielczość: co najmniej 1920 x 1080 pikseli (FHD); Powłoka: matowa lub antyrefleksyjna.
+*   Przekątna: Ekran o przekątnej minimum 17,0 cali
+*   Dodatkowe funkcjonalności: Minimum: 2 - wbudowane mikrofony, akcelerometr, czujnik temperatury IR; Minimum: kamera IR 5 Mpix
+*   Waga netto: Max 2,5 kg
+*   Obudowa: Obudowa wykonana z aluminium, tworzywo sztuczne
+*   Kolor obudowy: Preferowany srebrny
+*   System operacyjny: Wersja 64-bit, klasy profesjonalnej, umożliwiająca pełną integrację z domeną, politykami grupowymi oraz szyfrowanie dysku (np. BitLocker lub równoważny); Licencja dożywotnia, aktywowana na urządzeniu (np. Windows 11 Pro lub równoważny)
+*   Fizyczne: Rodzaj: laptop
+*   Gwarancja: min. 24 miesiące
+
+**Zadanie nr 6: Sprzedaż i dostawa urządzeń wielofunkcyjnych i monitora dla Wydziału Technologiczno – Przyrodniczego**
+*   **Pozycja nr 1: Urządzenie wielofunkcyjne laserowe 3 w 1 (1 szt.):**
+    *   Drukarka:
+        *   Rodzaj drukarki (Technologia druku): Laserowa
+        *   Maksymalny format druku: A4
+        *   Automatyczny druk dwustronny
+        *   Szybkość druku [str/min]: min. 40 w czerni
+        *   Szybkość wydruku pierwszej strony (czerń) [s]: min. 6.3
+        *   Rozdzielczość druku w czerni [dpi]: co najmniej 1200 x 1200
+    *   Skaner:
+        *   Typ skanera: CIS
+        *   Rozdzielczość optyczna [dpi]: co najmniej 1200 x 1200
+        *   Maksymalny format skanowania: 216 x 356 mm
+        *   Głębia koloru [bit]: min. 24
+        *   Głębia szarości [bit]: min. 24
+    *   Kopiarka:
+        *   Rozdzielczość kopiowania [dpi]: co najmniej 600 x 600
+        *   Zmniejszanie / powiększanie: co najmniej 25 – 400% w krokach co 1%
+        *   Prędkość kopiowania - czerń [str/min]: min. 38
+        *   Funkcje kopiowania: Dwustronne, Kopiowanie bez marginesów, Kopiowanie dokumentów tożsamości, Sortowanie, Zmiana rozmiaru
+    *   Podajnik papieru: min. 400 arkuszy
+    *   Taca odbiorcza: min. 150 arkuszy
+    *   Pamięć: min. 512 MB
+    *   Wyświetlacz: Tak
+    *   Wi-Fi: Tak
+    *   Bluetooth: Tak
+    *   Obsługiwane formaty nośników: co najmniej 16K, A4, A5, A6, B5 JIS, B6 JIS, Executive, Kartki pocztowe, Koperty, Legal, Letter, Oficio, Statement
+    *   Wymiary (szer. x wys.x gł.): max. 420 x 323 x 390 mm
+    *   Wyposażenie: kabel USB, instrukcja obsługi, kabel zasilający, tonery startowe
+    *   Instrukcja obsługi w języku polskim, Karta gwarancyjna
+    *   Gwarancja: min. 24 miesiące
+*   **Pozycja nr 2: Urządzenie wielofunkcyjne 3 w 1 (drukarka, kopiarka, skaner) - drukarka atramentowa (1 szt.):**
+        *   Drukarka atramentowa
+        *   Druk w kolorze
+        *   Maksymalny format druku: A4
+        *   Automatyczny druk dwustronny
+        *   Rozdzielczość druku w czerni [dpi]: co najmniej 1200 x 6000
+        *   Rozdzielczość druku w kolorze [dpi]: co najmniej 1200 x 6000
+        *   Szybkość druku w czerni [str/min]: min. 30
+        *   Szybkość druku w kolorze [str/min]: min. 25
+        *   Szybkość wydruku pierwszej strony (czerń) [s]: max. 6
+        *   Szybkość wydruku pierwszej strony (kolor) [s]: max. 6.5
+    *   Skaner:
+        *   Typ skanera: CIS
+        *   Rozdzielczość optyczna [dpi]: co najmniej 1200 x 2400
+        *   Maksymalny format skanowania: A4
+        *   Głębia koloru [bit]: min. 30
+        *   Głębia szarości [bit]: min. 10
+    *   Kopiarka:
+        *   Rozdzielczość kopiowania [dpi]: co najmniej 1200 x 1200
+        *   Zmniejszanie / powiększanie: min. 25 – 400% w krokach co 1%
+        *   Prędkość kopiowania - czerń [str/min]: min. 13
+        *   Prędkość kopiowania - kolor [str/min]: min. 10
+        *   Funkcje kopiowania: Łączenie 2 w 1, 4 w 1
+    *   Podajnik papieru: min. 150 arkuszy
+    *   Taca odbiorcza: min. 50 arkuszy
+    *   Pamięć: min. 128 MB
+    *   Wyświetlacz: min. 1-wierszowy
+    *   Wi-Fi: Tak
+    *   Obsługiwane formaty nośników: co najmniej A4, A5, A6, C5, DL, Executive, LTR, Monarch
+    *   Wymiary maksymalne: max. Wysokość [mm]: 195 Szerokość [mm]: 435 Głębokość [mm]: 380
+    *   Wyposażenie: Przewód zasilający, Tusze startowe
+    *   Instrukcja obsługi w języku polskim, Karta gwarancyjna
+    *   Gwarancja: min. 24 miesiące
+*   **Pozycja nr 3: Monitor (1 szt.):**
+    *   Ekran: min. 23,8 ", IPS, min. 1920 x 1080, wąska ramka
+    *   Czas reakcji matrycy: max. 4 ms
+    *   Częstotliwość odświeżania obrazu: min. 100 Hz
+    *   Złącza: min. HDMI 1.4 x 2
+    *   Funkcje: min. pivot, głośniki, wąska ramka, regulacja wysokości
+    *   Gwarancja: min. 24 miesiące
+
+## WYKLUCZENIA
+
+Podstawy wykluczenia z udziału w przetargu:
+
+*   **Art. 108 ust. 1 p.z.p.:** (szczegółowe punkty od 1 do 6 w treści dokumentu swz_z_dnia_09.06.2025r.txt)
+    *   Prawomocne skazanie za przestępstwa (udział w grupie przestępczej, handel ludźmi, korupcja, terroryzm, oszustwa, itp.).
+    *   Prawomocny wyrok lub ostateczna decyzja administracyjna o zaleganiu z podatkami, opłatami lub składkami na ubezpieczenia (chyba że dokonano płatności lub zawarto porozumienie).
+    *   Prawomocny zakaz ubiegania się o zamówienia publiczne.
+    *   Zawarcie porozumienia z innymi wykonawcami mające na celu zakłócenie konkurencji.
+    *   Zakłócenie konkurencji wynikające z wcześniejszego zaangażowania wykonawcy.
+*   **Art. 111 p.z.p.:** Wykluczenie następuje zgodnie z tym artykułem.
+*   **Art. 110 ust. 2 p.z.p.:** Możliwość uniknięcia wykluczenia w pewnych okolicznościach, jeśli wykonawca udowodnił swoją rzetelność.
+*   **Art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego:** Wykluczenie w przypadku zaistnienia okoliczności przewidzianych w ustawie.
+*   **Art. 5k rozporządzenia Rady (UE) nr 833/2014 (w brzmieniu nadanym rozporządzeniem 2022/576):** Zakaz udziału rosyjskich wykonawców w zamówieniach publicznych.
+
+## WARUNKI SPECJALNE
+
+*   Zamawiający przewiduje możliwość unieważnienia postępowania, jeżeli środki publiczne na sfinansowanie zamówienia nie zostaną przyznane (art. 257 p.z.p.).
+*   Zamawiający dopuszcza składanie ofert równoważnych pod warunkiem, że oferowane

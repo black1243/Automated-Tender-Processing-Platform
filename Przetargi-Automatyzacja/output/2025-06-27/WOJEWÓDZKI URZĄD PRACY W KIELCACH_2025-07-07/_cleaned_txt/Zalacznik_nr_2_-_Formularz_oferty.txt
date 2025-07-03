@@ -1,0 +1,62 @@
+Znak sprawy: OKA-II.271.20.2025	                                                              Załącznik nr 2 do SWZ
+Zamawiający:
+Wojewódzki Urząd Pracy w Kielcach
+ul. Witosa 86
+25-561 Kielce
+FORMULARZ OFERTY
+Wykonawca/Wykonawcy (w przypadku wykonawców wspólnie ubiegających się                                o udzielenie zamówienia):
+Przystępując do postępowania prowadzonego w trybie podstawowym na „Dostawa Komputerów przenośnych, akcesoriów komputerowych, systemu kopii bezpieczeństwa                     i urządzenia wielofunkcyjnego.”
+OFERUJEMY wykonanie zamówienia w zakresie objętym Specyfikacją Warunków Zamówienia (SWZ), na poniższych warunkach:
+(wypełnić w zakresie CZĘŚCI, na którą składana jest oferta)
+w zakresie CZĘŚCI 1
+CENA OFERTY BRUTTO .....…………………………………………. zł
+(słownie: .............................................................................................).
+Cena oferty brutto wynika z Formularza Asortymentowo-Cenowego – Załącznika nr 3a do SWZ
+Okres gwarancji na komputer przenośny …….... lata.
+Ilość zaoferowanej pamięci RAM komputera przenośnego ………. GB.
+w zakresie CZĘŚCI 2
+CENA OFERTY BRUTTO .....………………………………………….. zł
+(słownie: ................................................................................................).
+Cena oferty brutto wynika z Formularza asortymentowo-cenowego – Załącznika nr 3b do SWZ
+Okres gwarancji Routera bezprzewodowego z modemem 5G ………….. lata.
+Okres gwarancji zestawu mysz komputerowa + klawiatura …………... lata.
+Okres gwarancji dysków NVME …………... lata.
+w zakresie CZĘŚCI 3
+CENA OFERTY BRUTTO .....……………………..……….….... zł
+(słownie: ............................................................................................).
+Cena oferty brutto wynika z Formularza asortymentowo-cenowego – Załącznika nr 3c do SWZ
+Okres gwarancji Serwera …….... lata.
+Okres gwarancji biblioteki taśmowej ………. lata.
+w zakresie CZĘŚCI 4
+CENA OFERTY BRUTTO .....…………………………………… zł
+(słownie: ............................................................................................).
+Cena oferty brutto wynika z Formularza asortymentowo-cenowego – Załącznika nr 3d do SWZ
+Okres gwarancji komputera …….... lata.
+Ilość pamięci RAM ……….GB
+w zakresie CZĘŚCI 5
+CENA OFERTY BRUTTO .....…………………………………… zł
+(słownie: ............................................................................................).
+Cena oferty brutto wynika z Formularza asortymentowo-cenowego – Załącznika nr 3e do SWZ
+Okres gwarancji urządzenia wielofunkcyjnego …….... lata.
+Szybkość drukowania strony A4 ……………………………….stron/min
+Szybkość skanowania strony A4………………………………. stron/min
+Oświadczamy, że zaoferowana cena zawiera wszystkie koszty wykonania zamówienia, które poniesie Zamawiający, łącznie z dostawą do siedziby Zamawiającego i w toku realizacji zamówienia nie ulegnie zmianie.
+Oświadczamy, że uzyskaliśmy od Zamawiającego wszystkie niezbędne informacje dotyczące niniejszego zamówienia.
+Oświadczamy, że zapoznaliśmy się z SWZ i akceptujemy określone w niej warunki oraz zasady postępowania.
+Oświadczamy, że przedmiot zamówienia wykonamy z należytą starannością, zgodnie z wymaganiami i wytycznymi zawartymi w SWZ, z zachowaniem wymaganej jakości.
+Oświadczamy, że w przypadku wyboru naszej oferty wyrażamy zgodę na realizację zamówienia w terminie określonym w SWZ.
+Oświadczamy, że przedmiot zamówienia wykonamy sami/z udziałem podwykonawców  w części ………………….. przez firmę …………………… (podać pełną nazwę firmy).
+W przypadku braku ww. oświadczenia Zamawiający uzna, iż Wykonawca realizował będzie zamówienie bez udziału podwykonawców.
+Oświadczamy, że uważamy się za związanych niniejszą ofertą na czas wskazany w SWZ.
+Oświadczamy, iż wybór naszej oferty prowadzi do powstania u Zamawiającego obowiązku podatkowego na podstawie ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług
+w zakresie:
+nazwa (rodzaj) towaru lub usługi, których dostawa lub świadczenie będą prowadziły do powstania obowiązku podatkowego: ……………………………………
+wartość netto ………………………………...... złotych
+zgodnie z wiedzą wykonawcy zastosowanie będzie miała następująca stawka VAT: ……....
+Oświadczamy, że „Projektowane postanowienia umowy”, stanowiące załącznik nr 5 do SWZ zostały przez nas zaakceptowane i zobowiązujemy się w przypadku wyboru naszej oferty do zawarcia umowy na wymienionych w nich warunkach, w miejscu i terminie wyznaczonym przez Zamawiającego.
+Pod groźbą odpowiedzialności karnej oświadczamy, że załączone do oferty dokumenty opisują stan faktyczny i prawny na dzień sporządzania oferty (art. 297 Kodeksu Karnego).
+Oświadczam, że wypełniłem obowiązki informacyjne przewidziane w art. 13 lub art. 14 RODO wobec osób fizycznych, od których dane osobowe bezpośrednio lub pośrednio pozyskałem w celu ubiegania się o udzielenie zamówienia publicznego w niniejszym postępowaniu.
+Załącznikami do niniejszej oferty są:
+(miejscowość, data)	   					------------------------------------------
+podpis osoby/osób uprawnionej/ych   upoważnionej przez Wykonawcę)
+Niniejszy plik podpisuje Wykonawca kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym.

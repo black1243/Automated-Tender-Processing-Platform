@@ -215,5 +215,15 @@ def update_przetarg_summary_section(przetarg_id):
         f.write(content.strip() + '\n')
     return jsonify({'status': 'success'})
 
+@app.route('/api/przetarg/<przetarg_id>/link', methods=['GET'])
+def get_przetarg_link(przetarg_id):
+    date, title = parse_przetarg_id(przetarg_id)
+    if not date or not title:
+        return "Invalid przetarg_id", 400
+    link_path = OUTPUT_DIR / date / title / 'link.txt'
+    if not link_path.exists():
+        return "Not found", 404
+    return link_path.read_text(encoding='utf-8')
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000) 

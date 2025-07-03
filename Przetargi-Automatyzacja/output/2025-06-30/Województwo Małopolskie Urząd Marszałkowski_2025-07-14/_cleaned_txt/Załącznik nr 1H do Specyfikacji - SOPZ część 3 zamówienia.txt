@@ -1,0 +1,36 @@
+Załącznik nr 1H do swz/ Załącznik nr 10 do umowy dla części III zamówienia
+Szczegółowy opis przedmiotu zamówienia
+Część III zamówienia
+Zakup i dostawa urządzeń sprzętu kancelaryjnego (tj. czytników kodów kreskowych, drukarek kreskowych i urządzeń wielofunkcyjnych) do obsługi korespondencji przychodzącej i wychodzącej w ramach obiegu dokumentów w systemie EZD RP wraz z instalacją w wyznaczonych jednostkach organizacyjnych Województwa Małopolskiego oraz zapewnieniem pięcioletniego wsparcia. Informacje dodatkowe związane z urządzeniami kancelaryjnym, w ramach funkcjonowania w systemie EZD RP dostępne są na stronie producenta rozwiązania (https://podrecznik.ezdrp.gov.pl/).
+Niniejsza część zamówienia obejmuje:
+Zakup 6 czytników kodów kreskowych,
+Zakup 6 drukarek kodów kreskowych,
+Zakup 6 urządzeń wielofunkcyjnych,
+Instalacja sprzętu wraz z dostawą, do wybranych jednostek WSJO.
+Opis minimalnych parametrów technicznych dla 6 czytników kodów kreskowych:
+Opis minimalnych parametrów technicznych dla 6 drukarek kodów kreskowych:
+Opis minimalnych parametrów technicznych dla 6 urządzeń wielofunkcyjnych:
+Dostawa sprzętu kancelaryjnego (tj. czytników kodów kreskowych, drukarek kodów kreskowych i urządzeń wielofunkcyjnych) do wybranych jednostek WSJO:
+Dostawa i Instalacja urządzeń:
+W ramach dostawy urządzeń kancelaryjnych Wykonawca musi dostarczyć niniejszy sprzęt do jednostek organizacyjnych Województwa Małopolskiego na własny koszt. Dostawa zostanie przeprowadzona do następujących lokalizacji (wraz z podziałem na ilość dostarczonego sprzętu):
+Wykonawca musi dostarczyć wszystkie potwierdzenia wykupienia gwarancji na sprzęt teleinformatyczny oraz na licencję (jeśli dotyczy),
+Wykonawca przed dostawą niniejszego sprzętu musi poinformować Zamawiającego o planowanym dostarczeniu zamówionego sprzętu teleinformatycznego do poszczególnej jednostki WSJO m.in. na 3 dni robocze przed planowaną dostawą.
+Wykonawca zobowiązany jest do zainstalowania dostarczonych urządzeń oraz przeprowadzenia instruktażu dla pracowników zamawiającego w zakresie obsługi i konfiguracji urządzenia.
+W ramach gwarancji na dostarczone czytnik kodów kreskowych, drukarki kodów kreskowych i urządzenia wielofunkcyjne Wykonawca zapewni wsparcie telefoniczne, zdalne oraz na miejscu u Zamawiającego oraz będzie realizował działania w zakresie:
+Zapewnienia okresowej konserwacji oraz przeglądów (minimum jeden raz do roku lub częściej na wniosek Zamawiającego),
+Przeprowadzenie diagnostyki całego dostarczonego zdalnie i stacjonarnie wyżej wymienionego sprzętu,
+Usuwania błędów, usterek oraz awarii (w tym awarii krytycznych) w działaniu całego dostarczonego wyżej wymienionego sprzętu,
+Wdrażanie lub wsparcie we wdrożeniu nowych wersji oprogramowania dla dostarczonego sprzętu oraz oprogramowania,
+Wsparcie w zmianach konfiguracyjnych w ramach dostarczenia wyżej wymienionego sprzętu,
+Przeprowadzania zmian w konfiguracji dostarczonych wyżej wymienionych urządzeń,
+Wykonawca zobowiązany jest do poinformowania Zamawiającego o przeprowadzeniu prac konserwujących i prac w ramach okresowego przeglądu na minimum jeden dzień przed przystąpieniem do prac.
+Wykonawca zobowiązany jest do podjęcia przeprowadzenia prac konserwujących i prac w ramach okresowego przeglądu na wniosek Zamawiającego maksymalnie do 3 dni roboczych od zgłoszenia.
+Wykonawca zobowiązany jest do podjęcia prac diagnostycznych maksymalnie do 3 dni roboczych od zgłoszenia.
+W przypadku wykrycia usterki, błędu lub awarii, Wykonawca w ramach wsparcia zobowiązany jest do podjęcia działań naprawczych, zdalnie i stacjonarnie, w czasie do ….. dni roboczych (zgodnie z ofertą), liczonych od następnego dnia roboczego po wysłaniu przez Zamawiającego zgłoszenia gwarancyjnego przekazanego kanałem komunikacji wskazanym w § 5 ust. 4 Umowy.
+W przypadku wykrycia awarii krytycznej, Wykonawca zobowiązany jest w ramach wsparcia technicznego do podjęcia działań diagnostycznych lub naprawczych w terminie nie dłuższym niż 4 godziny od momentu otrzymania zgłoszenia awarii przekazanego kanałem komunikacji wskazanym w § 5 ust 4 Umowy.
+Wymiana wadliwych części i komponentów powinna nastąpić maksymalnie do 3 dni roboczych, od momentu przyjęcia zgłoszenia o awarii krytycznej, w miejscu instalacji.
+Przez awarię krytyczną rozumie się sytuację polegającą na całkowitej niedostępności jednego z dostarczonych wyżej wymienionych urządzeń.
+Wykonawca zobowiązany jest do podjęcia prac wdrożeniowych lub wsparcia we wdrożeniu nowej wersji oprogramowania wraz z Zamawiającym, zdalnie i stacjonarnie, na dostarczonych urządzeniach maksymalnie do 3 dni roboczych od zgłoszenia.
+Wykonawca zobowiązany jest do podjęcia prac dotyczących zmian konfiguracyjnych wraz z Zamawiającym, zdalnie i stacjonarnie, na dostarczonych urządzeniach maksymalnie do 3 dni roboczych od zgłoszenia.
+W przypadku innych zgłoszeń Zamawiającego, Wykonawca musi zająć stanowisko do 5 dni roboczych od podjęcia informacji.
+Strony umowy będą kontaktować się za pomocą kanału komunikacji wskazanym w § 5 ust. 4 Umowy lub za pośrednictwem dedykowanego portalu Wykonawcy lub Zamawiającego. Poświadczenia do dedykowanego portalu zostaną przekazane za pomocą kanału komunikacji wskazanym w § 5 ust 4 Umowy.

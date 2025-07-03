@@ -1,0 +1,2644 @@
+Procesory z najwy ż szej pó ł ki - Intel kontra AMD
+Ten wykres porównujący procesory z najwyższej półki został wykonany przy użyciu tysięcy  wyników analizy porównawczej i jest aktualizowane codziennie. Są
+to wysokiej klasy procesory AMD i Intel, które zazwyczaj można znaleźć w nowszych Komputery . Poniższy wykres porównuje wydajność procesorów Intel Xeon, procesorów Intel
+Core i7/i9, Procesory AMD Ryzen/Threadripper i AMD Epyc z wieloma rdzeniami. Procesory Intel kontra chipy AMD - Dowiedz się, która wydajność procesora jest najlepsza dla
+Twojego nowego sprzętu do gier lub serwera!
+Oznaczenie procesora Wydajność cenowa
+PassMark - Oznaczenie procesora
+Procesory z najwyższej półki
+Zaktualizowano 5 maja 2025 r .
+PROCESOR Oznaczenie procesora Cena (USD)
+Testy porównawcze procesora
+Przetestowano ponad 1 000 000 procesorów
+Test wydajności
+Procesor AMD EPYC 9655P $10,81 1.00*
+AMD EPYC 9655 $11,852.00*
+Procesor AMD EPYC 9845 $13,564.00*
+AMD EPYC 9575F $7,687.00*
+AMD Ryzen Threadripper PRO 7995WX9,999,99
+dolarów
+AMD Ryzen Threadripper 7980X4,782,99
+dolarów
+AMD EPYC 9555P $7,983.00*
+AMD Ryzen Threadripper PRO 7985WX $7,349.00
+Procesor AMD EPYC 9745 $12,141.00*
+Procesor AMD EPYC 9J14 NIE
+Procesor AMD EPYC 9684X $7,750.00*
+AMD EPYC 96543,898,95
+dolarów
+Procesor AMD EPYC 9V74 NIE
+AMD EPYC 9455P $4,819.00*
+Procesor AMD EPYC 9R14 NIE
+Procesor AMD EPYC 9654P $6,950.00
+AMD EPYC 9634 $3,949.99*
+AMD EPYC 9554 $2,795.00
+AMD EPYC 9554P $4,550.00*
+AMD EPYC 9474F $3,950.00*
+Intel Xeon w9-3595X $5,889.00*
+Procesor Intel Xeon 6741P $4,421.00*
+AMD EPYC 9754 $4,850.00
+AMD Ryzen Threadripper 7970X2 278,75
+dolarów
+AMD EPYC 9355P $2,998.00*160,417
+156,085
+152,985
+150,439
+145,570
+136,602
+135,513
+134,713
+130,698
+124,637
+121,467
+120,240
+117,606
+117,285
+116,475
+116,324
+107,944
+107,465
+106,756
+105,010
+101,51 1
+100,660
+98,868
+98,649
+97,310
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 1/27
+AMD EPYC 9454P $3,450.00*
+AMD Ryzen Threadripper PRO 7975WX4 279,04
+dolarów
+AMD EPYC 9375F $5,306.00*
+AMD Ryzen Threadripper PRO 5995WX $5,712.00
+Intel Xeon w9-3495X $5,889.00*
+AMD EPYC 7773X $1,563.00*
+Intel Xeon Platinum 8470 @2,00 GHz $9,359.00*
+Procesor Intel Xeon Platinum 8488C NIE
+Procesor AMD EPYC 9534 $3,498.95
+Procesor AMD EPYC 9454 $5,000.65
+AMD EPYC 7J13 NIE
+Procesor AMD EPYC 7763 $1,450.00
+Procesor Intel Xeon Max 9480 920,40 dolarów*
+Procesor Intel Xeon Platinum 8592+ $11,600.00*
+AMD Ryzen Threadripper 7960X1 870,69
+dolarów
+AMD Ryzen Threadripper PRO 3995WX NIE
+AMD EPYC 7R43 NA
+AMD EPYC 7V13 NA
+AMD EPYC 7713 NA
+Intel Xeon w9-3575X $3,789.00*
+AMD EPYC 7R13 64-Core NA
+AMD EPYC 7663 NA
+AMD EPYC 9374F $3,495.00*
+AMD Ryzen Threadripper PRO 7965WX $2,649.00
+AMD EPYC 7T83 NA
+AMD EPYC 7713P $2,443.73*
+AMD Ryzen Threadripper 3990X $4,120.79
+AMD EPYC 9275F $3,439.00*
+AMD EPYC 7B13 NA
+AMD EPYC 7643P $2,722.00*
+AMD EPYC 7C13 NA
+Intel Xeon 6740E $5,265.00*
+AMD EPYC 7643 $1,267.00*
+AMD Ryzen Threadripper PRO 5975WX $2,167.05
+Intel Xeon Platinum 8461V $4,491.00*
+AMD EPYC 9354P $2,280.00*
+Apple M3 Ultra 32 Core NA
+AMD EPYC 9274F $3,174.99
+Intel Xeon w7-3565X $2,689.00*
+AMD EPYC 7662 $4,379.54
+AMD EPYC 8534P NA
+AMD EPYC 9354 $3,095.00
+Intel Xeon Gold 6548Y+ $3,726.00*
+AMD Ryzen 9 9950X3D $899.99
+AMD EPYC 7742 $1,649.95
+AMD EPYC 9384X $5,529.00*
+AMD EPYC 7H12 $1,631.29
+AMD EPYC 7573X $5,250.00*
+AMD EPYC 7V12 NA95,864
+95,809
+95,768
+94,738
+91,952
+91,340
+89,850
+88,667
+87,280
+86,324
+84,786
+84,591
+84,512
+84,013
+83,834
+83,547
+83,535
+82,878
+82,825
+82,589
+82,158
+82,087
+82,009
+81,819
+81,757
+81,351
+80,311
+79,778
+77,460
+77,307
+76,461
+76,167
+76,050
+75,640
+74,982
+74,960
+74,445
+73,982
+73,318
+72,298
+71,900
+71,452
+70,439
+70,386
+69,879
+69,665
+69,633
+69,432
+69,102
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 2/27
+AMD EPYC 7702 $1,375.00
+Apple M3 Ultra 28 Core NA
+Intel Xeon Platinum 8571N NA
+Intel Core Ultra 9 285K $589.00
+AMD EPYC 7543P $2,288.24*
+AMD Ryzen Threadripper PRO 5965WX $1,402.99
+AMD EPYC 8434P NA
+Intel Xeon w7-2595X $2,039.00*
+AMD Ryzen 9 9950X $518.00
+AMD EPYC 7B12 NA
+AMD EPYC 9175F $4,256.00*
+AMD EPYC 4564P NA
+Intel Xeon Gold 6530 $2,128.00*
+AMD EPYC 9334 $2,350.00*
+Intel Xeon w9-3475X $4,069.99*
+AMD Ryzen 9 9955HX3D NA
+AMD EPYC 9254 $2,440.45
+AMD EPYC 7R32 NA
+AMD Ryzen Threadripper 3970X $1,800.00
+Intel Xeon w7-3465X $3,077.93*
+AMD Ryzen 9 7950X NA
+AMD Ryzen 9 7950X3D NA
+AMD Ryzen Threadripper PRO 3975WX $2,000.00
+Intel Xeon Platinum 8454H $6,540.00*
+Intel Xeon Platinum 8380 @ 2.30GHz $7,301.00*
+Intel Core Ultra 9 285HX NA
+AMD EPYC 7543 $3,761.00*
+AMD EPYC 7702P $1,594.95
+Intel Xeon Gold 5520+ $1,849.99*
+Intel Core i9-13900KS $429.00
+Intel Core i9-14900KS NA
+AMD EPYC 74F3 $2,031.69*
+Intel Xeon Gold 6448Y $3,583.00*
+AMD EPYC 4584PX $1,691.54
+Intel Xeon Gold 5512U $1,230.00*
+AMD EPYC 75F3 NA
+AMD Ryzen Threadripper PRO 7955WX NA
+AMD EPYC 7K62 NA
+AMD EPYC 7513 $1,599.79
+AMD EPYC 7473X NA
+Intel Xeon W -3375 @ 2.50GHz $4,499.00*
+Intel Xeon Gold 6542Y $2,878.00*
+Intel Xeon W -3365 @ 2.70GHz $3,851.00*
+Intel Core i9-14900K $412.00
+Intel Core Ultra 7 265KF NA
+Intel Core i9-14900KF $424.99*
+Intel Core Ultra 7 265K NA
+Intel Xeon Gold 6421N $2,368.00*
+AMD EPYC 7642 $1,190.16
+Intel Xeon w7-3455 $2,489.00*68,870
+68,669
+68,385
+67,857
+66,687
+66,682
+66,490
+66,235
+66,158
+66,044
+65,792
+65,791
+65,533
+64,616
+64,605
+64,464
+64,086
+63,239
+63,131
+62,805
+62,535
+62,439
+62,351
+62,347
+62,318
+62,069
+61,788
+61,539
+61,227
+61,067
+60,906
+60,666
+60,449
+60,387
+60,337
+59,972
+59,909
+59,764
+59,331
+59,280
+59,091
+59,047
+59,038
+59,011
+58,900
+58,833
+58,820
+58,797
+58,795
+58,793
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 3/27
+Intel Core i9-13900K $396.98
+Intel Xeon w7-2575X $1,689.00*
+Intel Xeon Gold 6442Y $2,878.00*
+Intel Xeon Gold 5420+ $1,848.00*
+Intel Xeon w7-2495X $2,498.80*
+Intel Xeon 6521P $1,250.00*
+Intel Core i9-13900KF $399.99
+AMD Ryzen 9 7945HX3D NA
+AMD Ryzen 9 9955HX 16-Core NA
+Ampere ARM - 192 Core 3200 MHz NA
+Intel Xeon Gold 6423N $2,161.00*
+AMD EPYC 7552 $1,650.00*
+AMD EPYC 9135 $1,214.00*
+ARM Neoverse-V2 72 Core 3465 MHz NA
+ARM Neoverse-V2 72 Core 3519 MHz NA
+Intel Xeon Gold 6414U $2,296.00*
+AMD EPYC 8324P NA
+AMD EPYC 7443P $1,447.06
+AMD EPYC 7443 $2,230.99*
+AMD Ryzen 9 9900X3D $693.00
+Intel Xeon Platinum 8375C @ 2.90GHz NA
+AMD EPYC 9174F $2,275.00*
+Intel Core Ultra 9 275HX NA
+AMD Ryzen 9 9900X $381.15
+AMD Ryzen 9 7945HX NA
+AMD Ryzen Threadripper 3960X $1,150.00
+Intel Core Ultra 9 285 $599.99
+AMD Ryzen 9 7940HX NA
+Intel Xeon Platinum 8358 @ 2.60GHz $4,298.95
+Intel Xeon w5-3535X $1,689.00*
+Intel Xeon Platinum 8360Y  @ 2.40GHz $2,799.97*
+Intel Xeon w7-2475X $1,906.93*
+Intel Xeon w5-2565X $1,339.00*
+Intel Core i7-14700KF $319.40
+Intel Xeon Gold 6438N $3,351.00*
+Intel Core Ultra 7 255HX NA
+AMD EPYC 7F72 $939.90
+Intel Core i7-14700K $314.30
+AMD EPYC 7532 $209.95
+Intel Xeon Gold 5412U $1,113.00*
+Intel Xeon Gold 6348 @ 2.60GHz $2,111.99
+AMD EPYC 7502 $950.00
+AMD Ryzen 9 7900X NA
+AMD Ryzen AI Max+ Pro 395 NA
+AMD EPYC 4484PX NA
+AMD EPYC 7502P $1,498.95
+AMD Ryzen AI Max+ 395 NA
+Intel Xeon Gold 6554S $3,285.02*
+AMD EPYC 91 15 $726.00*
+Apple M2 Ultra 24 Core NA58,716
+58,625
+58,534
+58,209
+58,131
+57,970
+57,916
+57,540
+57,522
+57,444
+57,434
+57,414
+57,380
+57,369
+57,240
+57,200
+57,127
+56,948
+56,686
+56,551
+56,202
+55,485
+55,140
+54,829
+54,822
+54,805
+54,671
+54,512
+54,416
+54,276
+54,078
+53,875
+53,509
+53,179
+52,789
+52,775
+52,740
+52,686
+52,220
+52,218
+51,843
+51,695
+51,467
+51,261
+51,115
+51,054
+50,932
+50,777
+50,693
+50,663
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 4/27
+AMD EPYC 7413 $723.46
+AMD EPYC 7453 $1,504.65
+AMD Ryzen 9 7900X3D NA
+Intel Xeon Gold 6544Y $3,622.00*
+Intel Core i9-13900F NA
+AMD EPYC 9184X $3,750.00*
+AMD Ryzen Threadripper PRO 5955WX NA
+AMD Ryzen Threadripper PRO 7945WX NA
+Intel Core Ultra 7 265F $314.00
+Intel Xeon Platinum 8347C @ 2.10GHz NA
+Intel Xeon w5-3525 $1,339.00*
+Montage Jintide C5418Y NA
+AMD EPYC 7R12 NA
+Intel Xeon w5-2555X $1,069.00*
+Intel Xeon Gold 6314U @ 2.30GHz $2,782.00*
+Intel Core Ultra 7 265 $378.09
+AMD Ryzen 9 7900 $359.76
+Intel Xeon w7-3445 $1,989.00*
+AMD EPYC 4464P NA
+Intel Xeon W -3345 @ 3.00GHz $2,499.00*
+ARM Ampere-1a 192 Core 2600 MHz NA
+Intel Xeon Gold 6444Y $3,622.00*
+Intel Xeon Gold 6342 @ 2.80GHz $2,895.95
+Intel Core i9-14900F $559.97
+Intel Core i9-13980HX $668.00*
+Intel Xeon Platinum 8368Q @ 2.60GHz NA
+Intel Core i7-13700KF $299.00
+Intel Core i7-13790F NA
+Intel Xeon w5-2465X $1,522.74*
+AMD EPYC 73F3 $2,343.10
+Intel Core i7-13700K $384.95
+AMD EPYC 7402 $629.95
+AMD Ryzen AI Max 390 NA
+Intel Core i9-13900 $604.00
+Intel Xeon 6517P $1,195.00*
+Intel Xeon w5-3435X $1,814.22*
+AMD EPYC 7542 $732.44
+AMD Ryzen 9 PRO 7945 NA
+Intel Xeon W -3175X @ 3.10GHz $3,039.28*
+Intel Xeon Gold 6526Y $1,517.00*
+Intel Core i9-14900 $560.00
+Intel Xeon Gold 6336Y  @ 2.40GHz $2,398.95
+AMD Ryzen 9 5950X $323.00
+Intel Core i9-14900HX $679.00*
+AMD Ryzen 9 7845HX NA
+AMD EPYC 9224 $1,950.00*
+AMD EPYC 8224P NA
+AMD EPYC 7452 $1,146.34
+Intel Xeon Gold 6538N $3,351.00*
+AMD Ryzen AI Max Pro 390 NA50,641
+50,575
+50,332
+50,319
+50,228
+50,102
+49,964
+49,787
+49,478
+49,386
+49,190
+49,045
+48,934
+48,709
+48,648
+48,595
+48,494
+48,463
+48,123
+47,664
+47,202
+47,176
+47,076
+46,914
+46,704
+46,681
+46,317
+46,309
+46,109
+46,103
+46,059
+46,012
+45,950
+45,934
+45,923
+45,850
+45,814
+45,755
+45,736
+45,715
+45,674
+45,517
+45,454
+45,442
+45,287
+45,223
+45,180
+44,996
+44,895
+44,680
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 5/27
+Intel Xeon Silver 4416+ $1,176.00*
+AMD Ryzen 9 5900XT $283.34
+Intel Core i9-12900KS NA
+Intel Xeon Gold 5418Y $1,483.00*
+Apple M4 Max 16 Core NA
+AMD EPYC 7402P $777.97
+AMD EPYC 9124 $1,190.00
+AMD EPYC 7343 $937.94
+Intel Core Ultra 5 245KF $284.99
+Intel Core Ultra 5 245K $299.99
+Intel Core i9-13900HX $668.00*
+ARM Neoverse-N1 128 Core 2800 MHz NA
+Intel Xeon Gold 6330 @ 2.00GHz $1,279.95
+AMD EPYC 7D12 NA
+Intel Core i9-13900T $549.00*
+AMD Ryzen 7 7840HX NA
+Intel Xeon Gold 6312U @ 2.40GHz $1,809.59*
+Intel Core i9-13950HX $590.00*
+Intel Xeon Gold 6338N @ 2.20GHz $4,671.69*
+Intel Core i7-14700F $292.49
+Intel Core i7-14700 $319.00
+AMD EPYC 7313P $1,304.21
+Intel Xeon w5-2545 $889.00*
+Intel Xeon W -3275 @ 2.50GHz $4,894.00*
+Apple M1 Ultra 20 Core NA
+AMD EPYC 7F52 $1,895.30*
+Intel Core i9-12900K $309.97
+Apple M3 Max 16 Core NA
+Intel Core i9-12900KF $269.94
+Intel Xeon Platinum 8275CL  @ 3.00GHz NA
+Intel Xeon Gold 6354 @ 3.00GHz $2,698.95
+Intel Core i9-13900E $554.00*
+AMD Ryzen Threadripper PRO 5945WX NA
+Intel Xeon Gold 6416H $1,444.00*
+Intel Core i9-14900T $549.00*
+Intel Xeon W -3275M @ 2.50GHz $7,453.00*
+AMD EPYC 7352 $749.95
+Intel Core Ultra 5 235 $257.00
+Intel Xeon Gold 6258R @ 2.70GHz $2,598.95
+AMD Ryzen Threadripper PRO 3955WX $925.00
+AMD Ryzen 7 9800X3D NA
+Intel Xeon W -3335 @ 3.40GHz $1,299.00*
+ARM Neoverse-N1 128 Core 3000 MHz NA
+AMD Ryzen 9 5900X NA
+Intel Core i5-14600KF $209.00
+AMD Ryzen 9 3950X $665.00
+AMD EPYC 7313 NA
+Intel Core i5-14600K $194.99
+Intel Core i7-13700F NA
+Intel Xeon Gold 6450C NA44,140
+44,132
+43,903
+43,835
+43,720
+43,684
+43,681
+43,644
+43,601
+43,573
+43,278
+43,111
+43,056
+42,900
+42,725
+42,491
+42,329
+42,147
+42,086
+41,984
+41,825
+41,609
+41,480
+41,469
+41,343
+41,322
+41,321
+41,220
+41,053
+40,794
+40,775
+40,705
+40,642
+40,606
+40,489
+40,465
+40,370
+40,366
+40,252
+40,162
+40,031
+39,293
+39,163
+39,039
+38,851
+38,649
+38,644
+38,611
+38,607
+38,571
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 6/27
+Apple M4 Max 14 Core NA
+Intel Xeon Gold 6426Y $1,517.00*
+Intel Xeon Platinum 8180 @ 2.50GHz $2,363.09*
+Apple M4 Pro 14 Core NA
+AMD EPYC 7551P $189.95
+Intel Core i5-13600K NA
+Intel Xeon Gold 6346 @ 3.10GHz $2,130.45
+Intel Xeon Gold 5320 @ 2.20GHz NA
+Intel Core i5-13600KF $189.99
+Intel Xeon w5-2455X $1,149.21*
+Intel Core Ultra 7 265H NA
+Intel Core i7-14700HX $495.00*
+AMD Ryzen 7 9700X $296.14
+Intel Core i7-13850HX $428.00*
+Intel Core Ultra 9 285T $549.00*
+Intel Xeon Platinum 8280 @ 2.70GHz $2,940.00*
+Apple M3 Max 14 Core NA
+Intel Core i7-13700 $319.93
+Intel Xeon Gold 6330N @ 2.20GHz $1,915.84
+AMD EPYC 8124P NA
+Intel Core i9-12900F $359.89
+Intel Xeon w5-3425 $1,189.00*
+Intel Xeon Platinum 8273CL  @ 2.20GHz NA
+AMD Ryzen 7 7700X NA
+Intel Xeon w3-2535 NA
+Intel Xeon Gold 5416S $944.00*
+Intel Xeon Gold 6248R @ 3.00GHz $1,600.00
+AMD Ryzen AI 9 HX 370 NA
+Intel Core i7-14650HX $495.00*
+ARM Neoverse-N1 80 Core 3000 MHz NA
+AMD EPYC 4364P NA
+Intel Xeon Gold 6238R @ 2.20GHz $1,329.95
+Intel Xeon w5-3433 NA
+Intel Xeon Platinum 8260M @ 2.40GHz NA
+Intel Core i7-13700E $390.00*
+Intel Xeon Gold 6268CL  @ 2.80GHz NA
+AMD Ryzen 9 PRO 5945 NA
+Intel Core i7-12700K $409.00*
+AMD Ryzen 7 7700 $279.97
+Intel Xeon Platinum 8260C @ 2.40GHz NA
+Intel Xeon Gold 6242R @ 3.10GHz $1,249.95
+AMD Ryzen 7 7800X3D NA
+Intel Xeon Gold 6326 @ 2.90GHz $1,501.81
+Intel Xeon W -3265M @ 2.70GHz $6,353.00*
+AMD EPYC 4344P $359.95
+Intel Core i7-12700KF NA
+Intel Xeon Platinum 8268 @ 2.90GHz $6,005.98*
+AMD Ryzen 9 5900 NA
+Intel Xeon Platinum 8260M @ 2.30GHz $7,705.00*
+Intel Core i9-12900 NA38,514
+38,373
+38,259
+38,246
+38,198
+37,704
+37,665
+37,558
+37,546
+37,379
+37,379
+37,365
+37,210
+37,208
+36,997
+36,830
+36,665
+36,579
+36,360
+36,338
+36,127
+35,957
+35,871
+35,839
+35,828
+35,654
+35,434
+35,252
+35,178
+35,123
+34,811
+34,751
+34,722
+34,592
+34,577
+34,558
+34,549
+34,483
+34,462
+34,420
+34,292
+34,260
+34,240
+34,147
+34,139
+34,127
+34,062
+34,023
+33,970
+33,819
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 7/27
+Intel Xeon Gold 6338 @ 2.00GHz $1,520.46
+AMD Ryzen AI 9 HX PRO 375 NA
+Intel Xeon D-2799 @ 2.40GHz $1,933.00*
+Intel Xeon Silver 4510 $563.00*
+Intel Xeon Gold 6230R @ 2.10GHz $700.00
+AMD Ryzen Threadripper PRO 3945WX NA
+Intel Xeon Gold 6240R @ 2.40GHz $1,449.95
+Intel Core Ultra 9 285H $651.00*
+Intel Core i9-12900HX $606.00*
+AMD EPYC 7601 NA
+AMD Ryzen 7 PRO 7745 NA
+Intel Core i5-14600 $255.00*
+Intel Xeon Gold 5318Y  @ 2.10GHz $1,250.00
+AMD Ryzen AI Max Pro 385 NA
+AMD EPYC 7302 $839.95
+Apple M4 Pro 12 Core NA
+Intel Core Ultra 5 235T $247.00*
+Intel Core i7-13700HX $485.00*
+Intel Xeon Gold 6278C @ 2.60GHz NA
+AMD EPYC 7302P $795.00
+AMD Ryzen 7 7745HX NA
+AMD Ryzen 9 3900XT $375.00*
+AMD Ryzen 9 3900X NA
+Intel Xeon Gold 6254 @ 3.10GHz $1,098.95
+Intel Core i9-10980XE @ 3.00GHz NA
+Intel Xeon Platinum 8168 @ 2.70GHz $1,298.95
+Intel Xeon E-2488 $606.00*
+Intel Xeon w5-2445 $839.00*
+AMD Ryzen AI 9 HX 375 NA
+AMD Ryzen Threadripper 2990WX $2,698.95*
+Intel Core i7-12800HX $457.00*
+AMD Ryzen 7 260 NA
+Intel Xeon Silver 4316 @ 2.30GHz $1,239.95
+Intel Core Ultra 5 245T $270.00*
+Qualcomm Snapdragon X Elite - X1E001DE NA
+Intel Core 7 250H NA
+Intel Xeon Gold 5320H @ 2.40GHz $1,555.00*
+Intel Core i5-13600 $255.00*
+Intel Core i9-12950HX $590.00*
+Intel Core i9-9980XE @ 3.00GHz $1,799.99
+AMD Ryzen 7 8700G $303.96
+AMD Ryzen AI 9 HX PRO 370 NA
+Intel Core i5-13500 $243.47
+Intel Core i5-14500 $246.99
+AMD Ryzen 7 8700F $272.80
+Intel Xeon Platinum 8259CL  @ 2.50GHz NA
+AMD Ryzen 9 PRO 3900 NA
+Intel Xeon Gold 5220R @ 2.20GHz $1,050.00
+Intel Core Ultra 5 225 $246.00
+AMD Ryzen 7 PRO 8700G NA33,814
+33,809
+33,792
+33,783
+33,608
+33,493
+33,353
+33,340
+33,255
+33,255
+33,196
+33,182
+33,139
+33,136
+33,106
+33,091
+33,063
+32,977
+32,835
+32,690
+32,636
+32,599
+32,571
+32,494
+32,444
+32,373
+32,333
+32,269
+32,252
+32,077
+31,971
+31,958
+31,903
+31,898
+31,863
+31,840
+31,718
+31,714
+31,690
+31,681
+31,676
+31,613
+31,494
+31,469
+31,438
+31,403
+31,366
+31,363
+31,263
+31,083
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 8/27
+AMD Ryzen Threadripper 2970WX $894.99
+Intel Xeon W -3245 @ 3.20GHz $2,683.99*
+Intel Xeon W -2295 @ 3.00GHz $1,564.67*
+Intel Core i7-13650HX $485.00*
+Intel Core Ultra 5 225F $231.00
+Intel Core i7-12850HX $428.00*
+AMD EPYC 7371 $609.99*
+Intel Core i7-14700T $384.00*
+AMD Ryzen 9 3900 $504.05*
+Intel Xeon Platinum 8171M @ 2.60GHz NA
+AMD EPYC Embedded 7292P NA
+Intel Core i7-12700 $236.81
+Intel Xeon Gold 6246R @ 3.40GHz $1,601.44
+Intel Core i7-12700F $235.97
+Intel Xeon Platinum 8260 @ 2.40GHz $1,640.00*
+Intel Xeon Platinum 8180M @ 2.50GHz NA
+AMD Ryzen 7 8745H NA
+Intel Core i9-9990XE @ 4.00GHz $2,163.00*
+AMD Ryzen 9 7940HS NA
+AMD Ryzen 9 8945H NA
+Intel Xeon W -3265 @ 2.70GHz $4,551.37*
+Intel Core i9-9960X @ 3.10GHz NA
+AMD EPYC 7282 $169.95
+AMD Ryzen 5 9600X $208.00
+Intel Xeon Platinum 8270 @ 2.70GHz $3,433.86*
+Intel Xeon Gold 6248 @ 2.50GHz $183.15
+Intel Core i9-7980XE @ 2.60GHz $3,235.10*
+ARM Neoverse-N1 96 Core 2800 MHz NA
+AMD Ryzen 9 8945HS NA
+Intel Xeon Silver 4510T $624.00*
+Intel Core i9-13905H $697.00*
+AMD Ryzen Threadripper 2950X $698.88*
+Intel Core i9-12900T $489.00*
+AMD Ryzen 5 9600 $259.94
+Intel Core Ultra 9 185H NA
+Intel Core i9-13900HK $697.00*
+Intel Xeon Gold 6210U @ 2.50GHz $1,096.86
+Intel Core Ultra 5 225H NA
+Intel Core i5-13500HX $326.00*
+AMD Ryzen 7 PRO 8845HS NA
+Intel Xeon Gold 5318H @ 2.50GHz $1,273.00*
+AMD Ryzen AI 9 365 NA
+AMD Ryzen 7 8745HS NA
+Intel Xeon Gold 6148 @ 2.40GHz $290.00
+Intel Core Ultra 7 255H NA
+AMD Ryzen 9 PRO 8945HS NA
+Intel Xeon Silver 4314 @ 2.40GHz $891.99
+Intel Core i5-14500HX $337.00*
+AMD Ryzen AI 7 H 350 NA31,026
+31,002
+30,892
+30,834
+30,826
+30,821
+30,782
+30,770
+30,655
+30,632
+30,542
+30,508
+30,468
+30,456
+30,347
+30,313
+30,187
+30,162
+30,133
+30,121
+30,105
+30,087
+30,038
+30,032
+29,986
+29,944
+29,938
+29,890
+29,857
+29,830
+29,748
+29,583
+29,559
+29,481
+29,457
+29,360
+29,344
+29,314
+29,306
+29,306
+29,301
+29,275
+29,219
+29,106
+29,066
+29,054
+28,917
+28,878
+28,847
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 9/27
+Intel Xeon Platinum 8160 @ 2.10GHz $1,179.91
+AMD Ryzen 7 7840HS NA
+Intel Xeon Silver 4410T $698.85*
+Intel Core i7-12700E $599.96*
+Intel Xeon Gold 6238 @ 2.10GHz $720.29
+Intel Core i5-14490F NA
+AMD Ryzen 7 8845HS NA
+AMD Ryzen 9 7940H NA
+AMD EPYC 7303 $604.00*
+Intel Xeon Gold 6253CL  @ 3.10GHz NA
+Intel Xeon D-2795NT  @ 2.00GHz $2,228.00*
+Intel Xeon Silver 4514Y $768.81
+AMD Ryzen 5 7600X NA
+Intel Xeon w5-3423 $1,189.00*
+Intel Xeon W -2191B @ 2.30GHz NA
+AMD Ryzen 7 5800X3D NA
+AMD Ryzen 7 PRO 8700GE NA
+Intel Xeon Platinum 8252C @ 3.80GHz NA
+Intel Core i9-7960X @ 2.80GHz NA
+Intel Xeon Gold 6434 $2,359.45
+AMD Ryzen 9 PRO 7940HS NA
+Intel Core i9-9940X @ 3.30GHz NA
+Intel Core i5-13600HX $284.00*
+Intel Xeon W -3245M @ 3.20GHz $5,002.00*
+ARM Neoverse-N1 64 Core 0 MHz NA
+Intel Core i5-13500E $235.00*
+AMD Ryzen 7 5800XT $124.99
+Intel Core i7-13700T $384.00*
+Intel Xeon Platinum 8173M @ 2.00GHz NA
+AMD Ryzen 7 7840H NA
+Intel Core i9-13900H $617.00*
+Intel Xeon W -2195 @ 2.30GHz $2,800.00*
+Intel Xeon W -2275 @ 3.30GHz $840.00*
+Intel Core i5-12600KF $143.49
+AMD EPYC 7401P $2,499.99
+Intel Xeon W -3323 @ 3.50GHz $949.00*
+Intel Core i9-10940X @ 3.30GHz NA
+Intel Core i9-12900E NA
+AMD Ryzen 7 5800X NA
+AMD Ryzen Threadripper 1950X $621.95*
+Intel Core i5-12600K $180.96
+Intel Xeon Gold 6154 @ 3.00GHz $543.97*
+Intel Core i9-12900H $617.00*
+AMD Ryzen 5 PRO 7645 NA
+Intel Xeon Gold 6212U @ 2.40GHz $3,882.70
+Intel Xeon Gold 5317 @ 3.00GHz $1,193.72
+AMD EPYC 7571 NA
+Intel Xeon E-2478 $556.00*
+Intel Xeon D-2775TE @ 2.00GHz $1,820.00*
+AMD EPYC 72F3 $1,178.2728,825
+28,774
+28,759
+28,707
+28,668
+28,662
+28,618
+28,600
+28,572
+28,549
+28,463
+28,456
+28,432
+28,415
+28,394
+28,304
+28,234
+28,147
+28,127
+28,111
+28,099
+28,097
+28,078
+28,067
+28,044
+28,036
+28,030
+28,026
+28,025
+27,951
+27,920
+27,914
+27,896
+27,851
+27,836
+27,822
+27,803
+27,774
+27,769
+27,639
+27,628
+27,560
+27,534
+27,472
+27,470
+27,448
+27,445
+27,326
+27,299
+27,252
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 10/27
+Intel Xeon Gold 6230 @ 2.10GHz $302.25
+AMD EPYC 4244P NA
+Intel Core Ultra 5 235H NA
+Intel Xeon Gold 6252 @ 2.10GHz $1,006.40
+AMD Ryzen 7 PRO 8840HS NA
+Intel Core i5-14600T $255.00*
+AMD Ryzen 5 7600 $198.87
+Intel Core i5-13400E NA
+Intel Core i5-13600T $255.00*
+AMD Ryzen 5 7500F NA
+AMD Ryzen 7 8845H NA
+AMD Ryzen 7 PRO 7840HS NA
+Apple M2 Max 12 Core 3680 MHz NA
+Intel Core i7-12800HE $506.00*
+Intel Xeon Gold 6150 @ 2.70GHz $196.00
+Intel Core i7-13800H $457.00*
+Intel Xeon Platinum 8175M @ 2.50GHz NA
+Apple M2 Pro 12 Core 3480 MHz NA
+AMD Ryzen 7 5700X NA
+Intel Core i7-13700H $502.00*
+AMD Ryzen 5 7645HX NA
+Intel Xeon w3-2435 $669.00*
+Intel Xeon E5-2699A  v4 @ 2.40GHz $4,938.00*
+Intel Xeon Gold 6226R @ 2.90GHz NA
+Intel Core Ultra 7 165H NA
+Intel Xeon D-2796TE @ 2.00GHz $2,184.00*
+AMD Ryzen 7 5700X3D $269.95
+Intel Xeon E-2468 $426.00*
+Intel Core i5-13490F $194.99
+Intel Core i9-10920X @ 3.50GHz NA
+Hygon C86-4G (OPN:3490) NA
+AMD Ryzen 7 PRO 5845 NA
+AMD EPYC 7351P $115.00
+Intel Core i9-12900HK $635.00*
+Intel Core i7-14701E $392.00*
+AMD Ryzen Threadripper 2990X NA
+AMD EPYC 7451 $1,787.00*
+AMD Ryzen 7 5800 NA
+Intel Core i7-12700H $457.00*
+Intel Core i5-14400F $130.00
+Intel Core i9-7940X @ 3.10GHz NA
+AMD Ryzen 5 7600X3D NA
+AMD Ryzen 5 7400F NA
+Intel Xeon W -2265 @ 3.50GHz $875.00*
+AMD EPYC 7551 $127.95
+Intel Xeon E5-2698R v4 @ 2.20GHz NA
+Intel Xeon W -3235 @ 3.30GHz $1,998.95*
+Intel Xeon Gold 6142 @ 2.60GHz $406.69
+Intel Xeon Platinum 8167M @ 2.00GHz NA
+AMD Ryzen 5 8600G $188.96*27,210
+27,154
+27,148
+27,148
+27,095
+27,055
+27,055
+27,000
+26,867
+26,847
+26,843
+26,802
+26,758
+26,753
+26,695
+26,688
+26,659
+26,646
+26,629
+26,557
+26,476
+26,448
+26,420
+26,405
+26,371
+26,342
+26,316
+26,224
+26,192
+26,077
+26,064
+26,043
+26,042
+26,008
+25,959
+25,874
+25,863
+25,812
+25,803
+25,736
+25,662
+25,633
+25,615
+25,614
+25,606
+25,605
+25,554
+25,490
+25,396
+25,359
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 11/27
+Intel Xeon Platinum 8124M @ 3.00GHz NA
+Intel Core i5-14400 $176.99
+Intel Core i5-13450HX $326.00*
+AMD Ryzen Threadripper 2920X $225.10*
+AMD EPYC 7272 $427.92
+Intel Xeon E5-2699 v4 @ 2.20GHz $1,595.95
+Intel Xeon W -1390P  @ 3.50GHz NA
+Intel Core i5-13400F $134.45
+AMD Ryzen Z1 Extreme NA
+Intel Core i9-9920X @ 3.50GHz NA
+AMD Ryzen AI 7 PRO 350 NA
+Intel Core i9-1 1900K @ 3.50GHz NA
+Intel Xeon Gold 6242 @ 2.80GHz $550.00
+AMD Ryzen 7 7840U NA
+Intel Core Ultra 7 155H $503.00*
+Intel Xeon Gold 5415+ $1,066.00*
+AMD EPYC 7501 $1,325.96*
+Intel Xeon E5-2696 v4 @ 2.20GHz $1,829.95
+Intel Core i5-14450HX $337.00*
+Apple M3 Pro 1 1 Core NA
+AMD Ryzen 5 PRO 8600G NA
+Intel Xeon Silver 4410Y $563.00*
+Intel Xeon Gold 6143 @ 2.80GHz NA
+Intel Core i9-1 1900KF @ 3.50GHz NA
+AMD Ryzen 7 8840HS NA
+Intel Xeon Gold 5218R @ 2.10GHz $790.41
+Intel Xeon Gold 6240 @ 2.60GHz $630.00
+Intel Xeon Gold 6208U @ 2.90GHz $950.00
+AMD Ryzen 7 PRO 7840U NA
+AMD Ryzen AI 7 350 NA
+Intel Core i7-12800H $457.00*
+AMD Ryzen 5 8400F $150.57
+Apple M3 Pro 12 Core NA
+AMD Ryzen 7 5700G NA
+Qualcomm Snapdragon X Elite - X1E-84-100 NA
+Intel Core i7-1 1700K @ 3.60GHz NA
+Intel Xeon Gold 6140 @ 2.30GHz $426.34
+AMD Ryzen 9 6900HX NA
+AMD Ryzen 7 7435H NA
+Intel Xeon W -2170B @ 2.50GHz NA
+Intel Core i7-13620H $502.00*
+AMD Ryzen 7 PRO 5750G NA
+Intel Xeon Gold 6152 @ 2.10GHz $601.15
+Intel Xeon Gold 5515+ $1,099.00*
+Intel Xeon Gold 6222V @ 1.80GHz $1,710.89*
+AMD Ryzen 7 5700 $126.78
+AMD Ryzen 5 PRO 8600GE NA
+Intel Xeon Gold 5220 @ 2.20GHz $1,025.38
+Intel Xeon Gold 6138 @ 2.00GHz $215.60
+Intel Xeon E5-2679 v4 @ 2.50GHz $2,702.00*25,350
+25,314
+25,285
+25,236
+25,161
+25,159
+25,159
+25,085
+25,082
+25,081
+25,065
+25,055
+24,994
+24,970
+24,954
+24,950
+24,925
+24,917
+24,917
+24,879
+24,821
+24,797
+24,786
+24,781
+24,756
+24,742
+24,677
+24,670
+24,636
+24,595
+24,514
+24,512
+24,469
+24,457
+24,446
+24,440
+24,421
+24,408
+24,339
+24,299
+24,299
+24,288
+24,287
+24,271
+24,254
+24,226
+24,156
+24,154
+24,146
+24,131
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 12/27
+Intel Core i5-12600HX $284.00*
+Apple M4 10 Core NA
+Intel Core i7-13705H $502.00*
+Intel Xeon Silver 4216R @ 2.20GHz NA
+Intel Xeon D-2766NT  @ 2.00GHz $1,224.00*
+Intel Xeon W -1390 @ 2.80GHz $573.99*
+AMD Ryzen 7 PRO 8840U NA
+Intel Core i7-1 1700KF @ 3.60GHz NA
+AMD Ryzen 7 7735H NA
+Intel Xeon Gold 6122 @ 1.80GHz $2,002.00*
+AMD Ryzen 9 PRO 6950H NA
+Intel Core Ultra 5 225T NA
+AMD Ryzen 7 7840S NA
+Intel Core i5-12600HL $311.00*
+Intel Core i5-13400 $160.97
+Intel Xeon E E-2486 $506.00*
+AMD Ryzen 7 3800XT NA
+Intel Core i9-7920X @ 2.90GHz $277.1 1
+AMD Ryzen 7 7435HS NA
+AMD Ryzen 7 250 NA
+Intel Xeon E-2388G @ 3.20GHz $539.00*
+AMD Ryzen 5 PRO 8640U NA
+Intel Core i5-13600HE $317.00*
+AMD Ryzen 9 5980HX NA
+Intel Core i5-13600H $311.00*
+Intel Xeon W -2175 @ 2.50GHz $432.00*
+AMD Ryzen 7 8840U NA
+AMD Ryzen 7 PRO 6850H NA
+AMD Ryzen 7 7735HS NA
+Intel Xeon Gold 6146 @ 3.20GHz $784.00
+Intel Xeon Gold 6256 @ 3.60GHz $3,298.95*
+AMD Ryzen 9 6900HS NA
+AMD Ryzen 5 PRO 8645HS NA
+AMD EPYC 7351 $649.00*
+Intel Core i5-14500T $232.00*
+AMD EPYC 7F32 $199.95
+Qualcomm Snapdragon X Elite - X1E-80-100 NA
+Intel Xeon Platinum 8176 @ 2.10GHz $2,793.70*
+AMD Ryzen 7 6800H NA
+AMD Ryzen Threadripper 1920X $250.00
+AMD Ryzen 7 3800X NA
+Intel Core 7 240H NA
+AMD Ryzen 5 7640HS NA
+Qualcomm Snapdragon X Elite - X1E-78-100 NA
+Intel Xeon W -1370 @ 2.90GHz $468.99*
+Intel Core i9-12900TE $544.00*
+AMD Ryzen 7 PRO 3700 $329.99*
+Intel Core i5-12600HE $315.00*
+Intel Xeon W -1370P  @ 3.60GHz $508.99*
+Intel Core i9-1 1900KB @ 3.30GHz $539.00*24,082
+24,070
+24,052
+24,027
+24,013
+23,902
+23,892
+23,831
+23,791
+23,781
+23,698
+23,640
+23,637
+23,615
+23,614
+23,605
+23,559
+23,558
+23,557
+23,552
+23,537
+23,509
+23,483
+23,456
+23,436
+23,413
+23,365
+23,355
+23,354
+23,296
+23,287
+23,256
+23,227
+23,226
+23,204
+23,198
+23,184
+23,179
+23,166
+23,105
+23,068
+23,032
+22,979
+22,936
+22,926
+22,887
+22,831
+22,827
+22,814
+22,814
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 13/27
+AMD Ryzen 7 6800HS NA
+AMD Ryzen 9 PRO 6950HS NA
+Intel Core i7-13700TE $390.00*
+Intel Core i5-13500T $232.00*
+AMD Ryzen 7 6810U NA
+AMD Ryzen 5 8645HS NA
+Intel Xeon Platinum P-8124 @ 3.00GHz NA
+Intel Xeon Gold 6246 @ 3.30GHz $3,113.22*
+Intel Core i9-10900K @ 3.70GHz NA
+AMD Ryzen 5 PRO 7640HS NA
+Intel Core i9-1 1980HK @ 2.60GHz $583.00*
+Intel Xeon E5-2698 v4 @ 2.20GHz $908.70*
+AMD Ryzen 7 3700X NA
+Intel Core i9-1 1900 @ 2.50GHz NA
+Intel Xeon W -1290P  @ 3.70GHz $649.40*
+Intel Core i9-10900X @ 3.70GHz NA
+Intel Core Ultra 5 135H NA
+Intel Xeon W -2255 @ 3.70GHz $525.00*
+AMD Ryzen 9 5900HX NA
+Intel Core i9-10900KF @ 3.70GHz NA
+AMD Ryzen 7 PRO 6850HS NA
+Intel Core i5-14400T $221.00*
+Intel Xeon Gold 6132 @ 2.60GHz $65.00
+Apple M4 9 Core NA
+Intel Core i9-1 1900F @ 2.50GHz NA
+Intel Core i7-12650H $457.00*
+Intel Core i7-1 1700B @ 3.20GHz NA
+Intel Xeon W -11955M @ 2.60GHz $623.00*
+AMD Ryzen 5 5600T $153.94
+Apple M1 Max 10 Core 3200 MHz NA
+Intel Core i9-10850K @ 3.60GHz NA
+AMD Ryzen 5 PRO 8500G NA
+AMD Ryzen Threadripper 1920 NA
+Intel Core i5-13500H NA
+AMD Ryzen 7 5700GE NA
+AMD Ryzen 5 5600XT $169.00*
+Intel Xeon E-2436 $319.00*
+Intel Core i7-1370PE $441.00*
+AMD Ryzen 5 PRO 5645 NA
+Intel Xeon Silver 4310 @ 2.10GHz $475.00
+Apple M1 Pro 10 Core 3200 MHz NA
+AMD Ryzen 5 5600X NA
+Apple M2 Pro 10 Core 3480 MHz NA
+AMD Ryzen 5 5600X3D NA
+Intel Xeon Gold 6262 @ 1.90GHz NA
+AMD Ryzen 5 PRO 8500GE NA
+Intel Xeon Gold 6130T  @ 2.10GHz $2,550.00*
+AMD Ryzen 7 7736U NA
+Intel Core i9-9900X @ 3.50GHz NA
+Intel Xeon E5-2697A  v4 @ 2.60GHz NA22,791
+22,778
+22,754
+22,750
+22,741
+22,702
+22,674
+22,571
+22,552
+22,545
+22,521
+22,513
+22,481
+22,453
+22,440
+22,438
+22,424
+22,408
+22,379
+22,368
+22,330
+22,290
+22,269
+22,253
+22,239
+22,200
+22,184
+22,149
+22,136
+22,133
+22,108
+22,104
+22,066
+22,034
+22,028
+22,026
+21,987
+21,920
+21,904
+21,903
+21,899
+21,865
+21,849
+21,840
+21,823
+21,814
+21,804
+21,725
+21,677
+21,676
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 14/27
+Intel Xeon Gold 5218 @ 2.30GHz $340.00
+AMD Ryzen 5 8500G $142.99
+AMD EPYC 7281 $752.91*
+Intel Xeon E7-8891 v3 @ 2.80GHz $6,841.00*
+Intel Xeon E5-2696 v3 @ 2.30GHz $546.99*
+Qualcomm Snapdragon X Plus X1P-64-100 NA
+AMD Ryzen 7 6800HS Creator Edition NA
+AMD Ryzen 7 PRO 5750GE NA
+AMD Ryzen 5 5600 NA
+AMD Ryzen 9 6900HS Creator Edition NA
+Intel Core i5-12600H $311.00*
+Intel Core i5-12600 NA
+Intel Core i9-10910 @ 3.60GHz NA
+Intel Xeon Gold 5218T  @ 2.10GHz $1,349.00*
+AMD Ryzen 9 5900HS NA
+AMD Ryzen 5 240 NA
+Intel Core i7-12700T $339.00*
+Intel Core i7-1 1850HE @ 2.60GHz $440.00*
+AMD Ryzen 5 PRO 7640U NA
+Intel Xeon E5-2699C v4 @ 2.20GHz NA
+Intel Core Ultra 5 125H NA
+Intel Core i5-13500TE $235.00*
+AMD Ryzen 5 7640U NA
+AMD Ryzen 7 5800HS Creator Edition NA
+Intel Xeon E-2378G @ 2.80GHz $604.03*
+AMD Ryzen 5 PRO 8640HS NA
+Intel Xeon W -2155 @ 3.30GHz $1,530.39*
+AMD Ryzen AI 5 340 NA
+AMD Ryzen AI 7 PRO 360 NA
+Intel Xeon E5-2697 v4 @ 2.30GHz $1,277.90
+Intel Core i9-7900X @ 3.30GHz $497.94*
+Intel Core i9-1 1950H @ 2.60GHz $556.00*
+Intel Core i7-7900X @ 3.30GHz NA
+Intel Xeon Gold 6136 @ 3.00GHz $798.94
+Apple M4 8 Core NA
+AMD Ryzen 7 PRO 5755GE NA
+AMD Ryzen 7 7735U NA
+Intel Xeon Silver 4216 @ 2.10GHz NA
+AMD Ryzen 7 5800H NA
+Intel Xeon E5-2697R v4 @ 2.30GHz NA
+AMD Ryzen 5 PRO 230 NA
+Intel Xeon E5-2673 v4 @ 2.30GHz $89.00*
+Intel Xeon Gold 5315Y  @ 3.20GHz $1,498.95
+Intel Core i7-1 1700F @ 2.50GHz NA
+AMD EPYC 7262 $507.50
+AMD Ryzen 7 PRO 6850U NA
+AMD Ryzen 5 8500GE NA
+Intel Xeon Gold 6130 @ 2.10GHz $949.00
+Intel Core i7-1 1700 @ 2.50GHz NA
+AMD Ryzen 9 5900HS Creator Edition NA21,671
+21,652
+21,621
+21,615
+21,609
+21,603
+21,599
+21,587
+21,559
+21,517
+21,494
+21,491
+21,449
+21,433
+21,425
+21,380
+21,373
+21,365
+21,287
+21,275
+21,248
+21,242
+21,231
+21,166
+21,153
+21,142
+21,110
+21,100
+21,074
+21,051
+21,041
+21,019
+21,008
+20,977
+20,940
+20,894
+20,892
+20,877
+20,871
+20,843
+20,841
+20,827
+20,820
+20,810
+20,779
+20,767
+20,764
+20,711
+20,707
+20,691
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 15/27
+Intel Core i5-12500H $311.00*
+AMD Ryzen 5 PRO 5650G NA
+Intel Xeon Gold 6138T  @ 2.00GHz $7,401.00*
+AMD Ryzen 7 PRO 6860Z NA
+Intel Xeon D-2753NT  @ 2.00GHz NA
+Intel Core i7-12650HX $472.00*
+Intel Xeon Silver 4310T  @ 2.30GHz $721.76
+AMD Ryzen 5 PRO 5655G NA
+AMD Ryzen 9 5900H NA
+AMD EPYC 8024P NA
+Intel Xeon Gold 6250 @ 3.90GHz $3,071.36
+Intel Xeon W -2150B @ 3.00GHz NA
+Intel Xeon Gold 6334 @ 3.60GHz $1,842.45
+Intel Core Ultra 9 288V NA
+Intel Xeon E-2456 $375.00*
+AMD Ryzen 5 8640U NA
+AMD Ryzen 9 5980HS NA
+Intel Core i9-9820X @ 3.30GHz NA
+Intel Xeon Gold 6226 @ 2.70GHz $769.95
+AMD Ryzen 5 5600GT $161.70
+AMD Ryzen 7 PRO 4750G $297.38*
+Intel Core i7-1280P $482.00*
+Intel Core i3-12300HL NA
+Intel Xeon E5-4667 v4 @ 2.20GHz $5,729.00*
+Intel Core i5-13400T $221.00*
+Intel Core i9-1 1900H @ 2.50GHz $546.00*
+Intel Xeon D-1747NTE @ 2.50GHz $1,201.00*
+AMD Ryzen 7 6800U NA
+ARM Neoverse-N1 64 Core 2200 MHz NA
+AMD Ryzen 5 5500GT $163.00
+Intel Core Ultra 7 268V NA
+AMD Ryzen Embedded V3C48 NA
+Intel Core i7-1 1850H @ 2.50GHz $395.00*
+Intel Core i7-1370P NA
+Intel Core i5-12490F NA
+AMD Ryzen 7 4700G $235.12*
+Intel Core Ultra 7 266V $520.00*
+Intel Core i7-1 1800H @ 2.30GHz $395.00*
+Intel Xeon W -1290 @ 3.20GHz $588.67*
+Intel Xeon E5-2699 v3 @ 2.30GHz $529.95
+Intel Core i5-12500E $225.00*
+AMD Ryzen 5 220 NA
+AMD Ryzen 5 8640HS NA
+Intel Xeon Gold 6144 @ 3.50GHz $591.86
+Intel Core Ultra 7 256V NA
+AMD Ryzen AI 5 PRO 340 NA
+Intel Core i5-1250P NA
+Intel Core 5 220H NA
+Intel Xeon E5-2686 v4 @ 2.30GHz NA
+Intel Core i5-12500 $202.00*20,691
+20,660
+20,649
+20,630
+20,626
+20,612
+20,607
+20,566
+20,557
+20,556
+20,552
+20,530
+20,512
+20,509
+20,507
+20,478
+20,443
+20,438
+20,429
+20,370
+20,351
+20,348
+20,321
+20,319
+20,316
+20,305
+20,279
+20,258
+20,250
+20,243
+20,234
+20,203
+20,179
+20,175
+20,157
+20,140
+20,134
+20,113
+20,073
+20,054
+20,049
+20,001
+19,995
+19,993
+19,983
+19,978
+19,915
+19,871
+19,871
+19,855
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 16/27
+Intel Xeon Gold 6126 @ 2.60GHz $147.00
+Intel Core i9-10900F @ 2.80GHz $299.99*
+AMD Ryzen 5 5600G NA
+Intel Core Ultra 7 255U NA
+AMD Ryzen 7 5800HS NA
+AMD Ryzen 5 230 NA
+AMD Ryzen 7 4700GE NA
+Intel Xeon E-2386G @ 3.50GHz $579.88*
+AMD Ryzen 5 PRO 7545U NA
+Intel Xeon W -1350P  @ 4.00GHz $372.23*
+AMD Ryzen 7 PRO 250 w/ Radeon 780M
+GraphicsNA
+Intel Xeon W -11865MRE @ 2.60GHz $480.00*
+Intel Core i5-1 1600K @ 3.90GHz NA
+Intel Core i5-1 1600KF @ 3.90GHz NA
+AMD EPYC 3451 NA
+Intel Core i7-12700TE $344.00*
+Intel Core i9-10900E @ 2.80GHz $444.00*
+Intel Core i5-12400F NA
+Intel Xeon W -2245 @ 3.90GHz $688.56
+Intel Core i9-9900KS @ 4.00GHz NA
+Intel Core i9-10900 @ 2.80GHz NA
+AMD Ryzen 7 PRO 4700G NA
+Intel CoreT  i5-1350P NA
+AMD EPYC 7252 $286.95
+Intel Xeon D-2183IT  @ 2.20GHz $1,764.00*
+Intel Xeon Gold 6137 @ 3.90GHz NA
+Intel Xeon E5-2690 v4 @ 2.60GHz NA
+AMD Ryzen 5 5500 $73.00
+Intel Core Ultra 5 238V $454.00*
+AMD Ryzen 7 PRO 5800H NA
+Apple M3 8 Core NA
+Intel Core i5-12400 $192.00*
+Intel Core 5 210H NA
+Intel Core Ultra 7 258V NA
+AMD Ryzen 9 4900H NA
+Intel Core Ultra 5 236V $403.00*
+Intel Xeon D-2752TER @ 1.80GHz $1,104.00*
+Intel Core i5-1350P $320.00*
+Intel Xeon W -1290E @ 3.50GHz $500.00*
+Intel Xeon E5-2676 v4 @ 2.40GHz NA
+AMD Ryzen 7 Pro 7735U NA
+Intel Xeon E5-2698 v3 @ 2.30GHz $8,790.00*
+Intel Xeon w3-2425 $529.00*
+AMD Ryzen 9 4900HS NA
+Intel Xeon Silver 4309Y  @ 2.80GHz $575.00
+Intel Core Ultra 5 226V NA
+Intel Xeon E5-2695 v4 @ 2.10GHz $6,208.00*
+Intel Core i5-1340P $353.00*
+Hygon C86 7255 16-core NA19,811
+19,803
+19,797
+19,791
+19,741
+19,681
+19,674
+19,658
+19,626
+19,611
+19,597
+19,589
+19,544
+19,536
+19,532
+19,507
+19,469
+19,468
+19,468
+19,457
+19,441
+19,439
+19,429
+19,411
+19,377
+19,365
+19,361
+19,345
+19,319
+19,313
+19,203
+19,171
+19,157
+19,147
+19,143
+19,107
+19,102
+19,062
+19,060
+18,978
+18,977
+18,963
+18,941
+18,900
+18,898
+18,888
+18,838
+18,832
+18,831
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 17/27
+ARM Neoverse-N1 80 Core 2600 MHz NA
+Intel Xeon E5-2682 v4 @ 2.50GHz NA
+Intel Core i7-1360P $480.00*
+Intel Xeon W -1350 @ 3.30GHz $335.99*
+Intel Xeon Silver 4509Y NA
+AMD Ryzen 5 6600H NA
+AMD Ryzen 5 7540U NA
+Intel Xeon Gold 6244 @ 3.60GHz $2,970.00*
+Intel Core i7-10700K @ 3.80GHz NA
+AMD EPYC 4124P NA
+Intel Xeon W -1270E @ 3.40GHz $367.00*
+AMD Ryzen 5 3600XT $599.95
+Intel Xeon E-2356G @ 3.20GHz $333.00*
+Intel Core Ultra 7 265U NA
+Intel Core i9-1 1900T  @ 1.50GHz $439.00*
+AMD Ryzen 7 PRO 7730U NA
+Intel Core Ultra 5 225U NA
+Intel Core i7-10700KF @ 3.80GHz NA
+AMD Ryzen 5 5600GE NA
+AMD Ryzen 7 PRO 4750GE NA
+AMD Ryzen AI Max 385 NA
+AMD Ryzen Embedded V2748 NA
+Intel Core i7-1370PRE $477.00*
+AMD Ryzen Z1 NA
+Intel Xeon W -1290T  @ 1.90GHz $494.00*
+AMD Ryzen 5 8540U NA
+AMD Ryzen 5 PRO 8540U NA
+Intel Core i5-1250PE $355.00*
+Intel Core i5-12450HX NA
+Intel Xeon Gold 5120 @ 2.20GHz $1,561.00*
+Intel Xeon E5-2697 v3 @ 2.60GHz NA
+AMD Ryzen 5 PRO 5650GE NA
+AMD Ryzen 7 4800H NA
+AMD Ryzen 7 5800U NA
+AMD Ryzen 7 7730U NA
+Intel Xeon W -3225 @ 3.70GHz $1,319.00*
+Intel Xeon E7-8880 v3 @ 2.30GHz $133.00*
+AMD Ryzen 7 5825U NA
+Intel Core i9-9900K @ 3.60GHz NA
+AMD Ryzen 5 3600X NA
+AMD Ryzen 7 4800HS NA
+Intel Xeon E5-2686 v3 @ 2.00GHz NA
+Intel Core i9-9900KF @ 3.60GHz NA
+Intel Xeon Gold 5120T  @ 2.20GHz $1,727.00*
+Snapdragon X Plus - X1P42100 - Qualcomm
+OryNA
+AMD Ryzen 5 6600HS Creator Edition NA
+Intel Xeon D-2187NT  @ 2.00GHz $1,989.00*
+AMD Ryzen 5 7535HS NA
+Intel Core i7-9800X @ 3.80GHz NA
+AMD Ryzen 5 PRO 6650H NA18,823
+18,795
+18,780
+18,775
+18,749
+18,683
+18,680
+18,657
+18,655
+18,637
+18,635
+18,580
+18,564
+18,527
+18,512
+18,507
+18,476
+18,461
+18,458
+18,446
+18,441
+18,434
+18,420
+18,417
+18,409
+18,391
+18,383
+18,365
+18,351
+18,341
+18,325
+18,314
+18,300
+18,275
+18,258
+18,251
+18,244
+18,241
+18,178
+18,167
+18,149
+18,148
+18,147
+18,127
+18,124
+18,106
+18,070
+18,067
+18,036
+18,027
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 18/27
+Intel Xeon W -2145 @ 3.70GHz $1,224.67*
+Intel Core i7-1270PE $441.00*
+Intel Xeon E5-2666 v4 @ 2.80GHz NA
+Intel Core i5-1 1600 @ 2.80GHz $140.00
+AMD Ryzen 5 PRO 7540U NA
+Intel Xeon W -11855M @ 3.20GHz $450.00*
+Intel Xeon Phi 7290 @ 1.50GHz $3,213.00*
+Intel Xeon D-1736NT  @ 2.70GHz NA
+Intel Xeon Gold 6234 @ 3.30GHz $929.95
+Intel Xeon Silver 4214R @ 2.40GHz $514.93
+AMD 4700S NA
+AMD EPYC 7232P $450.00
+Intel Core Ultra 5 125U $363.00*
+AMD Ryzen 5 3600 NA
+Intel Xeon E5-2687W v4 @ 3.00GHz $719.45*
+Intel Core i7-6950X @ 3.00GHz NA
+Intel Core i5-13420H $342.00*
+Intel Core Ultra 5 228V NA
+Intel Core Ultra 5 135U NA
+Intel Xeon W -1270 @ 3.40GHz $362.00*
+Intel Core i5-12600T NA
+ARM Neoverse-N1 64 Core 3000 MHz NA
+Intel Xeon E5-2683 v4 @ 2.10GHz $329.95*
+Intel Xeon E5-2680R v4 @ 2.40GHz NA
+AMD Ryzen 7 2700X $185.00
+Intel Xeon W -11555MRE @ 2.60GHz $326.00*
+Intel Core i5-1340PE $315.00*
+Intel Xeon E-2378 @ 2.60GHz $470.39
+AMD Ryzen 7 4980U Microsoft Surface Edition NA
+Intel Xeon E5-2680 v4 @ 2.40GHz $211.95
+Snapdragon X - X126100 - Qualcomm Oryon NA
+Intel Xeon E5-4669 v3 @ 2.10GHz $5,400.00*
+Intel Xeon E-2288G @ 3.70GHz $539.00*
+Intel Core 5 120U $340.00*
+Virtual @ 3.80GHz NA
+Intel Core i5-1 1500B @ 3.30GHz NA
+Intel Xeon W -2140B @ 3.20GHz NA
+Intel Core Ultra 7 165U NA
+Intel Atom P5362 $708.00*
+AMD Ryzen 7 PRO 5850U NA
+Intel Core i5-1 1500 @ 2.70GHz NA
+AMD Ryzen 5 PRO 3600 NA
+Apple M1 Pro 8 Core 3200 MHz NA
+Intel Core i7-7820X @ 3.60GHz $379.00
+AMD Ryzen 5 4400G NA
+AMD Ryzen 7 4850U Mobile NA
+Intel Xeon W -1270P  @ 3.80GHz $470.52*
+AMD Ryzen 5 7430U NA
+Intel Xeon E5-2689 v4 @ 3.10GHz NA
+Intel Core Ultra 5 235U $332.00*17,976
+17,960
+17,958
+17,945
+17,907
+17,862
+17,839
+17,826
+17,752
+17,752
+17,745
+17,731
+17,727
+17,711
+17,696
+17,667
+17,637
+17,603
+17,584
+17,573
+17,532
+17,515
+17,507
+17,487
+17,484
+17,484
+17,476
+17,472
+17,469
+17,451
+17,431
+17,430
+17,416
+17,393
+17,386
+17,358
+17,335
+17,290
+17,276
+17,223
+17,205
+17,202
+17,195
+17,167
+17,160
+17,110
+17,099
+17,058
+17,049
+17,036
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 19/27
+AMD Ryzen 5 Pro 7535U NA
+Intel Xeon W -3223 @ 3.50GHz $820.55*
+Intel Xeon E-2278G @ 3.40GHz $494.00*
+AMD Ryzen 5 7535U NA
+AMD Ryzen 7 PRO 2700X NA
+Intel Core i5-1 1400F @ 2.60GHz NA
+Intel Core i5-1 1400 @ 2.60GHz NA
+Intel Core i7-1270P NA
+AMD Ryzen Threadripper 1900X $122.99*
+AMD Ryzen 5 PRO 5655GE NA
+Intel Core i7-1260P NA
+AMD Ryzen 5 5600H NA
+Intel Core i5-1240P $619.00*
+Intel Xeon E5-2695 v3 @ 2.30GHz $339.95
+Intel Xeon Gold 51 18 @ 2.30GHz $448.95*
+AMD Ryzen 7 4800U NA
+AMD Ryzen 5 6600U NA
+Intel Xeon Gold 6134 @ 3.20GHz $449.00
+Intel Xeon Gold 51 17 @ 2.00GHz NA
+AMD Ryzen 5 PRO 4400G NA
+AMD Ryzen 7 PRO 5875U NA
+Intel Core Ultra 7 155U $490.00*
+Intel Xeon E7-4809 v2 @ 1.90GHz NA
+AMD Ryzen 5 PRO 6650U NA
+Intel Core i5-12450H $311.00*
+Intel Xeon Silver 4214Y  @ 2.20GHz $750.00
+Intel Core i5-12500T $202.00*
+Intel Xeon E-2336 @ 2.90GHz $385.10
+Intel Core i9-9900 @ 3.10GHz NA
+AMD Ryzen 7 1800X $407.39
+Intel Xeon Silver 4214 @ 2.20GHz $270.00*
+Intel Xeon Gold 5215 @ 2.20GHz $1,424.00*
+Intel Core i7-10700F @ 2.90GHz NA
+Intel Xeon E5-2698B v3 @ 2.00GHz NA
+Intel Core i9-13900TE $554.00*
+AMD Ryzen 5 PRO 4655G NA
+Intel Core i7-10700 @ 2.90GHz NA
+Intel Xeon E5-4650 v4 @ 2.20GHz $98.00*
+Intel Xeon Platinum 8151 @ 3.40GHz NA
+Intel Xeon D-2733NT  @ 2.10GHz $800.00*
+Intel Core i7-1 1600H @ 2.90GHz $395.00*
+AMD Ryzen 5 7533HS NA
+Intel Core i3-1220PE $295.00*
+AMD Ryzen 7 Extreme Edition NA
+AMD Ryzen 5 PRO 4650G NA
+Intel Core i7-10700E @ 2.90GHz $330.00*
+AMD Ryzen 5 4500 NA
+Intel Xeon E5-2669 v3 @ 2.30GHz NA
+AMD Ryzen Embedded V2718 NA
+Intel Xeon E5-2690 v3 @ 2.60GHz $19.99*16,992
+16,974
+16,964
+16,964
+16,956
+16,943
+16,913
+16,872
+16,812
+16,811
+16,782
+16,776
+16,741
+16,713
+16,694
+16,644
+16,545
+16,512
+16,487
+16,485
+16,475
+16,475
+16,471
+16,465
+16,465
+16,442
+16,424
+16,375
+16,328
+16,328
+16,320
+16,304
+16,303
+16,287
+16,265
+16,254
+16,232
+16,225
+16,208
+16,206
+16,163
+16,157
+16,146
+16,143
+16,141
+16,131
+16,117
+16,107
+16,075
+16,031
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 20/27
+AMD Ryzen 5 4600G $129.00
+Intel Xeon W -11865MLE @ 1.50GHz $467.00*
+Intel Core i5-1 1500H @ 2.90GHz $250.00*
+Intel Core i9-9900B @ 3.10GHz NA
+Intel Core i5-12400T $149.99*
+AMD Ryzen 5 4600GE NA
+Intel Xeon Gold 5215 @ 2.50GHz $998.95
+Intel Xeon E5-2660 v4 @ 2.00GHz $49.00*
+AMD Ryzen 7 5700U NA
+AMD Ryzen 7 2700 NA
+Intel Core i5-1 1260H @ 2.60GHz $250.00*
+Intel Xeon D-1746TER @ 2.00GHz $1,069.00*
+AMD Ryzen 7 1700X $428.88
+Apple M2 8 Core 3500 MHz NA
+AMD Ryzen 7 PRO 1700X NA
+AMD Ryzen 5 7530U NA
+Intel Core i7-1 1700T  @ 1.40GHz $323.00*
+Intel Xeon w3-2423 NA
+Intel Xeon D-1726 @ 2.90GHz $490.00*
+Intel Xeon E-2278GE @ 3.30GHz $494.00*
+Intel Core 7 150U NA
+Intel Xeon W -10885M @ 2.40GHz $623.00*
+Intel Xeon Gold 5217 @ 3.00GHz $1,298.95*
+Intel Core i5-1 1400H @ 2.70GHz $250.00*
+AMD Ryzen 5 PRO 4650GE NA
+Intel Xeon E5-4667 v3 @ 2.00GHz $5,729.00*
+Intel Core i3-14100F $90.07
+Intel Xeon E5-4660 v4 @ 2.20GHz $3,609.00*
+AMD Ryzen 7 PRO 2700 NA
+Intel Core i3-14100 $121.99
+Intel Core i9-10980HK @ 2.40GHz $583.00*
+AMD Ryzen 5 5560U NA
+AMD Ryzen 5 5600U NA
+Intel Xeon Silver 41 16T @ 2.10GHz $1,112.00*
+Intel Xeon E-2286M @ 2.40GHz $1,373.18*
+Intel Xeon Silver 4210R @ 2.40GHz NA
+Intel Xeon E E-2434 $281.00*
+Intel Xeon D-2166NT  @ 2.00GHz $1,005.00*
+AMD Ryzen 7 PRO 4750U NA
+AMD EPYC 7301 $1,490.00*
+Intel Xeon Silver 4215R @ 3.20GHz $803.33
+Intel Xeon E5-2680 v3 @ 2.50GHz $150.00
+AMD EPYC 7251 $964.22
+Intel Xeon E5-2658A  v3 @ 2.20GHz $1,832.00*
+Intel Xeon Gold 51 15 @ 2.40GHz $368.91
+Intel Xeon D-1733NT  @ 2.00GHz $720.00*
+AMD Ryzen 5 5625U NA
+Intel Xeon E5-1681 v3 @ 2.90GHz NA
+Intel Xeon E5-2683 v3 @ 2.00GHz $79.00
+AMD Ryzen 7 1700 $173.5616,008
+15,917
+15,904
+15,893
+15,874
+15,820
+15,719
+15,706
+15,692
+15,678
+15,666
+15,660
+15,659
+15,656
+15,625
+15,613
+15,557
+15,520
+15,511
+15,509
+15,462
+15,457
+15,429
+15,420
+15,416
+15,397
+15,378
+15,375
+15,360
+15,305
+15,285
+15,220
+15,216
+15,187
+15,173
+15,162
+15,133
+15,105
+15,004
+14,991
+14,987
+14,936
+14,935
+14,879
+14,875
+14,849
+14,840
+14,820
+14,802
+14,800
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 21/27
+Intel Xeon Silver 41 16 @ 2.10GHz $76.00
+AMD Ryzen 5 PRO 4400GE NA
+Intel Xeon E5-2687W v3 @ 3.10GHz $549.95
+AMD Ryzen 3 PRO 8300GE NA
+Intel Core i9-10900T  @ 1.90GHz $349.99*
+Intel Xeon E5-2678 v3 @ 2.50GHz $106.19*
+AMD Ryzen 7 PRO 1700 NA
+Intel Core i7-10875H @ 2.30GHz $450.00*
+Intel Core i9-10885H @ 2.40GHz $556.00*
+Intel Core i9-10900TE @ 1.80GHz $444.00*
+Montage Jintide C4215R NA
+Intel Core i3-13100F $82.94
+Intel Core i5-1345U $309.00*
+AMD Ryzen 7 2700E NA
+AMD Ryzen 5 PRO 5650U NA
+Intel Core i3-1220P $281.00*
+AMD Ryzen 7 5825C NA
+AMD Ryzen 3 PRO 8300G NA
+Intel Xeon W -1290TE @ 1.80GHz $552.00*
+Intel Core i5-12500TE $205.00*
+AMD Ryzen 5 PRO 5675U NA
+Intel Core i7-6900K @ 3.20GHz NA
+Intel Xeon Silver 4215 @ 2.50GHz $543.84
+AMD Ryzen 5 PRO 4655GE NA
+Intel Xeon E5-2658 v4 @ 2.30GHz $24.99*
+Intel Core i7-1355U $469.00*
+Intel Core i7-9700K @ 3.60GHz NA
+AMD Ryzen 5 PRO 7530U NA
+Intel Xeon Silver 4123 @ 3.00GHz NA
+Intel Xeon W -2135 @ 3.70GHz $1,007.70*
+Intel Core i5-1 1600T  @ 1.70GHz $213.00*
+Intel Core i5-1335U $340.00*
+Intel Xeon W -2235 @ 3.80GHz $666.99*
+Intel Core i3-12300 $143.00*
+AMD Ryzen 3 8300G NA
+Intel Core 3 100U NA
+Intel Core i7-1365U $426.00*
+Intel Xeon W -1250P  @ 4.10GHz $321.50*
+Intel CC150 @ 3.50GHz NA
+Intel Core i3-12100E $138.00*
+AMD Ryzen 5 4600H NA
+AMD Ryzen 5 4600HS NA
+Intel Core i5-10600K @ 4.10GHz NA
+Intel Xeon E5-2697 v2 @ 2.70GHz $193.44*
+Intel Xeon E5-4660 v3 @ 2.10GHz $4,800.00*
+Intel Xeon D-1732TE @ 1.90GHz $759.00*
+Intel Xeon E5-1680 v4 @ 3.40GHz $1,498.95*
+Intel Core i9-10880H @ 2.30GHz NA
+Intel Xeon E5-2673 v3 @ 2.40GHz $700.00*
+Intel Core i7-9700KF @ 3.60GHz NA14,796
+14,795
+14,722
+14,719
+14,718
+14,710
+14,696
+14,692
+14,684
+14,679
+14,672
+14,670
+14,658
+14,657
+14,623
+14,585
+14,561
+14,539
+14,505
+14,497
+14,482
+14,447
+14,439
+14,436
+14,434
+14,430
+14,422
+14,411
+14,405
+14,399
+14,396
+14,390
+14,386
+14,380
+14,374
+14,365
+14,363
+14,355
+14,326
+14,310
+14,307
+14,297
+14,283
+14,261
+14,256
+14,254
+14,252
+14,250
+14,247
+14,234
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 22/27
+Intel Core i7-10870H @ 2.20GHz $417.00*
+Intel Core i5-10600KF @ 4.10GHz NA
+Apple M1 8 Core 3200 MHz NA
+Intel Xeon E-2276G @ 3.80GHz $460.29*
+Intel Core i7-8086K @ 4.00GHz NA
+Intel Xeon E5-2666 v3 @ 2.90GHz NA
+Intel Xeon E5-2696 v2 @ 2.50GHz NA
+Intel Core i3-12100F NA
+Intel Core i9-9980HK @ 2.40GHz $583.00*
+Intel Core i7-10700TE @ 2.00GHz $330.00*
+Intel Core i7-1260U NA
+Intel Xeon E-2286G @ 4.00GHz $1,253.00*
+Intel Xeon E-2236 @ 3.40GHz $429.95*
+AMD EPYC 3251 $315.00*
+AMD Ryzen 5 2600X $139.99
+AMD Ryzen Embedded V3C18I NA
+AMD Ryzen 3 8300GE NA
+Intel Xeon E-2246G @ 3.60GHz $311.00*
+AMD Ryzen 3 PRO 5350G NA
+Intel Xeon E-2186G @ 3.80GHz $429.99*
+Intel Xeon E5-2667 v4 @ 3.20GHz $579.00
+Intel Xeon W -1250 @ 3.30GHz $333.48*
+Intel Core i3-13100E $137.00*
+Intel Xeon E-2374G @ 3.70GHz $419.43*
+Intel Core i3-14100T $134.00*
+Intel Xeon D-1823NT  @ 2.80GHz $436.00*
+Intel Core i5-10600 @ 3.30GHz NA
+Intel Core i3-13100 $120.00
+Virtual @ 3.41GHz NA
+Intel Core i9-9880H @ 2.30GHz $556.00*
+Intel Core i7-8700K @ 3.70GHz NA
+Intel Xeon E-2176G @ 3.70GHz $479.99*
+Intel Core Ultra 7 164U NA
+Intel Xeon Silver 4210 @ 2.20GHz NA
+Intel Xeon W -1270TE @ 2.00GHz $367.00*
+Intel Core i7-5960X @ 3.00GHz NA
+Intel Xeon E5-1660 v4 @ 3.20GHz $352.36*
+Intel Xeon E-2136 @ 3.30GHz $907.78*
+Intel Xeon E5-2670 v3 @ 2.30GHz $98.95
+Intel Xeon E5-2658 v3 @ 2.20GHz NA
+AMD Ryzen 5 4600U NA
+AMD Ryzen 5 PRO 2600 NA
+Intel Core i7-1265U $426.00*
+Intel Xeon E5-2690 v2 @ 3.00GHz $198.95*
+Intel Core i7-13800HRE $496.00*
+Intel Xeon D-1587 @ 1.70GHz NA
+Intel Xeon E5-2650 v4 @ 2.20GHz $29.99*
+Intel Xeon E5-2676 v3 @ 2.40GHz NA
+Intel Core i7-1255U $426.00*
+Intel Xeon E5-2695 v2 @ 2.40GHz $69.0014,227
+14,175
+14,144
+14,126
+14,088
+14,083
+14,072
+14,037
+14,028
+14,005
+13,957
+13,951
+13,938
+13,912
+13,895
+13,856
+13,846
+13,806
+13,793
+13,792
+13,782
+13,741
+13,727
+13,726
+13,697
+13,673
+13,652
+13,642
+13,635
+13,615
+13,584
+13,566
+13,559
+13,556
+13,553
+13,528
+13,518
+13,516
+13,506
+13,487
+13,436
+13,424
+13,420
+13,418
+13,400
+13,352
+13,352
+13,327
+13,322
+13,317
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 23/27
+Intel Core i5-1245U $309.00*
+Intel Core i5-10500 @ 3.10GHz NA
+Intel Core i5-1334U $340.00*
+Intel Core i7-9700 @ 3.00GHz NA
+AMD Ryzen 7 4700U NA
+Intel Xeon E-2146G @ 3.50GHz $495.64*
+Intel Core i3-12300T $157.00*
+Intel Core i5-1 1400T  @ 1.30GHz $182.00*
+AMD BC-250 NA
+Intel Xeon E5-2675 v3 @ 1.80GHz NA
+Intel Core i7-9700F @ 3.00GHz NA
+Intel Xeon D-1581 @ 1.80GHz NA
+AMD Ryzen 5 2600 NA
+AMD Ryzen 5 3500X NA
+Intel Core i9-9900T  @ 2.10GHz $439.00*
+Intel Xeon E5-1680 v3 @ 3.20GHz $589.99*
+Intel Atom P5342 $632.00*
+Intel Xeon Silver 41 14 @ 2.20GHz $39.99
+Intel Core 5 220U NA
+Intel Core i5-1235U $309.00*
+AMD Ryzen 5 1600X $199.62
+Intel Xeon E5-2660 v3 @ 2.60GHz $189.95
+AMD Ryzen 3 5300G NA
+AMD Ryzen Embedded V2516 NA
+Mediatek Dimensity 9400 (MT6991) NA
+AMD Ryzen 3 7440U NA
+Apple A18 Pro NA
+Intel Xeon E5-4627 v4 @ 2.60GHz $999.99*
+Intel Xeon E5-2685 v3 @ 2.60GHz NA
+Intel Core i7-7800X @ 3.50GHz NA
+AMD Ryzen 5 5500U NA
+AMD Ryzen 3 5300GE NA
+Intel Core i3-13100T $134.00*
+Intel Core i7-10700T  @ 2.00GHz $269.00*
+Intel Xeon Gold 6128 @ 3.40GHz $249.89
+AMD Ryzen 3 8440U NA
+AMD Ryzen 5 3500 $76.99
+Intel Core Ultra 5 134U $332.00*
+Intel Core i7-8700 @ 3.20GHz NA
+Intel CoreTM Ultra 5 1 15U NA
+AMD Ryzen 3 PRO 5355GE NA
+Intel Core i5-1240U NA
+Intel Xeon E5-2650L  v4 @ 1.70GHz $229.95*
+Intel Xeon W -2133 @ 3.60GHz $617.00*
+Intel Core i3-12100 $122.00*
+Intel Xeon E5-2680 v2 @ 2.80GHz $129.95
+AMD Ryzen 3 PRO 5350GE NA
+Intel Core i7-9700E @ 2.60GHz $323.00*
+AMD Ryzen 3 210 NA
+Intel Xeon E-2334 @ 3.40GHz $342.52*13,292
+13,256
+13,253
+13,240
+13,234
+13,219
+13,209
+13,204
+13,201
+13,180
+13,174
+13,173
+13,171
+13,165
+13,158
+13,124
+13,085
+13,058
+13,052
+13,038
+13,036
+13,032
+13,023
+13,016
+13,006
+12,991
+12,983
+12,969
+12,944
+12,925
+12,890
+12,856
+12,846
+12,818
+12,811
+12,805
+12,800
+12,791
+12,781
+12,771
+12,761
+12,726
+12,719
+12,715
+12,702
+12,702
+12,637
+12,623
+12,599
+12,595
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 24/27
+Intel Xeon W -11555MLE @ 1.90GHz $348.00*
+AMD Ryzen 3 3300X $144.00
+AMD Ryzen 3 7335U NA
+Intel Xeon E5-2667 v3 @ 3.20GHz $298.95
+Intel Xeon E5-1680 v2 @ 3.00GHz NA
+Intel Core i3-12100T $122.00*
+Intel Xeon E5-1660 v3 @ 3.00GHz $198.95
+AMD Ryzen 3 PRO 7330U NA
+Intel Core i5-1 1500T  @ 1.50GHz $192.00*
+Intel Xeon E5-2640 v4 @ 2.40GHz $39.90*
+Apple A18 NA
+Intel Xeon E5-2618L  v4 @ 2.20GHz $902.20*
+Intel Xeon E5-2649 v3 @ 2.30GHz NA
+QTI SM8750 NA
+AMD Ryzen 3 PRO 7335U NA
+AMD Ryzen 5 PRO 4650U NA
+Intel Xeon W -10855M @ 2.80GHz $450.00*
+Intel Xeon E5-2673 v2 @ 3.30GHz NA
+Hygon C86 3350 8-core NA
+Intel Xeon E5-2667 v2 @ 3.30GHz $249.00
+AMD Ryzen 5 1600 $148.00
+AMD Ryzen Z2 Go NA
+Apple A17 Pro NA
+Intel Xeon E5-2687W v2 @ 3.40GHz NA
+Intel Xeon W -1250E @ 3.50GHz $260.00*
+Intel Xeon D-2143IT  @ 2.20GHz $566.00*
+AMD Ryzen 5 7235HS NA
+Intel Core i5-10400F @ 2.90GHz NA
+Intel Xeon E5-2692 v2 @ 2.20GHz NA
+Intel Xeon D-2141I @ 2.20GHz $555.00*
+AMD Ryzen 5 PRO 4500U NA
+Intel Xeon E E-2414 $306.53*
+Intel Core i5-10400 @ 2.90GHz NA
+Intel Core i5-10505 @ 3.20GHz NA
+Intel Xeon E-2278GEL  @ 2.00GHz $494.00*
+Virtual @ 3.24GHz NA
+AMD Ryzen Embedded V3C14 NA
+Intel Xeon E5-2650L  v3 @ 1.80GHz $229.95
+Intel Core i3-12100TE $125.00*
+ARM Neoverse-N1 32 Core 1700 MHz NA
+Intel Xeon E5-2648L  v4 @ 1.80GHz $1,384.57*
+Intel Core i7-8700B @ 3.20GHz $303.00*
+AMD Ryzen 5 PRO 1600 NA
+Snapdragon 8cx Gen 3 @ 3.0 GHz NA
+Microsoft SQ3 @ 3.0 GHz NA
+Intel Xeon E5-2663 v3 @ 2.80GHz NA
+AMD Ryzen 5 2600E NA
+Intel Xeon E-2276M @ 2.80GHz $450.00*
+ARM Neoverse-N1 80 Core 2800 MHz NA12,591
+12,589
+12,568
+12,544
+12,542
+12,538
+12,519
+12,484
+12,480
+12,471
+12,457
+12,429
+12,399
+12,391
+12,353
+12,348
+12,303
+12,297
+12,292
+12,290
+12,276
+12,270
+12,243
+12,240
+12,212
+12,207
+12,200
+12,138
+12,119
+12,117
+12,117
+12,073
+12,055
+12,042
+12,024
+11,972
+11,882
+11,865
+11,859
+11,841
+11,839
+11,823
+11,823
+11,817
+11,793
+11,777
+11,771
+11,758
+11,755
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 25/27
+Intel Xeon E5-2650 v3 @ 2.30GHz $1,889.00*
+Intel Xeon D-2146NT  @ 2.30GHz $641.00*
+Intel Core i7-10850H @ 2.70GHz $395.00*
+Intel Core i7-1 1375H @ 3.30GHz $482.00*
+Intel Core i7-10750H @ 2.60GHz NA
+Intel Xeon Platinum 8481C @ 2.70GHz NA
+Intel Core i3-1 1100HE @ 2.40GHz $233.00*
+Intel Core i7-1 1370H @ 3.30GHz $426.00*
+Intel Xeon D-1577 @ 1.30GHz $1,176.00*
+Intel Xeon E5-4657L  v2 @ 2.40GHz $751.19*
+Intel Core i3-1315U $309.00*
+Intel Core i5-1345URE $340.00*
+AMD Ryzen 3 3100 $87.44
+Intel Xeon E5-2630 v4 @ 2.20GHz $109.00
+Intel Xeon E5-4669 v4 @ 2.20GHz NA
+Intel Xeon E5-4628L  v4 @ 1.80GHz $2,535.00*
+Hygon C86 3250 8-core NA
+QTI SM8650 NA
+AMD Ryzen 5 5500H NA
+Intel Core i7-6850K @ 3.60GHz NA
+Intel Xeon E5-1650 v4 @ 3.60GHz $429.95*
+Intel Core i5-10600T  @ 2.40GHz $213.00*
+Intel Xeon E5-2670 v2 @ 2.50GHz $233.95*
+AMD Ryzen 3 PRO 5475U NA
+Intel Xeon E-2186M @ 2.90GHz $623.00*
+Intel Core i7-1250U $426.00*
+Intel Core i3-1 1100B @ 3.60GHz NA
+Intel Xeon E5-4627 v3 @ 2.60GHz $2,400.00*
+Hygon C86-3G (OPN:3350) NA
+AMD Ryzen 3 4300GE NA
+Intel Core i5-10500E @ 3.10GHz $195.00*
+Intel Xeon Silver 4208 @ 2.10GHz NA
+AMD Ryzen 3 5425U NA
+Intel Xeon E5-2618L  v3 @ 2.30GHz $195.02*
+Intel Core i5-10500H @ 2.50GHz $250.00*
+AMD EPYC 7261 $6,998.69*
+Intel Xeon E-2226G @ 3.40GHz $331.37*
+Intel Xeon E5-2643 v4 @ 3.40GHz $900.99
+Apple A12X Bionic NA
+Intel Xeon Silver 4209T  @ 2.20GHz $649.25*
+Intel Xeon E5-2628L  v4 @ 1.90GHz $529.18*
+Intel Xeon E5-2640 v3 @ 2.60GHz $189.95*
+AMD Ryzen 3 PRO 5450U NA
+AMD Ryzen 3 4100 $68.00
+AMD Ryzen 3 7330U NA
+AMD Ryzen 3 5400U NA
+Apple A16 Bionic NA
+Intel Core i7-9850H @ 2.60GHz $1,305.76*
+Samsung s5e9945 NA
+AMD Ryzen 3 PRO 4200GE NA11,747
+11,736
+11,723
+11,697
+11,688
+11,681
+11,673
+11,653
+11,645
+11,613
+11,601
+11,565
+11,563
+11,532
+11,523
+11,503
+11,476
+11,456
+11,436
+11,430
+11,402
+11,392
+11,387
+11,381
+11,373
+11,368
+11,357
+11,344
+11,305
+11,252
+11,212
+11,198
+11,181
+11,181
+11,156
+11,149
+11,126
+11,105
+11,087
+11,080
+11,079
+11,073
+11,052
+11,039
+11,020
+11,006
+11,002
+10,971
+10,947
+10,930
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 26/27
+AMD Ryzen 3 PRO 4350GE NA
+AMD Ryzen 3 PRO 4350G NA
+Intel Xeon E5-4655 v4 @ 2.50GHz $4,616.00*
+Intel Xeon E-2176M @ 2.70GHz $450.00*
+Intel Core i5-1230U $309.00*
+Intel Core i5-1 1320H @ 3.20GHz $309.00*
+Software
+BurnInT est
+PerformanceT est
+OSForensics
+MemT est86
+WirelessMon
+Management Console
+Zoom Search Engine
+Free Software
+Hardware
+USB3.0 Loopback Plugs
+USB2.0 Loopback Plugs
+PCIe Test Cards
+USB Power Delivery Tester
+Serial and Parallel Loopback Plugs
+USB Short Circuit Testers
+Benchmarks
+CPU Benchmarks
+Video Card Benchmarks
+Hard Drive Benchmarks
+RAM Benchmarks
+PC Systems Benchmarks
+Software Marketshare
+Database Benchmarks
+Android Benchmarks
+iOS Benchmarks
+Internet Bandwidth
+About Us
+Company
+Contact Us
+The Press Room
+Services
+Store
+Support
+Forums
+Compliance Social
+International
+Disclaimer
+Refunds
+Privacy
+Copyright © 2025 PassMark® Software
+10,923
+10,922
+10,912
+10,909
+10,894
+10,881
+CPU Benchmarks5.05.2025, 15:36 Testy porównawcze procesorów PassMark Intel i AMD — High End
+https://www.cpubenchmark.net/high_end_cpus.html 27/27

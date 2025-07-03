@@ -1,0 +1,418 @@
+Załącznik nr 1C do SWZ
+Projektowane postanowienia umowy w sprawie zamówienia publicznego, które zostaną wprowadzone do umowy w sprawie zamówienia publicznego – wzór umowy
+UMOWA dla części I zamówienia (wzór)
+Zawarta w dniu:………………………2025 r. w Krakowie pomiędzy:
+Województwem Małopolskim z siedzibą w Krakowie przy ul. Basztowa 22, 31-156 Kraków, adres korespondencyjny: ul. Racławicka 56, 30-017 Kraków, NIP: 6762178337, REGON: 351554287, reprezentowanym przez Zarząd Województwa Małopolskiego, w imieniu, którego działa z upoważnienia:
+…………………………………………………………. zwanym dalej Zamawiającym
+a
+……………………………adres: ……………………………wpisaną do …….KRS pod nr……………..…….., nr NIP ……………., nr REGON………………, reprezentowaną przez: ……………………………… zwaną dalej Wykonawcą
+Zwanymi dalej Stronami
+Niniejsza Umowa zostaje zawarta w wyniku przeprowadzenia postępowania o udzielenie zamówienia publicznego w trybie przetargu nieograniczonego prowadzonego zgodnie z ustawą z dnia 11 września 2019 r. – Prawo zamówień publicznych, zwanej dalej ustawą (t. j. Dz. U. z 2024 r. poz. 1320 z późn. zm.)
+§ 1
+Przedmiotem umowy jest dostawa infrastruktury teleinformatycznej do uruchomienia systemu EZD RP wraz z wdrożeniem w Wojewódzkich Samorządowych Jednostkach Organizacyjnych Województwa Małopolskiego i zapewnieniem gwarancji oraz wsparcia technicznego dla dostarczonego sprzętu, oprogramowania oraz prac integracyjnych będących przedmiotem umowy zgodnie z wykazem sprzętu stanowiącym Załącznik nr 13 i ze złożoną ofertą stanowiącą Załącznik nr 14 do niniejszej umowy. Niniejsza część zamówienia obejmuje:
+Dostawę i wdrożenie 6 serwerów (konfiguracja I) wraz z wirtualizatorem i licencją na system operacyjny,
+Dostawę i wdrożenie 6 serwerów (konfiguracja II) wraz z oprogramowaniem przeznaczonym do wykonania kopii zapasowej
+Dostawę i wdrożenie 6 zapór sieciowych wraz z licencjami i oprogramowaniem,
+Dostawę i wdrożenie 12 przełączników sieciowych wraz z licencjami i oprogramowaniem,
+Dostawę i wdrożenie 6 zestawów podtrzymywania energii,
+Dostawę i wdrożenie 6 szaf teletechnicznych (szaf RACKowych),
+Instalację, konfigurację oraz integrację dostarczonego sprzętu w pkt. 1 – 6 z infrastrukturą istniejącą już w Wojewódzkich Samorządowych Jednostkach Organizacyjnych, które zostały wskazane w Załączniku nr 7 do niniejszej Umowy,
+Szkolenie, które zostało opisane w pkt. IX Załącznika nr 2,
+Wykaz Wojewódzkich Samorządowych Jednostek Organizacyjnych Województwa Małopolskiego, zwanych dalej WSJO, o których mowa w ust.1, został zamieszczony w Załączniku nr 7 do niniejszej Umowy.
+Wykaz sprzętu oraz miejsce ich instalacji został zamieszczony w Załączniku nr 2 do niniejszej Umowy.
+Zamówienie jest współfinansowane z ze środków: Unii Europejskiej w ramach programu Fundusze Europejskie dla Małopolski 2021-2027 w ramach Europejskiego Funduszu Rozwoju Regionalnego (EFRR).
+§ 2
+Wykonawcy przysługuje wynagrodzenie za zrealizowanie niniejszej umowy w łącznej kwocie ………….. zł brutto (słownie: ……………. złotych …./100), w tym należny podatek VAT według stawki …. % w wysokości ………zł (słownie: ……….…. złotych ………./100).
+Podstawą wystawienia faktury za wykonany przedmiot umowy będzie protokół odbioru, podpisany przez obydwie strony umowy, którego wzór stanowi Załącznik nr 1 do niniejszej umowy. Podstawą do podpisania protokołu odbioru będzie zrealizowanie przez Wykonawcę zakresu wskazanego w §1 ust.1 zgodnie z harmonogramem, o którym mowa w § 5 ust 1 i którego wzór stanowi Załącznik nr 8 do niniejszej umowy.
+Wynagrodzenie, o którym mowa w ust.1 zostanie wypłacone przez Zamawiającego na podstawie prawidłowo przedłożonej przez Wykonawcę faktury VAT, nie później niż w ciągu 30 dni od dnia jej otrzymania.
+Fakturę należy wystawić na:
+Nabywca:
+Województwo Małopolskie
+ul. Basztowa 22,
+31-156 Kraków,
+NIP: 676 21 78 337
+Odbiorca faktury:
+Urząd Marszałkowski Województwa Małopolskiego,
+Departament IT,
+ul. Basztowa 22, 31-156 Kraków.
+Wynagrodzenie zostanie wypłacone na rachunek bankowy Wykonawcy:
+Nazwa banku: ………………………...
+Nr rachunku: …………………………..
+Płatność za zrealizowany przedmiot zamówienia będzie dokonywana z numeru rachunku bankowego: 60 1020 2892 0000 5102 0922 2474.
+Wykonawca oświadcza, że jest posiadaczem rachunku bankowego wskazanego w ust.5 i zobowiązuje się do jego utrzymania oraz wykazania w wykazie podatników VAT, o którym mowa w art. 96b ust.1 ustawy o VAT (tzw. biała lista) nie krócej niż do chwili dokonania rozliczeń z Zamawiającym wynikających z umowy.
+Kwota, o której mowa w ust.1 wyczerpuje wszelkie roszczenia Wykonawcy wobec Zamawiającego z tytułu wykonania niniejszej umowy, stanowi całkowite zaspokojenie całości roszczeń oraz obejmuje wszelkie koszty związane z realizacją przedmiotu umowy w tym przekazanie wszelkich licencji na polach eksploatacji wskazanych w §5 ust. 10 Umowy, a także koszt dostarczenia sprzętu do WSJO, jego ubezpieczenia na czas transportu, przeszkolenia administratorów i osób wskazanych przez Zamawiającego, zapewnienia wsparcia technicznego, gwarancji, rękojmi oraz wszelkie należne cła i podatki.
+Wynagrodzenie określone w ust.1 zawiera w sobie wszelkie składniki cenotwórcze takie jak podatki, cła, naliczone według aktualnie obowiązujących przepisów.
+Za dzień zapłaty uważa się dzień obciążenia rachunku bankowego Zamawiającego.
+Województwo Małopolskie jest czynnym podatnikiem podatku VAT.
+Wykonawca jest / nie jest czynnym podatnikiem VAT / korzysta ze zwolnienia w zakresie podatku VAT. (wybrać właściwe)
+Zamawiający dopuszcza złożenie faktur w formie:
+1)	 papierowej,
+2)	 ustrukturyzowanego dokumentu elektronicznego złożonego za pośrednictwem Platformy Elektronicznego Fakturowania zwanej dalej PEF, zgodnie z ustawą o elektronicznym fakturowaniu w zamówieniach publicznych, koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prawnym z dnia 9 listopada 2018 r. (t.j. Dz.U. 2020 poz. 1666 z późn. zm). Otrzymywanie ustrukturyzowanych faktur elektronicznych za pośrednictwem platformy PEF nie wymaga zgody określonej w art. 106n ust.1 ustawy o VAT. Otrzymywanie innych ustrukturyzowanych dokumentów za pośrednictwem platformy PEF, w tym faktur korygujących wymaga zgody stron umowy.
+3) elektronicznej, po uprzednim obustronnym podpisaniu oświadczenia stanowiącego Załącznik nr 6 do niniejszej umowy, na zasadach określonych w Załączniku nr 1 do oświadczenia.
+W ramach zawartej umowy Wykonawca może wybrać wyłącznie jedną formę składania faktur stosując ją konsekwentnie w czasie realizacji umowy niezależnie od liczby wystawianych faktur i dokonanych płatności. W przypadku gdy przeszkody techniczne lub formalne uniemożliwiają przesyłanie faktur w wybranej formie możliwe jest przesłanie faktury w innej formie, w tym papierowej pod warunkiem poinformowania o tym Nabywcy.
+Ustrukturyzowana faktura elektroniczna (w przypadku wyboru tej formy dokumentu) winna składać się z danych wymaganych przepisami ustawy o podatku od towarów i usług oraz m.in. danych zawierających:
+numer umowy w sprawie zamówienia publicznego,
+dane dotyczące odbiorcy płatności.
+Zamawiający informuje, że identyfikatorem ID PEPPOL/adresem PEF Zamawiającego, który pozwoli na złożenie ustrukturyzowanej faktury elektronicznej jest: GLN 5907720771348.
+Zamawiający prowadzi konto Podmiotu ma Platformie Elektronicznego Fakturowania (PEF) świadczone przez Brokera PEFexpert - konsorcjum firm: SOFTIQ Sp. z o.o., Edison S.A., Euvic Sp. z o.o., MedApp S.A.
+§ 3
+Osobami odpowiedzialnymi za realizację niniejszej Umowy oraz podpisanie protokołu odbioru są:
+Ze strony Zamawiającego:
+lub osoby ich zastępujące.
+Ze strony Wykonawcy:
+lub osoby ich zastępujące.
+Osobami odpowiedzialnymi za odbiór przedmiotu niniejszej umowy są łącznie:
+Ze strony Zamawiającego:
+lub osoby ich zastępujące.
+Ze strony Wykonawcy:
+lub osoby ich zastępujące.
+Zmiana przedstawicieli stron, o których mowa w ust.1 i 2 niniejszego paragrafu, nie stanowi zmiany umowy. Zmiana następuje poprzez pisemne oświadczenie złożone drugiej stronie, na piśmie pod rygorem nieważności.
+§ 4
+Wykonawca zrealizuje przedmiot umowy o którym mowa w §1 ust.1 pkt 1-8 w terminie do 70 dni roboczych od dnia zawarcia umowy.
+Zamawiający zastrzega sobie prawo do wskazania, w dowolnym momencie realizacji umowy i świadczenia gwarancji oraz wsparcia technicznego, osób upoważnionych ze strony Zamawiającego i WSJO do udziału w czynnościach, określonych §1 ust.1 pkt 1-7, wykonywanych przez Wykonawcę w WSJO wskazanych w Załączniku nr 7.
+Przez kanały zgłoszeń w rozumieniu niniejszej umowy uważa się:
+W przypadku Zamawiającego:
+konto poczty elektronicznej udostępnione przez Zamawiającego pod adresem: ……………
+numer telefonu kontaktowego: ………………………. udostępniony przez Zamawiającego.
+W przypadku Wykonawcy:
+konto poczty elektronicznej udostępnione przez Wykonawcę pod adresem: ……………………..
+numer telefonu kontaktowego: ………………………. udostępniony przez Wykonawcę.
+§ 5 Dostawa wraz z instalacją i integracją i testy integracyjne
+Wykonawca, na własny koszt i ryzyko, dostarczy przedmiot dostawy, o którym mowa w § 1 ust.1 pkt 1–7 do WSJO wskazanych w Załączniku nr 7 do niniejszej umowy zgodnie z terminem wskazanym w harmonogramie realizacji zamówienia stanowiącym Załącznik nr 8 do niniejszej umowy.
+Wykonawca dostarczy przedmiot dostawy fabrycznie nowy, nieużywany, bez wad i uszkodzeń. Dostarczony sprzęt musi posiadać wszystkie wymagane prawem polskim certyfikaty bezpieczeństwa oraz spełniać normy dotyczące ochrony środowiska.
+Wykonawca w ramach dostawy:
+Zweryfikuje zgodność przedmiotu zamówienia z opisem przedmiotu zamówienia stanowiącym Załącznik nr 2 do niniejszej umowy oraz dokona przeglądu ilościowego oraz jakościowego,
+Skoordynuje dostawę przedmiotu zamówienia, do WSJO wskazanych w Załączniku nr 7 oraz na minimum 3 dni robocze przed dokonaniem dostawy przedmiotu zamówienia wyszczególnionego w Załączniku nr 9, Wykonawca potwierdzi gotowość do dokonania dostawy do każdej lokalizacji zgodnie z kanałami zgłoszeń zgodnie z § 4 ust. 3 oraz na adresy wskazane w wykazie WSJO stanowiącym Załącznik nr 7 do umowy.
+Wykonawca, na własny koszt i ryzyko, zainstaluje przedmiot dostawy zamówienia, o którym mowa w § 1 ust.1 pkt 1–7 w WSJO zgodnie z Załącznikiem nr 7 do przedmiotowej Umowy.
+Wykonawca, na własny koszt i ryzyko, zintegruje dostarczony przedmiot dostawy zamówienia z infrastrukturą, która znajduje się już we wskazanych WSJO.
+Wykonawca udzieli minimum 60 miesięcy gwarancji na wykonane prace wdrożeniowe i instalacyjno-integracyjne wraz ze wsparciem, o których mowa w pkt 4.7 Załącznika nr 2 do niniejszej umowy. W ramach niniejszej gwarancji Wykonawca zobowiązuje się do usunięcia usterek lub/i awarii w tym krytycznych, o których mowa w pkt 4.9-4.17 Załącznika nr 2 do niniejszej umowy.
+Zamawiający, może zwrócić się do Wykonawcy o wykonanie dokumentacji w formie fotograficznej lub audiowizualnej, która będzie poświadczać realizowaną dostawę oraz wykonanie prac instalacyjno-integracyjnych, o których mowa w §1 ust.1 pkt 1–7 do WSJO. Dokumentacja musi zostać przekazana za pomocą szyfrowanego kanału komunikacyjnego, który zostanie ustalony w momencie zgłoszenia gotowości do dokonania dostawy.
+Każda dostawa wraz z przeprowadzeniem prac wdrożeniowo-integracyjnych przedmiotu zamówienia do poszczególnych lokalizacji musi być udokumentowana poprzez przekazanie Zamawiającemu wykazu dostarczonych urządzeń (z numerami seryjnymi i modelami) oraz oprogramowania. Wzór wykazu dostarczonych urządzeń, musi być uzupełniony dla każdej z WSJO i stanowi Załącznik nr 9 do przedmiotowej Umowy.
+Po podpisaniu Załącznika nr 9 dla każdej z WSJO zostaną wykonane testy integracyjne. Zakres i termin przeprowadzenia testów integracyjnych został wskazany odpowiednio w Załączniku nr 2 i w Załączniku nr 9 do niniejszej umowy.
+W ramach realizowanej dostawy, o której mowa w §1 ust. 1 umowy Wykonawca udziela Zamawiającemu odpłatnej licencji niewyłącznej, nieograniczone terytorialnie i czasowo do korzystania z dostarczonego oprogramowania w szczególności na wszystkich znanych w chwili zawarcia Umowy polach eksploatacji, w tym w zakresie i na polach eksploatacji określonych w art. 74 ust. 4 ustawy z dnia 4 lutego 1994 r. o prawach autorskich i pokrewnych, w szczególności obejmujących:
+korzystanie w zakresie umożliwiającym korzystanie z urządzenia;
+utrwalanie, a także trwałe lub czasowe zwielokrotnianie w całości lub części jakimikolwiek środkami i w jakiejkolwiek formie,
+wykorzystanie pełnej funkcjonalności oprogramowania wynikającej z Umowy,
+wprowadzanie i zapisywanie w pamięci komputerów, odtwarzanie, utrwalanie, przekazywanie, wyświetlanie i stosowanie,
+sporządzanie kopii zapasowej (kopii bezpieczeństwa) nośników instalacyjnych i nośników z zainstalowanym oprogramowaniem,
+korzystanie z produktów powstałych w wyniku eksploatacji urządzenia stanowiącego przedmiot umowy a także modyfikowanie tych produktów oraz dalsze udostępnianie tych produktów,
+publiczne udostępnianie oprogramowania w taki sposób aby każdy użytkownik mógł mieć do nich dostęp w miejscu i czasie przez siebie wybranym, w celu korzystania z urządzenia w sposób do jakiego został on przeznaczony,
+udostępnienie oprogramowania użytkownikom Zamawiającego na potrzeby korzystania z systemu przez użytkowników,
+prawo do korzystania ze zaktualizowanych wersji oprogramowania.
+11. Udzielenie licencji dotyczy terytorium Rzeczpospolitej Polskiej i ważne jest przez minimum 60 miesięcy.
+12. Udzielenie licencji nastąpi z chwilą podpisania protokołu odbioru przedmiotu umowy i nie będzie wymagało odrębnego oświadczenia Wykonawcy.
+13. W przypadku, gdy licencje przekazywane będą nośnikach typu pendrive, w ramach wynagrodzenia Wykonawca przenosi na Zamawiającego własność tych nośników.
+14. Wykonawca oświadcza, iż przysługiwać mu będą autorskie prawa majątkowe do przedmiotu umowy, w zakresie umożliwiającym udzielenie licencji oraz uprawnień prawno-autorskich na zasadach i polach eksploatacji określonych w niniejszej umowie.
+15. W przypadku zgłoszenia przez osoby trzecie jakichkolwiek roszczeń z tytułu korzystania przez Zamawiającego z przedmiotu umowy, Wykonawca zobowiązuje się do podjęcia na swój koszt i ryzyko wszelkich kroków prawnych zapewniających należytą ochronę Zamawiającego przed takimi roszczeniami osób trzecich. W szczególności Wykonawca zobowiązuje się zastąpić Zamawiającego, czy też w przypadku braku takiej możliwości przystąpić po stronie Zamawiającego do wszelkich postępowań toczących się przeciwko Zamawiającemu. Wykonawca zobowiązuje się także zapłacić wszelkie koszty, jakie Zamawiający może ponieść lub jakie będzie zobowiązany zapłacić osobie trzeciej w związku z roszczeniem lub pozwem sądowym z zakresu prawa autorskiego, jakie ta osoba zgłosi w związku z tym, że Zamawiający korzysta z przedmiotu niniejszej umowy.
+§ 6 Dokumentacja
+Wykonawca zobowiązuje się do przygotowania i przekazania Zamawiającemu kompletnej dokumentacji powdrożeniowej dla każdej z WSJO wskazanej w Załączniku nr 7.
+Zakres dokumentacji powdrożeniowej został opisany w Załączniku nr 2.
+Dokumentacja zostanie przygotowana w minimum 3 kopiach, w tym:
+Jedna kopia dla Wykonawcy,
+Jednak kopia dla Zamawiającego,
+Jedna kopia dla poszczególnej WSJO zgodnie z Załącznikiem nr 7.
+§ 7 Odbiór Przedmiotu Umowy
+Podstawą podpisania protokołu odbioru jest wykonanie przedmiotu umowy określonego w §1 ust.1 w terminie określonym w §4 ust.1.
+Za datę odbioru przedmiotu umowy, o którym mowa w §1 ust.1 uważa się datę podpisania przez Zamawiającego protokołu odbioru, o którym mowa w § 2 ust. 2. Zamawiający nie dopuszcza jednostronnych protokołów odbioru podpisanych przez Wykonawcę.
+Protokół odbioru sporządzony zostanie w formie pisemnej, pod rygorem nieważności, w dwóch egzemplarzach, po jednym dla każdej ze Stron – Wykonawcy i Zamawiającego.
+§ 8 Gwarancje i rękojmia
+Wykonawca zobowiązuje się do wykonania naprawy gwarancyjnej przedmiotu umowy w lokalizacjach WSJO wskazanych w Załączniku nr 7 do niniejszej umowy, w terminie do ………. dni roboczych (zgodnie z ofertą), w których zostanie usunięta usterka zgłoszona przez Zamawiającego, liczonych od przesłania Wykonawcy zgłoszenia gwarancyjnego za pomocą kanałów zgłoszeń określonych w § 4 ust.3.
+Wykonawca zapewni gwarancję producenta/ów oraz wsparcie techniczne producenta/ów przez okres minimum 60 miesięcy dla przedmiotu dostawy, o którym mowa w § 1 ust.1 pkt. 1– 6 zgodnie z Załącznikiem nr 2 do niniejszej umowy. Okres gwarancji producenta/ów liczony będzie od daty podpisania protokołu odbioru, o którym mowa w § 2 ust. 2. Wzór oświadczenia Wykonawcy o zapewnieniu gwarancji stanowi Załącznik nr 10 do niniejszej umowy
+W przypadku wady lub usterki dysków twardych w okresie gwarancji, Wykonawca zobowiązuje się do wymiany gwarancyjnej uszkodzonych dysków na nowe o co najmniej takich samych parametrach technicznych. Każdorazowo w przypadku wymiany urządzenia lub sprzętu lub podzespołów, dyski pozostają u Zamawiającego.
+Okres rękojmi jest równy okresowi gwarancji, o której mowa w ust. 2 i będzie liczony tak jak dla okresu gwarancji tj. od daty podpisania protokołu odbioru, o którym mowa w § 2 ust.2.
+Wykonawca ponosi wszelkie koszty związane z wykonaniem obowiązków wynikających z rękojmi za wady.
+Zamawiający zastrzega możliwość cyklicznego powtarzania testów bezpieczeństwa w całym okresie gwarancji. W przypadku, gdy testy bezpieczeństwa zakończą się wykryciem błędów Wykonawca zostanie wezwany do wprowadzenia zmian we wdrożonym przedmiocie Umowy i zobowiązuje się do dokonania odpowiednich zmian w ciągu 14 dni roboczych.
+W ramach testów bezpieczeństwa opisanych ust. 6 Wykonawca zobowiązuje się współpracować z Zamawiającym na etapie ich przygotowania, przeprowadzenia oraz przywrócenia przedmiotu Umowy do działania. Wszystkie powyższe działania odbędą się w ramach gwarancji.
+Zamawiający zastrzega sobie możliwość zmiany lokalizacji WSJO zgodnie z Załącznikiem nr 7 i wskazania nowej lokalizacji świadczenia napraw gwarancyjnych w trakcie trwania gwarancji, po uprzednim powiadomieniu Wykonawcy o nowej lokalizacji. Zmiana lokalizacji nie będą stanowić zmiany niniejszej umowy.
+Wykonawca odpowiada z tytułu rękojmi również wtedy, gdy przedmiot umowy, nie ma właściwości, o których istnieniu zapewnił Zamawiającego, gdy został on wydany w stanie niezupełnym, jak również, gdy majątkowe prawa autorskie do przedmiotu umowy, lub ewentualne prawa własności przemysłowej, należą do osoby trzeciej lub są obciążone prawem osoby trzeciej.
+Wykonawca nie może zwolnić się od odpowiedzialności z tytułu rękojmi za wady przedmiotu umowy, wskazując, że wada powstała na skutek wykonania w/w przedmiotu umowy według wskazówek Zamawiającego, chyba że wykaże, iż zakwestionował te wskazówki i uprzedził pisemnie Zamawiającego o przewidywanych skutkach zastosowania tych wskazówek.
+W przypadku stwierdzenia wad przedmiotu umowy, Zamawiający będzie uprawniony do żądania bezpłatnego usunięcia wady przez Wykonawcę lub wymiany przedmiotu umowy na wolny od wad. O zauważonych wadach Zamawiający powiadomi Wykonawcę najpóźniej w terminie 5 dni roboczych od daty stwierdzenia wad.
+Wykonawca jest zobowiązany, z tytułu rękojmi, do usunięcia wad w terminie wskazanym przez Zamawiającego, nie dłuższym jednak niż do 5 dni roboczych od daty doręczenia zawiadomienia o wykryciu wad.
+§ 9 Podwykonawcy
+Wykonawca może powierzyć podwykonawcom wykonanie części przedmiotu Umowy. W przypadku powierzenia wykonania części przedmiotu Umowy podwykonawcom, za ich działania lub zaniechania Wykonawca odpowiada jak za własne działania lub zaniechania.
+Wykonawca zobowiązany jest poinformować pisemnie Zamawiającego w terminie do 5 dni roboczych od dnia zawarcia umowy o podwykonawstwo, o powierzeniu wykonania Przedmiotu Umowy podwykonawcy, jak i o zapisach wiążących strony umowy z podaniem wszelkich informacji mających wpływ na realizację Umowy.
+Wykonawca zobowiązany jest powiadomić Zamawiającego o powierzeniu części prac Podwykonawcom, informując o nazwie Podwykonawcy oraz zakresie powierzonych mu zadań, z zastrzeżeniem, że w przypadku jeśli dotyczy to prac dla których w SWZ określono wymagania związane z posiadaniem określonych kwalifikacji lub doświadczenia, Wykonawca zobowiązany jest wykazać Zamawiającemu, że Podwykonawca posiada wymagane kwalifikacje lub doświadczenie przed powierzeniem mu wykonywania prac.
+Wykonawca zobowiązany jest nabyć od Podwykonawców licencje i przekazać je Zamawiającemu, w ramach wynagrodzenia umownego, jeżeli takie prawa autorskie miałyby powstać w trakcie realizacji niniejszej Umowy.
+Wykonawca odpowiedzialny jest za własne działanie lub zaniechanie jak i za działania i zaniechania osób, z których pomocą zobowiązanie wykonuje, jak również osób, którym wykonanie zobowiązania powierza.
+Niespełnienie przez Wykonawcę warunków określonych w niniejszym paragrafie uprawnia Zamawiającego do odstąpienia od niniejszej Umowy w terminie 7 dni roboczych od powzięcia wiedzy o przyczynie odstąpienia.
+§ 10 Kary umowne
+W przypadku niedotrzymania terminu, realizacji całości przedmiotu umowy, o którym mowa w § 4 ust. 1, Zamawiający naliczy karę umowną za każdy dzień zwłoki, w wysokości 0,03% wynagrodzenia brutto, o którym mowa w § 2 ust. 1, maksymalnie do 10 dni roboczych włącznie.
+Naliczone kary umowne, o których mowa w ust.1, podlegają potrąceniu z kwoty faktury przedstawionej do zapłaty przez Wykonawcę lub są płatne w terminie 14 dni od daty otrzymania wezwania od Zamawiającego.
+W przypadku niedotrzymania terminów realizacji wsparcia określonego w Załączniku nr 2 (pkt 4.9-4.12 lub/i 4.14-4.15 i 4.17) do niniejszej umowy Zamawiający naliczy karę umowną za każdy dzień zwłoki, do 30 dni włącznie, w wysokości 0,015% od kwoty wynagrodzenia brutto określonego w § 2 ust.1 do dnia realizacji.
+W przypadku przekroczenia terminu któregokolwiek ze zgłoszeń określonych w ust. 3 w ramach realizacji wsparcia powyżej 30 dni, Zamawiającemu przysługuje prawo odstąpienia od niniejszej umowy. W takim przypadku Wykonawca zobowiązany jest do zapłaty kary umownej w wysokości 20% wynagrodzenia brutto, o którym mowa w § 2 ust.1. Zapłata kary umownej wyłącza naliczanie kary określonej w ust. 3.
+W przypadku przekroczenia terminu reakcji na zgłoszenie określone w pkt 4.16 Załącznika nr 2 do niniejszej umowy Zamawiający będzie naliczał karę umowną w wysokości 0,05% wynagrodzenia brutto, o którym mowa w § 2 ust.1 za każdą rozpoczętą godzinę zwłoki.
+Zamawiający odstąpi od niniejszej umowy z przyczyn leżących po stronie Wykonawcy tj.:
+w przypadku przekroczeniu terminu określonego w ust.1 powyżej 10 dni roboczych,
+w przypadku realizacji przedmiotu niniejszej umowy niezgodnie z zapisami umowy,
+wystąpienia trzeciego przypadku naruszenia umowy przez Wykonawcę, o którym mowa w ust. 5, w ciągu któregokolwiek z pięciu czasookresów trwających po 12 kolejnych miesięcy łącznie składających się na 60 miesięcy od podpisania protokołu odbioru,
+Wykonawca zapłaci Zamawiającemu karę umowną za odstąpienie od niniejszej umowy z przyczyn o których mowa w ust. 6 w wysokości 10% wynagrodzenia brutto, o którym mowa w § 2 ust.1, z zastrzeżeniem ust. 4. W przypadku wskazanym w ust.6 lit. c do kary umownej za odstąpienie nie wlicza się kar umownych za naruszenie ust. 3 lub ust.5.
+Oświadczenie o odstąpieniu od umowy w przypadku, o którym mowa w ust 6 lit a i b Zamawiający może złożyć nie później niż w terminie wskazanym w § 4 ust.1.
+Oświadczenie o odstąpieniu od umowy w przypadku naruszenia z ust.4 i ust 6 lit c Zamawiający może złożyć nie później niż do końca okresu wsparcia tj. minimum 60 miesięcy od podpisania protokołu odbioru.
+Kary umowne, o których mowa w ust. 3, ust. 4, ust. 5 oraz ust. 7 będą płatne w terminie 14 dni od daty otrzymania wezwania od Zamawiającego.
+Zamawiającemu przysługuje prawo dochodzenia odszkodowania na zasadach ogólnych, jeżeli poniesiona szkoda przewyższa wysokość zastrzeżonych kar umownych.
+Łączna wysokość kar umownych nie może przekroczyć 35% wynagrodzenia brutto, o którym mowa w § 2 ust.1
+§ 11
+Zasady dotyczące przetwarzania danych osobowych zostały określone w Załączniku nr 3 do niniejszej umowy.§ 12
+W przypadku naruszenia przez Wykonawcę obowiązków o których mowa w Załączniku nr 3 do niniejszej umowy, Wykonawca zapłaci Zamawiającemu karę umowną w wysokości 500,00 zł za każdy przypadek naruszenia.
+W przypadku naruszenia przez Wykonawcę przepisów Ustawy o ochronie danych osobowych lub RODO w związku z realizacją niniejszej Umowy, w następstwie czego Zamawiający - jako administrator danych osobowych - zostanie zobowiązany na podstawie prawomocnego orzeczenia sądu lub decyzji administracyjnej do wypłaty odszkodowania lub zapłaty administracyjnej kary pieniężnej, Wykonawca zobowiązuje się pokryć w całości poniesione z tego tytułu przez Zamawiającego szkody lub wysokość administracyjnych kar pieniężnych.
+W przypadku, o którym mowa w ust. 2, obowiązek pokrycia szkody lub wysokości administracyjnej kary pieniężnej, zostanie pomniejszony o wysokość kar umownych naliczonych zgodnie z ust.1, jeżeli powstała szkoda lub nałożona administracyjna kara pieniężna wynika z naruszenia obowiązków o których mowa w Załączniku nr 3 do niniejszej umowy, za które Zamawiający naliczył karę umowną.
+§ 13
+Wykonawca oświadcza, że wypełnił w imieniu Administratora obowiązki informacyjne przewidziane w art. 13 lub art. 14 RODO wobec osób fizycznych, od których dane osobowe bezpośrednio lub pośrednio pozyskał w celu ubiegania się o udzielenie zamówienia publicznego oraz w celu zawarcia umowy i zobowiązuje się wypełnić je wobec osób fizycznych od których dane osobowe bezpośrednio lub pośrednio pozyska w celu realizacji umowy. Stosowne klauzule, które zostały określone w Załączniku nr 11 i Załączniku nr 12 do przedmiotowej Umowy zostaną przekazane Wykonawcy w dniu podpisania umowy.
+§ 14
+Zmiany Umowy mogą być także dokonane w razie wystąpienia następujących okoliczności:
+zaistnienia okoliczności siły wyższej, która będzie miała wpływ na termin realizacji Umowy, sposób realizacji lub przedmiot zamówienia, pod warunkiem powiadomienia drugiej Strony na piśmie o fakcie wystąpienia takiej okoliczności oraz udokumentowania jej właściwymi dowodami, przy czym za okoliczność siły wyższej Strony uznają zdarzenie zewnętrzne, nagłe, niepewne, którego żadna ze Stron przy zachowaniu należytej staranności nie mogła w chwili zawarcia Umowy przewidzieć, ani mu zapobiec;
+wystąpienia zmian organizacyjnych dotyczących Zamawiającego lub jego zadań, których nie można było przewidzieć przed datą zawarcia Umowy, mających wpływ na przedmiot Umowy lub na warunki jego realizacji;
+zaistnienia konieczności zastosowania odmiennych rozwiązań technicznych lub technologicznych niż pierwotnie przewidywane, w sytuacji gdy ich niezastosowanie grozi brakiem bezpieczeństwa informatycznego lub brakiem sprawnego funkcjonowania zasobów informatycznych WSJO lub wynika to z przyczyn leżących po stronie podmiotów trzecich;
+pojawienia się na rynku nowszych technologii, w tym oprogramowania, o parametrach nie gorszych niż określono w Załączniku nr 2;
+w przypadku wycofania z rynku określonego w Umowie oprogramowania;
+Istotne zmiany postanowień niniejszej Umowy, w związku z wystąpieniem okoliczności, o których mowa w ust.1, mogą dotyczyć:
+dostosowania terminu realizacji sposobu realizacji lub przedmiotu zamówienia do okoliczności spowodowanych przez siłę wyższą;
+dostosowania do zmian przepisów prawa;
+dostosowania do zmian organizacyjnych Zamawiającego;
+wprowadzenia odmiennych rozwiązań technicznych lub technologicznych niż pierwotnie przewidywane, zasadnych dla zapewnienia bezpieczeństwa informatycznego lub sprawnego funkcjonowania zasobów informatycznych WSJO;
+wprowadzenia nowszych technologii wykonania przedmiotu Umowy, o parametrach i właściwościach nie gorszych niż określono w Załączniku nr 2;
+zamiany oprogramowania na oprogramowanie o parametrach i właściwościach nie gorszych niż określono w Załączniku nr 2;
+usunięcia rozbieżności lub niejasności w Umowie, których nie można usunąć w inny sposób;
+Wprowadzenie zmiany, o których mowa w ust.1 i 2 wymaga uprzedniego złożenia przez Wykonawcę lub Zamawiającego wniosku do drugiej Strony z uzasadnieniem potrzeby dokonania zmiany. W przypadku jego akceptacji przez drugą Stronę, Strony dokonają zawarcia stosownego aneksu.
+§ 15
+W sprawach nieuregulowanych niniejszą umową mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 roku Kodeks Cywilny, ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych oraz Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE.
+Spory mogące wyniknąć przy realizacji niniejszej umowy będą rozstrzygane przez Sąd właściwy dla siedziby Zamawiającego.
+Wszelkie zmiany i uzupełnienia niniejszej umowy wymagają formy pisemnej w postaci aneksu do umowy pod rygorem nieważności.
+Umowę sporządzono w dwóch jednobrzmiących egzemplarzach, jeden egzemplarz dla Wykonawcy, oraz jeden dla Zamawiającego.
+Integralną część umowy stanowią następujące załączniki:
+Załącznik nr 1 - Protokół odbioru
+Załącznik nr 2 - Opis przedmiotu zamówienia
+Załącznik nr 3 - Zasady dotyczące przetwarzania danych osobowych
+Załącznik nr 4 - Oświadczenie o poufności
+Załącznik nr 5 - Lista pracowników upoważnionych przez Wykonawcę do realizacji Umowy
+Załącznik nr 6 - Oświadczenie o akceptacji faktur wystawianych i przesyłanych w formie elektronicznej
+Załącznik nr 7 - Wykaz Jednostek (WSJO) wraz z lokalizacją siedziby
+Załącznik nr 8 - Wzór harmonogramu realizacji przedmiotu zamówienia
+Załącznik nr 9 - Wzór wykazu urządzeń oraz oprogramowania dostarczonych do WSJO i wykonania prac wdrożeniowo-integracyjnych dostarczonego sprzętu z infrastrukturą WSJO
+Załącznik nr 10 - Oświadczenie- gwarancja
+Załącznik nr 11 - Klauzula informacyjna z art. 13 RODO
+Załącznik nr 12 - Klauzula informacyjna z art. 14 RODO.
+Załącznik nr 13 – Wykaz sprzętu
+Załącznik nr 14 – Formularz oferty
+ZAMAWIAJĄCY	WYKONAWCA
+Załącznik nr 1 do umowy nr ................... z dnia ..............
+Protokół odbioru
+Spisany w dniu ............................................w Krakowie, w siedzibie Urzędu Marszałkowskiego przy ul. Racławickiej 56.
+Przedstawiciel Zamawiającego:
+Przedstawiciel Wykonawcy:
+Przedmiotem odbioru jest ……………………………………………….
+Przedmiot odbioru został zrealizowany w wyniku zamówienia zakończonego podpisaniem umowy nr ........................................... z dnia .......................................
+Przedstawiciel Zamawiającego stwierdza co następuje:
+Przedmiot umowy został / nie został * dostarczony w terminie.
+Przedmiot umowy posiada / nie posiada * wad technicznych.
+Na tym protokół zakończono i podpisano
+Podpisy:
+Zamawiający		Wykonawca
+* - niepotrzebne skreślić
+Załącznik nr 3 do umowy nr ..................... z dnia ................
+Zasady dotyczące przetwarzania danych osobowych
+Definicje:
+a) ustawa – oznacza ustawę z dnia 10 maja 2018 r. o ochronie danych osobowych (t. j. Dz. U. z 2019 r., poz. 1781),
+b) RODO – oznacza Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych),
+c) dane osobowe – oznaczają informacje o zidentyfikowanej lub możliwej do zidentyfikowania osobie fizycznej („osobie, której dane dotyczą”), powierzone do dalszego przetwarzania w związku z realizacją umowy, której przedmiot określony został w § 1 umowy,
+d) możliwa do zidentyfikowania osoba fizyczna – oznacza osobę, którą można bezpośrednio lub pośrednio zidentyfikować, w szczególności na podstawie identyfikatora takiego jak imię i nazwisko, numer identyfikacyjny, dane o lokalizacji, identyfikator internetowy lub jeden bądź kilka szczególnych czynników określających fizyczną, fizjologiczną, genetyczną, psychiczną, ekonomiczną, kulturową lub społeczną tożsamość osoby fizycznej,
+e) administrator – oznacza osobę fizyczną lub prawną, organ publiczny, jednostkę lub inny podmiot, który samodzielnie lub wspólnie z innymi ustala cele i sposoby przetwarzania danych osobowych,
+f) podmiot przetwarzający – oznacza osobę fizyczną lub prawną, organ publiczny, jednostkę lub inny podmiot, który przetwarza dane osobowe w imieniu administratora,
+g) podprocesor – oznacza osobę fizyczną lub prawną, organ publiczny, jednostkę lub inny podmiot, któremu podpowierzono dane przez podmiot przetwarzający w imieniu administratora,
+h) przetwarzanie – oznacza operację lub zestaw operacji wykonywanych na danych osobowych lub zestawach danych osobowych w sposób zautomatyzowany lub niezautomatyzowany, taką jak zbieranie, utrwalanie, organizowanie, porządkowanie, przechowywanie, adaptowanie lub modyfikowanie, pobieranie, przeglądanie, wykorzystywanie, ujawnianie poprzez przesłanie, rozpowszechnianie lub innego rodzaju udostępnianie, dopasowywanie lub łączenie, ograniczanie, usuwanie lub niszczenie; w zakresie niezbędnym do realizacji umowy,
+i) naruszenie ochrony danych osobowych – oznacza naruszenie bezpieczeństwa prowadzące do przypadkowego lub niezgodnego z prawem zniszczenia, utracenia, zmodyfikowania, nieuprawnionego ujawnienia lub nieuprawnionego dostępu do danych osobowych przesyłanych, przechowywanych lub w inny sposób przetwarzanych.
+Administrator powierza, a Podmiot przetwarzający podejmuje się przetwarzania danych osobowych znajdujących się w aplikacjach oraz systemach wykorzystywanych przez Administratora, do których dostęp Podmiot przetwarzający uzyska w związku z realizacją Umowy.
+Podmiot przetwarzający niniejszym oświadcza, iż:
+są mu znane wszelkie obowiązki nałożone przez przepisy ustawy o ochronie danych osobowych oraz RODO, na podmiot przetwarzający dane osobowe powierzone mu do przetwarzania przez Administratora, a w szczególności treść art. 28 RODO,
+dysponuje odpowiednimi środkami oraz stosuje je, w tym należytymi zabezpieczeniami umożliwiającymi przetwarzanie danych osobowych zgodnie z przepisami ustawy o ochronie danych osobowych oraz RODO,
+przygotował i wdrożył stosowne polityki ochrony danych osobowych wymagane od podmiotu, któremu powierzono przetwarzanie danych osobowych, zgodnie z postanowieniami ustawy o ochronie danych osobowych oraz RODO,
+zapewnia gwarancję wdrożenia i stosowania odpowiednich środków technicznych
+i organizacyjnych, aby przetwarzanie spełniało wymogi RODO i chroniło prawa osób, których przetwarzane na podstawie niniejszej Umowy dane dotyczą.
+Strony postanawiają, że realizacja niniejszego powierzenia odbywać się będzie w ramach wynagrodzenia należnego Podmiotowi przetwarzającemu z tytułu wykonania Umowy, a Podmiot przetwarzający nie będzie uprawniony do żądania od Administratora dodatkowego wynagrodzenia z tego tytułu.
+Podmiot przetwarzający jest podmiotem przetwarzającym dane na zlecenie w rozumieniu art. 28 RODO.
+Podmiot przetwarzający nie decyduje o celach i środkach przetwarzania powierzonych danych osobowych.
+Celem przetwarzania danych osobowych jest realizacja niniejszej Umowy.
+Podmiot przetwarzający może przetwarzać dane osobowe wyłącznie w celu związanym z realizacją niniejszej Umowy, a  rodzaj danych osobowych oraz kategoria osób, których dane są przetwarzane, są również niezbędne do realizacji niniejszej umowy.
+Rodzaj danych osobowych powierzonych do przetwarzania Podmiotowi przetwarzającemu:
+Wszystkie informacje znajdujących się w systemie Active Directory.
+Wszystkie informacje znajdujące się na urządzeniach sieciowych typu firewall,  oraz serwerach zarządzających i zbierających logi
+Kategoria osób, których dane dotyczą tj. pracownicy UMWM oraz osoby fizyczne będące kontrahentami Zamawiającego
+Rodzaj danych osobowych oraz kategorie osób, których dane dotyczą, wskazane w ust.7, mogą ulec zmianie w przypadku kiedy będzie to konieczne dla realizacji niniejszej Umowy. Administrator będzie przekazywał informację dotyczące zmiany zakresu danych osobowych Podmiotowi przetwarzającemu w formie pisemnej, pod rygorem nieważności.
+Podmiot przetwarzający przetwarzał będzie dane osobowe wyłącznie na terytorium Rzeczypospolitej Polskiej, w siedzibie Administratora, oraz fakultatywnie we wskazanych przez Podmiot przetwarzający lokalizacjach.
+Podmiot przetwarzający oświadcza Administratorowi, że będzie dokonywał przetwarzania danych osobowych w lokalizacjach: ………………………………………………………. oraz oświadcza, że każdorazowo niezwłocznie będzie informował Administratora o zmianie lokalizacji przetwarzania danych.
+Podmiot przetwarzający nie może powierzyć do dalszego przetwarzania danych osobowych w imieniu i na rzecz Administratora innym podmiotom.
+Przy przetwarzaniu danych osobowych Podmiot przetwarzający przestrzega zasad wskazanych w niniejszej Umowie, w ustawie o ochronie danych osobowych oraz w RODO.
+Podmiot przetwarzający oświadcza, że dysponuje środkami umożliwiającymi prawidłowe przetwarzanie danych osobowych oraz spełnia wymagania określone w przepisach ustawy o ochronie danych osobowych oraz RODO, a także zapewni przed rozpoczęciem przetwarzania danych osobowych środki zabezpieczające powierzone dane w adekwatnym stopniu bezpieczeństwa, odpowiadającym ryzyku związanemu z przetwarzaniem danych osobowych, o których mowa w art. 32 RODO. Podmiot przetwarzający będzie w szczególności:
+prowadzić stosowne polityki ochrony danych osobowych wymagane zgodnie z postanowieniami ustawy o ochronie danych osobowych oraz RODO,
+zabezpieczać powierzone dane przed dostępem osób nieupoważnionych, w tym w szczególności przed kradzieżą, uszkodzeniem i zaginięciem,
+dopuszczać do przetwarzania danych wyłącznie osoby posiadające upoważnienie do przetwarzania danych osobowych,
+przechowywać dokumenty w specjalnie do tego przeznaczonych szafach zamykanych na zamek lub w zamykanych na zamek pomieszczeniach, niedostępnych dla osób nieupoważnionych do przetwarzania danych osobowych,
+zapewniać kontrolę nad tym, jakie dane osobowe, kiedy i przez kogo zostały wprowadzone do systemu przetwarzania danych oraz komu są przekazywane.
+W przypadku, gdyby w toku realizacji niniejszej Umowy, doszło do zmian wymagań prawnych związanych z przetwarzaniem danych osobowych w szczególności wymagań dotyczących zabezpieczenia danych osobowych, Podmiot przetwarzający zobowiązany jest własnym kosztem i staraniem do zapewnienia przetwarzania danych osobowych, w tym ich zabezpieczenia w sposób zgodny z przepisami prawa polskiego.
+Do przetwarzania danych osobowych mogą być dopuszczeni jedynie pracownicy Podmiotu przetwarzającego posiadający imienne upoważnienie do przetwarzania danych osobowych. Upoważnienie wygasa z chwilą ustania zatrudnienia upoważnionego pracownika bądź odwołania upoważnienia.
+Administrator umocowuje Podmiot przetwarzający do wydawania i odwoływania pracownikom Podmiotu przetwarzającego imiennych upoważnień do przetwarzania danych osobowych związanych z realizacją niniejszej umowy. Upoważnienia przechowuje Podmiot przetwarzający w swojej siedzibie.
+Podmiot przetwarzający prowadzi rejestr wszystkich kategorii czynności przetwarzania dokonywanych w imieniu Administratora zgodnie z wymaganiami art. 30 ust 2 RODO i pisemnie poinformuje o tym Administratora.
+Podmiot przetwarzający zobowiązuje się dołożyć należytej staranności przy przetwarzaniu powierzonych danych osobowych.
+Podmiot przetwarzający oświadcza, że osoby skierowane przez niego do realizacji niniejszej Umowy zostaną zobowiązane, na mocy niniejszej Umowy, do dbałości o bezpieczeństwo informacji przetwarzanych w trakcie wykonywania czynności wynikających z niniejszej Umowy.
+Podmiot przetwarzający zobowiązuje się do szczególnej ochrony przekazanych mu do przetwarzania przez Administratora danych oraz do nie przekazywania ich osobom niezaangażowanym w realizację niniejszej Umowy.
+Podmiot przetwarzający udostępnia Administratorowi wszelkie informacje niezbędne do wykazania spełnienia obowiązków określonych w art. 28 RODO.
+W szczególności Podmiot przetwarzający, uwzględniając charakter przetwarzania oraz dostępne informacje zapewni pomoc Administratorowi w wywiązaniu się z obowiązków określonych w RODO, w tym pomoże Administratorowi wywiązać się z obowiązku odpowiadania na żądanie osoby, której dane dotyczą, w zakresie wykonywania jej praw oraz obowiązków określonych w art. 32-36 RODO.
+Podmiot przetwarzający zobowiązuje się do bezwzględnego zachowania w poufności wszelkich informacji oraz danych osobowych, jak również sposobu ich zabezpieczania, powierzonych mu w trakcie obowiązywania niniejszej Umowy lub uzyskanych w związku z wykonywaniem czynności objętych niniejszą Umową, także po wygaśnięciu niniejszej Umowy. Obowiązek ten nie dotyczy informacji, co do których Administrator ma nałożony ustawowy obowiązek publikacji, które stanowią informacje publiczną lub które zostały opublikowane przez Administratora.
+Podmiot przetwarzający podejmie wszelkie kroki służące zachowaniu wszelkich informacji oraz danych osobowych w poufności przez swoich pracowników mających dostęp do tych danych, a także co do sposobu ich zabezpieczania, zarówno w trakcie obowiązywania niniejszej Umowy, jak również po jej wygaśnięciu.
+Podmiot przetwarzający oświadcza, że pracownicy skierowani przez niego do wykonania niniejszej Umowy zobowiązani są do podpisania i przekazania Administratorowi oświadczenia o poufności, którego treść znajduje się w Załączniku nr 4 do niniejszej Umowy.
+W przypadku skierowania przez Podmiot przetwarzający dodatkowych pracowników do wykonania niniejszej Umowy, Podmiot przetwarzający przekaże niezwłocznie Administratorowi podpisane przez nich oświadczenia o poufności zgodnie z ust. 24.
+Podmiot przetwarzający zobowiązany jest do sporządzenia i przekazania Administratorowi listy pracowników, skierowanych przez niego do wykonania niniejszej Umowy, w formie Załącznika nr 5 do niniejszej Umowy. W przypadku zmiany pracowników Podmiotu przetwarzającego skierowanych do wykonania niniejszej Umowy Podmiot przetwarzający zobowiązany jest do zaktualizowania listy pracowników oraz przekazania jej niezwłocznie do Administratora.
+Administrator uprawniony jest do żądania od Podmiotu przetwarzającego wyjaśnień dotyczących:
+stosowanych przez Podmiot przetwarzający środków technicznych i organizacyjnych zapewniających ochronę przetwarzanych danych osobowych odpowiednią do zagrożeń oraz kategorii danych objętych ochroną, w tym stosowanych środków sprzętowych i programowych,
+przetwarzania powierzonych danych osobowych.
+Podmiot przetwarzający jest zobowiązany do przekazania Administratorowi każdorazowo na żądanie Administratora w terminie 7 dni od daty otrzymania takiego żądania informacji, o których mowa w ust. 27. W szczególności Podmiot przetwarzający zobowiązany jest do umożliwienia zapoznania się Administratora z politykami ochrony danych osobowych wymaganymi zgodnie z RODO.
+Podmiot przetwarzający zobowiązuje się do udzielania Administratorowi na każde żądanie informacji na temat przetwarzania wszystkich powierzonych przez Administratora przez Podmiot przetwarzający oraz podmioty, o których mowa w ust. 15, a w szczególności do niezwłocznego przekazywania informacji o każdym przypadku naruszenia przez niego i jego pracowników obowiązków dotyczących ochrony danych osobowych.
+Podmiot przetwarzający zobowiązuje się do niezwłocznego informowania Administratora o wszelkich przypadkach naruszenia bezpieczeństwa oraz tajemnicy danych osobowych lub ich niewłaściwym użyciu, a także o wszelkich czynnościach związanych z niniejszą Umową, prowadzonych przez Prezesa Urzędu Ochrony Danych Osobowych, urzędy publiczne, policję lub sądy.
+Podmiot przetwarzający po stwierdzeniu naruszenia ochrony danych osobowych bez zbędnej zwłoki zgłasza je Administratorowi w ciągu 24 godzin.
+W przypadku wystąpienia okoliczności, o których mowa w ust. 30 i 31 Podmiot przetwarzający jest zobowiązany do podjęcia środków zabezpieczających dane osobowe.
+Podmiot przetwarzający zobowiązuje się do (zgodnie z art. 28 ust. 3 pkt h) RODO):
+umożliwienia Administratorowi dokonania audytu w miejscach, w których są przetwarzane powierzone dane osobowe, w zakresie stosowania niniejszej Umowy, w terminie ustalonym przez Strony nie później jednak niż 5 dni kalendarzowych od dnia powiadomienia Podmiotu przetwarzającego przez Administratora o zamiarze przeprowadzenia audytu, w celu sprawdzenia prawidłowości przetwarzania oraz zabezpieczania danych osobowych,
+w przypadku powzięcia przez Administratora wiadomości o naruszeniu przez Podmiot przetwarzający zobowiązań wynikających z ustawy o ochronie danych osobowych, RODO lub niniejszej Umowie, Podmiot przetwarzający umożliwi Administratorowi dokonanie niezapowiedzianego audytu,
+zastosowania się do zaleceń poaudytowych Administratora, dotyczących poprawy jakości zabezpieczania danych osobowych oraz sposobu ich przetwarzania.
+Podmiot przetwarzający w przypadku rozwiązania umowy, odstąpienia od umowy lub zakończenia realizacji niniejszej umowy trwale zniszczy wszystkie powierzone mu do przetwarzania dane osobowe na podstawie Umowy i ich kopie chyba, że inne przepisy prawa powszechnie obowiązującego zabraniają zniszczenia wszystkich albo części danych osobowych powierzonych do przetwarzania. W takim przypadku Podmiot przetwarzający zobowiązuje się zapewnić poufność powierzonych danych i nie przetwarzać ich dłużej w sposób aktywny.
+Podmiot przetwarzający przedstawi Administratorowi Oświadczenie potwierdzające zniszczenie danych, o których mowa w ust. 34 w terminie 5 dni od rozwiązania czy odstąpienia od umowy lub zakończenia realizacji niniejszej Umowy.
+Na każde wezwanie Administratora, niezależnie od zastosowania ust. 35, Podmiot przetwarzający zobowiązuje się zniszczyć wskazaną cześć przekazanych danych w terminie 5 dni od dnia wezwania oraz przedstawić Oświadczenie potwierdzające ich zniszczenie.
+Podmiot przetwarzający ponosi odpowiedzialność za działania swoich pracowników i innych osób, przy pomocy których przetwarza powierzone dane osobowe, jak za własne działanie i zaniechanie.
+Podmiot przetwarzający jest odpowiedzialny za udostępnienie lub wykorzystanie danych osobowych niezgodnie z treścią Umowy, a w szczególności za udostępnienie powierzonych do przetwarzania danych osobowych osobom nieupoważnionym.
+Podmiot przetwarzający zobowiązuje się do niezwłocznego poinformowania Administratora danych o jakimkolwiek postępowaniu, w szczególności administracyjnym lub sądowym, dotyczącym przetwarzania przez Podmiot przetwarzający danych osobowych związanych z realizacją niniejszej Umowy, o jakiejkolwiek decyzji administracyjnej lub orzeczeniu dotyczącym przetwarzania tych danych, skierowanych do Podmiotu przetwarzającego, a także o wszelkich planowanych lub realizowanych kontrolach i inspekcjach dotyczących przetwarzania w Podmiocie przetwarzającym tych danych osobowych, w szczególności prowadzonych przez inspektorów upoważnionych przez Prezesa Urzędu Ochrony Danych Osobowych.
+Załącznik nr 4 do umowy nr ................ z dnia ..............
+OŚWIADCZENIE O POUFNOŚCI
+Ja, niżej podpisany
+(imię i nazwisko)
+Pracownik ................................................... ..................................................................
+(nazwa Wykonawcy)
+Zobowiązuję się do bezwzględnego zachowania w tajemnicy wszelkich informacji, danych,
+a w szczególności danych osobowych oraz sposobów ich zabezpieczenia, w których posiadanie wejdę w czasie prac realizowanych dla Zamawiającego w ramach realizacji umowy, której przedmiotem jest ………………….. z dnia ………….. o numerze ……….. zarówno w trakcie jej obowiązywania jak i po zakończeniu.
+Kraków, dnia ............................. rok .........
+(podpis)
+Załącznik nr  5 do umowy nr ............  z dnia ...............
+Lista pracowników upoważnionych przez Wykonawcę do realizacji Umowy
+Zamawiający dopuszcza zmiany osób na zasadach określonych jak w postępowaniu przetargowym.
+Załącznik nr 6 do umowy nr ..................  z dnia .................
+OŚWIADCZENIE O AKCEPTACJI FAKTUR WYSTAWIANYCH I PRZESYŁANYCH W FORMIE ELEKTRONICZNEJ
+Dane Dostawcy:
+Nazwa:
+Adres:
+NIP:
+Dane Nabywcy:
+Nazwa:
+Adres:
+NIP:
+Dane Odbiorcy:
+Numer umowy:
+Oświadczenie Nabywcy
+Nabywca w transakcjach przedstawionych w ramach rozliczenia umowy akceptuje wystawianie i przesyłanie przez Dostawcę faktur w formie elektronicznej, na podstawie przepisów ustawy z dnia 11 marca 2004 r o podatku od towarów i usług (t.j. Dz.U. z 2024 r. nr 361 z późn.zm) zwana dalej ustawą o VAT.
+Oświadczenie Dostawcy
+Dostawca w transakcjach przedstawionych w ramach rozliczenia umowy zobowiązuje się do przesyłania faktur w formie elektronicznej od dnia ……………...na następujący adres e-mail: efaktury@umwm.malopolska.pl lub za pośrednictwem platformy E-Puap Urzędu Marszałkowskiego Województwa Małopolskiego na adres skrzynki nr: /947ts6aydy/SkrytkaESP  (niepotrzebne skreślić)
+Dostawca oświadcza, że adresem właściwym z którego będą przesyłane faktury w formie elektronicznej jest adres e-mail: ………………………………………………….
+W przypadku zmiany danych zawartych w tym dokumencie zarówno Nabywca jak i Dostawca są zobowiązani do niezwłocznego przekazania aktualnych danych.
+W przypadku gdy przeszkody techniczne lub formalne uniemożliwiają przesyłanie faktur w formie elektronicznej możliwe jest przesłanie faktury innej formie, w tym w formie papierowej, pod warunkiem poinformowania o tym Nabywcy.
+Wycofanie akceptacji przysyłania faktur w formie elektronicznej może nastąpić w drodze pisemnej lub elektronicznej.
+Nabywca i Dostawca zapoznali się z zasadami przyjmowania faktur w formie elektronicznej przez Urząd Marszałkowski Województwa Małopolskiego, które stanowią Załącznik nr 1 do niniejszego oświadczenia i je akceptują.
+Podpis Nabywcy							Podpis Dostawcy
+Załącznik nr 1 do Oświadczenia
+Zasady przyjmowania faktur w formie elektronicznej przez Urząd Marszałkowski Województwa Małopolskiego
+Niniejsze zasady zostały przygotowane w celu ujednolicenia przyjmowania faktur w formie elektronicznej przez Urząd Marszałkowski Województwa Małopolskiego.
+Podstawą prawną wystawiania i przesyłania faktur w formie elektronicznej jest ustawa z dnia 11 marca 2004 r o podatku od towarów i usług (t.j. Dz.U. z 2024 r. nr 361 z późn. zm.)
+Faktura w formie elektronicznej powinna zostać wystawiona i przesłana w nieedytowalnym formacie elektronicznym np. PDF.
+Faktura w formie elektronicznej powinna zawierać te same elementy co faktura w formie papierowej.
+Faktura w formie elektronicznej tak samo jak faktura papierowa nie wymaga podpisu Dostawcy.
+Faktura w formie elektronicznej, zgodnie z art. 106m i 106n ustawy o VAT może być przesyłana drogą elektroniczną pod warunkiem:
+uprzedniej akceptacji tego sposobu przesyłania faktur przez Nabywcę;
+zapewnienia autentyczności pochodzenia, tj. pewność co do tożsamości dokonującego dostawy towarów lub usługodawcy albo wystawcy faktury;
+zapewnienia integralności treści faktury, tj. uniemożliwienie dokonania zmian danych, które powinna zawierać faktura;
+zapewnienia jej czytelności;
+odpowiedniego ich przechowywania.
+Autentyczność pochodzenia i integralność treści faktury w formie elektronicznej może zostać zapewniona m.in. w przypadku podpisania faktury kwalifikowanym podpisem elektronicznym.
+Autentyczność pochodzenia, integralność treści oraz czytelność faktury można zapewnić za pomocą dowolnych kontroli biznesowych, które ustalają wiarygodną ścieżkę audytu między fakturą a dostawą towarów lub świadczeniem usług.
+Nabywca oświadcza, że adresem właściwym do przesyłania faktur w formie elektronicznej jest adres e-mail: efaktury@umwm.malopolska.pl  lub adres skrytki na platformie E-Puap Urzędu Marszałkowskiego Województwa Małopolskiego nr: /947ts6aydy/SkrytkaESP
+Dostarczanie faktur drogą elektroniczną do Urzędu Marszałkowskiego Województwa Małopolskiego, następuje po otrzymaniu przez Nabywcę oświadczenia o akceptacji faktur wystawianych i przesyłanych w formie elektronicznej.
+Oświadczenie o akceptacji faktur wystawianych i przesyłanych w formie elektronicznej może być złożone równocześnie z zawartą umową jako załącznik lub w trakcie trwania umowy, nie później niż przed złożeniem pierwszej faktury w ramach realizowanych płatności na adres korespondencyjny wskazany w umowie lub w wersji elektronicznej na adres e-mail: efaktury@umwm.malopolska.pl lub za pośrednictwem platformy E-Puap Urzędu Marszałkowskiego Województwa Małopolskiego na adres skrzynki nr: /947ts6aydy/SkrytkaESP
+Wskazaną formę składania faktur kontrahent winien stosować konsekwentnie w czasie realizacji umowy niezależnie od liczby wystawianych faktur i dokonanych płatności.
+W nazwie przesyłanego pliku należy wskazać numer umowy zarejestrowanej w GRUiZ wyłączając znaki specjalne.
+Na powyższe adresy należy także przesyłać informacje o zmianie adresu e-mail, na który będą przesyłane faktury w formie elektronicznej, bądź wycofanie akceptacji na przesyłanie faktur w formie elektronicznej.
+Data wpływu faktury w formie elektronicznej do Urzędu Marszałkowskiego Województwa Małopolskiego jest zgodna z datą wpływu dokumentu na adres e-mail: efaktury@umwm.malopolska.pl  lub adres skrytki na platformie E-Puap Urzędu Marszałkowskiego Województwa Małopolskiego nr: /947ts6aydy/SkrytkaESP
+Dostawca traci prawo do przesyłania wystawionych faktur w formie elektronicznej od dnia następującego po doręczeniu oświadczenia o wycofaniu akceptacji na wystawianie i przesyłanie faktur w formie elektronicznej. Od tego momentu wystawione faktury powinny być wysyłane pocztą w formie papierowej lub w postaci ustrukturyzowanej faktury elektronicznej za pośrednictwem Platformy Elektronicznego Fakturowania (PEF).
+W przypadku braku powiadomienia o zmianie adresu e-mail, wszelka korespondencja kierowana na dotychczas obowiązujący e-mail jest uważana za prawidłowo dostarczoną i wywołuje wszelkie skutki prawne.
+Po podpisaniu oświadczenia faktury otrzymane przez Urząd Marszałkowski Województwa Małopolskiego w formie papierowej będą odsyłane za wyjątkiem faktur, co do których poinformowano Nabywcę o wystąpieniu przeszkód technicznych lub formalnych.
+Potwierdzeniem z otrzymania korekty do faktury wystawionej przez Dostawcę w formie elektronicznej, będzie potwierdzenie otrzymania wiadomości elektronicznej za pomocą komunikatu wysłanego z adresu e-mail, na który przesłano korektę do faktury.
+Załącznik nr 7 do umowy nr ........... z dnia ............
+Wykaz Jednostek (WSJO) wraz z lokalizacją siedziby:
+Załącznik nr 8 do umowy nr .................... z dnia .....................
+Wzór harmonogramu realizacji przedmiotu zamówienia
+Nazwa WSJO: ………………………………………………………………..
+Adres jednostki: ………………………………………………………………..
+Wykonawca ustali z Zamawiającym, a następnie wyśle harmonogram do Zamawiające zgodnie z kanałami zgłoszeń zgodnie z §4 ust. 3.
+Zamawiający po otrzymaniu harmonogramu poinformuję Wykonawcę o akceptacji harmonogramu zgodnie z kanałami zgłoszeń zgodnie z §4 ust. 3.
+Zmiany w harmonogramie mogą nastąpić wyłącznie za zgodą Zamawiającego. Zmiany w harmonogramie nie wymagają zmiany umowy.
+Załącznik nr 9 do umowy nr ................ z dnia ........
+Wzór wykazu urządzeń oraz oprogramowania dostarczonych do WSJO i wykonania prac wdrożeniowo-integracyjnych dostarczonego sprzętu z infrastrukturą WSJO
+Nazwa WSJO: ………………………………………………………………..
+Adres jednostki: ………………………………………………………………..
+Wykaz urządzeń oraz oprogramowania dostarczonych do WSJO:
+Wykonanie prac wdrożeniowo-integracyjnych dostarczonego sprzętu z pkt. 1 z infrastrukturą WSJO:
+Potwierdzam wykonanie prac wdrożeniowo-integracyjnych dostarczonego sprzętu z pkt. 1 z infrastrukturą WSJO.
+Przedstawiciel Wykonawcy 	…………………..:……	……………………
+(imię i nazwisko)		(podpis)
+Przedstawiciel WSJO 		…………………..:……	……………………
+(imię i nazwisko)		(podpis)
+Przedstawiciel Zamawiającego …………………..:……		……………………
+(imię i nazwisko)		(podpis)
+Załącznik nr 10 do umowy nr .............  z dnia ...........
+Oświadczenie Wykonawcy potwierdzające, że na zaoferowane ………………..zostanie wykupiona gwarancja Producenta sprzętu.
+Oświadczamy, że na zaoferowane w naszej ofercie …………… zostanie wykupiona gwarancja Producenta sprzętu na okres ………. miesięcy.
+Okres gwarancji producenta/ów sprzętu liczony będzie od daty podpisania Protokołu Odbioru.
+Serwis gwarancyjny tego sprzętu będzie świadczony w tym okresie przez Wykonawcę lub Producenta lub Autoryzowanego Partnera Serwisowego Producenta*.
+Data i podpis Wykonawcy
+*niepotrzebne skreślić
+Załącznik nr 11 do umowy nr .............  z dnia ...........
+KLAUZULA INFORMACYJNA
+Zgodnie z art. 13 ust. 1−2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z 27.04.2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych)  zwanego dalej RODO – informuje się, że:
+I. Administrator danych osobowych
+Administratorem Pana danych osobowych jest Województwo Małopolskie oraz Zarząd Województwa Małopolskiego, z siedzibą w Krakowie, ul. Basztowa 22, 31-156 Kraków, adres do korespondencji ul. Racławicka 56, 30-017 Kraków.
+II. Inspektor Ochrony Danych
+Dane kontaktowe Inspektora Ochrony Danych – adres do korespondencji: Inspektor Ochrony Danych UMWM, Urząd Marszałkowski Województwa Małopolskiego, ul. Racławicka 56, 30-017 Kraków; email: iodo@umwm.malopolska.pl.
+III. Cele przetwarzania danych i  podstawy przetwarzania
+Administrator będzie przetwarzać Pana/Pani dane na podstawie art. 6 ust. 1 lit. b) RODO dla celów związanych z zawarciem i realizacją umowy nr ……….…….…… z dnia ………..……. , której przedmiotem jest dostawa infrastruktury teleinformatycznej do uruchomienia systemu EZD RP wraz z wdrożeniem w Jednostkach Organizacyjnych Województwa Małopolskiego, oraz na podstawie art. 6 ust. 1 lit. c) RODO dla celów związanych z obsługą finansowo – księgową.
+IV. Informacja o wymogu podania danych
+Podanie danych osobowych dla celów zawarcia umowy ma charakter dobrowolny, jednakże podanie ich jest konieczne do zawarcia umowy.
+V. Konsekwencje niepodania danych osobowych
+Konsekwencją niepodania danych osobowych będzie brak możliwości zawarcia i realizacji umowy.
+VI. Okres przechowywania danych
+Pani/Pana dane osobowe będą przechowywane do momentu zakończenia realizacji projektu i jego rozliczenia oraz do momentu zamknięcia i rozliczenia Regionalnego Programu Operacyjnego Województwa Małopolskiego 2014-2020 oraz zakończenia okresu trwałości dla projektu i okresu archiwizacyjnego w zależności od tego, która z tych dat nastąpi później.
+VII. Prawa osób, których dane dotyczą
+Posiada Pani/Pan prawo do korzystania z uprawnień uregulowanych w art. 15-21 RODO.
+VIII. Prawo wniesienia skargi do organu nadzorczego
+Ma Pan/Pani prawo wniesienia skargi do organu nadzorczego, którym w Polsce jest Prezes Urzędu Ochrony Danych Osobowych.
+IX. Odbiorcy danych
+Pani/Pana dane osobowe mogą zostać ujawnione innym podmiotom na podstawie przepisów prawa. Pani/Pana dane osobowe mogą zostać ujawnione podmiotom przetwarzającym, w związku z realizacją umów, w ramach których zostało im powierzone przetwarzanie danych osobowych (np. dostawcom usług IT).
+X.  Informacja dotycząca zautomatyzowanego przetwarzania danych osobowych, w tym profilowania
+Pana dane nie będą przetwarzane w sposób zautomatyzowany, w tym również profilowane.
+Załącznik nr 12 do umowy nr...................  z dnia .......
+KLAUZULA INFORMACYJNA
+Zgodnie z art. 14 ust. 1−2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z 27.04.2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych)  zwanego dalej RODO – informuje się, że:
+I. Administrator danych osobowych
+Administratorem Pani/Pana danych osobowych jest Województwo Małopolskie oraz Zarząd Województwa Małopolskiego z siedzibą w Krakowie, ul. Basztowa 22, 31-156 Kraków, adres do korespondencji ul. Racławicka 56, 30-017 Kraków.
+II. Inspektor Ochrony Danych
+Dane kontaktowe Inspektora Ochrony Danych – adres do korespondencji: Inspektor Ochrony Danych UMWM, Urząd Marszałkowski Województwa Małopolskiego, ul. Racławicka 56, 30-017 Kraków; email: iodo@umwm.malopolska.pl.
+III. Cele przetwarzania danych i  podstawy przetwarzania
+Administrator będzie przetwarzać Pani/Pana dane na podstawie art. 6 ust. 1 lit. f) RODO dla celów związanych z realizacją umowy nr……………… z dnia …….., której przedmiotem jest dostawa infrastruktury teleinformatycznej do uruchomienia systemu EZD RP wraz z wdrożeniem w Jednostkach Organizacyjnych Województwa Małopolskiego.
+IV. Kategorie danych osobowych
+Administrator będzie przetwarzać następujące kategorie Pani/Pana danych: ……………………….…………….……(np. imię i nazwisko, stanowisko, numer telefonu, adres e-mail, miejsce pracy …. )
+V. Okres przechowywania danych
+Pani/Pana dane osobowe będą przechowywane do momentu zakończenia realizacji projektu i jego rozliczenia oraz do momentu zamknięcia i rozliczenia Regionalnego Programu Operacyjnego Województwa Małopolskiego 2014-2020 oraz zakończenia okresu trwałości dla projektu i okresu archiwizacyjnego w zależności od tego, która z tych dat nastąpi później.
+VI. Prawa osób, których dane dotyczą
+Posiada Pani/Pan prawo do korzystania z uprawnień uregulowanych w art. 15-21 RODO.
+VII. Prawo wniesienia skargi do organu nadzorczego
+Ma Pani/Pan prawo wniesienia skargi do organu nadzorczego, którym w Polsce jest Prezes Urzędu Ochrony Danych Osobowych.
+VIII. Odbiorcy danych
+Pani/Pana dane osobowe mogą zostać ujawnione innym podmiotom na podstawie przepisów prawa. Pani/Pana dane osobowe mogą zostać ujawnione podmiotom przetwarzającym, w związku z realizacją umów, w ramach których zostało im powierzone przetwarzanie danych osobowych (np. dostawcom usług IT).
+IX. Źródło danych
+Pani/Pana dane osobowe pochodzą od Wykonawcy umowy, której przedmiotem jest dostawa sprzętu komputerowego.
+X.  Informacja dotycząca zautomatyzowanego przetwarzania danych osobowych, w tym profilowania
+Pani/Pana dane nie będą przetwarzane w sposób zautomatyzowany, w tym również profilowane

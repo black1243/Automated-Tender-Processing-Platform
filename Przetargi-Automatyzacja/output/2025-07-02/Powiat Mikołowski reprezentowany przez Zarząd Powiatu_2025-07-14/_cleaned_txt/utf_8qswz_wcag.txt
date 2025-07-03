@@ -1,0 +1,948 @@
+PR-2024 -3.042.8.2025
+SPECYFIKACJA WARUNKÓW ZAMÓWIENIA
+(SWZ)
+w postępowaniu o udzielenie zamówienia publicznego
+na zadanie pn.:
+„Sprzedaż i dostawa sprzętu komputerowego do ZST w Mikołowie, do ZSP w Ornontowicach oraz
+do ZSE iU w Łaziskach Górnych przewidzianych w ramach projektu pn.: „Zawodowy Mikołowski –
+Edukacja Zawodowa w procesie transformacji w Powiecie Mikołowskim” Projekt dofinansowany
+jest z Funduszu na rzecz Sprawiedliwej Transformacji w ramach Programu Fundusze Euro pejskie
+dla Śląskiego na lata 2021 –2027, Priorytet FESL.10.00 – Fundusze Europejskie  na transformację,
+Działanie: FESL.10.23 – Edukacja Zawodowa w procesie spr awiedliwej transformacji regionu. ”
+Rozdział I  INFORMACJE OGÓLNE
+1.  ZAMAWIAJĄCY
+Powiat Mikołowski reprezentowany przez Zarząd Powiatu Mikołowskiego
+z siedzibą przy:
+ul. Żwirki i Wigury 4a
+43-190 Mikołów
+Tel. 32 32 -48-100
+Adres poczty elektronicznej: kancelaria@mikolowski.pl ;
+Adres strony internetowej: mikołowski.pl; http://powiat_mikolow.bip.gov.pl
+Komórka organizacyjna prowadząca postępowanie: Wydział Inwestycji , Dróg  i Zamówień
+Publicznych , Wydział Rozwoju i Zdrowia
+Adres strony internetowej prowadzonego postępowania: https://e -zp.mikolowski.pl
+Adres strony internetowej, na której udostępniane będą zmiany i wyjaśnienia SWZ oraz inne
+dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia:
+https://e -zp.mikolowski.pl
+2. TRYB ZAMÓWIENIA
+2.1. Wartość zamówienia nie przekracza progów unijnych określonych na podstawie art. 3  ustawy z
+11 września 2019 r. – Prawo zamówień publicznych (tekst jednolity: Dz. U. z 202 4 poz. 1 320 z
+późn,zmianami ), dalej „ ustawa Pzp ”.
+2.2. Postępowanie prowadzone jest w trybie podstawowym , o którym mowa w art. 275 pkt 1 ustawy
+Pzp. Zamawiający udzieli niniejszego zamówienia w trybie podstawowym, w którym w odpowiedzi na
+ogłoszenie o zamówieniu oferty mogą składać wszyscy zainteresowani wyko nawcy, a następnie
+zamawiający wybierze najkorzystniejszą ofertę bez przeprowadzenia negocjacji .
+2.3. Do postepowania mają zastosowanie przepisy dotyczące zamówień na dostawy, zgodnie z
+definicją art.7 pkt 4 ustawy  Pzp.
+3. WYKONAWCA
+3.1. Pod pojęciem Wykonawcy należy rozumieć osobę fizyczną, osobę prawną albo jednostkę
+organizacyjną nieposiadającą osobowości prawnej, która oferuje na rynku wykonanie robót
+budowlanych lub obiektu budowlanego, dostawę produktów lub świadczenie usług lub ubie ga się o
+udzielenie zamówienia, złożyła ofertę lub zawarła umowę w sprawie zamówienia publicznego.
+3.2. Zamawiający nie zastrzega możliwości ubiegania się o udzielenie zamówienia wyłącznie przez
+Wykonawców, o których mowa w art. 94 ustawy Pzp, tj. mających status zakładu pracy chronionej,
+spółdzielnie socjalne oraz innych wykonawców, których głównym celem lub głównym celem
+działalności ich wyodrębnionych organizacyjnie jednostek, które będą realizowały zamówienie, jest
+społeczna i zawodowa integracja osób społecznie marginalizowanych.
+4. WYKONAWCY WSPÓLNIE UBIEGAJĄCY SIĘ O UDZIELENIE ZAMÓWIENIA PUBLICZNEGO
+4.1. Wykonawcy mogą wspólnie ubiegać się o udzielenie zamówienia publicznego. W takim przypadku
+Wykonawcy występujący wspólnie są zobowiązani do ustanowienia pełnomocnika
+do reprezentowania ich w postępowaniu albo do reprezentowania ich w postępowaniu i zawarcia
+umowy w sprawie przedmiotowego zamówienia publicznego. Wszelka korespondencja będzie
+prowadzona przez Zamawiającego wyłącznie z pełnomocnikiem.
+5. UDOSTĘPNIENIE ZASOBÓW
+W związku z brakiem określenia warunków udziału w postępowaniu regulacje dot. udostępnienia
+zasobów podmiotów trzecich stają się bezprzedmiotowe .
+6.  PODWYKONAWSTWO
+6.1. Wykonawca może powierzyć wykonanie części zamówienia podwykonawcy. Zamawiający nie
+zastrzega obowiązku osobistego wykonania przez Wykonawcę kluczowych zadań dotyczących
+zamówienia .
+6.2. Wykonawca jest zobowiązany wskazać w formularzu ofertowym części zamówienia których
+wykonanie zamierza powierzyć podwykonawcom i podać nazwy ewentualnych podwykonawców, o  ile
+są już znane.
+6.3 Jeżeli zmiana albo rezygnacja z podwykonawcy dotyczy podmiotu, na którego zasoby Wykonawca
+powoływał się, na zasadach określonych w art. 118 ust. 1 ustawy, w celu wykazania spełniania
+warunków udziału w postępowaniu, Wykonawca jest obowiązany wykazać Z amawiającemu, że
+proponowany inny podwykonawca lub Wykonawca samodzielnie spełnia je w stopniu nie mniejszym
+niż podwykonawca, na którego zasoby Wykonawca powoływał się w trakcie postępowania o
+udzielenie zamówienia.
+6.4 Powierzenie wykonania części zamówienia podwykonawcom nie zwalnia Wykonawcy
+z odpowiedzialności za należyte wykonanie tego zamówienia.
+7. PODZIAŁ ZAMÓWIENIA NA CZĘŚCI
+7.1. .  Zamawiający dokonuje podziału zamówienia na 2  zadania. Tym samym Zamawiający  dopuszcza
+możliwości składania ofert częściowych, o których mowa w art. 7 pkt 15 ustawy Pzp na jedną lub więcej
+wybranych zadań/części (także na wszystkie zadania/części). Przedmiot zamówienia został podzielony
+na następuj ące zadania:
+7.1.1 Zadanie 1: „Sprzedaż i dostawa sprzętu komputerowego do ZST w Mikołowie, do ZSP w
+Ornontowicach
+7.1.2 Zadanie 2: „Sprzedaż i dostawa sprzętu komputerowego do ZSEiU w Łaziskach Górnych.
+7.2 Każdy Wykonawca ma prawo złożyć tylko jedną ofertę. Za równoznaczne ze złożeniem więcej niż
+jednej oferty przez tego samego Wykonawcę zostanie uznana sytuacja, w której ten sam podmiot
+występuje w dwóch lub więcej ofertach składanych wspólnie lub jest samodzielnym Wykonawcą, a
+jednocześnie jest uczestnikiem wspólnej oferty.
+8. OFERTY WARIANTOWE
+8.1. Zamawiający nie dopuszcza możliwości złożenia oferty wariantowej, o której mowa w art. 92
+ustawy Pzp  tzn. oferty przewidującej odmienny sposób wykonania zamówienia niż określony w
+niniejszej SWZ.
+8.2. Zamawiający nie wymaga złożenia oferty wariantowej, o której mowa w art. 92 ustawy Pzp tzn.
+oferty przewidującej odmienny sposób wykonania zamówienia niż określony w niniejszej SWZ.
+9. KATALOGI ELEKTRONICZNE
+9.1. Zamawiający nie wymaga złożenia ofert w postaci katalogów elektronicznych.
+9.2. Zamawiający nie dopuszcza złożenia oferty w postaci katalogów elektronicznych.
+10. UMOWA RAMOWA
+10.1.  Zamawiający nie przewiduje zawarcia umowy ramowej, o  której mowa w art. 311 –315 ustawy
+Pzp.
+11. AUKCJA ELEKTRONICZNA
+11.1.  Zamawiający nie przewiduje przeprowadzenia aukcji elektronicznej, o  której mowa w art. 308
+ust. 1 ustawy Pzp.
+12. ZAMÓWIENIA, O KTÓRYCH MOWA W ART. 214 UST. 1 PKT 7 USTAWY PZP
+12.1.  Zamawiający nie  przewiduje udzielanie zamówienia na podstawie art. 214 ust. 1 pkt 7  ustawy
+13. ROZLICZENIA W WALUTACH OBCYCH
+13.1 Zamawiający nie przewiduje rozliczenia w walutach obcych.
+14. ZWROT KOSZTÓW UDZIAŁU W POSTĘPOWANIU
+14.1. Zamawiający nie przewiduje zwrotu kosztów udziału w postępowaniu.
+15. OPIS SPOSOBU UDZIELANIA WYJAŚNIEŃ DOTYCZĄCYCH SPECYFIKACJI WARUNKÓW
+ZAMÓWIENIA
+15.1 Wykonawca może zwrócić się do Zamawiającego z wnioskiem o wyjaśnienie treści SWZ.
+15.2 Zamawiający niezwłocznie udzieli wyjaśnień, jednakże nie później niż na 2 dni przed upływem
+terminu składania ofert, o ile wniosek o  wyjaśnienie SWZ wpłynie do Zamawiającego nie  później niż
+na 4 dni przed upływem terminu składania ofert.
+15.3 Wszelkie wyjaśnienia, modyfikacje treści SWZ oraz inne informacje związane z niniejszym
+postępowaniem, Zamawiający będzie zamieszczał na stronie internetowej prowadzonego
+postępowania pod adresem: https://e -zp.mikolowski.pl
+Rozdział II OPIS PRZEDMIOTU ZAMÓWIENIA I TERMIN WYKONANIA
+1. OPIS PRZEDMIOTU ZAMÓWIENIA
+1.1.Przedmiotem zamówienia jest: sprzedaż i dostawa sprzętu komputerowego do ZST w Mikołowie,
+do ZSP w Ornontowicach oraz do ZSEiU w Łaziskach Górnych przewidzianych w ramach projektu pn.:
+„Zawodowy Mikołowski – Edukacja Zawodowa w procesie transformacji w Powiecie Mikołowskim”
+Projekt dof inansowany jest z Funduszu na rzecz Sprawiedliwej Transformacji w ramach Programu
+Fundusze Europejskie dla Śląskiego na lata 2021 –2027, Priorytet FESL.10.00 – Fundusze Europejskie
+na transformację, Działanie: FESL.10.23 – Edukacja Zawodowa w procesie spra wiedliwej transformacji
+regionu.
+1.2  Przedmiot zamówienia został podzielony na 2 zadania:
+1.2.1 Zadanie 1:  „Sprzedaż i dostawa sprzętu komputerowego do ZST w Mikołowie, do ZSP w
+Ornontowicach .
+A. Zakres zamówienia  obejmuje dostawę , montaż i uruchomienie  następującego sprzętu:
+I.ZESPÓŁ SZKÓŁ TECHNICZNYCH W MIKOŁOWIE
+1.Drukarka 3D - 1 sztuka
+2.Prompter z pilotem na aparat fotograficzny - 1 sztuka
+3.Zestaw fotograficzny - 1 zestaw
+4.Drukarka 3D - 12 sztuk
+5.Suszarka do filamentu - 1 sztuka
+6.Skaner 3D - 1 sztuka
+7.Smartfon - 8 sztuk
+8. Tablet - 8 sztuk
+II.ZESPÓŁ SZKÓŁ PONADPODSTAWOWYCH W ORNONTOWICACH
+1. Laptop z oprogramowaniem i pakietem biurowym - 1 sztuka
+2. Tablety graficzne kreślarskie - 18 sztuk
+3. Program graficzny  - 1 sztuka
+4. Kalkulatory - 16 sztuk
+5. Monitor interaktywny z uchwytem 85’  - 1 sztuka
+6. Tablet  - 16 sztuk
+7. Monitor interaktywny z uchwytem 75’ - 2 sztuki
+8. Laptop z oprogramowaniem i pakietem biurowym - 2 sztuki
+9. Drukarka laserowa - 1 sztuka
+10. Zestaw komputerowy PC - 6 komplet ów
+Szczegółowy opis przedmiotu zamówienia w zadaniu 1 zawiera załącznik nr 3 do SWZ.
+B. Obowiązkiem Wykonawcy jest dostarczenie przedmiotu zamówienia, zgodnie z opisem wskazanym
+w załączniku nr 3 do SWZ (dla zadania  1 jego rozładunek, montaż i uruchomienie.
+C. Wykonawca odpowiedzialny jest za całokształt dostaw, w tym za przebieg oraz terminowe
+wykonanie przedmiotu zamówienia, za jakość, zgodność z warunkami technicznymi i jakościowymi
+określonymi  dla przedmiotu zamówienia. Wykonawca odpowiedzialny jest za speł nienie innych
+wymagań określonych we wzorze umowy oraz wynikających z obowiązujących przepisów prawa.
+D. Dostarczony sprzęt musi być  fabrycznie  nowy , nieużywany. Urządzenia  muszą być wyposażone w
+legalne nieużywane oprogramowanie umożliwiające realizację wszystkich założeń określonych w
+specyfikacji Licencjonowane wyłącznie na Zamawiającego. Zamawiający zastrzega sobie możliwość
+weryfikacji legalności oprogramowan ia oraz żądanych trybów serwisu.
+E. Wszystkie elementy urządzenia tzn elektronika, elementy mechaniczne, muszą być objęte pełną
+gwarancją na oferowany okres gwarancyjny.
+F. Dostęp do najnowszych wersji oprogramowania systemowego i biurowego producenta
+pozwalającego na bezawaryjnie działanie w aktualnych wersjach systemów komputerowych.
+G. Minimalny okres gwarancji na przedmiot zamówienia opisany w  zadaniu 1 wynosi 36 miesięcy
+od dnia podpisania protokołu odbioru. Okres rękojmi jest równy okresowi gwarancji.
+1.2.2 Zadanie 2: „Sprzedaż i dostawa sprzętu komputerowego do ZSEiU w Łaziskach Górnych.
+A. Zakres zamówienia obejmuje dostawę, montaż i uruchomienie następującego sprzętu:
+1. Telewizor interaktywny 85’ -2 sztuki
+2. Laptop  - 30 sztuk
+3. Szafa Rack 6U  - 6 sztuk
+4. Serwery  - 6 sztuk
+5. Router przewodowy - 6 sztuk
+6. Router bezprzewodowy - 6 sztuk
+7. 24-portowy przełącznik sieciowy (switch) - 6 sztuk
+Szczegółowy opis przedmiotu zamówienia w zadaniu 2 zawiera załącznik nr 3a do SWZ.
+B. Obowiązkiem Wykonawcy jest dostarczenie przedmiotu zamówienia, zgodnie z opisem wskazanym
+w załączniku nr 3 a do SWZ (dla zadania 2 jego rozładunek, montaż i uruchomienie.
+C. Wykonawca odpowiedzialny jest za całokształt dostaw, w tym za przebieg oraz terminowe
+wykonanie przedmiotu zamówienia, za jakość, zgodność z warunkami technicznymi i jakościowymi
+określonymi  dla przedmiotu zamówienia. Wykonawca odpowiedzialny jest za spe łnienie innych
+wymagań określonych we wzorze umowy oraz wynikających z obowiązujących przepisów prawa.
+D. Dostarczony sprzęt musi być fabrycznie  nowy, nieużywany. Urządzenia  muszą być wyposażone w
+legalne nieużywane oprogramowanie umożliwiające realizację wszystkich założeń określonych w
+specyfikacji Licencjonowane wyłącznie na Zamawiającego. Zamawiający za strzega sobie możliwość
+weryfikacji legalności oprogramowania oraz żądanych trybów serwisu.
+E. Wszystkie elementy urządzenia tzn elektronika, elementy mechaniczne, muszą być objęte pełną
+gwarancją na oferowany okres gwarancyjny.
+F. Dostęp do najnowszych wersji oprogramowania systemowego i biurowego producenta
+pozwalającego na bezawaryjnie działanie w aktualnych wersjach systemów komputerowych.
+G. Minimalny okres gwarancji na przedmiot zamówienia opisany w  zadaniu 2 wynosi 36 miesięcy
+od dnia podpisania protokołu odbioru. Okres rękojmi jest równy okresowi gwarancji.
+2. ROZWIĄZANIA RÓWNOWAŻNE
+2.1. Jeżeli Zamawiający w opisie przedmiotu zamówienia wskazał znaki towarowe, patenty lub
+pochodzenia, źródła lub szczególny proces, który charakteryzuje produkty lub usługi dostarczane przez
+konkretnego wykonawcę, dopuszcza się zaoferowanie rozwiązań równoważ nych opisanym, pod
+warunkiem zachowania przez nie takich samych minimalnych parametrów technicznych, jakościowych
+oraz funkcjonalnych itp.
+2.2. Wykonawca, który powołuje się na rozwiązania równoważne, jest zobowiązany wykazać, że
+oferowane przez niego rozwiązanie spełnia wymagania określone przez zamawiającego. W takim
+przypadku, wykonawca załącza do oferty wykaz rozwiązań równoważnych wraz z jego  opisem lub
+normami.
+2.3. W przypadku, gdy w opisie przedmiotu zamówienia znajdą się odniesienia do norm, ocen
+technicznych, specyfikacji technicznych i systemów referencji technicznych, o których mowa w art.
+101 ust. 1 pkt 2 oraz ust. 3 ustawy Pzp, Zamawiający dopuszcza rozwiązani a równoważne opisywanym.
+2.4  W przypadku gdy Wykonawca w złożonej ofercie nie powoła się na rozwiązania równoważne oraz
+nie wykaże, że oferowane przez niego materiały, technologie spełniają wymagania określone przez
+Zamawiającego oznacza, że wykonawca zastosuje materiały, technologie i rozwiązania podane w
+dokumentacji  technicznej  . Równoważność pod względem parametrów technicznych, użytkowych
+oraz eksploatacyjnych ma w szczególności zapewnić uzyskanie parametrów technicznych nie gorszych
+od założonych w niniejszej SWZ dokumenta cji oraz będą zgodne pod względem:
+a) gabarytów i konstrukcji (wielkość, rodzaj, właściwości fizyczne, liczba elementów składowych),
+b) charakteru użytkowego (tożsamość funkcji),
+c) charakterystyki materiałowej (rodzaj i jakość materiałów),
+d) parametrów technicznych (wytrzymałość, trwałość, dane techniczne, dane hydrauliczne,
+charakterystyki liniowe, konstrukcja),
+e) parametrów bezpieczeństwa użytkowania,
+f) standardów emisyjnych,.
+2.5 Wszystkie zaproponowane przez wykonawcę równoważne urządzenia, materiały, technologie i
+inne elementy równoważne muszą  posiadać stosowne dopuszczenia i atesty.
+3. TERMIN WYKONANIA ZAMÓWIENIA
+Termin realizacji zamówienia w zadaniu 1 i zadaniu 2  : 60 dni licząc od daty zawarcia umowy
+4. KOD WSPÓLNEGO SŁOWNIKA ZAMÓWIEŃ (CPV)
+30200000 -1  Urządzenia komputerowe
+30213000 -5  Komputery osobiste
+30213100 -6  Komputery przenośne
+30236000 -2: Różny sprzęt komputerowy
+30231300 -0: Monitory ekranowe
+48000000 -8  Pakiety oprogramowania i systemy informatyczne
+48620000 -0 Systemy operacyjne
+48624000 -8  Pakiety oprogramowania dla systemów operacyjnych komputerów osobistych
+30216110 -0 Skanery komputerowe
+5. WYMAGANIA W ZAKRESIE ZATRUDNIANIA PRZEZ WYKONAWCĘ LUB PODWYKONAWCĘ OSÓB NA
+PODSTAWIE STOSUNKU PRACY
+5.1. Zamawiający  nie wymaga zatrudnienia osób  przez Wykonawcę lub podwykonawcę na podstawie
+umowy o pracę, w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy (t. j. Dz.U. z
+2023 r., poz. 1465 z późn. zm.)
+6. INFORMACJA O PRZEDMIOTOWYCH ŚRODKACH DOWODOWYCH
+Zamawiający nie stawia wymogu złożenia wraz z ofertą przedmiotowych środków dowodowych.
+Rozdział III WARUNKI UDZIAŁU W POSTĘPOWANIU ORAZ PODSTAWY WYKLUCZENIA
+1. INFORMACJE O WARUNKACH UDZIAŁU W POSTĘPOWANIU
+1.1. O udzielenie zamówienia mogą ubiegać się Wykonawcy, którzy:
+1. nie podlegają wykluczeniu na podstawie art. 108 ust.1 ustawy Pzp i art. i  art. 7 ust. 1 ustawy
+z dnia 13 kwietnia 2022r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu
+agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowe go,
+1.2 Zamawiający nie określa warunków udziału w postępowaniu.
+2. PODSTAWY WYKLUCZENIA
+2.1. Zamawiający wykluczy z postępowania wykonawców, wobec których zachodzą podstawy
+wykluczenia, o których mowa w art. 108 ust. 1 ustawy Pzp tj. Zamawiający wykluczy z postępowania
+Wykonawcę:
+1) będącego osobą fizyczną, którego prawomocnie skazano za przestępstwo:
+a) udziału w zorganizowanej grupie przestępczej albo związku mającym na celu popełnienie
+przestępstwa lub przestępstwa skarbowego, o którym mowa w art.
+258 Kodeksu karnego,
+b) handlu ludźmi, o którym mowa w art. 189a Kodeksu karnego,
+c) o którym mowa w art. 228 –230a, art. 250a Kodeksu karnego, w  art. 46  - 48 ustawy z dnia 25
+czerwca 2010 r. o sporcie ( t.j. Dz. U. z 2022 r. poz. 1599)  )  lub w art. 54 ust. 1 –4 ustawy z dnia 12 maja
+2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz
+wyrobów medycznych ( (t.j. Dz. U. z 2022 r. poz.463 ),
+d) finansowania przestępstwa o charakterze terrorystycznym, o którym mowa w art. 165a
+Kodeksu karnego, lub przestępstwo udaremniania lub utrudniania stwierdzenia przestępnego
+pochodzenia pieniędzy lub ukrywania ich pochodzenia, o którym mowa w art. 299 Kodeks u karnego,
+e) o charakterze terrorystycznym, o którym mowa w art. 115 § 20 Kodeksu karnego, lub mające
+na celu popełnienie tego przestępstwa,
+f) powierzenia wykonywania pracy małoletniemu cudzoziemcowi, o którym mowa w art. 9 ust.
+2 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom
+przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej ( t.j. Dz. U. 2021 poz. 1745 ),
+g) przeciwko obrotowi gospodarczemu, o których mowa w art. 296 –307 Kodeksu karnego,
+przestępstwo oszustwa, o którym mowa w art. 286 Kodeksu karnego, przestępstwo przeciwko
+wiarygodności dokumentów, o których mowa w art. 270–277d Kodeksu karnego, lub przestępstwo
+skarbowe,
+h) o którym mowa w art. 9 ust. 1 i 3 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach
+powierzania wykonywania pracy cudzoziemcom przebywającym
+wbrew przepisom na terytorium Rzeczypospolitej Polskiej
+– lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego;
+2) jeżeli urzędującego członka jego organu zarządzającego lub nadzorczego, wspólnika spółki w
+spółce jawnej lub partnerskiej albo komplementariusza w spółce komandytowej lub komandytowo -
+akcyjnej lub prokurenta prawomocnie skazano za przestępstwo, o którym mow a w pkt 1;
+3) wobec którego wydano prawomocny wyrok sądu lub ostateczną decyzję administracyjną o
+zaleganiu z uiszczeniem podatków, opłat lub składek na ubezpieczenie społeczne lub zdrowotne,
+chyba że wykonawca odpowiednio przed upływem terminu do składania wniosków o d opuszczenie do
+4) udziału w postępowaniu albo przed upływem terminu składania ofert dokonał płatności
+należnych podatków, opłat lub składek na ubezpieczenie społeczne lub zdrowotne wraz z odsetkami
+lub grzywnami lub zawarł wiążące porozumienie w sprawie spłaty tych należnoś ci;
+5) wobec którego prawomocnie orzeczono zakaz ubiegania się o zamówienia publiczne;
+6) jeżeli zamawiający może stwierdzić, na podstawie wiarygodnych przesłanek, że wykonawca
+zawarł z innymi wykonawcami porozumienie mające na celu zakłócenie konkurencji, w szczególności
+jeżeli należąc do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie
+konkurencji i konsumentów złożyli odrębne oferty, oferty częściowe lub wnioski o dopuszczenie do
+udziału w postępowaniu, chyba że wykażą, że przygotowali te oferty lub wnioski niezależnie od siebie;
+7) jeżeli, w przypadkach, o których mowa w art. 85 ust. 1, doszło do zakłócenia konkurencji
+wynikającego z wcześniejszego zaangażowania tego wykonawcy lub podmiotu, który należy z
+wykonawcą do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2 007 r. o ochronie
+konkurencji i konsumentów, chyba że spowodowane tym zakłócenie konkurencji może być
+wyeliminowane w inny sposób niż przez wykluczenie wykonawcy z udziału w postępowaniu o
+udzielenie zamówienia.
+2.2. Zamawiający wykluczy z postępowania Wykonawców, wobec których zachodzą podstawy do
+wykluczenia o których mowa w art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022r. o szczególnych
+rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie
+bezpieczeństwa narodowego tj. Zamawiający wykluczy z postępowania:
+2.2.1. Wykonawcę wymienionego w wykazach określonych w rozporządzeniu Rady (WE)
+nr 765/2006 z dnia 18 maja 2006 r. dotyczącego środków ograniczających w związku z sytuacją na
+Białorusi i udziałem Białorusi w agresji Rosji wobec Ukrainy (Dz. Urz. UE L 134 z 20.05.2006, str. 1, z
+późn. zm.3), zwanego dalej „rozporządzeniem 765/2006”, i rozporządzeniu Rady (UE) nr 269/2014 z
+dnia 17 marca 2014 r. w sprawie środków ograniczających w odniesieniu do działań podważających
+integralność terytorialną, suwerenność i niezależność Ukrainy lub im zagrażających (Dz. Urz. UE L 78 z
+17.03.2014, str. 6,  z późn. zm.4), zwanego dalej „rozporządzeniem 269/2014” albo wpisanego na listę
+na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa
+w art. 1 pkt 3 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniac h w zakresie
+przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego;
+2.2.2. Wykonawcę, którego beneficjentem rzeczywistym w rozumieniu ustawy z dnia 1 marca 2018 r.
+o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2022 r. poz. 593 i 655) jest
+osoba wymieniona w wykazach określonych w rozporządzeniu  765/2006 i rozporządzeniu 269/2014
+albo wpisana na listę lub będąca takim beneficjentem rzeczywistym od dnia 24 lutego 2022 r., o ile
+została wpisana na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu
+środka, o którym mo wa w art. 1 pkt 3 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach
+w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa
+narodowego;
+2.2.3. Wykonawcę, którego jednostką dominującą w rozumieniu art. 3 ust. 1 pkt 37 ustawy z dnia 29
+września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217,2105 i 2106) jest podmiot wymieniony w
+wykazach określonych w rozporządzeniu 765/2006 i rozporządz eniu 269/2014 albo wpisany na listę
+lub będący taką jednostką dominującą od dnia 24 lutego 2022 r., o ile został wpisany na listę na
+podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w
+art. 1 pkt 3 ustawy z dni a 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania
+wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego.
+2.3. Wykluczenie następuje na okres trwania okoliczności określonych w ust. 2.2.
+2.4. W przypadku Wykonawcy wykluczonego na podstawie ust. 2.2, Zamawiający odrzuca
+ofertę takiego Wykonawcy, nie zaprasza go do złożenia oferty wstępnej, oferty podlegającej
+negocjacjom, oferty dodatkowej, oferty lub oferty ostatecznej, nie zaprasza go do negocjacji, a także
+nie prowadzi z takim Wykonawcą negocjacji, odpowiednio do trybu  stosowanego do udzielenia
+zamówienia publicznego oraz etapu prowadzonego postępowania o udzielenie zamówienia
+publicznego.
+2.5. Osoba lub podmiot podlegające wykluczeniu na podstawie ust. 2.2., które w okresie  tego
+wykluczenia ubiegają się o udzielenie zamówienia publicznego lub biorą udział w postępowaniu o
+udzielenie zamówienia publicznego lub w konkursie, podlegają karze p ieniężnej.
+3. SAMOOCZYSZCZENIE
+3.1. W okolicznościach określonych w art. 108 ust. 1 pkt 1, 2 i 5 ustawy Pzp, Wykonawca nie podlega
+wykluczeniu jeżeli udowodni zamawiającemu, że spełnił łącznie następujące przesłanki:
+1) naprawił lub zobowiązał się do naprawienia szkody wyrządzonej przestępstwem,
+wykroczeniem lub swoim nieprawidłowym postępowaniem, w tym poprzez zadośćuczynienie
+pieniężne;
+2) wyczerpująco wyjaśnił fakty i okoliczności związane z przestępstwem, wykroczeniem lub
+swoim nieprawidłowym postępowaniem oraz spowodowanymi przez nie szkodami, aktywnie
+współpracując odpowiednio z właściwymi organami, w tym organami ścigania lub zamawiając ym;
+3) podjął konkretne środki techniczne, organizacyjne i kadrowe, odpowiednie dla zapobiegania
+dalszym przestępstwom, wykroczeniom lub nieprawidłowemu postępowaniu, w szczególności:
+a) zerwał wszelkie powiązania z osobami lub podmiotami odpowiedzialnymi za nieprawidłowe
+postępowanie wykonawcy,
+b) zreorganizował personel,
+c) wdrożył system sprawozdawczości i kontroli,
+d) utworzył struktury audytu wewnętrznego do monitorowania przestrzegania przepisów,
+wewnętrznych regulacji lub standardów,
+e) wprowadził wewnętrzne regulacje dotyczące odpowiedzialności i odszkodowań za
+nieprzestrzeganie przepisów, wewnętrznych regulacji lub standardów. Zamawiający ocenia, czy
+podjęte przez wykonawcę czynności są wystarczające do wykazania jego rzetelności, uwzgl ędniając
+wagę i szczególne okoliczności czynu wykonawcy, a jeżeli uzna, że nie są wystarczające, wyklucza
+wykonawcę.
+Rozdział IV
+PODMIOTOWE ŚRODKI DOWODOWE, PRZEDMIOTOWE ŚRODKI DOWODOWE ORAZ INNE
+OŚWIADCZENIA I DOKUMENTY
+1. OŚWIADCZENIA I DOKUMENTY SKŁADANE WRAZ Z OFERTĄ
+1.1. Oferta składana jest pod rygorem nieważności w formie elektronicznej opatrzona
+kwalifikowanym podpisem elektronicznym lub w postaci elektronicznej opatrzonej podpisem
+zaufanym lub podpisem osobistym. Ofertę należy sporządzić zgodnie ze wzorem stanowiącym
+załącznik nr 1 do SWZ  dla zadania 1, załącznik nr 1a do SWZ dla zadania 2. .
+1.2. Wykonawca dołącza do oferty oświadczenie o niepodleganiu wykluczeniu  w postępowaniu w
+zakresie wskazanym w rozdziale III sekcja 1 oraz sekcja 2 SWZ . Oświadczenie to stanowi dowód
+potwierdzający brak podstaw wykluczenia  w postępowaniu, na dzień składania ofert, tymczasowo
+zastępujący wymagane podmiotowe środki dowodowe. Oświadczenie należy złożyć zgodnie ze
+wzorem stanowiącym załącznik nr 2 do SWZ.
+1.3. Oświadczenie, o którym mowa w ust. 1.2 składają odrębnie:
+a) wykonawca/każdy spośród wykonawców wspólnie ubiegających się o udzielenie zamówienia.
+W takim przypadku oświadczenie potwierdza brak podstaw wykluczenia wykonawcy z udziału w
+postępowaniu ;
+1.4. Do oferty Wykonawca zobowiązany jest załączyć:
+1) odpis lub informację z Krajowego Rejestru Sądowego, Centralnej Ewidencji i Informacji o
+Działalności Gospodarczej lub innego właściwego rejestru potwierdzającego, że osoba
+działająca w imieniu wykonawcy jest umocowana do jego reprezentowania,
+2) pełnomocnictwo lub inny dokument potwierdzający umocowanie do reprezentowania
+Wykonawcy, gdy umocowanie osoby składającej ofertę nie wynika z dokumentów opisanych w pkt 1),
+3) w przypadku wykonawców wspólnie ubiegających się o udzielenie zamówienia :
+a) pełnomocnictwo, z treści którego będzie wynikało umocowanie do reprezentowania ich
+w postępowaniu o udzielenie zamówienia albo do reprezentowania w postepowaniu i
+zawarcia umowy w sprawie zamówienia publicznego. Pełnomocnictwo powinno zawierać
+w szczególno ści wskazanie:
+- postępowania o zamówienie publicznego, którego dotyczy,
+- wszystkich wykonawców ubiegających się wspólnie o udzielenie zamówienia wymienionych z
+nazwy z określeniem adresu siedziby,
+- ustanowionego pełnomocnika oraz zakresu jego pełnomocnictwa,
+1.5. Wykonawca nie jest zobowiązany do złożenia dokumentów, o których mowa w ust. 1.4 pkt. 1),
+jeżeli Zamawiający może je uzyskać za pomocą bezpłatnych i ogólnodostępnych baz danych, o ile
+Wykonawca wskazał dane umożliwiające dostęp do tych dokumentów.
+1.6. Zapisy ust. 1.4 pkt 2) stosuje się odpowiednio do osoby działającej w imieniu wykonawców
+wspólnie ubiegających się o udzielenie zamówienia.
+2. OŚWIADCZENIA I DOKUMENTY SKŁADANE NA WEZWANIE
+2.1. Zamawiający  nie wymaga przedłożenia podmiotowych środków dowodowych.
+3. TAJEMNICA PRZEDSIĘBIORSTWA
+3.1. W sytuacji, gdy oferta lub inne dokumenty składane w toku postępowania będą zawierały
+tajemnicę przedsiębiorstwa, wykonawca, wraz z przekazaniem takich informacji, zastrzega, że nie
+mogą być one udostępniane, oraz wykazuje, że zastrzeżone informacje stanow ią tajemnicę
+przedsiębiorstwa w rozumieniu przepisów ustawy z 16 kwietnia 1993 r. o zwalczaniu nieuczciwej
+konkurencji.
+3.2. W przypadku, gdy dokumenty elektroniczne w postępowaniu, przekazywane przy użyciu środków
+komunikacji elektronicznej, zawierają informacje stanowiące tajemnicę przedsiębiorstwa w
+rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciw ej konkurencji ( (t.j. Dz.
+U. z 2022 poz. 1233) , Wykonawca, w celu utrzymania w poufności tych informacji, przekazuje je w
+wydzielonym i odpowiednio oznaczonym pliku.
+Rozdział V  FORMA SKŁADANYCH OŚWIADCZEŃ I DOKUMENTÓW
+1. Ofertę, oświadczenie, o których mowa w art. 125 ust. 1 ustawy Pzp należy złożyć pod rygorem
+nieważności w formie elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym  lub w
+postaci elektronicznej opatrzonej podpisem zaufanym lub podpisem osobis tym.
+2. Oferty, oświadczenia, o których mowa w art. 125 ust. 1 ustawy Pzp, podmiotowe środki
+dowodowe, w tym oświadczenie, o którym mowa w art. 117 ust. 4 ustawy Pzp, oraz zobowiązanie
+podmiotu udostępniającego zasoby, o którym mowa w art. 118 ust. 3 ustawy Pzp, z wane dalej w
+niniejszym rozdziale „ zobowiązaniem podmiotu udostępniającego zasoby ”, przedmiotowe środki
+dowodowe, pełnomocnictwo, dokumenty, o których mowa w art. 94 ust. 2 ustawy Pzp, sporządza się
+w postaci elektronicznej, w formatach danych określonych w przepisach wydanych na podstawie art.
+18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania
+publiczne ( Dz. U. z 2024 r. poz. 307) .
+3. Informacje, oświadczenia lub dokumenty, inne niż określone w ust. 2, przekazywane w
+postępowaniu, sporządza się w postaci elektronicznej, w formatach danych określonych w przepisach
+wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyz acji działalności
+podmiotów realizujących zadania publiczne lub jako tekst wpisany bezpośrednio do wiadomości
+przekazywanej przy użyciu środków komunikacji elektronicznej.
+4. Podmiotowe środki dowodowe, przedmiotowe środki dowodowe oraz inne dokumenty lub
+oświadczenia, sporządzone w języku obcym przekazuje się wraz z tłumaczeniem na język polski.
+5. W przypadku gdy podmiotowe środki dowodowe, przedmiotowe środki dowodowe, inne
+dokumenty, lub dokumenty potwierdzające umocowanie do reprezentowania odpowiednio
+wykonawcy, wykonawców wspólnie ubiegających się o udzielenie zamówienia publicznego, podmiotu
+udostępniającego zasoby na zasadach określonych w art. 118 ustawy Pzp lub podwykonawcy
+niebędącego podmiotem udostępniającym zasoby na takich zasadach, zwane dalej w niniejszym
+rozdziale „ dokumentami potwierdzającymi umocowanie do reprezentowania ”, zostały wystawione
+przez upoważnione podmioty inne niż wykonawca, wykonawca wspólnie ubiegający się o udzielenie
+zamówienia, podmiot udostępniający zasoby lub podwykonawca, zwane dalej w niniejszym rozdziale
+„upoważnionymi podmiotami ”, jako dokument elektroniczny , przekazuje się ten dokument.
+6. W przypadku gdy podmiotowe środki dowodowe, przedmiotowe środki dowodowe, inne
+dokumenty, lub dokumenty potwierdzające umocowanie do reprezentowania, zostały wystawione
+przez upoważnione podmioty jako dokument w postaci papierowej, przekazuje się cyfrowe
+odwzorowanie tego dokumentu opatrzone kwalifikowanym podpisem elektronicznym, podpisem
+zaufanym lub podpisem osobistym, poświadczające zgodność cyfrowego odwzorowania z
+dokumentem w postaci papierowej.
+7. Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o
+którym mowa w ust. 6, dokonuje w przypadku:
+1) podmiotowych środków dowodowych oraz dokumentów potwierdzających umocowanie do
+reprezentowania – odpowiednio wykonawca, wykonawca wspólnie ubiegający się o udzielenie
+zamówienia, podmiot udostępniający zasoby lub podwykonawca, w zakresie podmiotowych środk ów
+dowodowych lub dokumentów potwierdzających umocowanie do reprezentowania, które każdego z
+nich dotyczą;
+2) przedmiotowych środków dowodowych – odpowiednio wykonawca lub wykonawca wspólnie
+ubiegający się o udzielenie zamówienia;
+3) innych dokumentów – odpowiednio wykonawca lub wykonawca wspólnie ubiegający się o
+udzielenie zamówienia, w zakresie dokumentów, które każdego z nich dotyczą
+8. Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o
+którym mowa w ust. 6, może dokonać również notariusz
+9. Przez cyfrowe odwzorowanie, należy rozumieć dokument elektroniczny będący kopią
+elektroniczną treści zapisanej w postaci papierowej, umożliwiający zapoznanie się z tą treścią i jej
+zrozumienie, bez konieczności bezpośredniego dostępu do oryginału.
+10. Podmiotowe środki dowodowe, w tym oświadczenie, o którym mowa w art. 117 ust. 4 ustawy
+Pzp, oraz zobowiązanie podmiotu udostępniającego zasoby, przedmiotowe środki dowodowe,
+niewystawione przez upoważnione podmioty, oraz pełnomocnictwo przekazuje się w pos taci
+elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub
+podpisem osobistym.
+11.W przypadku gdy podmiotowe środki dowodowe, w tym oświadczenie, o którym mowa w art. 117
+ust. 4 ustawy Pzp, oraz zobowiązanie podmiotu udostępniającego zasoby, przedmiotowe środki
+dowodowe, niewystawione przez upoważnione podmioty lub pełnomocnictwo, zosta ły sporządzone
+jako dokument w postaci papierowej i opatrzone własnoręcznym podpisem, przekazuje się cyfrowe
+odwzorowanie tego dokumentu opatrzone kwalifikowanym podpisem elektronicznym, podpisem
+zaufanym lub podpisem osobistym, poświadczającym zgodność cy frowego odwzorowania z
+dokumentem w postaci papierowej.
+12. Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o
+którym mowa w ust. 11, dokonuje w przypadku:
+1) podmiotowych środków dowodowych – odpowiednio wykonawca, wykonawca wspólnie
+ubiegający się o udzielenie zamówienia, podmiot udostępniający zasoby lub podwykonawca, w
+zakresie podmiotowych środków dowodowych, które każdego z nich dotyczą;
+2) przedmiotowego środka dowodowego, oświadczenia, o którym mowa w art. 117 ust. 4 ustawy
+Pzp, lub zobowiązania podmiotu udostępniającego zasoby – odpowiednio wykonawca lub wykonawca
+wspólnie ubiegający się o udzielenie zamówienia;
+3) pełnomocnictwa – mocodawca.
+13. Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o
+którym mowa w ust. 11, może dokonać również notariusz
+14. W przypadku przekazywania w postępowaniu dokumentu elektronicznego w formacie
+poddającym dane kompresji, opatrzenie pliku zawierającego skompresowane dokumenty
+kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym, jest
+równoznac zne z opatrzeniem wszystkich dokumentów zawartych w tym pliku odpowiednio
+kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym.
+15. Dokumenty elektroniczne w postępowaniu lub w konkursie spełniają łącznie następujące
+wymagania:
+4) są utrwalone w sposób umożliwiający ich wielokrotne odczytanie, zapisanie i powielenie, a
+także przekazanie przy użyciu środków komunikacji elektronicznej lub na informatycznym nośniku
+danych;
+5) umożliwiają prezentację treści w postaci elektronicznej, w szczególności przez wyświetlenie
+tej treści na monitorze ekranowym;
+6) umożliwiają prezentację treści w postaci papierowej, w szczególności za pomocą wydruku;
+7) zawierają dane w układzie niepozostawiającym wątpliwości co do treści i kontekstu zapisanych
+informacji.
+Rozdział VI  WYMAGANIA DOTYCZĄCE WADIUM
+1. Zamawiający nie żąda wniesienia wadium.
+Rozdział VII
+SPOSÓB PRZYGOTOWANIA OFERTY ORAZ ZASADY KOMUNIKACJI
+1) W postępowaniu o udzielenie zamówienia  komunikacja między Zamawiającym a
+Wykonawcami odbywa się przy użyciu systemu do elektronicznej obsługi zamówień Powiatu
+Mikołowskiego (zwanej dalej: „Systemem”) dostępnej pod adresem: https://e -zp.mikolowski.pl
+2) Wykonawca zamierzający wziąć udział w postępowaniu o udzielenie zamówienia publicznego,
+musi posiadać konto w Systemie e -ZP.
+3) Rejestracja i korzystanie z Systemu E -ZP jest bezpłatne.
+4) Użytkownik niezarejestrowany może jedynie przeglądać treści udostępniane w części
+publicznej Systemu. Jest to równoznaczne z tym, że użytkownicy niezarejestrowani nie posiadają
+dostępu do wszystkich funkcjonalności systemu.
+5) Dokonując rejestracji Wykonawca akceptuje Regulamin korzystania z Systemu E -Zamówienia
+Publiczne Powiatu Mikołowskiego.
+6) W Systemie E -ZP znajdują się także instrukcja dla Wykonawcy (Instrukcja obsługi Systemu FINN
+e-Zamówienia Publiczne) oraz filmy instruktażowe - prezentujące podstawowe czynności dokonywane
+przez Wykonawców za pomocą Systemu (rejestracja, zadawanie pytań, z łożenie oferty, wycofanie
+oferty). Instrukcja dostępna jest pod adresem: https://pomoc.e -zp.finn.pl/
+7) Specyfikacja połączenia, formatu przesyłanych danych oraz kodowania i oznaczania czasu
+odbioru danych Systemu E -ZP:
+a. Format kodowania treści w obrębie Systemu - UTF8,
+b. Komunikacja pomiędzy przeglądarką Wykonawcy, a serwerem jest wykonywana przy użyciu
+bezpiecznego protokołu HTTPS,
+c. Oznaczeniem czasu odbioru danych przez System jest data oraz dokładny czas (hh:mm:ss) -
+czas lokalny serwera synchronizowany odpowiednim źródłem czasu.
+8) Wymagania techniczne związane z korzystaniem z Systemu (tj. informacje dotyczące specyfikacji
+połączenia, formatu przesyłanych danych oraz kodowania i oznaczania czasu przekazania danych):
+a) stały dostęp do sieci Internet i minimalna prędkość połączenia internetowego nie mniejsza niż 512
+kb/s;
+b) zaktualizowana przeglądarka internetowa Chrome w wersji 77 i późniejsze lub Mozilla Firefox w
+wersji 63 i późniejsze;
+c) system operacyjny Microsoft Windows 7 i późniejsze lub Apple macOS 10.14 i późniejsze,
+dystrybucje systemu Linux.
+9) Złożenie oferty w trybie podstawowym poprzez System e -ZP wymaga posiadania przez Wykonawcę
+kwalifikowanego podpisu elektronicznego lub podpisu osobistego lub podpisu zaufanego.
+10)  Kwalifikowany podpis elektroniczny, wystawiony przez dostawcę kwalifikowanej usługi zaufania,
+będącego podmiotem świadczącym usługi certyfikacyjne – podpis elektroniczny, spełniające wymogi
+bezpieczeństwa określone w ustawie z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji
+elektronicznej (Dz. U z 2019 r., poz. 162). Szczegółowe informacje o sposobie pozyskania usługi
+kwalifikowanego podpisu elektronicznego oraz warunkach jej użycia można znaleźć na stronach
+internetowych kwalifikowanych  dostawców usług zaufania, których lista znajduje się pod adresem
+internetowym: https://www.nccert.pl/kontakt.htm
+11) Podpis zaufany jest zgodnie z art. 3 pkt 14a ustawy z 17 lutego 2005 r. o informacji działalności
+podmiotów realizujących działania publiczne (tekst jednolity Dz. U. 2020.346) podpisem
+elektronicznym, którego autentyczność są zapewniane przy użyciu pie częci elektronicznej ministra
+właściwego do spraw informatyzacji, zawierającym:
+a)  dane identyfikacyjne osobę, ustalone na podstawie środka identyfikacji elektronicznej wydanego
+w systemie ePUAP, obejmującego imię, imiona), nazwisko i numer PESEL.
+b) identyfikator środka identyfikacji elektronicznej, przy użyciu którego został złożony,
+czas jego złożenia
+12) Podpis osobisty to podpis zdefiniowany w art. 2 ust. 1 pkt 9 ustawy z 6 sierpnia 2010 r. o dowodach
+osobistych (tekst jednolity Dz. U. 2020.332). Jest to zaawansowany podpis elektroniczny w rozumieniu
+art. 3 pkt 11 rozporządzenia eIDAS, weryfikowany za  pomocą certyfikatu podpisu osobistego,
+spełniający następujące wymagania:
+a. unikalne przyporządkowanie podpisującego;
+b. możliwość ustalenia tożsamości podpisującego;
+c. składanie przy użyciu danych, służących do składania podpisu elektronicznego, których
+podpisujący może, z dozą pewności, użyć pod wyłączną swoja kontrolą.
+13) Pliki można podpisać przed dołączeniem do systemy za pomocą zewnętrznych narzędzi do podpisu
+lub po dołączeniu do Systemu e -ZP przy pomocy kwalifikowanego podpisu elektronicznego lub
+podpisu osobistego lub podpisu zaufanego.
+14) Korzystanie z wbudowanej w System e -ZP funkcjonalności składania podpisu elektronicznego
+(kwalifikowany podpis elektroniczny, podpis osobisty, podpis zaufany) możliwe jest pod warunkiem,
+że system teleinformatyczny, z którego korzysta Wykonawca, wyposa żony jest w jeden z poniższych
+komponentów:
+• wirtualna maszyna Java firmy Oracle w wersji co najmniej 1.8.0_221 (Java SE JRE 8 Update 221)
+z obsługą technologii Java Web Start (JavaWS) lub
+• wirtualna maszyna OpenJDK w wersji co najmniej 1.8.0_222 z zainstalowanym rozszerzeniem
+IcedTea Web Start.
+15) Powyższe wymagania nie ograniczają możliwości korzystania przez Wykonawcę z zewnętrznego
+oprogramowania do składania podpisu elektronicznego,
+a) kwalifikowany podpis elektroniczny (dopuszczalne formaty podpisów: PaDES - format.pdf,
+XaDES - pozostałe formaty);
+b) podpis zaufany;
+c) podpis osobisty;
+16)  Maksymalny rozmiar przesyłanych plików złożenia, wycofania: oferty oraz wiadomości wynosi 150
+MB;
+17. W zależności od formatu podpisu: Podpis kwalifikowany (PAdES, XAdES), podpis osobisty (XAdES),
+podpis zaufany (PAdES, XAdES) i jego typu (zewnętrzny, otaczający) Wykonawca dołącza do Systemu
+e-ZP uprzednio podpisane dokumenty wraz z  wygenerowanym pliki em podpisu (typ zewnętrzny) lub
+dokument z podpisem (typ otaczający).
+18. Wykonawca składa ofertę w trybie podstawowym za  pośrednictwem funkcji „Wyślij” formularzy
+do złożenia, wycofania oferty . Wysłana oferta jest automatycznie szyfrowana i chroniona terminem
+otwarcia.
+19. Ofertę należy złożyć w oryginale przy użyciu dedykowanych funkcji Systemu.
+20. W zakresie dotyczącym kodowania i czasu odbioru danych Zamawiający informuje, że złożona
+przez Wykonawcę za pomocą Systemu e -ZP oferta jest widoczna w systemie, jako zaszyfrowana, a
+możliwość jej odszyfrowania i otworzenia przez Zamawiającego możliwa j est po upływie terminu
+składania ofert;
+21.W postępowaniu o udzielenie zamówienia komunikacja pomiędzy Zamawiającym, a Wykonawcami
+w  szczególności składanie oświadczeń, wniosków (innych niż o dopuszczenie do udziału
+w  postępowaniu), zawiadomień oraz przekazywanie informacji odbywa się elektron icznie za
+pośrednictwem dedykowanych funkcji formularzy „Wiadomość” dostępnych dla każdego
+zalogowanego Wykonawcy.   Wszelkie informacje dotyczące postępowania w tym zapytania
+Wykonawców, modyfikacje SWZ, ogłoszenie wyników itp. będą zamieszczane w Systemi e e-ZP .
+22. Za datę przekazania/złożenia  oferty, zawiadomień, dokumentów elektronicznych, oświadczeń lub
+elektronicznych kopii dokumentów lub oświadczeń oraz innych informacji przyjmuje się datę
+potwierdzenia komunikatem przez system ich odebrania. Wynikiem złożenia/ wysłania (zakończonego
+sukcesem czyli odbiorem) przesyłki przez Wykonawcę jest wygenerowanie Urzędowego
+Poświadczenia Przedłożenia (UPP). Należy zwrócić szczególną uwagę na to, iż System potwierdzi
+złożenie wiadomości/ oferty w trybie podstawowym po pe łnym zakończeniu transakcji wysyłki i zapisu
+przekazanych danych. UPP jest widoczne w wysłanej wiadomości.
+23.Wszelkie informacje stanowiące tajemnicę przedsiębiorstwa w rozumieniu ustawy z dnia 16
+kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji, które Wykonawca zastrzeże jako tajemnicę
+przedsiębiorstwa, powinny zostać złożone w Systemie poprzez mechanizm do dawania dokumentów
+w wydzielonym i odpowiednio oznaczonym pliku wraz z jednoczesnym zaznaczeniem w nazwie pliku
+„Załącznik stanowiący tajemnicę przedsiębiorstwa ”, natomiast pozostała część jawna oferty winna być
+zawarta w osobnych plikach.
+24. Zamawiający sugeruje, aby korespondencja dotycząca niniejszego postępowania o udzielenie
+zamówienia publicznego oznaczone były nazwą oraz znakiem postępowania : PR-2024 -3.042.8.2025
+25. Osobą uprawnioną do komunikowania się z Wykonawcami jest:
+• w sprawach merytorycznych :
+Pani Aleksandra Łataś – Makuch – Kierownik Projektu
+Pani  Magdalena Locke   -  Zastępca Naczelnika Wydziału Rozwoju i Zdrowia   ,
+• w sprawach formalnych :
+Pani Martyna Centkowska - Strzelczyk - Specjalista  w Wydziale Inwestycji  i Zamówień Publicznych
+Rozdział VIII  SPOSÓB OBLICZENIA CENY
+1. 1. Wykonawca winien podać łączną cenę brutto wykonania całości przedmiotu zamówienia w
+danej części /zadaniu   oraz ceny poszczególnych elementów zamówienia składających się na cenę
+realizacji zamówienia poprzez uzupełnienie  załączonego formularza ofertowego - załącznik nr 1 (dla
+zadania 1), załącznik nr 1a (dla zadania 2) SWZ .
+2. Cenę  ostateczną  należy podać w polskich złotych jako cenę  brutto, cyfrowo i słownie. Cena musi
+być podana z zaokrągleniem do dwóch miejsc po przecinku. Cena ofertowa jest ceną ryczałtową. Nie
+dopuszcza się oferowania cen wariantowych. Jeżeli wykonawc a stosuje w swojej praktyce opusty
+cenowe, to proponując je zamawiającemu w ofercie, musi uwzględnić je już w ostatecznej cenie oferty.
+W cenie ofertowej należy uwzględnić wszystkie koszty związane z realizacją przedmiotu zamówienia.
+3. Zgodnie z art. 225 ustawy Pzp jeżeli została złożona oferta, której wybór prowadziłby do powstania
+u Zamawiającego obowiązku podatkowego zgodnie z ustawą z 11 marca 2004 r. o podatku od towarów
+i usług, dla celów zastosowania kryterium ceny lub kosztu Z amawiający dolicza do przedstawionej w
+tej ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć. W takiej sytuacji
+wykonawca ma obowiązek:
+1) poinformowania zamawiającego, że wybór jego oferty będzie prowadził do powstania u
+zamawiającego obowiązku podatkowego;
+2) wskazania nazwy (rodzaju) towaru lub usługi, których dostawa lub świadczenie będą
+prowadziły do powstania obowiązku podatkowego;
+3) wskazania wartości towaru lub usługi objętego obowiązkiem podatkowym zamawiającego,
+bez kwoty podatku;
+4) wskazania stawki podatku od towarów i usług, która zgodnie z wiedzą wykonawcy, będzie
+miała zastosowanie.
+4. Obliczona przez Wykonawcę cena oferty powinna zawierać wszelkie koszty bezpośrednie i
+pośrednie jakie Wykonawca uważa za niezbędne do poniesienia dla terminowego i prawidłowego
+wykonania przedmiotu zamówienia, zysk Wykonawcy oraz wszelkie wymagane przep isami podatki i
+opłaty, a w szczególności podatek VAT. Wykonawca powinien uwzględnić przy kalkulowaniu ceny
+wszystkie posiadane informacje o przedmiocie zamówienia, a szczególnie informacje, wymagania i
+warunki podane w niniejszej SWZ.
+Rozdział IX  INFORMACJE O SPOSOBIE I TERMINIE SKŁADANIA OFERT ORAZ O TERMINIE OTWARCIA
+OFERT
+1. SPOSÓB I TERMIN SKŁADANIA OFERT
+1.1. Ofertę należy złożyć poprzez System E -ZP w terminie do dnia 14.07.2025  r. do godz. 10:00  .
+Oferta musi być złożona przed upływem terminu składania ofert. O terminie złożenia oferty decyduje
+czas wygenerowania Urzędowego Poświadczenia Przedłożenia (UPP) w Systemie E -ZP.
+2. Każdy Wykonawca może złożyć tylko jedną ofertę, przy czym treść oferty musi odpowiadać treści
+SWZ.
+3. Ofertę należy przygotować według wymagań określonych w niniejszej SWZ.
+4. Oferta powinna być sporządzona w języku polskim w  formacie danych określonych w przepisach
+wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności
+podmiotów realizujących zadania publiczne.
+5. Ofertę należy sporządzić na formularzu oferty lub według takiego samego schematu,
+stanowiącego   załącznik nr 1 do SWZ  dla zadania 1, załącznik nr 1a dla zadania 2  .Ofertę należy złożyć
+pod rygorem nieważności w formie elektronicznej (opatrzonej kwalifikowanym podpisem
+elektronicznym) lub w postaci elektronicznej opatrzonej podpisem zaufanym lub podpisem
+osobistym.  W formularzu oferty Wykonawca zobowiązany jest podać adres poczty elektronicznej
+używany do logowania w Systemie E -ZP, za pomocą którego będzie prowadzona korespondencja z
+Wykonawcą.
+5.1. Zalecenia (rekomendacje) Zamawiającego:
+5.1.1.  Rozszerzenia plików wykorzystywanych przez Wykonawców powinny być zgodne z
+załącznikiem nr 2 do „Rozporządzenia Rady Ministrów w sprawie Krajowych Ram Interoperacyjności,
+minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektron icznej oraz
+minimalnych wymagań dla systemów teleinformatycznych”, zwanego dalej Rozporządzeniem KRI.
+5.1.2.  Zamawiający rekomenduje wykorzystanie formatów: .txt, .pdf, .xls, .doc,.docx, .rtf, .odt, .rtf,
+.xml  .xls .xlsx .jpg (.jpeg ) ze szczególnym wskazaniem na .pdf
+5.1.3.  W celu ewentualnej kompresji danych Zamawiający rekomenduje wykorzystanie jednego z
+rozszerzeń:
+a) .zip
+b) .7Z
+5.1.4.  Wśród rozszerzeń powszechnych a niewystępujących w rozporządzeniu KRI występują: .rar
+.gif .bmp .numbers .pages. Dokumenty złożone w takich plikach zostaną uznane za złożone
+nieskutecznie.
+5.1.5.  Zamawiający zwraca uwagę na ograniczenia wielkości plików podpisywanych podpisem
+zaufanym, który wynosi maksymalnie 10MB, oraz na ograniczenie wielkości plików podpisywanych w
+aplikacji eDoApp służącej do składania podpisu osobistego, który wynosi maksymal nie 5MB.
+5.1.6.  W przypadku stosowania przez wykonawcę kwalifikowanego podpisu elektronicznego:
+a) Ze względu na niskie ryzyko naruszenia integralności pliku oraz łatwiejszą weryfikację
+podpisu, zamawiający zaleca, w miarę możliwości, przekonwertowanie plików (elektronicznych
+formatów danych, np. *.doc, *.docx, *.rtf, .*xps, *.odt.) składających się na ofertę na format PDF i
+opatrzenie ich podpisem kwalifikowanym w formacie PAdES.
+a) Pliki w innych formatach niż PDF zaleca się opatrzyć wewnętrznym podpisem XAdES, który
+polega na tym, że jest zapisany łącznie z podpisywanym dokumentem (tworzą jeden plik), a nie
+oddzielnie (plik podpisywany i  plik podpisu).
+b) W przypadku zewnętrznego podpisu XAdES Wykonawca powinien pamiętać, aby plik z
+podpisem przekazywać łącznie z dokumentem podpisywanym.
+c) Podczas podpisywania plików zaleca się stosowanie algorytmu skrótu SHA2 zamiast SHA1.
+d) Zamawiający rekomenduje wykorzystanie podpisu z kwalifikowanym znacznikiem czasu.
+e) Zamawiający zaleca aby nie wprowadzać jakichkolwiek zmian w plikach po podpisaniu ich
+podpisem kwalifikowanym. Może to skutkować naruszeniem integralności plików co równoważne
+będzie z koniecznością odrzucenia oferty.
+7. Zamawiający zaleca aby w przypadku podpisywania pliku przez kilka osób, stosować podpisy tego
+samego rodzaju. Podpisywanie różnymi rodzajami podpisów np. osobistym i kwalifikowanym może
+doprowadzić do problemów w weryfikacji plików.
+8. Zamawiający zaleca, aby wykonawca z odpowiednim wyprzedzeniem przetestował możliwość
+prawidłowego wykorzystania wybranej metody podpisania plików oferty.
+9. Jeśli wykonawca pakuje pliki (np. w plik ZIP), Zamawiający zaleca wcześniejsze podpisanie każdego
+pliku przed skompresowaniem. Niemniej, niezależnie od podpisania każdego pliku z osobna, czy
+wszystkich plików łącznie poprzez podpisanie pliku skompresowan ego, uznaje się, że podpis złożony
+pod zestawem plików (w tym *zip) obejmuje całość zawartych w nim danych, z tym, że:
+− w przypadku elektronicznych dokumentów własnych (wykonawcy) prawidłowe podpisanie
+kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym jest
+jednoznaczne ze sporządzeniem dokumentu elektronicznego w oryginale,
+− w przypadku opatrzenia pliku zawierającego skompresowane dane kwalifikowanym podpisem
+elektronicznym, podpisem zaufanym lub podpisem osobistym jest równoznaczne z poświadczeniem
+przez wykonawcę za zgodność z oryginałem wszystkich elektronicznych kopii dokumentów zawartych
+w tym pliku, z wyjątkiem kopii poświadczonych odpowiednio przez inneg o wykonawcę ubiegającego
+się wspólnie z nim o udzielenie zamówienia, przez podmiot, na którego zdolnościach lub sytuacji
+polega wykonawca, albo przez podwykonawcę (§ 5 ust. 3 rozporządzenia w sprawie użycia środków
+komunikacji elektronicznej),
+− w przypadku skompresowania dokumentów już wcześniej podpisanych (np. przez konsorcjanta
+czy podmiot udostępniający zasoby) uznawany jest podpis konsorcjanta, podmiotu udostępniającego
+zasoby.
+2. TERMIN OTWARCIA OFERT
+2.1. Otwarcie ofert nastąpi w dniu  14.07.2025 r., o godzinie 10:30 . Otwarcie ofert w trybie
+podstawowym w postaci elektronicznej nastąpi za pośrednictwem Systemu E -ZP Zamawiającego.
+Otwarcie ofert w trybie podstawowym w Systemie E -ZP dokonywane jest poprzez odszyfrowanie i
+otwarcie ofert.
+W  przypadku awarii systemu teleinformatycznego, która powoduje brak możliwości otwarcia ofert
+we wskazanym przez Zamawiającego terminie, otwarcie ofert nastąpi niezwłocznie po usunięciu
+awarii.
+2.2. Zamawiający, najpóźniej przed otwarciem ofert, udostępni na stronie internetowej
+prowadzonego postępowania informację o kwocie, jaką zamierza przeznaczyć na sfinansowanie
+zamówienia.
+2.3. Zamawiający, niezwłocznie po otwarciu ofert, udostępnia na stronie internetowej prowadzonego
+postępowania informacje o:
+a) nazwach albo imionach i nazwiskach oraz siedzibach lub miejscach prowadzonej działalności
+gospodarczej bądź miejscach zamieszkania wykonawców, których oferty zostały otwarte;
+b) cenach lub kosztach zawartych w ofertach.
+3. WYCOFANIE OFERTY
+Wykonawca może przed upływem terminu do składania ofert , za pośrednictwem dedykowanego
+mechanizmy wycofać ofertę. Mechanizm wycofania oferty został opisany w funkcji Systemu „Pomoc
+Wykonawcy”.
+Rozdział X  TERMIN ZWIĄZANIA OFERTĄ
+1. Wykonawca związany będzie złożoną ofertą do dnia :12.08 .202 5 r.
+2. Bieg terminu związania ofertą rozpoczyna się wraz z upływem terminu składania ofert.
+Rozdział XI  BADANIE OFERT ORAZ KRYTERIA OCENY OFERT
+1. W trakcie oceny ofert Zamawiający może żądać udzielania przez Wykonawców wyjaśnień
+dotyczących treści złożonej oferty.
+2. Zamawiający poprawi w ofertach omyłki zgodnie z art. 223 ust. 2 ustawy Pzp.
+3. Przy wyborze oferty   w zadaniu 1, w zadaniu 2 Zamawiający będzie się kierował następującymi
+kryteriami i ich znaczeniem:
+Kc -  cena – waga 60 %
+Kg – wydłużenie okresu   gwarancji – waga 40%
+4. Oferta wypełniająca w najwyższym stopniu wymagania określonego kryterium, otrzyma
+maksymalną ilość punktów przewidzianych w danym kryterium. Łącznie Wykonawca może otrzymać
+maksymalnie 100 pkt. Pozostałym wykonawcom, spełniającym wymagania kryterialne pr zypisana
+zostanie odpowiednio mniejsza liczba punktów. Zamawiający dokona oceny ofert przyznając punkty
+w ramach poszczególnych kryteriów oceny ofert, przyjmując zasadę, że 1% = 1 punkt.
+5. Sposób przyznawania punktów w poszczególnych kryteriach:
+5.1 Sposób oceny oferty w kryterium cena (Kc) .
+Do oceny w przypadku kryterium „cena” będzie brana pod uwagę cena brutto za wykonanie ca łości
+przedmiotu zamówienia czyli obejmująca podatek VAT. Każdej z ofert przyznane zostaną punkty
+wyliczone wg wzoru:
+Kcn – liczba punktów przyznana ofercie n w kryterium Kc
+Kcn = (najniższa cena spośród wszystkich przedstawionych cen przez wykonawców, których oferty nie
+podlegały odrzuceniu  / cena oferty badanej ) x  60.
+5.2. Sposób oceny oferty w kryterium „ wydłużenie okresu gwarancji  ” (Kg)
+5.2.1 Ocena i przyznanie punktów w tym kryterium nastąpi na podstawie informacji zawartych w
+formularzu ofertowym .
+5.2.2. Każdy z Wykonawców zobowiązany jest do udzielenia minimum 36 miesięcznego okresu
+gwarancji.
+5.2.3 Wykonawcy są zobowiązani do zadeklarowania okresu gwarancji w pełnych miesiącach.
+Zamawiający przyzna punkty za wydłużenie okresu gwarancji ,  w następujący sposób:
+• za zaoferowanie okresu gwarancji w wysokości 36 miesięcy Wykonawca otrzyma 0 pkt
+• za zaoferowanie okresu gwarancji w wysokości 48  miesięcy Wykonawca otrzyma  10 pkt
+• za zaoferowanie okresu gwarancji w wysokości  60 miesięcy Wykonawca otrzyma   20 pkt
+• za zaoferowanie okresu gwarancji w wysokości  72 miesięcy Wykonawca otrzyma   30 pkt
+•  za zaoferowanie okresu gwarancji w wysokości  84 miesięcy Wykonawca otrzyma 40 pkt
+5.2.4 Za zadeklarowanie dłuższego okresu gwarancji niż 84 miesięcy, wykonawca otrzyma nie więcej
+niż 40 punk tów. Do umowy przyjęty zostanie okres gwarancji faktycznie zaoferowany przez
+Wykonawcę w ofercie.
+5.2.5 Niewpisanie żadnego okresu gwarancji lub zaoferowanie okresu gwarancji krótszego niż 36
+miesięcy spowoduje odrzucenie oferty Wykonawcy.
+5.2.6.W przypadku gdy Wykonawca w formularzu ofertowym zaznaczy dwie  lub więcej wartości do
+oceny w tym kryterium zostanie przyjętą  wartość  najniższa.
+6. W celu ostatecznego wyboru najkorzystniejszej oferty, w poszczególnych zadaniach, w powiązaniu
+z przedstawionymi wyżej kryteriami, Zamawiający posłuży się następującym wzorem:
+Won =  Kcn + K gn
+Won – wskaźnik oceny oferty
+n - numer oferty
+7. Jeżeli nie można wybrać oferty najkorzystniejszej z uwagi na to, że dwie lub więcej ofert przedstawia
+taki sam bilans ceny i innych kryteriów oceny ofert, zamawiający spośród tych ofert wybiera ofertę,
+która otrzymała najwyższą ocenę w kryterium o najwyżs zej wadze.
+8. Jeżeli nie można dokonać wyboru oferty, w sposób o którym mowa w ust. 7, Zamawiający wzywa
+wykonawców, którzy złożyli te oferty, do złożenia w terminie określonym przez Zamawiającego ofert
+dodatkowych zawierających nową cenę lub koszt.
+9. Wykonawcy, składając oferty dodatkowe, nie mogą oferować cen lub kosztów wyższych niż
+zaoferowane w uprzednio złożonych przez nich ofertach.
+Rozdział XII  PROJEKTOWANE POSTANOWIENIA UMOWY
+1. Projektowane postanowienia umowy  stanowi załącznik nr 4 do SWZ   dla zadania 1, załącznik
+nr 4a do SWZ dla zadania 2 .
+2. Złożenie oferty jest jednoznaczne z akceptacją przez wykonawcę projektowanych
+postanowień umowy.
+Rozdział XIII  WYMAGANIA DOTYCZĄCE ZABEZPIECZENIA NALEŻYTEGO WYKONANIA UMOWY
+Zamawiający nie żąda wniesienia zabezpieczenia należytego wykonania umowy.
+Rozdział XIV  FORMALNOŚCI PO WYBORZE OFERTY W CELU ZAWARCIA UMOWY
+1. INFORMACJA O WYBORZE OFERTY
+Informacja o wyborze oferty zostanie przekazana Wykonawcom, którzy złożyli oferty na zasadach i w
+zakresie określonym w art. 253 ust. 1 ustawy Pzp.
+2. WARUNKI ZAWARCIA UMOWY
+2.1. Zamawiający wskaże Wykonawcy, którego oferta została wybrana termin i miejsce podpisania
+umowy.
+2.2. Umowa zostanie zawarta w terminie wyznaczonym przez Zamawiającego, zgodnie z wzorem
+stanowiącym załącznik nr 4 do SWZ  dla zadania 1, załącznik nr 4a do SWZ dla zadania 2  .
+2.3. Wykonawca przed podpisaniem umowy zobowiązany jest przedłożyć Zamawiającemu w
+przypadku Wykonawców wspólnie ubiegających się o udzielenie zamówienia – kopię umowy
+regulującej współpracę tych Wykonawców.
+2.4 Jeżeli Wykonawca, którego oferta została wybrana jako najkorzystniejsza, uchyla się od zawarcia
+umowy w sprawie zamówienia publicznego lub nie wnosi wymaganego zabezpieczenia należytego
+wykonania umowy (o ile było wymagane), Zamawiający może dokonać po nownego badania i oceny
+ofert spośród ofert pozostałych w postępowaniu wykonawców oraz wybrać najkorzystniejszą ofertę
+albo unieważnić postępowanie.
+2.5. W sprawach nieuregulowanych w niniejszej SWZ mają zastosowanie przepisy ustawy Prawo
+zamówień publicznych oraz przepisy Kodeksu cywilnego.
+2.6. Osoby reprezentujące Wykonawcę przy podpisaniu umowy winny posiadać ze sobą dokumenty
+potwierdzające ich umocowanie do podpisania umowy, o ile umocowanie to nie będzie wynikać z
+dokumentów załączonych do przedłożonej oferty.
+ROZDZIAŁ XV  POUCZENIE O ŚRODKACH OCHRONY PRAWNEJ
+1.2. Zasady, terminy oraz sposób korzystania ze środków ochrony prawnej szczegółowo regulują
+przepisy działu IX ustawy – Środki ochrony prawnej (art. 505 – 590 ustawy Pzp).
+1.3. Środki ochrony prawnej przysługują Wykonawcy oraz innemu podmiotowi, jeżeli ma lub miał
+interes w  uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez
+zamawiającego przepisów ustawy Pzp.
+1.4. Środki ochrony prawnej wobec ogłoszenia wszczynającego postępowanie o udzielenie
+zamówienia oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę, o
+której mowa w art. 469 pkt 15, oraz Rzecznikowi Małych i Średnich Przedsiębiorców.
+1.5. Odwołanie przysługuje na:
+1)  niezgodną z przepisami ustawy czynność zamawiającego, podjętą w postępowaniu
+o udzielenie zamówienia, o  zawarcie umowy ramowej, dynamicznym systemie zakupów, systemie
+kwalifikowania wykonawców lub konkursie, w  tym na projektowane postanowienie umowy;
+2)  zaniechanie czynności w postępowaniu o udzielenie zamówienia, o zawarcie umowy ramowej,
+dynamicznym systemie zakupów, systemie kwalifikowania wykonawców lub konkursie, do której
+zamawiający był obowiązany na podstawie ustawy;
+3)  zaniechanie przeprowadzenia postępowania o udzielenie zamówienia lub zorganizowania
+konkursu na podstawie ustawy, mimo że zamawiający był do tego obowiązany.
+1.6. Odwołanie wnosi się do Prezesa Izby.
+1.7. Pisma w postępowaniu odwoławczym wnosi się w formie pisemnej albo w formie
+elektronicznej albo w postaci elektronicznej, z tym że odwołanie i przystąpienie do postępowania
+odwoławczego, wniesione w postaci elektronicznej, wymagają opatrzenia podpisem zaufa nym.
+1.8. Odwołujący przekazuje zamawiającemu odwołanie wniesione w formie elektronicznej albo
+postaci elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej,
+przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego
+treścią przed upływem tego terminu.
+1.9. Zgodnie z art. 515 ustawy Pzp, odwołanie wnosi się:
+1) w przypadku zamówień, których wartość jest mniejsza niż progi unijne, w terminie:
+a) 5 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego
+wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej,
+b) 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego
+wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w lit. a.
+2. Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub
+konkurs lub wobec treści dokumentów zamówienia wnosi się w terminie:
+1) 5 dni od dnia zamieszczenia ogłoszenia w Biuletynie Zamówień Publicznych lub dokumentów
+zamówienia na stronie internetowej, w przypadku zamówień, których wartość jest mniejsza niż progi
+unijne.
+3. Odwołanie w przypadkach innych niż określone w ust. 1 i 2 wnosi się w terminie:
+1) 5 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć
+wiadomość o  okolicznościach stanowiących podstawę jego wniesienia, w przypadku zamówień,
+których wartość jest mniejsza niż progi unijne.
+4 Na orzeczenie Izby oraz postanowienie Prezesa Izby, o którym mowa w art. 519 ust. 1 ustawy Pzp,
+stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do sądu. Skargę wnosi się
+do Sądu Okręgowego w Warszawie – sądu zamówień publicznych, zw anego „sądem zamówień
+publicznych”.
+5. Skargę wnosi się za pośrednictwem Prezesa Izby, w terminie 14 dni od dnia doręczenia orzeczenia
+Izby lub postanowienia Prezesa Izby, o którym mowa w art. 519 ust. 1, przesyłając jednocześnie jej
+odpis przeciwnikowi skargi. Złożenie skargi w  placówce poc ztowej operatora wyznaczonego w
+rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe jest równoznaczne z jej wniesieniem.
+ROZDZIAŁ XVI    OCHRONA DANYCH OSOBOWYCH ZEBRANYCH PRZEZ ZAMAWIAJĄCEGO W TOKU
+POSTĘPOWANIA
+1. Zgodnie z art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z
+dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych
+osobowych i w sprawie swobodnego przepływu takich danych oraz uchyleni a dyrektywy 95/46/WE
+(ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1), dalej „RODO”,
+informuję, że:
+a) administratorem Pani/Pana danych osobowych jest:  Starosta Mikołowski  z siedzibą : ul. Żwirki
+i Wigury 4a, 43 -190 Mikołów , tel. (32) 32 – 48 – 102, faks (32) 32 – 48 – 211, e -mail:
+kancelaria@mikolowski.pl
+b) inspektorem ochrony danych osobowych jest Pan Sebastian Dziuban, adres poczty
+elektronicznej: iod@mikolow.starostwo.gov.pl; adres do korespondencji pisemnej jak w punkcie 1
+litera „a”.
+c) Pani/Pana dane osobowe przetwarzane będą na podstawie art. 6 ust. 1 lit. c RODO w celu
+związanym z postępowaniem o udzielenie zamówienia publicznego : nr PR-2024 -3.042.8.2025 , na:
+Sprzedaż i dostawa sprzętu komputerowego do ZST w Mikołowie, do ZSP w Ornontowicach oraz do
+ZSEiU w Łaziskach Górnych przewidzianych w ramach projektu pn.: „Zawodowy Mikołowski – Edukacja
+Zawodowa w procesie transformacji w Powiecie Mikołowskim” Projekt do finansowany jest z Funduszu
+na rzecz Sprawiedliwej Transformacji w ramach Programu Fundusze Europejskie dla Śląskiego na lata
+2021 –2027, Priorytet FESL.10.00 – Fundusze Europejskie  na transformację, Działanie: FESL.10.23 –
+Edukacja Zawodowa w procesie sprawiedliwej transformacji regionu, prowadzonym w trybie
+podstawowym bez negocjacji;
+d) odbiorcami Pani/Pana danych osobowych będą osoby lub podmioty, którym udostępniona
+zostanie dokumentacja postępowania w oparciu o art. 18 oraz art. 74 ust. 1 ustawy z dnia 11 września
+2019 roku – Pzp (tekst jednolity: Dz. U. z 202 4 r. poz. 1320 ), dalej „ustawa Pzp”;
+e) Pani/Pana dane osobowe będą przechowywane, zgodnie z art. 78 ust. 1 ustawy Pzp, przez
+okres 4 lat od dnia zakończenia postępowania o udzielenie zamówienia, a jeżeli czas trwania umowy
+przekracza 4 lata, okres przechowywania obejmuje cały czas trwania umow y; zgodnie z
+Rozporządzeniem Prezesa Rady Ministrów z dnia 18 stycznia 2011 r. w sprawie instrukcji kancelaryjnej,
+jednolitych rzeczowych wykazów akt oraz instrukcji w sprawie organizacji i zakresu działania archiwów
+zakładowych (tj. Dz. U z 2011 nr 14, poz. 67 z późn. zm.) teczki aktowe będą przechowywane w
+archiwum zakładowym przez okres 5 lat w przypadku dokumentacji zamówień publicznych oraz 10 lat
+w przypadku umów zawartych w wyniku postępowania w trybie zamówień publicznych;
+5) obowiązek podania przez Panią/Pana danych osobowych bezpośrednio Pani/Pana
+dotyczących jest wymogiem ustawowym określonym w przepisach ustawy Pzp, związanym z udziałem
+w postępowaniu o udzielenie zamówienia publicznego; konsekwencje niepodania określonych  danych
+wynikają z ustawy Pzp;
+6) w odniesieniu do Pani/Pana danych osobowych decyzje nie będą podejmowane w sposób
+zautomatyzowany, stosowanie do art. 22 RODO;
+7) posiada Pani/Pan:
+− na podstawie art. 15 RODO prawo dostępu do danych osobowych Pani/Pana dotyczących;
+− w przypadku, gdy wykonanie obowiązków, o których mowa w art. 15 ust. 1 -3 RODO wymagałoby
+niewspółmiernie dużego wysiłku, Zamawiający może żądać od osoby, której dane dotyczą, wskazania
+dodatkowych informacji mających na celu sprecyzowanie żądania, w szcze gólności podania nazwy lub
+daty postępowania o udzielenie zamówienia publicznego;
+− w przypadku, gdy wykonanie obowiązków, o których mowa w art. 15 ust. 1 -3 RODO wymagałoby
+niewspółmiernie dużego wysiłku, Zamawiający może żądać od osoby, której dane dotyczą, wskazania
+dodatkowych informacji mających w szczególności na celu sprecyzowanie nazwy lub daty
+zakończonego postepowania o udzielenie zamówienia publicznego.
+− na podstawie art. 16 RODO prawo do sprostowania Pani/Pana danych osobowych (przy czym
+korzystanie z prawa do sprostowania nie może skutkować zmianą wyniku postępowania  o udzielenie
+zamówienia publicznego ani zmianą postanowień umowy w zakresie niezgodnym  z ustawą Pzp oraz
+nie może naruszać integralności protokołu oraz jego załączników)
+− na podstawie art. 18 RODO prawo żądania od administratora ograniczenia przetwarzania danych
+osobowych z zastrzeżeniem przypadków, o których mowa w art. 18 ust. 2 RODO (przy czym prawo do
+ograniczenia przetwarzania nie ma zastosowania w odniesieniu do prze chowywania, w celu
+zapewnienia korzystania ze środków ochrony prawnej lub w celu ochrony praw innej osoby fizycznej
+lub prawnej, lub z uwagi na ważne względy interesu publicznego Unii Europejskiej lub państwa
+członkowskiego);
+− wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 RODO , nie ogranicza przetwarzania danych
+osobowych do czasu zakończenia postępowania o udzielenie zamówienia publicznego;
+− prawo do wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych, jeśli uzna Pani/Pan, że
+przetwarzanie danych osobowych Pani/Pana dotyczących narusza przepisy RODO;
+8) nie przysługuje Pani/Panu:
+− w związku z art. 17 ust. 3 lit. b, d lub e RODO prawo do usunięcia danych osobowych;
+− prawo do przenoszenia danych osobowych, o którym mowa w art. 20 RODO;
+− na podstawie art. 21 RODO prawo sprzeciwu, wobec przetwarzania danych osobowych, gdyż
+podstawą prawną przetwarzania Pani/Pana danych osobowych jest art. 6 ust. 1 lit. c RODO.
+9) Jednocześnie Zamawiający przypomina o ciążącym na Wykonawcy obowiązku informacyjnym
+wynikającym z art. 14 RODO względem osób fizycznych, których dane przekazane zostaną
+Zamawiającemu w związku z prowadzonym postępowaniem i które Zamawiający pośrednio po zyska
+od Wykonawcy biorącego udział w postępowaniu, chyba że ma zastosowanie co najmniej jedno z
+wyłączeń, o których mowa w art. 14 ust. 5 RODO.
+10) Skorzystanie przez osobę, której dane osobowe dotyczą, z uprawnienia do sprostowania lub
+uzupełnienia, o którym mowa w art. 16 RODO, nie może skutkować zmianą wyniku postępowania o
+udzielenie zamówienia ani zmianą postanowień umowy w sprawie zamówienia  publicznego w zakresie
+niezgodnym z ustawą Pzp.
+11) W postępowaniu o udzielenie zamówienia zgłoszenie żądania ograniczenia przetwarzania, o
+którym mowa w art. 18 ust. 1 RODO, nie ogranicza przetwarzania danych osobowych do czasu
+zakończenia tego postępowania.
+Mikołów, dnia  01.07.2025  roku
+Zatwierdzam:
+Wicestarosta
+Jarosław Sworzeń

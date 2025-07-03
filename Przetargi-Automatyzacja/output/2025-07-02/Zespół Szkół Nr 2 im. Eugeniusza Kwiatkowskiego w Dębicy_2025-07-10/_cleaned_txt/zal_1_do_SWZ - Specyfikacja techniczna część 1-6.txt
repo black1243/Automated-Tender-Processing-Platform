@@ -1,0 +1,390 @@
+Załącznik nr 1 do SWZ
+Część I - Sprzęt komputerowy - Szczegółowy Opis Przedmiotu Zamówienia
+W niniejszym opisie przedmiotu zamówienia przedstawiono minimalne wymagania dotyczące wyposażenia, które muszą być spełnione. Wykonawcy mogą przedstawić oferty równoważne, jednakże proponowany przez wykonawcę sprzęt równoważny musi charakteryzować się takimi samymi parametrami funkcjonalno-użytkowymi jak produkty opisane poniżej lub je przewyższać. Proponowany sprzęt musi spełniać wymagane parametry wymiarowe i techniczne podane w opisie poszczególnych pozycji sprzętu poniżej. Jakiekolwiek wskazane w opisie przedmiotu zamówienia, nazwy produktów lub ich producenci mają na celu jedynie przybliżenie wymagań, których nie można było opisać przy pomocy dostatecznie dokładnych i zrozumiałych określeń. W przypadku zastosowania produktów równoważnych, Wykonawca zobowiązany jest do przedstawienia szczegółowej dokumentacji technicznej potwierdzającej zgodność z wymaganiami.
+Wymagania dotyczące przedmiotu zamówienia
+Oferowany produkt nie może być prototypem musi być produktem istniejącym na rynku w obrocie.
+Wymagane wraz z ofertą podanie modelu oraz producenta oferowanego produktu.
+Koszt dostawy, rozładunku i montażu pokrywa Wykonawca.
+Klasa energetyczna minimum C zgodnie lub równoważna
+Dostarczone urządzenia muszą być wyposażone w następujące dokumenty:
+a) Deklarację zgodności producenta CE,
+b) Dokument gwarancyjny,
+c) Instrukcję obsługi w języku polskim,
+W zakres części 1 wchodzi:
+Komputer przenośny/laptop – 6 SZT.
+Przedmiotem zamówienia jest dostawa fabrycznie nowego, komputera przenośnego (laptopa) składającego się z komputera przenośnego, wraz z systemem operacyjnym preinstalowanym przez producenta. Sprzęt musi spełniać poniższe wymagania:
+Dostarczany sprzęt musi być fabrycznie nowy i pochodzić z najnowszych linii produktowych.
+Data produkcji komputera nie może być starsza niż 12 miesięcy od daty dostawy.
+Sprzęt musi być dostarczony ze wszystkimi niezbędnymi do działania i zapewnienia wymaganych funkcjonalności bezterminowymi licencjami na używanie tych funkcjonalności.
+Procesor: Procesor klasy x86-64 (x64), co najmniej 10 rdzeniowy, 12 wątkowy, zaprojektowany do pracy w komputerach przenośnych, taktowany zegarem co najmniej 3,0 GHz, z możliwością taktowania do co najmniej 4,5 GHz, z pamięcią cache CPU L3 co najmniej 12 MB lub równoważny tej klasy. Zaoferowany procesor musi uzyskiwać jednocześnie w teście Passmark CPU Mark (higher is better) wynik min.: 25 000 punktów (wynik zaproponowanego procesora musi znajdować się na stronie http://www.cpubenchmark.net) oraz powinien być najnowszej generacji dostępnej na dzień rozstrzygnięcia przetargu.
+Płyta główna z chipsetem rekomendowanym przez producenta procesora.
+Pamięć RAM Minimum: 16 GB DDR5  5600 MHz lub równoważna z możliwością rozbudowy o dodatkowy moduł pamięci.
+Dysk: SSD M.2 NVMe o pojemności co najmniej 512 GB.
+Wbudowany podsystem dźwięku, zgodny z HD Audio.
+Karta graficzna: Zintegrowana karta graficzna wykorzystująca pamięć RAM systemu dynamicznie przydzielaną na potrzeby grafiki w trybie UMA (Unified Memory Access) – z możliwością dynamicznego przydzielenia do 1,5 GB pamięci. Karta graficzna obsługująca funkcje:
+DirectX 12, OGL 4.6, Shader Model 6.8
+System operacyjny: Interfejs użytkownika:
+Graficzny interfejs użytkownika:
+Klasyczny, umożliwiający obsługę przy pomocy klawiatury i myszy, idealny do pracy na tradycyjnych komputerach i laptopach.
+Dotykowy, przystosowany do urządzeń takich jak tablety i monitory dotykowe, zapewniający intuicyjną obsługę gestami i dotykiem.
+Nowoczesny i przejrzysty interfejs oparty na minimalistycznym wzornictwie.
+Przebudowane menu startowe z możliwością łatwego dostosowania aplikacji i sekcji do indywidualnych preferencji użytkownika.
+Narzędzia wspierające produktywność i organizację:
+Możliwość tworzenia wirtualnych pulpitów, które pozwalają użytkownikom oddzielić przestrzeń roboczą od prywatnej lub projektowej.
+Funkcja łatwego rozmieszczania okien na ekranie, umożliwiająca wygodne korzystanie z wielu aplikacji jednocześnie w trybie wielozadaniowym.
+Szybki dostęp do najczęściej używanych plików, witryn internetowych i dokumentów, dostępny poprzez pasek zadań lub dedykowane widżety.
+Zaawansowana wyszukiwarka plików, która pozwala szybko odnajdywać dokumenty, aplikacje lub ustawienia systemowe.
+Wydajność i zgodność:
+Pełna obsługa architektury 64-bitowej, co umożliwia korzystanie z nowoczesnych aplikacji oraz wielowątkowych procesów o wysokim zapotrzebowaniu na zasoby.
+Możliwość uruchamiania maszyn wirtualnych do testowania oprogramowania lub pracy w różnych środowiskach systemowych.
+Narzędzia zapewniające uruchamianie starszych aplikacji, które mogą być niekompatybilne z bieżącą wersją systemu.
+Personalizacja:
+Obsługa szerokiego zakresu personalizacji, w tym zmiany motywów, kolorów, widżetów czy układu ikon.
+Wbudowany tryb jasny i ciemny, dostosowany do różnych preferencji użytkownika oraz warunków oświetleniowych.
+Sieć i bezpieczeństwo:
+Udostępnianie plików i drukarek w sieci lokalnej, co ułatwia wymianę danych i współpracę między użytkownikami w domowym lub szkolnym środowisku.
+Zaawansowane mechanizmy ochrony danych, w tym szyfrowanie zasobów i narzędzia do monitorowania bezpieczeństwa systemu.
+Możliwość bezpiecznego nawiązywania połączeń z sieciami firmowymi, w tym za pomocą wirtualnych sieci prywatnych (VPN).
+Opcje logowania biometrycznego, takie jak rozpoznawanie twarzy lub odcisk palca, zapewniające dodatkowe bezpieczeństwo.
+Zarządzanie i administracja:
+Rozbudowane narzędzia administracyjne, pozwalające precyzyjnie kontrolować ustawienia systemu i uprawnienia użytkowników.
+Obsługa pracy w sieciach domenowych, co jest szczególnie przydatne w środowisku szkolnym.
+Opcje automatycznego tworzenia kopii zapasowych, umożliwiające przywracanie plików lub ustawień systemu w razie potrzeby.
+Możliwość zdalnego zarządzania systemem, co ułatwia dostęp do danych i zasobów na innych urządzeniach.
+Specjalne wymagania:
+System pozwala na instalację oprogramowania wspierającego starsze technologie internetowe, które mogą być potrzebne w placówkach edukacyjnych lub innych instytucjach.
+Gwarantowana jest dostępność telefonicznej pomocy technicznej w języku polskim w określonych godzinach pracy, co ułatwia użytkownikom szybkie rozwiązywanie problemów.
+Funkcje dodatkowe:
+Wbudowane narzędzia do komunikacji i współpracy zespołowej, umożliwiające prowadzenie spotkań online oraz dzielenie się plikami.
+Zintegrowany sklep z aplikacjami, oferujący szeroką gamę oprogramowania do pracy, nauki oraz rozrywki.
+Obsługa nowoczesnych technologii graficznych i szybkiego ładowania aplikacji, szczególnie przy wykorzystaniu najnowszych dysków SSD.
+Narzędzia do izolowania aplikacji i procesów w celu zwiększenia bezpieczeństwa oraz wydajności.
+Wersja systemu ma umożliwiać pracę w domenie Active Directory, preinstalowany na komputerze przez producenta wraz z licencją.
+Komputer powinien posiadać niezbędne porty w ilości minimum:
+3 x USB 3.2 Type-A
+1 x USB 3.1 Type-C
+1x HDMI
+1 x Wyjście słuchawkowe/wejście mikrofonowe
+1 x RJ-45
+1 x DC-in wejście zasilania
+Komputer powinien posiadać niezbędne interfejsy komunikacyjne i wyposażenie w ilości minimum:
+Moduł bezprzewodowy Bluetooth minimum 5.3
+WiFi 6E lub równoważne
+Kamera Full HD
+Bateria Litowo-jonowa zapewniająca minimum 3 godziny pracy na zasilaniu bateryjnym
+Ekran komputera stanowić powinna matryca o przekątnej ekranu minimum 15,6” mogąca pracować w rozdzielczości Full HD 1920 x 1080 z matową powłoką wykonana w technologii LED IPS.
+Klawiatura komputera powinna być z wydzieloną klawiaturą numeryczną podświetlana w kolorze białym lub bursztynowym.
+Wielodotykowy TouchPad
+Obudowa w kolorystyce czarnej lub odcieniach szarości.
+Zasilacz z wtykiem europejskim
+Akcesoria do laptopa:
+Dokumentacja
+Zasilacz z Europejskim przewodem zasilającym
+Zabezpieczenia
+Szyfrowanie TPM
+Windows Hello
+Kamera z wbudowaną zaślepką
+Dodatkowa funkcjonalność
+Partycja recovery (opcja przywrócenia systemu z dysku)
+Wymagania dodatkowe:
+Sprzęt musi być objęty gwarancją producenta na okres co najmniej 24 miesiące.
+Dostawa i instalowanie.
+Część II - monitory interaktywne - Szczegółowy Opis Przedmiotu Zamówienia
+W niniejszym opisie przedmiotu zamówienia przedstawiono minimalne wymagania dotyczące wyposażenia, które muszą być spełnione. Wykonawcy mogą przedstawić oferty równoważne, jednakże proponowany przez wykonawcę sprzęt równoważny musi charakteryzować się takimi samymi parametrami funkcjonalno-użytkowymi jak produkty opisane poniżej lub je przewyższać. Proponowany sprzęt musi spełniać wymagane parametry wymiarowe i techniczne podane w opisie poszczególnych pozycji sprzętu poniżej. Jakiekolwiek wskazane w opisie przedmiotu zamówienia, nazwy produktów lub ich producenci mają na celu jedynie przybliżenie wymagań, których nie można było opisać przy pomocy dostatecznie dokładnych i zrozumiałych określeń. W przypadku zastosowania produktów równoważnych, Wykonawca zobowiązany jest do przedstawienia szczegółowej dokumentacji technicznej potwierdzającej zgodność z wymaganiami.
+Wymagania dotyczące przedmiotu zamówienia
+Oferowany produkt nie może być prototypem musi być produktem istniejącym na rynku w obrocie.
+Wymagane wraz z ofertą podanie modelu oraz producenta oferowanego produktu.
+Koszt dostawy, rozładunku i montażu pokrywa Wykonawca.
+Dostarczone urządzenia muszą być wyposażone w następujące dokumenty:
+a) Deklarację zgodności producenta CE,
+b) Dokument gwarancyjny,
+c) Instrukcję obsługi w języku polskim,
+Monitor interaktywny – 7 SZT.
+Przekątna ekranu: 75 cali lub większa.
+Typ ekranu: VA (Vertical Alignment) lub równoważna technologia zapewniająca szerokie kąty widzenia i wysoki kontrast.
+Rozdzielczość: 4K (3840 x 2160 pikseli) lub wyższa, umożliwiająca wyświetlanie treści w wysokiej jakości.
+Technologia dotyku: Możliwość obsługi wielodotykowej z co najmniej 20 punktami dotyku, technologia podczerwieni lub równoważna, zapewniająca możliwość obsługi wielodotykowej z co najmniej 20 punktami dotyku.
+Rodzaj podświetlenia ekranu zalecany LED.
+Jasność ekranu minimum 450 cd/m2
+Czas reakcji matrycy minimum 5 ms.
+Kontrast minimum 5000 : 1
+Pobór mocy nie więcej niż 200 W
+Funkcje interaktywne:
+Możliwość rysowania, pisania i interakcji z treścią na ekranie w czasie rzeczywistym.
+Współpraca z wieloma użytkownikami jednocześnie.
+Łączność:
+Wi-Fi: Bezprzewodowe połączenie z siecią.
+Bluetooth: Obsługa urządzeń zewnętrznych (np. bezprzewodowe klawiatury, myszy, głośniki).
+Porty HDMI, USB, LAN (Ethernet): Co najmniej dwa porty HDMI, co najmniej trzy porty USB (w tym 1x USB 3.0), porty Ethernet do stabilnego połączenia przewodowego.
+Porty audio: Wyjścia audio (jack, HDMI) do podłączenia zewnętrznych urządzeń audio.
+System operacyjny: Zintegrowany system operacyjny umożliwiający instalację aplikacji edukacyjnych i multimedialnych, typu Android lub równoważny w najnowszej wersji na dzień realizacji zamówienia.
+Wbudowane funkcje multimedialne:
+Obsługa odtwarzania treści wideo i audio w jakości 4K.
+Wbudowane głośniki o mocy co najmniej 2 x 10 W.
+Zasilanie: Niskie zużycie energii, urządzenie zgodne z normami energooszczędności (np. Energy Star lub równoważnymi).
+Powierzchnia ekranu:
+Wysoka odporność na zarysowania (powłoka hartowana 7H lub równoważna o wysokiej odporności na zarysowania).
+Powłoka matowa lub antyrefleksyjna, zapobiegająca odblaskom w silnym oświetleniu.
+Wymiary urządzenia: Zgodne z wymaganiami dla przestrzeni edukacyjnych, odpowiednie do montażu na ścianie lub ustawienia na podstawie.
+Wsparcie techniczne: Dostępność wsparcia w języku polskim oraz możliwość serwisowania na miejscu.
+Monitor na wysuwanym ramieniu.
+Certyfikaty i normy:
+Certyfikat CE lub równoważny
+Zgodność z normami RoHS lub równoważne,
+Gwarancja na monitor minimum 2 lata.
+Dodatkowo należy uwzględnić w ofercie:
+Uwzględnienie w ofercie wyposażenia monitora w postaci statywu podłogowego mobilnego z półką na dodatkowe urządzenia o udźwigu odpowiednio dobranym do monitora celem umożliwienia korzystania z niego oraz zwiększenia możliwości instalacji i mobilności monitora.
+Nagłośnienie SOUNDBAR 2.1 spełniające następujące wymagania: Moc RMS minimum 50 W, Komunikacja Bluetooth, Port USB, Wejścia: RCA; liniowe 3,5mm; optyczne; HDMI, Pilot, Zasilanie sieciowe, Gwarancja minimum 2 lata.
+Część III – Wzualizer - Szczegółowy Opis Przedmiotu Zamówienia
+W niniejszym opisie przedmiotu zamówienia przedstawiono minimalne wymagania dotyczące wyposażenia, które muszą być spełnione. Wykonawcy mogą przedstawić oferty równoważne, jednakże proponowany przez wykonawcę sprzęt równoważny musi charakteryzować się takimi samymi parametrami funkcjonalno-użytkowymi jak produkty opisane poniżej lub je przewyższać. Proponowany sprzęt musi spełniać wymagane parametry wymiarowe i techniczne podane w opisie poszczególnych pozycji sprzętu poniżej. Jakiekolwiek wskazane w opisie przedmiotu zamówienia, nazwy produktów lub ich producenci mają na celu jedynie przybliżenie wymagań, których nie można było opisać przy pomocy dostatecznie dokładnych i zrozumiałych określeń. W przypadku zastosowania produktów równoważnych, Wykonawca zobowiązany jest do przedstawienia szczegółowej dokumentacji technicznej potwierdzającej zgodność z wymaganiami.
+Wymagania dotyczące przedmiotu zamówienia
+Oferowany produkt nie może być prototypem musi być produktem istniejącym na rynku w obrocie.
+Wymagane wraz z ofertą podanie modelu oraz producenta oferowanego produktu.
+Koszt dostawy, rozładunku i montażu pokrywa Wykonawca.
+Dostarczone urządzenia muszą być wyposażone w następujące dokumenty:
+a) Deklarację zgodności producenta CE,
+b) Dokument gwarancyjny,
+c) Instrukcję obsługi w języku polskim,
+Wizualizer – 1 SZT.
+Przedmiotem zamówienia jest wizualizer przeznaczony do pracowni chemicznej do prezentowania podczas lekcji doświadczeń oraz reakcji chemicznych na żywo. Wizualizer będzie wykorzystywany również do prezentacji dokumentów, zdjęć oraz obiektów 3D w wysokiej rozdzielczości.
+Cechy Wizualizera
+Kamera Full HD 1080p i częstotliwość odświeżania ekranu 30 kl./s
+12-krotny zoom optyczny i 10-krotny zoom cyfrowy, automatyczne ustawianie ostrości za pomocą jednego dotknięcia i funkcja stop-klatki
+Duży obszar przechwytywania w formacie A3: Doskonały do wyświetlania map, szczegółowych diagramów i obiektów 3D
+Podświetlenie słabo widocznych obiektów: Wbudowana lampa LED
+Dodatkowy komfort: Blokada Kensington i pasek zabezpieczający chronią przed kradzieżą
+Dane techniczne:
+Kamera
+Matryca: 1/2.7-calowy sensor CMOS lub podobna
+Efektywna liczba pikseli: 2 megapiksele (1920 × 1080)​-lub więcej
+Maksymalna rozdzielczość wideo: Full HD 1080p (1920 × 1080)​
+Częstotliwość odświeżania: do 30 klatek na sekundę​
+Balans bieli: Automatyczny​
+Ekspozycja: Regulowana​
+Jasność: Regulowana​
+Obiektyw i powiększenie
+Zoom optyczny: 12×​
+Zoom cyfrowy: 10×​
+Funkcja autofocus: Tak, z przyciskiem jednego dotknięcia​
+Obszar skanowania: Maksymalnie 297 × 420 mm (format A3)​
+Oświetlenie
+Źródło światła: Wbudowane białe diody LED (2 sztuki)​ - minimum
+Funkcje dodatkowe
+Nagrywanie wideo: z wbudowanym mikrofonem​, funkcja zamrażania obrazu, Obracanie obrazu, ​
+funkcja dzielenia ekranu, obsługa kart pamięci: Slot na karty SD/SDHC (do 32 GB)​
+Interfejsy i łączność
+Wejścia:
+1 × VGA (D-Sub)​
+1 × USB-B (do połączenia z PC/Mac)​
+Wyjścia:
+1 × VGA (D-Sub)​
+1 × HDMI​
+Inne porty:
+Slot na karty SD/SDHC​
+Gniazdo zasilania DC​
+Pobór mocy (nie więcej niż):
+Podczas pracy: 13 W​
+W trybie czuwania: 0,5 W​
+Zabezpieczenia: Gniazdo Kensington Lock, pasek zabezpieczający​
+Obsługiwane systemy operacyjne
+Windows 10​, 11
+Mac OS X 10.7.x, 10.8.x, 10.9.x
+Minimalna gwarancja: 24 miesiące.
+Część IV – Sieciowe urządzenie wielofunkcyjne - Szczegółowy Opis Przedmiotu Zamówienia
+W niniejszym opisie przedmiotu zamówienia przedstawiono minimalne wymagania dotyczące wyposażenia, które muszą być spełnione. Wykonawcy mogą przedstawić oferty równoważne, jednakże proponowany przez wykonawcę sprzęt równoważny musi charakteryzować się takimi samymi parametrami funkcjonalno-użytkowymi jak produkty opisane poniżej lub je przewyższać. Proponowany sprzęt musi spełniać wymagane parametry wymiarowe i techniczne podane w opisie poszczególnych pozycji sprzętu poniżej. Jakiekolwiek wskazane w opisie przedmiotu zamówienia, nazwy produktów lub ich producenci mają na celu jedynie przybliżenie wymagań, których nie można było opisać przy pomocy dostatecznie dokładnych i zrozumiałych określeń. W przypadku zastosowania produktów równoważnych, Wykonawca zobowiązany jest do przedstawienia szczegółowej dokumentacji technicznej potwierdzającej zgodność z wymaganiami.
+Wymagania dotyczące przedmiotu zamówienia
+Oferowany produkt nie może być prototypem musi być produktem istniejącym na rynku w obrocie.
+Wymagane wraz z ofertą podanie modelu oraz producenta oferowanego produktu.
+Koszt dostawy, rozładunku i montażu pokrywa Wykonawca.
+Dostarczone urządzenia muszą być wyposażone w następujące dokumenty:
+a) Deklarację zgodności producenta CE,
+b) Dokument gwarancyjny,
+c) Instrukcję obsługi w języku polskim,
+Sieciowe urządzenie wielofunkcyjne – 1 SZT.
+Przedmiotem zamówienia jest urządzenie wielofunkcyjne przeznaczone dla biur, które łączy w sobie funkcje drukowania, kopiowania, skanowania oraz faksowania.
+Wybrane parametry:
+Technologia druku - Kolorowa laserowa.
+Szybkość wydruku (stron na minutę) minimum	25 stron.
+Porty i interfejsy
+USB
+LAN (RJ-45 karta sieciowa)
+Fax
+Wi-Fi
+Rozdzielczość wydruku (dpi) minimum	600×600
+Rozdzielczość skanera (dpi) minimum	600x600
+Prędkość skanowania (kolor) min. 20 stron/min
+Skanowanie do maila, poprzez FTP, Faksowanie, PC, SMB, USB
+Wymagany dwustronny wydruk (duplex) automatyczny
+Wymagane dwustronne skanowanie / kopiowanie automatyczne
+Automatyczny podajnik dokumentów (ADF): Min. 100 arkuszy (A6-A4), obsługujący dokumenty o gramaturze do 200 g/m².
+Funkcje kopiowania i powielania: Wielokrotność kopiowania kopii. Powiększenie/pomniejszenie: 25% – 400%.
+Funkcja kopiowania książek
+Wbudowany wyświetlacz LCD do sterowania kopiowaniem i skanowaniem.
+Zasobniki papieru: Standardowe pojemności: Min. 300 arkuszy.
+Zainstalowana pamięć nie mniej niż	512 MB
+Maksymalny rozmiar nośnika 	A4
+Wkłady drukujące (umieszczone w drukarce)
+Kabel zasilający
+Kabel USB (do łączenia z komputerem)
+Karta gwarancyjna
+Komplet dodatkowych zapasowych tonerów CMYK,
+Minimalna gwarancja: 24 miesiące.
+Część V – Aplikacje multimedialne i interaktywne - Szczegółowy Opis Przedmiotu Zamówienia
+W niniejszym opisie przedmiotu zamówienia przedstawiono minimalne wymagania dotyczące aplikacji multimedialnych, które muszą być spełnione. Wykonawcy mogą przedstawić oferty równoważne, jednakże proponowany przez wykonawcę aplikacje/oprogramowanie równoważny musi charakteryzować się takimi samymi parametrami funkcjonalno-użytkowymi jak produkty opisane poniżej lub je przewyższać. Jakiekolwiek wskazane w opisie przedmiotu zamówienia, nazwy produktów lub ich producenci mają na celu jedynie przybliżenie wymagań, których nie można było opisać przy pomocy dostatecznie dokładnych i zrozumiałych określeń. W przypadku zastosowania produktów równoważnych.
+Wymagania dotyczące przedmiotu zamówienia
+Wymagane wraz z ofertą podanie modelu oraz producenta oferowanego produktu.
+Koszt dostawy, rozładunku i zainstalowania pokrywa Wykonawca.
+Dostarczone urządzenia muszą być wyposażone w następujące dokumenty:
+a) Deklarację zgodności producenta CE,
+b) Dokumenty licencyjne i gwarancyjne
+c) Instrukcję obsługi w języku polskim,
+Wirtualne laboratorium przyrodnicze (chemia) - 1 szt.
+Kompleksowe materiały interaktywne do nauki chemii na etapie szkoły ponadpodstawowej.
+Zawartość zestawu:
+min. 25 zagadnień z podstawy programowej,
+zakres podstawowy i rozszerzony (część doświadczeń z zakresu podstawowego z dodatkowymi treściami, część z rozszerzonego),
+atrakcyjne zasoby multimedialne – m.in.:
+filmy,
+animacje,
+wirtualne wycieczki,
+zdjęcia makro i mikroskopowe,
+symulacje,
+modele 3D,
+projektowanie doświadczeń,
+dodatkowe materiały do atrakcyjnej nauki z wykorzystaniem wirtualnej (VR) oraz rozszerzonej rzeczywistości (AR),
+licencja bezterminowa dla min. 3 nauczycieli i 90 uczniów.
+Minimalna lista zagadnień:
+Promieniotwórczość naturalna
+Sporządzanie roztworów o określonym stężeniu procentowym
+Sporządzanie roztworów o określonym stężeniu molowym
+Odczyn i pH roztworów
+Miareczkowanie alkacymetryczne
+Reakcje wytrącania osadów
+Właściwości amoniaku
+Odróżnianie skał wapiennych od innych skał
+Reakcje katalityczne
+Otrzymywanie wodoru
+Otrzymywanie tlenu
+Reakcje metali z tlenem
+Reakcje metali z kwasem chlorowodorowym
+Reakcje metali z kwasami: siarkowym(VI) i azotowym(V)
+Aktywność chemiczna metali
+Stopnie utlenienia manganu
+Ogniwa galwaniczne
+Elektroliza wody
+Alkohole mono- i polihydroksylowe
+Próba Tollensa
+Próba Trommera
+Otrzymywanie mydeł
+Wykrywanie obecności białek
+Właściwości sacharozy
+Włókna
+Aplikacje multimedialne – pakiet 8 programów (Biologia Człowieka, Biologia Roślin, Biologia Zwierząt, Chemia, Fizyka i Astronomia, Geologia, Geometria, Paleontologia i Kultura), pełna licencja - 1 szt.
+Specyfikacja biblioteki:
+Minimum 1500 interaktywnych modeli 3D (galerie-zdjęcia-video) z Chemii, Fizyki, Geografii/geologii, Matematyki/geometrii, bezpłatne aktualizacje, połączenie z pakietem MS Office (PowerPoint i Word), możliwość nagrywania filmów i robienia zdjęć, nielimitowana czasowo licencja, kompatybilność oprogramowania z Windows 10 lub nowszym, możliwość personalizacji materiałów edukacyjnych, wersje językowe - polska, angielska, łacińska.
+Pełna wersja aplikacji oferuje:
+Ponad 1000 modeli interaktywnych 3D, w tym szczegółowe fragmenty
+Możliwość uwypuklenia dowolnej części modelu w celu bardziej kompleksowej prezentacji
+Zoom i obrót 3D modeli w celu bardziej szczegółowego widoku
+Funkcję rozszerzonej rzeczywistości
+Wbudowaną funkcję ślepej mapy w celu przeanalizowania i przetestowania wiedzy uczniów
+Narzędzie do wyszukiwania zgodnie z nazwą i słowami kluczowymi
+Możliwość przełączania poszczególnych wersji językowych i wyświetlenia dwóch języków jednocześnie
+Funkcję zdjęcia w celu stworzenia nieograniczonej liczby obrazków do pomocy naukowych na własne potrzeby
+Możliwość wpisywania własnych uwag do modeli
+Kompatybilność z MS Office 2013 i 2016 w celu zastosowania modeli w prezentacjach i dokumentach
+Filmy pokazujące jak szybko i łatwo używać aplikacji na lekcji
+Pełny opis naukowy każdego elementu
+Pełny zestaw bibliotek zawiera pakiety:
+Biologia Człowieka
+Biologia Zwierząt
+Biologia Roślin
+Geologia
+Chemia
+Fizyka i astronomia
+Geometria
+Paleontologia i kultura
+Część VI - Wyposażenie klasopracowni przedmiotowych - Szczegółowy Opis Przedmiotu Zamówienia
+W niniejszym opisie przedmiotu zamówienia przedstawiono minimalne wymagania dotyczące wyposażenia, które muszą być spełnione. Wykonawcy mogą przedstawić oferty równoważne, jednakże proponowany przez wykonawcę sprzęt równoważny musi charakteryzować się takimi samymi parametrami funkcjonalno-użytkowymi jak produkty opisane poniżej lub je przewyższać. Proponowany sprzęt musi spełniać wymagane parametry wymiarowe i techniczne podane w opisie poszczególnych pozycji sprzętu poniżej. Jakiekolwiek wskazane w opisie przedmiotu zamówienia, nazwy produktów lub ich producenci mają na celu jedynie przybliżenie wymagań, których nie można było opisać przy pomocy dostatecznie dokładnych i zrozumiałych określeń. W przypadku zastosowania produktów równoważnych, Wykonawca zobowiązany jest do przedstawienia szczegółowej dokumentacji technicznej potwierdzającej zgodność z wymaganiami.
+Wymagania dotyczące przedmiotu zamówienia
+Oferowany produkt nie może być prototypem musi być produktem istniejącym na rynku w obrocie.
+Wymagane wraz z ofertą podanie modelu oraz producenta oferowanego produktu.
+Koszt dostawy, rozładunku i montażu pokrywa Wykonawca.
+Dostarczone urządzenia muszą być wyposażone w następujące dokumenty:
+a) Deklarację zgodności producenta CE,
+b) Dokument gwarancyjny,
+c) Instrukcję obsługi w języku polskim,
+starter elektromagnetyczny – 1 szt.
+Zasilanie: 12V, 0,5A DC ,
+uchwyt elektromagnetyczny mocowany na torze powietrznym posiadanym przez szkołę Frederiksen
+równia pochyła do doświadczeń z tarciem + wózek do równi pochyłej – 3 szt.
+Metalowy tor o długości min.60 cm,
+metalowa podstawa, kątomierz,
+minimum 2 fotobramki,
+wózek poruszający się po równi,
+licznik elektroniczny współpracujący z fotobramkami,
+czas pomiaru 0,001s – 9999,9s,
+zasilanie adapter DC 12V/500mV,
+moc wyjściowa DC 6V 0,2 A
+zasilacz laboratoryjny 0-30 V/ 5 A DC  – 3 szt.
+Zasilacz laboratoryjny DC
+regulacja napięcia wyjściowego 0-30 V,
+regulacja prądu wyjściowego 0-5 A, wydajność prądowa do 5 A,
+maksymalna moc wyjściowa do 150 W,
+jednoczesny odczyt napięcia i płynącego prądu na wyjściu,
+temperatura pracy –10oC – 70oC,
+napięcie zasilania 230V AC, 50 Hz.
+moduł siły do systemy NeuLOG – 1 szt.
+Czujnik do pomiaru siły - zakres do 50 N,
+rozdzielczość 0,01N,
+max. częstotliwość próbkowania 3000próba/s,
+pasujący do zestawu posiadanego przez szkołę NeuLOG kod produktu: NUL-211 lub równoważny.
+moduł do pomiaru odległości do systemu NeuLOG – 1 szt.
+Czujnik ultradźwiękowy do pomiaru odległości, prędkości, akceleracji ,
+pasujący do posiadanego przez szkołę zestawu NeuLog,
+Zakres pomiarowy
+odległość od 0,25m do 6m,
+szybkość 10m/s,
+przyspieszenie 100m/s2,
+rozdzielczość ADC 10 bitów,
+częstość próbkowania 100 1/s.
+uczniowski zestaw do doświadczeń z elektryczności EL-GO Box B4 - 2 szt.
+Zestaw do budowania obwodów elektrycznych oraz dokonywania pomiarów elektrycznych powinien zawierać, co najmniej:
+- zasilacz bateryjny z wyjściami: 1.5V , 3V , 4.5V , 6V , 7,5V , 9V - min. 4 szt
+- segment żarówki (z żarówką żarową lub LED gwint E10) - min. 12 szt.
+- segment opornika - min. 8 szt.
+- segment silniczka - min. 4 szt.
+- segment Buzzera - min. 4 szt.
+- segment włącznika - min. 4 szt.
+- przycisk-chwytak magnetyczny - min. 4 szt.
+- miernik uniwersalny (multimetr) - min. 4 szt.
+- kabelki magnetyczne zasilające - min. 8 szt.
+- kabelki magnetyczne pomiarowe - min. 8 szt.
+- łączówki magnetyczne - min. 20 szt.
+- zapasowe bezpieczniki - min. 50 szt.
+- zapasowe wymienne żarówki żarowe - min. 4 szt.
+- zapasowe wymienne żarówki LED - min. 4 szt.
+- instrukcja - min. 1 szt.
+- komplet baterii do zasilaczy
+komplet magnetycznych przyrządów tablicowych (linijka, ekierki, kątomierz, cyrkiel) – 2szt.
+Zawartość kompletu:
+cyrkiel na przyssawkach (na kredę lub mazak suchościeralny)
+linijka z podziałką cm/dm (100 cm)
+kątomierz dwukierunkowy (50 cm)
+ekierka równoramienna 90-45-45 (60 cm)
+ekierka różnoboczna 30-60-90 (60cm)
+zestaw modeli brył ostrosłupów, graniastosłupów, brył obrotowych – 2 szt.
+Zawartość zestawu
+graniastosłup o podstawie kwadratu
+graniastosłup o podstawie sześciokąta
+graniastosłup o podstawie trójkąta
+ostrosłup o podstawie sześciokąta
+ostrosłup o podstawie czworokąta
+ostrosłup o podstawie trójkąta
+walec z zaznaczonymi przekątnymi i wysokością
+walec z płaszczyznami
+stożek z zaznaczonymi przekątnymi i i wysokością
+stożek z płaszczyznami
+kula z płaszczyznami i przekątnymi
+półkula do pisania flamastrami suchościeralnymi
+Wysokość brył min. 18 cm, wykonane z plastiku

@@ -1,5 +1,6 @@
 import React, { useEffect, useState, useRef } from "react";
 import { useNavigate } from "react-router-dom";
+import { SectionDisplay } from './components/Summary';
 
 const API_URL = "http://localhost:5000/api/tenders";
 const REFRESH_INTERVAL = 3600000; // 1 hour in ms
@@ -7,6 +8,7 @@ const MIN_VISIBLE = 1;
 const DEFAULT_VISIBLE = 4;
 const MAX_COMFORTABLE_VISIBLE = 8;
 const ANIMATION_DURATION = 600;
+const ITEM_WIDTH = 180; // px, adjust as needed
 
 export default function TimelinePage() {
   const [tenders, setTenders] = useState([]);
@@ -16,7 +18,18 @@ export default function TimelinePage() {
   const [selectedIdx, setSelectedIdx] = useState(0);
   const [isZooming, setIsZooming] = useState(false);
   const [startIndex, setStartIndex] = useState(0);
+  const [isDragging, setIsDragging] = useState(false);
+  const [dragStartX, setDragStartX] = useState(null);
+  const [dragStartIndex, setDragStartIndex] = useState(0);
+  const [dragOffset, setDragOffset] = useState(0);
   const navigate = useNavigate();
+  const [summary, setSummary] = useState('');
+  const [summaryLoading, setSummaryLoading] = useState(false);
+  const [summaryError, setSummaryError] = useState('');
+
+  // Move these up before any useEffect that uses selectedTender
+  const visibleTenders = tenders.slice(startIndex, startIndex + visibleCount);
+  const selectedTender = visibleTenders[selectedIdx] || visibleTenders[0];
 
   // Fetch tenders from API
   const fetchTenders = () => {
@@ -114,12 +127,59 @@ export default function TimelinePage() {
     setTimeout(() => setIsZooming(false), ANIMATION_DURATION);
   };
 
+  // Mouse drag-to-pan handlers
+  function handleMouseDown(e) {
+    if (e.button !== 0) return;
+    setIsDragging(true);
+    setDragStartX(e.clientX);
+    setDragStartIndex(startIndex);
+    setDragOffset(0);
+  }
+  function handleMouseMove(e) {
+    if (!isDragging) return;
+    const deltaX = e.clientX - dragStartX;
+    setDragOffset(deltaX);
+  }
+  function handleMouseUp() {
+    if (!isDragging) return;
+    const threshold = 60; // pixels to move one item
+    let moved = Math.round(-dragOffset / threshold);
+    let newStart = Math.min(
+      Math.max(0, dragStartIndex + moved),
+      Math.max(0, tenders.length - visibleCount)
+    );
+    setStartIndex(newStart);
+    setIsDragging(false);
+    setDragOffset(0);
+  }
+
+  useEffect(() => {
+    if (!selectedTender) return;
+    setSummaryLoading(true);
+    setSummaryError('');
+    const przetargId = `${selectedTender.folderDate}_${selectedTender.title}`;
+    const encodedPrzetargId = encodeURIComponent(przetargId);
+    fetch(`/api/przetarg/${encodedPrzetargId}/summary`)
+      .then(res => {
+        if (res.status === 404) return '';
+        if (!res.ok) throw new Error('Błąd pobierania podsumowania');
+        return res.text();
+      })
+      .then(text => {
+        setSummary(text && text.trim() ? text : 'Brak podsumowania');
+        setSummaryLoading(false);
+      })
+      .catch(err => {
+        setSummary('Brak podsumowania');
+        setSummaryError('Błąd pobierania podsumowania');
+        setSummaryLoading(false);
+      });
+  }, [selectedTender]);
+
   if (loading) {
     return <div className="text-center text-gray-400 mt-20">Ładowanie danych…</div>;
   }
 
-  const visibleTenders = tenders.slice(startIndex, startIndex + visibleCount);
-  const selectedTender = visibleTenders[selectedIdx] || visibleTenders[0];
   const totalPages = Math.ceil(tenders.length / visibleCount);
   const currentPage = Math.floor(startIndex / visibleCount) + 1;
   const showNavigation = tenders.length > MAX_COMFORTABLE_VISIBLE;
@@ -209,65 +269,68 @@ export default function TimelinePage() {
           </div>
         </div>
         <div className="flex flex-col items-center overflow-hidden">
-          <div className={`flex justify-between w-full mb-8 timeline-zoom-transition ${isZooming ? 'scale-zoom-in' : ''}`}>
-            {visibleTenders.map((step, idx) => {
-              const scale = visibleCount <= 4 ? 1 : 
-                           visibleCount <= 6 ? 0.95 :
-                           visibleCount <= 8 ? 0.85 :
-                           0.75;
-              const spacing = visibleCount <= 4 ? 'w-1/4' :
-                             visibleCount <= 6 ? 'flex-1' :
-                             'flex-1';
-              
-              return (
-                <div
-                  key={step.path}
-                  className={`flex flex-col items-center ${spacing} opacity-100 timeline-item cursor-pointer ${idx === selectedIdx ? "selected z-10" : "z-0"}`}
-                  style={{
-                    transform: `scale(${scale}) ${idx === selectedIdx ? 'translateY(-4px)' : ''}`,
-                    transition: `all ${ANIMATION_DURATION}ms cubic-bezier(0.4, 0, 0.2, 1)`,
-                  }}
-                  onClick={() => setSelectedIdx(idx)}
-                >
-                  <span className={`text-white/40 font-light mb-3 transition-all duration-500 ${
-                    visibleCount <= 4 ? 'text-xs' :
-                    visibleCount <= 6 ? 'text-xs' :
-                    'text-xs'
-                  }`}>{step.date}</span>
-                  
-                  <div className={`rounded-full flex items-center justify-center mb-3 transition-all duration-500 ${
-                    visibleCount <= 4 ? 'w-3 h-3' :
-                    visibleCount <= 6 ? 'w-2.5 h-2.5' :
-                    'w-2 h-2'
-                  } ${
-                    idx === selectedIdx 
-                      ? "bg-white shadow-lg shadow-white/20" 
-                      : "bg-white/20 hover:bg-white/40"
-                  }`}>
+          <div
+            className="w-full mb-8"
+            style={{
+              width: `${visibleCount * ITEM_WIDTH}px`,
+              overflow: 'hidden',
+              margin: '0 auto',
+              position: 'relative',
+            }}
+          >
+            <div
+              className={`flex timeline-zoom-transition ${isZooming ? 'scale-zoom-in' : ''}`}
+              onMouseDown={handleMouseDown}
+              onMouseMove={handleMouseMove}
+              onMouseUp={handleMouseUp}
+              onMouseLeave={handleMouseUp}
+              style={{
+                cursor: isDragging ? 'grabbing' : 'grab',
+                userSelect: isDragging ? 'none' : 'auto',
+                width: `${tenders.length * ITEM_WIDTH}px`,
+                transform: `translateX(${-startIndex * ITEM_WIDTH + dragOffset}px)`,
+                transition: isDragging ? 'none' : 'transform 0.3s cubic-bezier(0.4,0,0.2,1)',
+              }}
+            >
+              {tenders.map((step, idx) => {
+                const scale = visibleCount <= 4 ? 1 : 
+                             visibleCount <= 6 ? 0.95 :
+                             visibleCount <= 8 ? 0.85 :
+                             0.75;
+                // Only highlight if in visible range
+                const isVisible = idx >= startIndex && idx < startIndex + visibleCount;
+                const isSelected = isVisible && (idx - startIndex === selectedIdx);
+                return (
+                  <div
+                    key={step.path}
+                    className={`flex flex-col items-center justify-center ${isSelected ? 'selected z-10' : 'z-0'} timeline-item`}
+                    style={{
+                      width: `${ITEM_WIDTH}px`,
+                      opacity: isVisible ? 1 : 0.3,
+                      pointerEvents: isVisible ? 'auto' : 'none',
+                      transform: `scale(${scale}) ${isSelected ? 'translateY(-4px)' : ''}`,
+                      transition: `all ${ANIMATION_DURATION}ms cubic-bezier(0.4, 0, 0.2, 1)`,
+                    }}
+                    onClick={() => isVisible && setSelectedIdx(idx - startIndex)}
+                  >
+                    <span className={`text-white/40 font-light mb-3 transition-all duration-500 text-xs`}>
+                      {step.date}
+                    </span>
+                    <div className={`rounded-full flex items-center justify-center mb-3 transition-all duration-500 w-3 h-3 ${isSelected ? "bg-white shadow-lg shadow-white/20" : "bg-white/20 hover:bg-white/40"}`}></div>
+                    <span className={`transition-all duration-500 text-center line-clamp-2 font-light text-xs ${isSelected ? "text-white" : "text-white/50 hover:text-white/70"}`}>
+                      {step.title.length > 30 && visibleCount > 6 
+                        ? step.title.substring(0, 30) + '...' 
+                        : step.title}
+                    </span>
+                    {step.percent && (
+                      <span className={`mt-3 bg-white/10 text-white/70 rounded-full font-light transition-all duration-500 text-xs px-2 py-0.5`}>
+                        {step.percent}%
+                      </span>
+                    )}
                   </div>
-                  
-                  <span className={`transition-all duration-500 text-center line-clamp-2 font-light ${
-                    visibleCount <= 4 ? 'text-sm' :
-                    visibleCount <= 6 ? 'text-xs' :
-                    'text-xs'
-                  } ${
-                    idx === selectedIdx ? "text-white" : "text-white/50 hover:text-white/70"
-                  }`}>
-                    {step.title.length > 30 && visibleCount > 6 
-                      ? step.title.substring(0, 30) + '...' 
-                      : step.title}
-                  </span>
-                  
-                  {step.percent && (
-                    <span className={`mt-3 bg-white/10 text-white/70 rounded-full font-light transition-all duration-500 ${
-                      visibleCount <= 4 ? 'text-xs px-2 py-0.5' :
-                      visibleCount <= 6 ? 'text-xs px-2 py-0.5' :
-                      'text-xs px-1.5 py-0.5'
-                    }`}>{step.percent}%</span>
-                  )}
-                </div>
-              );
-            })}
+                );
+              })}
+            </div>
           </div>
           
           {/* Minimalist progress line */}
@@ -286,6 +349,26 @@ export default function TimelinePage() {
               : `Adjust view with zoom controls`
             }
           </p>
+        </div>
+        {/* Podsumowanie section below timeline */}
+        <div className="mt-12">
+          <div className="font-bold text-xl mb-4 text-blue-300 border-b-2 border-blue-500 pb-2">Podsumowanie</div>
+          {summaryLoading ? (
+            <div className="text-gray-400 animate-pulse py-8">Ładowanie podsumowania…</div>
+          ) : summaryError ? (
+            <div className="text-red-400 py-8">{summaryError}</div>
+          ) : (
+            <SectionDisplay
+              title="Podsumowanie"
+              content={(() => {
+                // Extract only the Podsumowanie section from the summary markdown
+                if (!summary || summary === 'Brak podsumowania') return summary;
+                const regex = /## PODSUMOWANIE\s*([\s\S]*?)(?=\n## |$)/i;
+                const match = summary.match(regex);
+                return match ? match[1].trim() : summary;
+              })()}
+            />
+          )}
         </div>
       </div>
       {/* Details Panel */}

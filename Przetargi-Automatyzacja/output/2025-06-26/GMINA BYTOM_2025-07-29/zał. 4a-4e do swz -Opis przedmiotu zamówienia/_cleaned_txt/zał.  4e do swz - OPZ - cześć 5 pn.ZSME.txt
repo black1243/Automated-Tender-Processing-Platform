@@ -1,0 +1,29 @@
+Załącznik nr 4e do SWZ
+Opis przedmiotu zamówienia dot. części 5 postępowania pn. ZSME
+Przedmiot zamówienia obejmuje dostawę (zakup + transport + wniesienie) nw. sprzętu, na potrzeby edukacyjne, do Zespołu Szkół Mechaniczno-Elektronicznych
+w Bytomiu, pl. Sobieskiego 1.
+Zamawiany sprzęt winien być fabrycznie nowy, nieużywany, wolny od wad i uszkodzeń, niebędący przedmiotem praw osób trzecich.
+Przedmiot zamówienia winien posiadać następujące parametry:
+Rzutnik multimedialny – 6 sztuk
+Wymagania:
+rozdzielczość podstawowa: min 1920 x min. 1080
+maksymalna wielkość obrazu: min 300 cal
+minimalna wielkość obrazu: min 30 cal
+jasność: min. 3500 lm
+format obrazu standardowy: 16:9
+łączność bezprzewodowa
+moc lampy: min. 230 W
+współczynnik kontrastu: min 10000:1
+żywotność lampy (normal): min 5000 h
+złącza HDMI min. 2
+Monitor interaktywny -3 sztuki
+powłoka matowa antyrefleksyjna
+min. 40 punktów dotyku
+głośniki:  2 x min. 15 W
+przekątna:  min. 98”
+jasność:  min. 400 cd/m2
+kontrast:  min. 4000:1
+czas reakcji:  max. 8 ms
+kąt widzenia poziom/pion:  min. 178/ min.178
+rozdzielczość: min 3840 x min.2160
+łączność: WiFi, Bluetooth

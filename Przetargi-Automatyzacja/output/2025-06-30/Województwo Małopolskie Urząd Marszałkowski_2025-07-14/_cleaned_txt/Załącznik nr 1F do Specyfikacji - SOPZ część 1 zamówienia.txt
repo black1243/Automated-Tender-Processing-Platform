@@ -1,0 +1,162 @@
+Załącznik nr 1F do swz/załącznik nr 2 do umowy dla części I zamówienia
+Szczegółowy opis przedmiotu zamówienia
+Część I zamówienia
+Dostawa infrastruktury teleinformatycznej do uruchomienia systemu EZD RP wraz z wdrożeniem w sześciu Jednostkach Organizacyjnych Województwa Małopolskiego wraz z zapewnieniem wsparcia. Wymagania dla systemu EZD RP (dla wersji produkcyjnej i testowej) dostępne są na stronie producenta rozwiązania (https://podrecznik.ezdrp.gov.pl/). Rozmieszczenie fizyczne i ilościowe sprzętu wraz z oprogramowaniem znajduje się w pkt VIII ppkt 1.
+Niniejsza część zamówienia obejmuje:
+Dostawę i wdrożenie 6 serwerów (konfiguracja I) wraz z wirtualizatorem i licencją na system operacyjny,
+Dostawę i wdrożenie 6 serwerów (konfiguracja II) wraz z oprogramowaniem przeznaczonym do wykonania kopii zapasowej
+Dostawę i wdrożenie 6 zapór sieciowych wraz z licencjami i oprogramowaniem,
+Dostawę i wdrożenie 12 przełączników sieciowych wraz z licencjami i oprogramowaniem,
+Dostawę i wdrożenie 6 zestawów podtrzymywania energii,
+Dostawę i wdrożenie 6 szaf teletechnicznych (szaf RACKowych),
+Zapewnienie instalacji i wsparcia,
+Szkolenie.
+Opis minimalnych parametrów technicznych dla 6 serwerów (konfiguracja I) wraz z wirtualizatorem i licencją na systemy operacyjne
+Opis minimalnych parametrów technicznych dla 6 serwerów (konfiguracji II) wraz z oprogramowaniem przeznaczonym do wykonania kopii zapasowej:
+Opis minimalnych parametrów technicznych dla 6 zapór sieciowych wraz z licencjami i oprogramowaniem:
+Opis minimalnych parametrów technicznych dla 12 przełączników sieciowych wraz z licencjami i oprogramowaniem:
+Opis minimalnych parametrów technicznych dla 6 zestawów podtrzymywania energii:
+Opis minimalnych parametrów technicznych dla 6 szaf teletechnicznych (szaf RACKowych):
+Dostawa 5 szaf teletechnicznych (szaf RACKowych) o parametrach:
+Dostawa 1 szafy teletechnicznej (szafy RACK) o parametrach:
+Opis minimalnego zakresu dla instalacji i wsparcia:
+Dostawa i Instalacja urządzeń:
+W ramach dostawy infrastruktury teleinformatycznej Wykonawca musi dostarczyć powyższy sprzęt do wskazanych poniżej jednostek organizacyjnych Województwa Małopolskiego. Dostawa i wdrożenie zostanie przeprowadzona w następujących lokalizacjach (wraz z podziałem na ilość dostarczonego sprzętu):
+Tabela 1 – Rozmieszczenie przedmiotu zamówienia w poszczególnych Jednostkach
+Do Jednostki oznaczonego symbolem * zostanie dostarczona szafa z modułem klimatyzacyjnym
+Wszystkie roboty towarzyszące Wykonawca wykona na swój koszt i odpowiedzialność. Wykonawca zapewni na własny koszt i ryzyko wszystkie niezbędne elementy zapewniające właściwy montaż, podłączenie i konfigurację niezbędne do ich prawidłowej pracy w tym m.in. mocowania, przewody, uchwyty, maskownice itp. zgodnie z najlepszymi praktykami oraz zaleceniami producenta danego rozwiązania. Wykonawca zapewni odpowiednie środki techniczne wraz z osprzętem w tym m.in. okablowanie sieciowe (minimum kable światłowodowe, kable miedziane) w celu podłączenia dostarczonej infrastruktury w ramach pkt I-VII. Jeśli wyniknie taka potrzeba, wykonawca zobowiązuje się do zapewnienia odpowiednich środków technicznych w celu dostosowania infrastruktury danej WSJO w tym wykonania drobnych prac budowlanych itp. Dotyczy to zapewnienia m.in. stabilnego dostępu do sieci energetycznej oraz instalacji systemów wyciągu powietrza lub wentylacji, które umożliwią odpowiednią cyrkulację powietrza i utrzymanie optymalnych warunków termicznych dla sprzętu, a także zapewnienia odpowiednich środków bezpieczeństwa i zapobiegawczych w przypadku zainstalowania klimatyzowanej szafy RACK. Wszystkie środki techniczne oraz prace integracyjne Wykonawca dostarczy oraz zainstaluje na własny koszt i przy użyciu własnych narzędzi.
+Wykonawca najpóźniej w dniu podpisania przez Strony protokołu odbioru dostawy, dostarczy dokument potwierdzający objęcie dostarczonych urządzeń gwarancją przez okres wskazany w umowie oraz dokument potwierdzający udzielenie licencji na oprogramowanie lub wskaże portal producenta poprzez który można zweryfikować wykupioną gwarancję na sprzęt i udzielone licencje na oprogramowanie.
+Dostarczony przez Wykonawcę sprzęt i oprogramowanie  muszą być nowe i pochodzić z oficjalnego kanału dystrybucji a gwarancja, której sposób realizacji określono m.in. w projektowanych postanowieniach umowy musi obowiązywać na terenie Rzeczypospolitej Polskiej. Licencje upoważniają do aktywacji i korzystania z produktów minimum na terenie Rzeczypospolitej Polskiej. Licencje nie mogą być wcześniej aktywowane/używane.
+Wykonawca musi przeprowadzić prace konfiguracyjne polegających na zintegrowaniu dostarczonej infrastruktury z infrastrukturą już działającą w każdej z Jednostek WM. Konfiguracja i uruchomienie dostarczonej infrastruktury należy zintegrować odpowiednio do istniejącej już sieci m.in. LAN, WAN, energetycznej, a także wentylacyjnej. W przypadku konieczności wdrożenia nowych usług (takich jak np. serwer DHCP, serwer DNS, narzędzia do monitoringu) Wykonawca uruchomi takie usługi na dostarczonych licencjach systemu operacyjnego i dostarczonych urządzeniach.
+Wykonawca, zintegruje dostarczoną infrastrukturę w ramach pkt I-VII z infrastrukturą funkcjonującą już w poszczególnych Jednostkach Organizacyjnych Województwa Małopolskiego.
+Wykonawca musi przeprowadzić konfigurację urządzeń zapewniając rozwiązanie pozwalająca na zdalne wsparcie oraz diagnostykę usterek i awarii dla dostarczonych komponentów w ramach pkt I-VII. Dostęp do infrastruktury musi posiadać Wykonawca oraz Zamawiający, a także osoby wskazane na wniosek Zamawiającego. Na wniosek Zamawiającego, Wykonawca może odebrać uprawniania osobom wcześniej wskazanym przez Zamawiającego, a także zmodyfikować zakres jego uprawnień.
+Wykonawca musi przeprowadzić instalację i konfigurację oprogramowania systemowego dla wszystkich dostarczonych komponentów w ramach pkt I-VII.
+Wykonawca musi przeprowadzić hardering systemów operacyjnych i innych rozwiązań dostarczonych w ramach pkt I-VII.
+Wykonawca musi wdrożyć system kopii zapasowej, dokonać jego harderingu, przygotować minimum harmonogramy wykonywania kopii zapasowych zgodnie z najlepszymi praktykami.
+Wykonawca musi wdrożyć narzędzie monitorujące dostarczoną infrastrukturę, a także system EZD RP w trybie 24/7 wraz z możliwością wysyłania informacji minimum drogą mailową o wykrytej niedostępności lub anomalii (monitorowane będą m.in. dostępność, obciążenie, zajętość dysków twardych). Wykonawca będzie mógł monitorować dostarczoną infrastrukturę dowolnym przez siebie wybranym narzędziem (po akceptacji Zamawiającego) bazującym na licencji open source. Gwarancje i wsparcie na oprogramowanie do monitoringu może być świadczone przez Wykonawcę.
+Wykonawca zapewni minimum 6 certyfikatów SSL typu wildcard do zainstalowania systemu EZD RP ważnych przez cały okres świadczenia wsparcia technicznego do umowy. Certyfikaty SSL posłużą do zainstalowania systemu EZD RP w wersji testowej i produkcyjnej na dostarczonej infrastrukturze. Zamawiający dopuszcza aby certyfikaty były odnawiane co roku.
+Wykonawca po kompletnym wdrożeniu przeprowadzi prezentację oraz instruktaż dla Zamawiającego, a także osobom wskazanym przez Zamawiającego odnośnie procedur i dobrych praktyk, jakie muszą być zachowane przy obsłudze urządzeń podczas codziennej administracji przed podpisaniem protokołu odbioru będącego załącznikiem do umowy.
+Wykonawca zobowiązuje się, że gwarancja oraz wsparcie techniczne dla dostarczonego oprogramowania będącego przedmiotem dostawy, o którym mowa w pkt I-VII, nie będzie realizowane za pośrednictwem ogólnodostępnych forów internetowych, społeczności użytkowników (community) ani innych niekomercyjnych kanałów wsparcia. Gwarancja oraz wsparcie muszą być świadczone bezpośrednio przez producenta oprogramowania lub jego autoryzowanego partnera, w ramach oficjalnych, płatnych lub komercyjnych usług wsparcia, zapewniających określony poziom świadczeń (SLA), bez limitu liczby zgłoszeń oraz dostęp do aktualizacji i poprawek bezpieczeństwa.
+Przeprowadzenie testów integracyjnych:
+Wykonane prace integracyjne będą wymagały przeprowadzenia testów integracyjnych składających się z minimum:
+Testy łączności podstawowej
+Ping i traceroute: Weryfikacja fizycznej łączności między urządzeniami za pomocą ping (sprawdzenie dostępności) i tracert/traceroute (analiza ścieżki pakietów).
+Ręczne testy usług: Próby połączenia z serwerami za firewall-em przy użyciu protokołów takich jak HTTP/HTTPS, SSH lub RDP.
+Testowanie dostępu/ dostępów pomiędzy urządzeniami dostarczonymi, a funkcjonującymi już w Jednostkach zależnych od Województwa Małopolskiego (w sposób dwukierunkowy inicjonowania połączenia),
+Konfiguracja firewalla poprzez minimum skanowanie portów do identyfikacji otwartych portów i usług
+Weryfikacja reguł:
+Sprawdzenie, czy reguły dopuszczające daną komunikację sieciową zapewniają ruch sieciowy dla wymaganych protokołów (np. HTTP, DNS).
+Potwierdzenie, że reguły blokujące nie nadpisują zezwoleń przez błędną kolejność.
+Testy awaryjne pozwalające na symulację przeciążeń sieciowych lub awarii połączeń, aby zweryfikować mechanizmy redundancji (wraz z testowaniem rozwiązania do podtrzymywania zasilania),
+Przeprowadzenie testów integracji z istniejącą infrastrukturą poprzez:
+Kompatybilność protokołów - testy komunikacji między nowymi a istniejącymi urządzeniami pod kątem zgodności protokołów (np. TCP/IP, VLAN tagging).
+Routing między podsieciami
+Sprawdzenie, czy np. serwery mogą wymieniać dane z istniejącymi systemami (jeśli są obecne; np. dostęp do serwera aplikacyjnego, dostęp do serwera usługi katalogowej, itp.)
+Testy wdrożonej infrastruktury pod wirtualizację:
+Zweryfikowanie możliwość tworzenia nowych maszyn wirtualnych (jeśli wirtualizator pozwala to tworzenie kontenerów) na wirtualizatorze oraz sprawdzenie poprawność ich konfiguracji zgodnie z założeniami.
+Przeprowadzenie testów usuwania maszyn wirtualnych (jeśli wirtualizator pozwala to usuwanie kontenerów) i upewnienie się, że zasoby są zwalniane prawidłowo.
+Sprawdzenie możliwość modyfikowania zasobów maszyn wirtualnych, takich jak pamięć RAM, dodanie dysku czy zmiany liczby procesorów.
+Przetestowanie tworzenia migawkowych kopii stanu maszyny wirtualnej i kontenerów (jeśli wirtualizator zapewnia taką możliwość) oraz ich przywracanie do wcześniejszego stanu.
+Zweryfikować poprawność działania operacji włączania i wyłączania maszyn wirtualnych i kontenerów (jeśli wirtualizator zapewnia taką możliwość).
+Testy wdrożonej infrastruktury przeznaczonej pod kopie zapasowe:
+Przeprowadzenie testów tworzenia kopii zapasowych danych oraz ich odtworzenia, aby upewnić się, że proces backupu działa poprawnie.
+Sprawdzić integralność danych po odtworzeniu oraz czas potrzebny na wykonanie zarówno kopii zapasowej, jak i jej przywrócenia.
+Przetestować różne scenariusze, takie jak przywracanie pojedynczych plików czy całych maszyn wirtualnych.
+Testy włączenia i wyłączenia całego środowiska:
+Przeprowadzić kontrolowane wyłączenie całej infrastruktury, w tym serwerów, przełączników, firewalli oraz pozostałych komponentów dostarczonych w ramach postępowania.
+Sprawdzić, czy wszystkie systemy uruchamiają się poprawnie po ponownym włączeniu środowiska zgodnie z ustaloną sekwencją startową.
+Zweryfikować dostępność usług po ponownym uruchomieniu oraz upewnić się, że dane są spójne i nie doszło do ich utraty.
+Zweryfikować, czy system podtrzymywania energii działa prawidłowo.
+Testy dostępu zdalnego:
+Należy przetestować dostęp zdalny do infrastruktury za pomocą rozwiązania VPN.
+Zweryfikować wydajność dostępu zdalnego.
+Upewnić się, że dostęp zdalny działa zarówno dla administratorów infrastruktury, jak i dla użytkowników końcowych.
+Dokumentacja:
+Wykonawca musi wykonać dokumentację techniczną zaoferowanych urządzeń w języku polskim, która będzie obejmować m.in.:
+Opis konfiguracji zainstalowanej infrastruktury wraz z ze schematem wykonanych połączeń,
+Najlepszymi praktykami do zarządzania i administracji,
+Kopie plików konfiguracyjnych,
+Opis sposobu aktualizacji, bezpiecznego włączania i wyłączania poszczególnych urządzeń,
+Bezpiecznym kanałem zostaną przekazane poświadczenia dostępowe do każdego komponentu w ramach dostarczonych urządzeń,
+Instrukcje dotyczące procedur odtworzeniowych i backupu,
+Dokumentację gwarancyjną i licencyjną.
+Gwarancja na wykonane prace i wsparcie:
+4.1. Jeżeli ujawnią się wady lub usterki sprzętu w ramach przedmiotowego załącznika, których Wykonawca nie jest w stanie usunąć, Wykonawca zobowiązuje się do dostarczenia w terminie do 5 dni roboczych, liczonych od następnego dnia roboczego po wysłaniu przez Zamawiającego zgłoszenia gwarancyjnego za pomocą kanałów zgłoszeń określonych w § 4 ust 3 Umowy, nowego sprzętu wolnego od wad lub usterek o parametrach nie gorszych niż dostarczonego w ramach realizacji zamówienia.
+4.2. Serwis przedmiotu zamówienia musi być realizowany przez Wykonawcę lub Producenta lub Autoryzowanego Partnera Serwisowego Producenta.
+4.3. Autoryzowany Partner Serwisowy musi posiadać status autoryzowanego partnera serwisowego Producenta sprzętu.
+4.4. Każdorazowa naprawa gwarancyjna musi być uzgodniona z Zamawiającym w zakresie m.in.: terminu, godziny, miejsca i osoby serwisującej oraz zakresu prac. Po wykonanej naprawie gwarancyjnej Wykonawca sporządzi protokół z wykonanych prac, który zostanie przekazany do zatwierdzenia i podpisania przez pracownika Zamawiającego lub innej osoby wskazanej przez Zamawiającego. Podpisanie tego protokołu oznacza prawidłową naprawę gwarancyjną przedmiotu umowy i zamknięcie zgłoszenia gwarancyjnego.
+4.5. Wykonawca, w ramach wsparcia zobowiązuje się do zapewnienia bezpłatnego wsparcia, bez limitu godzin na okres minimum 60 miesięcy, w ramach którego zapewni minimum:
+Gwarancję na wykonane prace integracyjne między dostarczoną infrastrukturą, a infrastrukturą funkcjonującą w Jednostce WM.
+Dokonanie zmian w konfiguracji na wniosek Zamawiającego w ramach dostarczonego sprzętu i zintegrowanego z infrastrukturą Jednostki WM lub na wniosek Jednostki WM z informacją do Zamawiającego.
+Przeprowadzenie lub wsparcie w przeprowadzeniu aktualizacji wszystkich lub pojedynczych komponentów dostarczonej infrastruktury (hardware oraz software).
+Wesprze w instalacji systemu EZD RP (wersja testowa i/ lub produkcyjna) w Jednostkach na dostarczonej i skonfigurowanej przez Wykonawcę infrastrukturze.
+W przypadku problemów z działaniem dostarczonej infrastruktury wykrytej przez Zamawiającego lub pracowników Jednostki, ujawniającej się nieprawidłowym działaniem aplikacji EZD RP lub innej zainstalowanej na dostarczonej infrastrukturze, Zamawiający dopuszcza możliwość odtworzenia środowiska aplikacji (jeśli nie ma potrzeby dostarczenia dodatkowej licencji do aplikacji, która ma zostać odtworzona) na środowisku Zamawiającego w celu wykrycia np. błędów i problemów ze stabilnością. Dostęp do infrastruktury Zamawiającego może być zrealizowany poprzez sesję współdzieloną bądź bezpośrednią sesję nagrywaną z wykorzystaniem sesji PAM. Dostęp bezpośredni wiąże się z dostarczeniem licencji typu CAL w celu uzyskania dostępu do środowiska zamawiającego.
+W przypadku wykrycia błędów związanych m.in. z aktualizacją systemu EZD RP, harderingu i innych czynności w Jednostkach spowodowaną m.in. błędnym działaniem dostarczonej infrastruktury, oprogramowania wirtualizacyjnego, a także innych komponentów Wykonawca musi wesprzeć Zamawiającego w rozwiązaniu problemów.
+Wykonawca będzie wspierał Zamawiającego w migracji danych pomiędzy systemami lub maszynami wirtualnymi dla systemu EZD RP na dostarczonej i skonfigurowanej przez Wykonawcę infrastrukturze.
+Modyfikację lub zmiany w działaniu dostarczonych systemów i aplikacji.
+Modyfikację harmonogramów kopii zapasowej lub sposobu jej wykonania.
+Wraz z Zamawiającym przeprowadzi testowe odtworzenie środowiska testowego lub produkcyjnego EZD RP lub innej maszyny wirtualnej dostarczonej w ramach postępowania minimum raz w roku i sporządzi odpowiednią notatkę z procedury odtworzeniowej.
+Będzie przekazywał wiedzę, która pozwoli na samodzielną obsługę utrzymania przez wskazane osoby w zespole Zamawiającego wdrożonej infrastruktury i oprogramowania.
+Będzie świadczył wsparcie techniczne i gwarancyjne, które będzie obejmowało obszar:
+diagnostyki problemów użytkowania oprogramowania,
+diagnostyki problemów użytkowania dostarczonego sprzętu,
+rozwiązywania problemów z oprogramowaniem (bug fixes),
+ochrony prawnej, chroniącej użytkownika przed naruszeniem praw stron trzecich.
+4.6. Wykonawca zobowiązuje się do wykonania naprawy gwarancyjnej sprzętu na terenie Jednostek Województwa Małopolskiego, gdzie przedmiotowy sprzęt został zainstalowany w terminie do………….. dni roboczych (zgodnie z ofertą), w których zostanie usunięta usterka zgłoszona przez Zamawiającego, liczonych od przesłania Wykonawcy zgłoszenia gwarancyjnego . W przypadku braku możliwości naprawy ze względu na wady, które nie kwalifikują się do ich usunięcia, Wykonawca zobowiązuje się do dostarczenia w tym terminie sprzętu wolnego od wad o parametrach nie gorszych niż sprzęt wadliwy.
+4.7. W ramach gwarancji na wykonane prace wdrożeniowe i instalacyjno-integracyjne Wykonawca zapewni wsparcie telefoniczne, zdalne oraz na miejscu u Zamawiającego oraz będzie realizował działania w zakresie:
+4.7.1.	Usuwania błędów w działaniu całego dostarczonego sprzętu oraz oprogramowania,
+4.7.2.	Wdrażanie lub wsparcie we wdrożeniu nowych wersji oprogramowania dla dostarczonego sprzętu oraz oprogramowania,
+4.7.3.	Przeprowadzania koniecznych zmian w konfiguracji wdrożonej infrastruktury (całego sprzętu i oprogramowania) zgodnie z wymaganiami na wniosek Zamawiającego,
+4.7.4.	Dodawanie lub modyfikowanie planu w systemie backupowym minimum nowych wersji systemu EZD RP (np. w przypadku aktualizacji systemu EZD RP),
+4.7.5.	Udzielania informacji dotyczących wdrożonego sprzętu oraz oprogramowania,
+4.7.6.	Przeprowadzenia koniecznych zmian w infrastrukturze Jednostki Województwa w ramach integracji istniejącej infrastruktury z infrastrukturą dostarczoną w ramach zamówienia.
+4.8. Zamawiający będzie zgłaszał błędy, zakres zmian, zapytania dotyczące zakresu zawartego w pkt 2 oraz 4 pod wskazany przez Wykonawcę adres email …………………..……. lub nr telefonu …………………..……
+4.9. Wykonawca zobowiązany jest do usunięcia błędów działania wdrożonej infrastruktury o których mowa w pkt 4.7.1 w terminie 2 dni roboczych od zgłoszenia.
+4.10. Wykonawca zobowiązany jest do aktualizacji lub wsparcia Zamawiającego w aktualizacji wszystkich komponentów dostarczonej infrastruktury, o których mowa w pkt 4.7.2 w terminie 14 dni roboczych od zgłoszenia.
+4.11. Wykonawca zobowiązany jest do przeprowadzania koniecznych zmian w konfiguracji w ramach dostarczonej infrastruktury, o których mowa w pkt 4.7.3 w terminie 2 dni roboczych od zgłoszenia.
+4.12. Wykonawca zobowiązany jest do wprowadzenia koniecznych zmian w działaniu systemu backupowego na potrzeby poprawnego wykonywania kopii zapasowych dla systemu EZD RP, o którym mowa w pkt 4.7.4 w terminie 2 dni roboczych od zgłoszenia.
+4.13. Wykonawca w okresie gwarancji będzie weryfikował minimum aktualizację, poprawki bezpieczeństwa oraz inne zalecenia Producenta zaoferowanego sprzętu i oprogramowania, a także wpływ na wdrożone środowisko oraz będzie rekomendował wdrożenie wszelkich poprawek i zmian.
+4.14. Wykonawca zobowiązany jest do udzielania Zamawiającemu informacji dotyczących wdrożonego sprzętu oraz oprogramowania o których mowa w pkt 4.7.5 w terminie 3 dni roboczych od zgłoszenia.
+4.15. Wykonawca zobowiązany jest do wykonania koniecznych zmian w działaniu infrastruktury Jednostki i dostarczonej infrastruktury w celu zapewniania dostępności środowiska (wdrożonego sprzętu oraz oprogramowania) o których mowa w pkt 4.7.6 w terminie 7 dni roboczych od zgłoszenia.
+4.16. W przypadku wykrycia awarii krytycznej, Wykonawca zobowiązany jest do podjęcia działań naprawczych w terminie nie dłuższym niż 2 godziny od momentu otrzymania zgłoszenia awarii przekazanego kanałem komunikacji wskazanym w § 4 ust 3 Umowy.
+Przez awarię krytyczną rozumie się sytuację polegającą na całkowitej niedostępności infrastruktury lub niedostępności któregoś z jej kluczowych elementów, skutkującą brakiem możliwości korzystania z aplikacji EZD RP w Jednostce.
+4.17. W przypadku innych zgłoszeń Zamawiającego, Wykonawca musi zająć stanowisko do 10 dni roboczych od podjęcia informacji.
+Szkolenie
+Dostawa minimum jednego certyfikowanego szkolenia w języku polskim dla trzech pracowników w zakresie administracji i zarządzania klastrem kontenerowym. Szkolenie ma na celu przekazanie uczestnikom wiedzy i umiejętności niezbędnych do efektywnego zarządzania środowiskiem kontenerowym Kubernetes, z uwzględnieniem najlepszych praktyk w zakresie bezpieczeństwa, monitoringu oraz skalowania aplikacji EZD RP w kontenerach.
+Szkolenie będzie obejmowało następujący zakres:
+Wprowadzenie do konteneryzacji
+Wprowadzenie podstawowych usług i pojęć kubernetes
+Wprowadzenie do architektury kubernetes
+Tworzenie usług kontenerowych
+Provisioning usług kontenerowych
+Wykorzystanie kontenerów typu rootless
+Zarządzanie kontenerami
+Zarządzanie cyklem życia kontenerów
+korzystanie z persistent storage przez kontenery
+dostęp do kontenerów
+Zarządzanie obrazami kontenerów
+Dostęp do rejestrów
+Manipulacja kontenerami
+zarządzanie obrazami kontenerów
+Tworzenie własnych obrazów kontenerów
+Projektowanie własnych obrazów kontenerów
+Budowanie własnych obrazów kontenerów z wykorzystaniem container files
+Wdrażanie aplikacji kontenerowych
+Architektura oferowanego rozwiązania kubernetes
+tworzenie zasobów (resources) kubernetes
+tworzenie tras (routes)
+tworzenie aplikacji w trybie source-to-image
+tworzenie aplikacji z wykorzystaniem konsoli Web
+wdrażanie aplikacji kontenerowych na zaoferowanym rozwiązaniu kubernetes
+Wdrażanie aplikacji wielokontenerowych
+Wymagania dla aplikacji wielokontenerowych
+Wdrażanie aplikacji wielokontenerowej na zaoferowanym rozwiązaniu
+Wdrażanie aplikacji wielokontenerowej na zaoferowanym rozwiązaniu z wykorzystaniem szablonów (template)
+Rozwiązywanie problemów (troubleshooting) aplikacji kontenerowych
+Rozwiązaywanie problemów (Troubleshooting)
+Rozwiązywanie problemów (Troubleshooting) aplikacji kontenerowych
+Szkolenia muszą być prowadzone w formie praktycznej a w ramach poszczególnych zagadnień muszą być dostępne praktyczne ćwiczenia pozwalające uczestnikom nabyć praktycznych umiejętności w zakresie omawianych zagadnień.
+Szkolenie powinno trwać minimum 4 dni.
+Każdy uczestnik powinien posiadać dostęp do środowiska laboratoryjnego (ćwiczeń).
+Zaświadczeniem ukończenia szkolenia będzie przekazanie uczestnikom certyfikatu.
+W ramach realizacji szkolenia Wykonawca lub centrum edukacyjne, które będzie odpowiedzialne za realizacje przedmiotowego szkolenia dostarczy materiały szkoleniowe oraz certyfikaty potwierdzające ukończenie kursu na własny koszt.

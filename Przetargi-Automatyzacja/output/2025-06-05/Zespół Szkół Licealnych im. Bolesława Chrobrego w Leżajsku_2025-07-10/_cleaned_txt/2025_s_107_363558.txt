@@ -1,0 +1,688 @@
+363558-2025 - Procedura konkurencyjna
+Polska – Urządzenia komputerowe – Doposażenie pracowni w na potrzeby projektu pn. „Kariera Inżyniera”
+OJ S 107/2025 05/06/2025
+Ogłoszenie o zamówieniu lub ogłoszenie o koncesji – tryb standardowy
+Dostawy
+1.
+Nabywca
+1.1.
+Nabywca
+Oficjalna nazwa
+Zespół Szkół Licealnych im. Bolesława Chrobrego w Leżajsku
+E-mail
+zamowienia.zsllezajsk@gmail.com
+Status prawny nabywcy
+Instytucja lokalna
+Sektor działalności instytucji zamawiającej
+Edukacja
+2.
+Procedura
+2.1.
+Procedura
+Tytuł
+Doposażenie pracowni w na potrzeby projektu pn. „Kariera Inżyniera”
+Opis
+Część 1 Pracownia cyberbezpieczeństwa sala 104. 19 szt. Zestaw komputerowy nr.23 19 szt. Monitor nr.24 19 szt.
+Oprogramowanie biurowe nr.5 1 szt. Monitor interaktywny nr.25 1 szt. Urządzenie wielofunkcyjne laserowe. nr.26 1 szt . Switch nr.8 1
+szt. Serwer plików nr.27 1 szt. UTM nr.28 Część 2 1 szt. Dron edukacyjny
+Identyfikator procedury
+3c174bce-04ba-447f-9680-44abe709bef1
+Wewnętrzny identyfikator
+L.Dz.ZSL.261.60.2025
+Rodzaj procedury
+Otwarta
+Procedura jest przyspieszona
+nie
+2.1.1.
+Przeznaczenie
+Charakter zamówienia
+Dostawy
+Główna klasyfikacja
+cpv
+30200000
+Urządzenia komputerowe
+Dodatkowa klasyfikacja
+cpv
+30236000
+Różny sprzęt komputerowy
+48000000
+Pakiety oprogramowania i systemy informatyczne
+30231300
+Monitory ekranowe
+34711200
+Bezzałogowe statki powietrzne
+2.1.2.
+Miejsce realizacji
+Adres pocztowy
+ul. M.Curie Skłodowskiej 6
+Miejscowość
+Leżajsk
+Kod pocztowy
+37-300
+Podpodział krajowy (NUTS)
+Tarnobrzeski
+PL824
+Kraj
+Polska
+2.1.4.
+Informacje ogólne
+Podstawa prawna
+Dyrektywa 2014/24/UE
+art. 132 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 z późn. zm. )
+2.1.5.
+Warunki udzielenia zamówienia
+Warunki zgłoszenia
+Maksymalna liczba części zamówienia, na które jeden oferent może składać oferty
+Warunki zamówienia
+Maksymalna liczba części zamówienia, których można udzielić jednemu oferentowi
+2.1.6.
+Podstawy wykluczenia
+Powody wykluczenia źródła
+Uwaga
+Aktywami zarządza likwidator
+art. 109 ust. 1 pkt. 4 Pzp
+Bezpośrednie lub pośrednie zaangażowanie w przygotowanie przedmiotowego postępowania o udzielenie zamówienia
+art. 108 ust. 1
+pkt. 6 Pzp
+Działalność gospodarcza jest zawieszona
+art. 109 ust. 1 pkt. 4 Pzp
+Inna sytuacja podobna do upadłości wynikająca z prawa krajowego
+art. 109 ust. 1 pkt. 4 Pzp
+Korupcja
+art. 108 ust. 1 pkt 1 i 2 Pzp
+Nadużycia
+art. 108 ust. 1 pkt 1 i 2 Pzp
+Naruszenie obowiązków w dziedzinie prawa pracy
+art. 108 ust. 1 pkt 1 lit h i pkt 2 Pzp
+Naruszenie zobowiązania dotyczącego płatności podatków
+art. 108 ust. 1 pkt 3 Pzp oraz art. 109 ust. 1 pkt 1 Pzp
+Naruszenie zobowiązania dotyczącego płatności składek na ubezpieczenia społeczne
+art. 108 ust. 1 pkt 3 Pzp oraz art. 109 ust. 1 pkt 1
+Pzp
+Naruszenie zobowiązań wynikających wyłącznie z krajowych przesłanek wykluczenia
+art. 108 ust. 1 pkt. 1; art. 108 ust. 1 pkt. 4; art.
+108 ust. 1 pkt. 2 Pzp; art. 7 ust. 1 ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz
+służących ochronie bezpieczeństwa narodowego oraz art. 5 k Rozporządzenia Rady (UE) z dnia 31 lipca 2014 r. nr 833/2014
+dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie, art. 109 ust. 1 pkt. 9
+Niewypłacalność
+art. 109 ust. 1 pkt. 4 Pzp
+Porozumienia z innymi wykonawcami mające na celu zakłócenie konkurencji
+art. 108 ust. 1 pkt 5 Pzp
+Praca dzieci i inne formy handlu ludźmi
+art. 108 ust. 1 pkt 1 i 2 Pzp
+Pranie pieniędzy lub finansowanie terroryzmu
+art. 108 ust. 1 pkt 1 i 2 Pzp
+Przestępstwa terrorystyczne lub przestępstwa związane z działalnością terrorystyczną
+art. 108 ust. 1 pkt 1 i 2 Pzp
+Udział w organizacji przestępczej
+art. 108 ust. 1 pkt 1 i 2 Pzp
+Układ z wierzycielami
+art. 109 ust. 1 pkt. 4 Pzp
+Upadłość
+art. 109 ust. 1 pkt. 4 Pzp
+Winni wprowadzenia w błąd, zatajenia informacji, niemożności dostarczenia wymaganych dokumentów i uzyskania informacji
+poufnych w ramach tej procedury
+art. 109 ust. 1 pkt. 8, art. 109 ust. 1 pkt. 10
+5.
+Część zamówienia
+5.1.
+Część zamówienia
+LOT-0001
+Tytuł
+Doposażenie pracowni zawodowych w ramach realizacji projektu pt. „ Kariera inżyniera” część 1
+Opis
+Część 1 19 szt. Zestaw komputerowy nr.23 19 szt. Monitor nr.24 19 szt. Oprogramowanie biurowe nr.5 1 szt. Monitor
+interaktywny nr.25 1 szt. Urządzenie wielofunkcyjne laserowe. nr.26 1 szt . Switch nr.8 1 szt. Serwer plików nr.27 1 szt. UTM nr.28
+Wewnętrzny identyfikator
+część 1
+5.1.1.
+Przeznaczenie
+Charakter zamówienia
+Dostawy
+Główna klasyfikacja
+cpv
+30200000
+Urządzenia komputerowe
+Dodatkowa klasyfikacja
+cpv
+30236000
+Różny sprzęt komputerowy
+48000000
+Pakiety oprogramowania i systemy informatyczne
+Opcje
+Opis opcji
+nie dotyczy
+5.1.2.
+Miejsce realizacji
+Adres pocztowy
+ul. M. Curie Skłodowskiej 6
+Miejscowość
+Leżajsk
+Kod pocztowy
+37-300
+Podpodział krajowy (NUTS)
+Tarnobrzeski
+PL824
+Kraj
+Polska
+5.1.3.
+Szacowany okres obowiązywania
+Okres obowiązywania
+Dni
+5.1.6.
+Informacje ogólne
+Zastrzeżony udział
+Udział nie jest zastrzeżony.
+Należy podać imiona i nazwiska oraz kwalifikacje zawodowe członków personelu wyznaczonych do realizacji
+zamówienia
+Niewymagane
+Projekt zamówienia w pełni lub częściowo finansowany z funduszy UE
+Informacje o funduszach Unii Europejskiej
+Program funduszy UE
+Europejski Fundusz Społeczny Plus (EFS+) (2021/2027)
+Identyfikator funduszy UE
+Nr projektu: FEPK.07.12-IP.01- 0028/23.
+Więcej informacji na temat funduszy UE
+Projekt współfinansowany ze środków Europejskiego Funduszu Społecznego Plus w ramach
+Programu regionalnego Fundusze Europejskie dla Podkarpacia 2021-2027, Działanie nr 07.12. Szkolnictwo ogólne, Nr projektu:
+FEPK.07.12-IP.01- 0028/23.
+Zamówienie jest objęte zakresem Porozumienia w sprawie zamówień rządowych (GPA)
+tak
+Informacje dodatkowe
+Zamawiający wymaga złożenia następujących przedmiotowych środków dowodowych: Karty katalogowe
+dostarczanych urządzeń potwierdzające spełnienie parametrów technicznych opisanych w załączniku nr 1 do SWZ Opis przedmiotu
+zamówienia
+5.1.7.
+Zamówienia strategiczne
+Cel zamówienia strategicznego
+Zamówienia inne niż strategiczne
+5.1.8.
+Kryteria dostępności
+Kryteria dostępności dla osób niepełnosprawnych zostały uwzględnione
+5.1.9.
+Kryteria kwalifikacji
+Źródła kryteriów wyboru
+Uwaga
+Kryterium
+Inne wymagania ekonomiczne lub finansowe
+Opis
+Zamawiający określa, że ww. warunek zostanie spełniony, jeśli wykonawca wykaże, że: posiada środki finansowe lub zdolność
+kredytową w wysokości nie mniejszej niż 30 000,00 zł.
+5.1.10.
+Kryteria udzielenia zamówienia
+Kryterium
+Rodzaj
+Cena
+Nazwa
+cena
+Opis
+Punkty za kryterium „Cena” - (PC) zostaną obliczone według wzoru: Cn PC = ------- x 60 pkt Cb gdzie, PC - ilość punktów za
+kryterium cena, Cn - najniższa cena ofertowa spośród ofert nieodrzuconych, Cb – cena oferty badanej. W kryterium „Cena”, oferta z
+najniższą ceną otrzyma 60 punktów a pozostałe oferty po matematycznym przeliczeniu w odniesieniu do najniższej ceny odpowiednio
+mniej. Końcowy wynik powyższego działania zostanie zaokrąglony do dwóch miejsc po przecinku
+Kategoria kryterium udzielenia zamówienia waga
+Waga (wartość punktowa, dokładna)
+Kryterium udzielenia - Liczba
+60,00
+Kryterium
+Rodzaj
+Jakość
+Nazwa
+Zatrudnienie osób niepełnosprawnych
+Opis
+Punkty za kryterium „Zatrudnienie osób niepełnosprawnych” (PN) W kryterium chodzi wyłącznie o zatrudnienie osób
+niepełnosprawnych przy realizacji zamówienia, o które wykonawcy się ubiegają. Za każdą osobę niepełnosprawną zatrudnioną przy
+realizacji zamówienia wykonawca uzyska 5 pkt, ale nie więcej niż 10 pkt. Osoby niepełnosprawne to osoby w rozumieniu ustawy z dnia
+27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. 2021 r. poz. 573).
+Kategoria kryterium udzielenia zamówienia waga
+Waga (wartość punktowa, dokładna)
+Kryterium udzielenia - Liczba
+10,00
+Kryterium
+Rodzaj
+Jakość
+Nazwa
+okres gwarancji i rękojmi
+Opis
+- minimalny okres gwarancji i rękojmi wskazany został w opisie przedmiotu zamówienia, jeśli w opisie brakuje wskazania jako
+minimalny okres gwarancji Zamawiający wymaga 24 miesiące. - za okres gwarancji i rękojmi równy minimalnemu okresowi
+wskazanemu w SWZ dla gwarancji czasowych poszczególnych elementów – 0 pkt. - za dodatkowy okres gwarancji i rękojmi min. 12
+miesięcy ponad minimalny okres wskazany w SWZ dla gwarancji czasowych wszystkich wskazanych elementów – 15 pkt. – z
+dodatkowy okres gwarancji i rękojmi min. 24 miesięcy ponad minimalny okres wskazany w SWZ dla gwarancji czasowych wszystkich
+elementów – 30 pkt W kryterium okres gwarancji Wykonawca otrzyma maksymalnie 30 pkt
+Kategoria kryterium udzielenia zamówienia waga
+Waga (wartość punktowa, dokładna)
+Kryterium udzielenia - Liczba
+30,00
+5.1.11.
+Dokumenty zamówienia
+Języki, w których dokumenty zamówienia są oficjalnie dostępne
+polski
+Adres dokumentów zamówienia
+https://platformazakupowa.pl/pn/zslchrobry_lezajsk
+5.1.12.
+Warunki udzielenia zamówienia
+Warunki zgłoszenia
+Zgłoszenie elektroniczne
+Wymagane
+Adres na potrzeby zgłoszenia
+https://platformazakupowa.pl/pn/zslchrobry_lezajsk
+Języki, w których można składać oferty lub wnioski o dopuszczenie do udziału
+polski
+Katalog elektroniczny
+Niedozwolone
+Wymagane jest użycie zaawansowanego lub kwalifikowanego podpisu elektronicznego lub pieczęci elektronicznej (zgodnie z definicją
+w rozporządzeniu (UE) nr 910/2014)
+Oferty wariantowe
+Niedozwolone
+Opis gwarancji finansowej
+12.1. Wykonawca jest zobowiązany wnieść wadium . 12.2. Zamawiający wymaga wniesienia wadium w
+wysokości Część 1 - 1000,00 zł ( słownie: jeden tysiąc złotych) 12.3. Wadium należy wnieść do upływu terminu składania ofert
+oznaczonego datą i godziną. Niewniesienie wadium do upływu wyznaczonego terminu (oznaczonego datą i godziną) skutkuje
+odrzuceniem oferty. 12.4. Wadium może być wnoszone w jednej lub kilku następujących formach: pieniądzu,; gwarancjach bankowych;
+gwarancjach ubezpieczeniowych; poręczeniach udzielanych przez podmioty, o których mowa w art. 6b ust. 5 pkt 2 ustawy z dnia 9
+listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości. 12.5. Wadium wnoszone w pieniądzu należy wpłacić
+przelewem na rachunek zamawiającego. Tytuł przelewu winien umożliwić identyfikację przetargu, którego dotyczy wadium oraz
+określać podmiot w którego imieniu jest wpłacane – w przypadku jeśli przelewu nie dokonuje Wykonawca składający ofertę. Celem
+właściwej identyfikacji wpłaty z tytułu wadium powinny zawierać w tytule przelewu znak sprawy postępowania. 12.6. Za skuteczne
+wniesienie wadium w pieniądzu rozumie się gdy w wyznaczonym terminie, tj. do upływu terminu składania ofert (oznaczonego datą i
+godziną) nastąpi uznanie kwoty wadium na rachunku bankowym wskazanym powyżej. 12.7. Wadium w innej formie niż pieniądz należy
+złożyć wraz z ofertą w oryginale w postaci elektronicznej. 12.8. Gwarancja/poręczenie musi być podpisana przez przedstawiciela
+Gwaranta. Wadium w formie poręczenia lub gwarancji musi obejmować cały okres związania ofertą, a beneficjentem takich
+dokumentów musi być Zamawiający. Z treści gwarancji /poręczenia winno wynikać bezwarunkowe i nieodwołalne zobowiązanie
+Gwaranta do wypłaty Zamawiającemu, na jego pierwsze żądanie, pełnej kwoty wadium we wszystkich okolicznościach określonych w
+art. 98 ust. 6 Pzp. 12.9. Zasady zwrotu i zatrzymania wadium określa art. 98 Pzp.
+Termin składania ofert
+10/07/2025
+10:00:00 (UTC+2) czas wschodnioeuropejski, czas środkowoeuropejski letni
+Termin, do którego oferta musi pozostać ważna
+Dni
+Informacje na temat publicznego otwarcia
+Data otwarcia
+10/07/2025
+10:30:00 (UTC+2) czas wschodnioeuropejski, czas środkowoeuropejski letni
+Miejsce
+https://platformazakupowa.pl/pn/zslchrobry_lezajsk
+Informacje dodatkowe
+14.3. Zamawiający, najpóźniej przed otwarciem ofert, udostępnia na stronie internetowej prowadzonego
+postępowania informację o kwocie, jaką zamierza przeznaczyć na sfinansowanie zamówienia. 14.4. Zamawiający odrzuca ofertę, jeżeli
+została złożona po terminie składania ofert, o którym mowa w pkt. 14.1 SWZ. 14.5. Wykonawca ponosi wszelkie koszty związane z
+udziałem w postępowaniu, w tym przygotowaniem i złożeniem oferty. 14.6. Zamawiający nie ponosi odpowiedzialności za
+nieprawidłowe lub nieterminowe złożenie oferty, w szczególności Zamawiający nie odpowiada za ujawnienie przez Wykonawcę treści
+swojej oferty przed upływem terminu składania i otwarcia ofert, poprzez złożenie jej w formie pliku niezaszyfrowanego. Nieprawidłowe
+złożenie oferty przez Wykonawcę nie stanowi podstawy żądania unieważnienia postępowania. Zaleca się, aby założyć profil
+Wykonawcy i rozpocząć składanie oferty z odpowiednim wyprzedzeniem. 14.7. Wykonawca może zmienić oraz wycofać złożoną przez
+siebie ofertę przed upływem terminu składania ofert (zmiana oferty odbywa się poprzez wycofanie oraz złożenie nowej oferty – z uwagi
+na zaszyfrowanie plików oferty brak jest możliwości edycji złożonej oferty). 14.8. Wykonawca nie może wprowadzić zmian do oferty
+oraz wycofać jej po upływie terminu składania ofert.
+Warunki zamówienia
+Wykonanie zamówienia musi odbywać się w ramach programów zatrudnienia chronionego
+Nie
+Warunki dotyczące realizacji zamówienia
+określone postanowieniami zawartymi w projektowanych postanowieniach umowy -
+załącznik do SWZ
+Wymagana jest umowa o poufności
+nie
+Fakturowanie elektroniczne
+Dozwolone
+Stosowane będą zlecenia elektroniczne
+tak
+Stosowane będą płatności elektroniczne
+tak
+Zasady finansowe
+określone postanowieniami zawartymi w projektowanych postanowieniach umowy - załącznik do SWZ
+5.1.15.
+Techniki
+Umowa ramowa
+Brak umowy ramowej
+Informacje o dynamicznym systemie zakupów
+Brak dynamicznego systemu zakupów
+Aukcja elektroniczna
+nie
+5.1.16.
+Dalsze informacje, mediacja i odwołanie
+Organ mediacyjny
+Krajowa Izba Odwoławcza
+Organ odwoławczy
+Krajowa Izba Odwoławcza
+Informacje o terminach odwołania
+Środki ochrony prawnej przewidziane są w dziale IX ustawy. Wykonawcom a także innym
+podmiotom, jeżeli mają lub mieli interes w uzyskaniu zamówienia oraz ponieśli lub mogą ponieść szkodę w wyniku naruszenia przez
+Zamawiającego przepisów Pzp, przysługują środki ochrony prawnej opisane w Pzp: Odwołanie – rozdział 2 dział IX Pzp Postępowanie
+skargowe – art. 579590 Pzp. Odwołanie wnosi się do Prezesa Izby w formie pisemnej w postaci papierowej albo w postaci
+elektronicznej, opatrzone odpowiednio własnoręcznym podpisem albo kwalifikowanym podpisem elektronicznym. Odwołujący przesyła
+kopię odwołania zamawiającemu przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego
+treścią przed upływem tego terminu. Domniemywa się, iż zamawiający mógł zapoznać się z treścią odwołania przed upływem terminu
+do jego wniesienia, jeżeli przesłanie jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji
+elektronicznej. Odwołanie wnosi się w terminie 10 dni od dnia przesłania informacji o czynności zamawiającego stanowiącej podstawę
+jego wniesienia – jeżeli zostały przesłane w sposób określony w art. 515 ust. 1 ustawy Pzp albo w terminie 15 dni – jeżeli zostały
+przesłane w inny sposób
+Organizacja udzielająca dodatkowych informacji na temat postępowania o udzielenie zamówienia
+Zespół Szkół Licealnych im.
+Bolesława Chrobrego w Leżajsku
+Organizacja udzielająca dodatkowych informacji na temat procedur odwoławczych
+Krajowa Izba Odwoławcza
+Organizacja przyjmująca wnioski o dopuszczenie do udziału
+Zespół Szkół Licealnych im. Bolesława Chrobrego w Leżajsku
+Organizacja rozpatrująca oferty
+Zespół Szkół Licealnych im. Bolesława Chrobrego w Leżajsku
+5.1.
+Część zamówienia
+LOT-0002
+Tytuł
+Doposażenie pracowni zawodowych w ramach realizacji projektu pt. „ Kariera inżyniera” część 2
+Opis
+Część 2 1 szt. Dron edukacyjny
+Wewnętrzny identyfikator
+część 2
+5.1.1.
+Przeznaczenie
+Charakter zamówienia
+Dostawy
+Główna klasyfikacja
+cpv
+34711200
+Bezzałogowe statki powietrzne
+Dodatkowa klasyfikacja
+cpv
+34711200
+Bezzałogowe statki powietrzne
+Opcje
+Opis opcji
+nie dotyczy
+5.1.2.
+Miejsce realizacji
+Adres pocztowy
+ul. M. Curie Skłodowskiej 6
+Miejscowość
+Leżajsk
+Kod pocztowy
+37-300
+Podpodział krajowy (NUTS)
+Tarnobrzeski
+PL824
+Kraj
+Polska
+5.1.3.
+Szacowany okres obowiązywania
+Okres obowiązywania
+Dni
+5.1.6.
+Informacje ogólne
+Zastrzeżony udział
+Udział nie jest zastrzeżony.
+Należy podać imiona i nazwiska oraz kwalifikacje zawodowe członków personelu wyznaczonych do realizacji
+zamówienia
+Niewymagane
+Projekt zamówienia w pełni lub częściowo finansowany z funduszy UE
+Informacje o funduszach Unii Europejskiej
+Program funduszy UE
+Europejski Fundusz Społeczny Plus (EFS+) (2021/2027)
+Identyfikator funduszy UE
+Nr projektu: FEPK.07.12-IP.01- 0028/23.
+Więcej informacji na temat funduszy UE
+Projekt współfinansowany ze środków Europejskiego Funduszu Społecznego Plus w ramach
+Programu regionalnego Fundusze Europejskie dla Podkarpacia 2021-2027, Działanie nr 07.12. Szkolnictwo ogólne, Nr projektu:
+FEPK.07.12-IP.01- 0028/23.
+Zamówienie jest objęte zakresem Porozumienia w sprawie zamówień rządowych (GPA)
+tak
+Informacje dodatkowe
+Zamawiający wymaga złożenia następujących przedmiotowych środków dowodowych: Karty katalogowe
+dostarczanych urządzeń potwierdzające spełnienie parametrów technicznych opisanych w załączniku nr 1 do SWZ Opis przedmiotu
+zamówienia
+5.1.7.
+Zamówienia strategiczne
+Cel zamówienia strategicznego
+Zamówienia inne niż strategiczne
+5.1.8.
+Kryteria dostępności
+Kryteria dostępności dla osób niepełnosprawnych zostały uwzględnione
+5.1.9.
+Kryteria kwalifikacji
+Źródła kryteriów wyboru
+Uwaga
+Kryterium
+Inne wymagania ekonomiczne lub finansowe
+Opis
+Zamawiający określa, że ww. warunek zostanie spełniony, jeśli wykonawca wykaże, że: posiada środki finansowe lub zdolność
+kredytową w wysokości nie mniejszej niż 10 000,00 zł.
+5.1.10.
+Kryteria udzielenia zamówienia
+Kryterium
+Rodzaj
+Cena
+Nazwa
+cena
+Opis
+Punkty za kryterium „Cena” - (PC) zostaną obliczone według wzoru: Cn PC = ------- x 60 pkt Cb gdzie, PC - ilość punktów za
+kryterium cena, Cn - najniższa cena ofertowa spośród ofert nieodrzuconych, Cb – cena oferty badanej. W kryterium „Cena”, oferta z
+najniższą ceną otrzyma 60 punktów a pozostałe oferty po matematycznym przeliczeniu w odniesieniu do najniższej ceny odpowiednio
+mniej. Końcowy wynik powyższego działania zostanie zaokrąglony do dwóch miejsc po przecinku
+Kategoria kryterium udzielenia zamówienia waga
+Waga (wartość punktowa, dokładna)
+Kryterium udzielenia - Liczba
+60,00
+Kryterium
+Rodzaj
+Jakość
+Nazwa
+Zatrudnienie osób niepełnosprawnych
+Opis
+Punkty za kryterium „Zatrudnienie osób niepełnosprawnych” (PN) W kryterium chodzi wyłącznie o zatrudnienie osób
+niepełnosprawnych przy realizacji zamówienia, o które wykonawcy się ubiegają. Za każdą osobę niepełnosprawną zatrudnioną przy
+realizacji zamówienia wykonawca uzyska 5 pkt, ale nie więcej niż 10 pkt. Osoby niepełnosprawne to osoby w rozumieniu ustawy z dnia
+27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. 2021 r. poz. 573).
+Kategoria kryterium udzielenia zamówienia waga
+Waga (wartość punktowa, dokładna)
+Kryterium udzielenia - Liczba
+10,00
+Kryterium
+Rodzaj
+Jakość
+Nazwa
+okres gwarancji i rękojmi
+Opis
+- minimalny okres gwarancji i rękojmi wskazany został w opisie przedmiotu zamówienia, jeśli w opisie brakuje wskazania jako
+minimalny okres gwarancji Zamawiający wymaga 24 miesiące. - za okres gwarancji i rękojmi równy minimalnemu okresowi
+wskazanemu w SWZ dla gwarancji czasowych poszczególnych elementów – 0 pkt. - za dodatkowy okres gwarancji i rękojmi min. 12
+miesięcy ponad minimalny okres wskazany w SWZ dla gwarancji czasowych wszystkich wskazanych elementów – 15 pkt. – z
+dodatkowy okres gwarancji i rękojmi min. 24 miesięcy ponad minimalny okres wskazany w SWZ dla gwarancji czasowych wszystkich
+elementów – 30 pkt W kryterium okres gwarancji Wykonawca otrzyma maksymalnie 30 pkt.
+Kategoria kryterium udzielenia zamówienia waga
+Waga (wartość punktowa, dokładna)
+Kryterium udzielenia - Liczba
+30,00
+5.1.11.
+Dokumenty zamówienia
+Języki, w których dokumenty zamówienia są oficjalnie dostępne
+polski
+Adres dokumentów zamówienia
+https://platformazakupowa.pl/pn/zslchrobry_lezajsk
+5.1.12.
+Warunki udzielenia zamówienia
+Warunki zgłoszenia
+Zgłoszenie elektroniczne
+Wymagane
+Adres na potrzeby zgłoszenia
+https://platformazakupowa.pl/pn/zslchrobry_lezajsk
+Języki, w których można składać oferty lub wnioski o dopuszczenie do udziału
+polski
+Katalog elektroniczny
+Niedozwolone
+Wymagane jest użycie zaawansowanego lub kwalifikowanego podpisu elektronicznego lub pieczęci elektronicznej (zgodnie z definicją
+w rozporządzeniu (UE) nr 910/2014)
+Oferty wariantowe
+Niedozwolone
+Opis gwarancji finansowej
+12.1. Wykonawca jest zobowiązany wnieść wadium . 12.2. Zamawiający wymaga wniesienia wadium w
+wysokości Część 2 - 100,00 zł ( słownie: sto złotych) 12.3. Wadium należy wnieść do upływu terminu składania ofert oznaczonego datą i
+godziną. Niewniesienie wadium do upływu wyznaczonego terminu (oznaczonego datą i godziną) skutkuje odrzuceniem oferty. 12.4.
+Wadium może być wnoszone w jednej lub kilku następujących formach: pieniądzu,; gwarancjach bankowych; gwarancjach
+ubezpieczeniowych; poręczeniach udzielanych przez podmioty, o których mowa w art. 6b ust. 5 pkt 2 ustawy z dnia 9 listopada 2000 r. o
+utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości. 12.5. Wadium wnoszone w pieniądzu należy wpłacić przelewem na rachunek
+zamawiającego. Tytuł przelewu winien umożliwić identyfikację przetargu, którego dotyczy wadium oraz określać podmiot w którego
+imieniu jest wpłacane – w przypadku jeśli przelewu nie dokonuje Wykonawca składający ofertę. Celem właściwej identyfikacji wpłaty z
+tytułu wadium powinny zawierać w tytule przelewu znak sprawy postępowania. 12.6. Za skuteczne wniesienie wadium w pieniądzu
+rozumie się gdy w wyznaczonym terminie, tj. do upływu terminu składania ofert (oznaczonego datą i godziną) nastąpi uznanie kwoty
+wadium na rachunku bankowym wskazanym powyżej. 12.7. Wadium w innej formie niż pieniądz należy złożyć wraz z ofertą w
+oryginale w postaci elektronicznej. 12.8. Gwarancja/poręczenie musi być podpisana przez przedstawiciela Gwaranta. Wadium w formie
+poręczenia lub gwarancji musi obejmować cały okres związania ofertą, a beneficjentem takich dokumentów musi być Zamawiający. Z
+treści gwarancji /poręczenia winno wynikać bezwarunkowe i nieodwołalne zobowiązanie Gwaranta do wypłaty Zamawiającemu, na jego
+pierwsze żądanie, pełnej kwoty wadium we wszystkich okolicznościach określonych w art. 98 ust. 6 Pzp. 12.9. Zasady zwrotu i
+zatrzymania wadium określa art. 98 Pzp.
+Termin składania ofert
+10/07/2025
+10:00:00 (UTC+2) czas wschodnioeuropejski, czas środkowoeuropejski letni
+Termin, do którego oferta musi pozostać ważna
+Dni
+Informacje na temat publicznego otwarcia
+Data otwarcia
+10/07/2025
+10:30:00 (UTC+2) czas wschodnioeuropejski, czas środkowoeuropejski letni
+Miejsce
+https://platformazakupowa.pl/pn/zslchrobry_lezajsk
+Informacje dodatkowe
+14.3. Zamawiający, najpóźniej przed otwarciem ofert, udostępnia na stronie internetowej prowadzonego
+postępowania informację o kwocie, jaką zamierza przeznaczyć na sfinansowanie zamówienia. 14.4. Zamawiający odrzuca ofertę, jeżeli
+została złożona po terminie składania ofert, o którym mowa w pkt. 14.1 SWZ. 14.5. Wykonawca ponosi wszelkie koszty związane z
+udziałem w postępowaniu, w tym przygotowaniem i złożeniem oferty. 14.6. Zamawiający nie ponosi odpowiedzialności za
+nieprawidłowe lub nieterminowe złożenie oferty, w szczególności Zamawiający nie odpowiada za ujawnienie przez Wykonawcę treści
+swojej oferty przed upływem terminu składania i otwarcia ofert, poprzez złożenie jej w formie pliku niezaszyfrowanego. Nieprawidłowe
+złożenie oferty przez Wykonawcę nie stanowi podstawy żądania unieważnienia postępowania. Zaleca się, aby założyć profil
+Wykonawcy i rozpocząć składanie oferty z odpowiednim wyprzedzeniem. 14.7. Wykonawca może zmienić oraz wycofać złożoną przez
+siebie ofertę przed upływem terminu składania ofert (zmiana oferty odbywa się poprzez wycofanie oraz złożenie nowej oferty – z uwagi
+na zaszyfrowanie plików oferty brak jest możliwości edycji złożonej oferty). 14.8. Wykonawca nie może wprowadzić zmian do oferty
+oraz wycofać jej po upływie terminu składania ofert.
+Warunki zamówienia
+Wykonanie zamówienia musi odbywać się w ramach programów zatrudnienia chronionego
+Nie
+Warunki dotyczące realizacji zamówienia
+określone postanowieniami zawartymi w projektowanych postanowieniach umowy -
+załącznik do SWZ
+Wymagana jest umowa o poufności
+nie
+Fakturowanie elektroniczne
+Dozwolone
+Stosowane będą zlecenia elektroniczne
+tak
+Stosowane będą płatności elektroniczne
+tak
+Zasady finansowe
+określone postanowieniami zawartymi w projektowanych postanowieniach umowy - załącznik do SWZ
+5.1.15.
+Techniki
+Umowa ramowa
+Brak umowy ramowej
+Informacje o dynamicznym systemie zakupów
+Brak dynamicznego systemu zakupów
+Aukcja elektroniczna
+nie
+5.1.16.
+Dalsze informacje, mediacja i odwołanie
+Organ mediacyjny
+Krajowa Izba Odwoławcza
+Organ odwoławczy
+Krajowa Izba Odwoławcza
+Informacje o terminach odwołania
+Środki ochrony prawnej przewidziane są w dziale IX ustawy. Wykonawcom a także innym
+podmiotom, jeżeli mają lub mieli interes w uzyskaniu zamówienia oraz ponieśli lub mogą ponieść szkodę w wyniku naruszenia przez
+Zamawiającego przepisów Pzp, przysługują środki ochrony prawnej opisane w Pzp: Odwołanie – rozdział 2 dział IX Pzp Postępowanie
+skargowe – art. 579590 Pzp. Odwołanie wnosi się do Prezesa Izby w formie pisemnej w postaci papierowej albo w postaci
+elektronicznej, opatrzone odpowiednio własnoręcznym podpisem albo kwalifikowanym podpisem elektronicznym. Odwołujący przesyła
+kopię odwołania zamawiającemu przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego
+treścią przed upływem tego terminu. Domniemywa się, iż zamawiający mógł zapoznać się z treścią odwołania przed upływem terminu
+do jego wniesienia, jeżeli przesłanie jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji
+elektronicznej. Odwołanie wnosi się w terminie 10 dni od dnia przesłania informacji o czynności zamawiającego stanowiącej podstawę
+jego wniesienia – jeżeli zostały przesłane w sposób określony w art. 515 ust. 1 ustawy Pzp albo w terminie 15 dni – jeżeli zostały
+przesłane w inny sposób
+Organizacja udzielająca dodatkowych informacji na temat postępowania o udzielenie zamówienia
+Zespół Szkół Licealnych im.
+Bolesława Chrobrego w Leżajsku
+Organizacja udzielająca dodatkowych informacji na temat procedur odwoławczych
+Krajowa Izba Odwoławcza
+Organizacja przyjmująca wnioski o dopuszczenie do udziału
+Krajowa Izba Odwoławcza
+Organizacja rozpatrująca oferty
+Krajowa Izba Odwoławcza
+8.
+Organizacje
+8.1.
+ORG-0001
+Oficjalna nazwa
+Zespół Szkół Licealnych im. Bolesława Chrobrego w Leżajsku
+Numer rejestracyjny
+NIP: 8161076679
+Numer rejestracyjny
+REGON: 000229270
+Adres pocztowy
+ul. ul. M.C. Skłodowskiej Curie 6
+Miejscowość
+Leżajsk
+Kod pocztowy
+37-300
+Podpodział krajowy (NUTS)
+Tarnobrzeski
+PL824
+Kraj
+Polska
+E-mail
+zamowienia.zsllezajsk@gmail.com
+Telefon
+17 242 00 19
+Adres strony internetowej
+http://zslchrobry.lezajsk.pl/
+Role tej organizacji
+Nabywca
+Organizacja udzielająca dodatkowych informacji na temat postępowania o udzielenie zamówienia
+Organizacja przyjmująca wnioski o dopuszczenie do udziału
+Organizacja rozpatrująca oferty
+8.1.
+ORG-0002
+Oficjalna nazwa
+Krajowa Izba Odwoławcza
+Numer rejestracyjny
+NIP 5262239325
+Adres pocztowy
+UL. POSTĘPU 17A
+Miejscowość
+Warszawa
+Kod pocztowy
+02-676
+Podpodział krajowy (NUTS)
+Miasto Warszawa
+PL911
+Kraj
+Polska
+E-mail
+odwolania@uzp.gov.pl
+Telefon
++48(22)4587801
+Faks
++48(22)4587801
+Adres strony internetowej
+https://www.gov.pl/web/uzp/krajowa-izba-odwolawcza
+Role tej organizacji
+Organizacja przyjmująca wnioski o dopuszczenie do udziału
+Organizacja rozpatrująca oferty
+Organ odwoławczy
+Organizacja udzielająca dodatkowych informacji na temat procedur odwoławczych
+Organ mediacyjny
+Informacje o ogłoszeniu
+Identyfikator/wersja ogłoszenia
+3541979c-1f98-4de9-a8a7-56a3a7a20d0e
+Typ formularza
+Procedura konkurencyjna
+Rodzaj ogłoszenia
+Ogłoszenie o zamówieniu lub ogłoszenie o koncesji – tryb standardowy
+Podrodzaj ogłoszenia
+Ogłoszenie – data wysłania
+02/06/2025
+20:39:54 (UTC+2) czas wschodnioeuropejski, czas środkowoeuropejski letni
+Języki, w których przedmiotowe ogłoszenie jest oficjalnie dostępne
+polski
+Numer publikacji ogłoszenia
+363558-2025
+Numer wydania Dz.U. S
+107/2025
+Data publikacji
+05/06/2025

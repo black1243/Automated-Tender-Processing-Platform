@@ -37,6 +37,8 @@ const PrzetargPage = () => {
   const [chatMinimized, setChatMinimized] = useState(false);
   const [loadingSection, setLoadingSection] = useState(null);
   const [errorSection, setErrorSection] = useState(null);
+  const [linkLoading, setLinkLoading] = useState(false);
+  const [linkError, setLinkError] = useState('');
   const navigate = useNavigate();
 
   const przetargName = decodeURIComponent(title);
@@ -138,6 +140,23 @@ const PrzetargPage = () => {
       });
   };
 
+  // Handler for 'Check' button
+  const handleCheckLink = async () => {
+    setLinkLoading(true);
+    setLinkError('');
+    try {
+      const res = await fetch(`/api/przetarg/${encodedPrzetargId}/link`);
+      if (!res.ok) throw new Error('Nie znaleziono linku');
+      const url = (await res.text()).trim();
+      if (!/^https?:\/\//.test(url)) throw new Error('Nieprawidłowy link');
+      window.open(url, '_blank', 'noopener,noreferrer');
+    } catch (err) {
+      setLinkError(err.message || 'Błąd otwierania linku');
+    } finally {
+      setLinkLoading(false);
+    }
+  };
+
   return (
     <div className="min-h-screen bg-gray-900 flex flex-col py-6 px-4">
       {/* AI Chat button at the very top */}
@@ -157,7 +176,14 @@ const PrzetargPage = () => {
             <div className="text-sm text-gray-400">ID: <span className="font-mono text-white text-xs">{przetargId}</span></div>
           </div>
           <div className="flex items-center gap-4">
-            <div className="text-gray-300 text-sm bg-gray-900 px-3 py-1 rounded-lg">Deadline: <span className="font-semibold text-yellow-300">{przetargDeadline}</span></div>
+            <button
+              className="bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-2 px-4 rounded transition ml-4"
+              onClick={handleCheckLink}
+              disabled={linkLoading}
+            >
+              {linkLoading ? 'Ładowanie...' : 'Check'}
+            </button>
+            {linkError && <span className="text-red-400 text-xs ml-2">{linkError}</span>}
             <button
               className="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded transition ml-4"
               onClick={handleDeleteTender}

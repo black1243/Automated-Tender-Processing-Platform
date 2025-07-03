@@ -1,0 +1,273 @@
+Załącznik nr 1D do SWZ
+Projektowane postanowienia umowy w sprawie zamówienia publicznego, które zostaną wprowadzone do umowy w sprawie zamówienia publicznego – wzór umowy
+UMOWA dla części II zamówienia (wzór)
+Zawarta w dniu..................... 2025 r. w Krakowie pomiędzy:
+Województwem Małopolskim z siedzibą w Krakowie przy ul. Basztowa 22, 31-156 Kraków, adres korespondencyjny: ul. Racławicka 56, 30-017 Kraków, NIP: 6762178337, REGON: 351554287, reprezentowanym przez Zarząd Województwa Małopolskiego, w imieniu, którego działa z upoważnienia:
+…………………………………………………………. zwanym dalej Zamawiającym
+a
+……………………………adres: ……………………………wpisaną do …….KRS pod nr……………..…….., nr NIP ……………., nr REGON………………, reprezentowaną przez: ……………………………… zwaną dalej Wykonawcą
+Zwanymi dalej Stronami
+Niniejsza Umowa zostaje zawarta w wyniku przeprowadzenia postępowania o udzielenie zamówienia publicznego w trybie przetargu nieograniczonego prowadzonego zgodnie z ustawą z dnia 11 września 2019 r. – Prawo zamówień publicznych, zwanej dalej ustawą (t. j. Dz. U. z 2024 r. poz. 1320 z późn. zm.)
+§ 1
+Przedmiotem niniejszej umowy jest: dostawa laptopów, stacji dokujących i monitorów wraz ze wsparciem, zgodnie ze złożoną ofertą stanowiącą Załącznik nr 2 do niniejszej umowy i opisem przedmiotu zamówienia określonym w Załączniku nr 10 oraz wykazem sprzętu określonym w Załączniku nr 1 do niniejszej umowy.
+Zamówienie jest współfinansowane z ze środków: Unii Europejskiej w ramach programu Fundusze Europejskie dla Małopolski 2021-2027 w ramach Europejskiego Funduszu Rozwoju Regionalnego (EFRR).
+§ 2
+Wykonawcy przysługuje wynagrodzenie za zrealizowanie niniejszej umowy w łącznej kwocie ……………zł brutto (słownie: ……….…. złotych …./100) , w tym należny podatek VAT według stawki .....%  w wysokości ………zł (słownie: ……….…. złotych ………./100).
+Wynagrodzenie, o którym mowa w ust. 1, obejmuje wszystkie koszty Wykonawcy związane z realizacją niniejszej umowy, w tym dostarczenie przedmiotu zamówienia, wykonanie wszystkich usług towarzyszących.
+Wynagrodzenie, o którym mowa w ust. 1, zostanie wypłacone przez Zamawiającego na podstawie przedłożonej przez Wykonawcę prawidłowo wystawionej faktury VAT, nie później niż w ciągu 30 dni od dnia jej otrzymania. Podstawą wystawienia faktury VAT będzie protokół odbioru, podpisany przez obydwie Strony umowy, stanowiący Załącznik nr 3 do niniejszej umowy. Zamawiający nie dopuszcza dostaw częściowych.
+Fakturę należy wystawić na:
+Nabywca:
+Województwo Małopolskie
+ul. Basztowa 22,
+31-156 Kraków,
+NIP: 676 21 78 337
+Odbiorca faktury:
+Urząd Marszałkowski Województwa Małopolskiego,
+Departament IT,
+ul. Basztowa 22, 31-156 Kraków.
+Wynagrodzenie zostanie wypłacone przelewem na rachunek bankowy Wykonawcy:
+Nazwa banku:
+Nr rachunku:
+6 Płatność za zrealizowany przedmiot zamówienia będzie dokonywana z numeru rachunku bankowego: 60 1020 2892 0000 5102 0922 2474.
+7.Wykonawca oświadcza, że jest posiadaczem rachunku bankowego wskazanego w ust 6 i zobowiązuje się do jego utrzymania oraz wykazania w wykazie podatników VAT, o którym mowa w art. 96b ust.1 ustawy o VAT (tzw. Biała lista) nie krócej niż do chwili dokonania rozliczeń z Zamawiającym wynikających z umowy.
+Kwota, o której mowa w ust. 1, wyczerpuje wszelkie roszczenia Wykonawcy wobec Zamawiającego z tytułu wykonania niniejszej umowy.
+Wynagrodzenie określone w ust. 1 zawiera w sobie wszelkie składniki cenotwórcze jak podatki, cła, naliczone według aktualnie obowiązujących przepisów.
+Za dzień zapłaty uważa się dzień obciążenia rachunku bankowego Zamawiającego.
+Województwo Małopolskie jest czynnym podatnikiem podatku VAT.
+Wykonawca jest / nie jest czynnym podatnikiem VAT / korzysta ze zwolnienia w zakresie podatku VAT. (wybrać właściwe)
+Zamawiający dopuszcza złożenie faktur w formie:
+1)	 papierowej,
+2)	 ustrukturyzowanego dokumentu elektronicznego złożonego za pośrednictwem Platformy Elektronicznego Fakturowania zwanej dalej PEF, zgodnie z ustawą o elektronicznym fakturowaniu w zamówieniach publicznych, koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prawnym z dnia 9 listopada 2018 r. (t.j. Dz.U. 2020 poz. 1666 z późn. zm). Otrzymywanie ustrukturyzowanych faktur elektronicznych za pośrednictwem platformy PEF nie wymaga zgody określonej w art. 106n ust.1 ustawy o VAT. Otrzymywanie innych ustrukturyzowanych dokumentów za pośrednictwem platformy PEF, w tym faktur korygujących wymaga zgody stron umowy.
+3) elektronicznej, po uprzednim obustronnym podpisaniu oświadczenia stanowiącego załącznik nr 9 do niniejszej umowy, na zasadach określonych w załączniku nr 1 do oświadczenia.
+W ramach zawartej umowy Wykonawca może wybrać wyłącznie jedną formę składania faktur stosując ją konsekwentnie w czasie realizacji umowy niezależnie od liczby wystawianych faktur i dokonanych płatności. W przypadku gdy przeszkody techniczne lub formalne uniemożliwiają przesyłanie faktur w wybranej formie możliwe jest przesłanie faktury w innej formie w tym papierowej pod warunkiem poinformowania o tym Nabywcy.
+Ustrukturyzowana faktura elektroniczna (w przypadku wyboru tej formy dokumentu) winna składać się z danych wymaganych przepisami ustawy o podatku od towarów i usług oraz m.in. danych zawierających:
+a)	numer umowy w sprawie zamówienia publicznego,
+b)	dane dotyczące odbiorcy płatności.
+Zamawiający informuje, że identyfikatorem ID PEPPOL/adresem PEF Zamawiającego, który pozwoli na złożenie ustrukturyzowanej faktury elektronicznej jest: GLN 5907720771348.
+Zamawiający prowadzi konto Podmiotu ma Platformie Elektronicznego Fakturowania (PEF) świadczone przez Brokera PEFexpert  - konsorcjum firm: SOFTIQ Sp. z o.o., Edison S.A., Euvic Sp. z o.o., MedApp S.A.
+§ 3
+Osobami odpowiedzialnymi za realizację postanowień niniejszej umowy są:
+Ze strony Zamawiającego:
+lub osoby ich zastępujące.
+Ze strony Wykonawcy:
+lub osoby ich zastępujące.
+Osobami odpowiedzialnymi za odbiór przedmiotu niniejszej umowy są łącznie:
+Ze strony Zamawiającego:
+lub osoby ich zastępujące.
+Ze strony Wykonawcy:
+lub osoby ich zastępujące
+Zmiana przedstawicieli stron, o których mowa w ust. 1 i 2 niniejszego paragrafu, nie stanowi zmiany umowy. Zmiana następuje poprzez pisemne oświadczenie złożone drugiej stronie, na piśmie pod rygorem nieważności.
+§ 4
+Wykonawca dostarczy przedmiot umowy, o którym mowa w § 1 ust. 1 na własny koszt, w terminie do 20 dni roboczych od daty zawarcia umowy.
+Przez dni robocze w rozumieniu niniejszej umowy uważa się dni od poniedziałku do piątku, z wyłączeniem dni ustawowo wolnych od pracy. Dostawa musi zostać zrealizowana w godzinach od 8 do 16 do Urzędu Marszałkowskiego Województwa Małopolskiego ul. Racławicka 56, Kraków (sala nr 17).
+Wykonawca dostarczy przedmiot niniejszej umowy fabrycznie nowy, nieużywany, bez wad i uszkodzeń. Dostarczony sprzęt musi posiadać wszystkie wymagane prawem polskim certyfikaty bezpieczeństwa oraz spełniać normy dotyczące ochrony środowiska.
+Przed dostarczeniem przedmiotu umowy do Zamawiającego, Wykonawca zweryfikuje czy całość przedmiotu umowy spełnia wszystkie wymagania SWZ oraz dokona przeglądu ilościowego oraz jakościowego. Po potwierdzeniu przez Wykonawcę zgodności z SWZ oraz potwierdzeniu ilościowym oraz jakościowym poprawności przedmiotu umowy.
+Wykonawca musi zgłosić gotowość dostawy przedmiotu umowy nie później niż 2 dni robocze przed planowanym terminem dostawy. W zgłoszeniu należy wskazać planowaną datę dostawy. Zgłoszenia należy dokonać wysyłając mail na adresy: ….. i uzyskując potwierdzenie mailowe z ww. adresu.
+Datą wykonania przedmiotu dostawy jest data podpisania przez Strony umowy Protokołu Odbioru potwierdzającego dostarczenie przedmiotu umowy do Zamawiającego. Jeżeli data podpisania takiego protokołu będzie późniejsza niż data wskazana w § 4 ust. 1, sytuacja taka traktowana będzie jako zwłoka z przyczyn leżących po stronie Wykonawcy w należytym wykonaniu przedmiotu umowy, chyba że brak podpisania Protokołu Odbioru wynikał będzie z winy Zamawiającego.
+W przypadku potwierdzenia prawidłowości wykonania całości przedmiotu dostawy, Zamawiający dokona odbioru dostawy i podpisze stosowny Protokół Odbioru. Protokół Odbioru sporządzony zostanie w formie pisemnej, w dwóch egzemplarzach. Każdy egzemplarz winien być podpisany przez upoważnionego przedstawiciela obu Stron. Tylko i wyłącznie protokół podpisany przez Zamawiającego i Wykonawcę upoważnia do wystawienia faktury.
+Potwierdzenie prawidłowości wykonania przedmiotu dostawy następuje po stwierdzeniu jego zgodności z SWZ, umową i złożoną ofertą.
+W przypadku stwierdzenia jakichkolwiek wad w dostarczonym przedmiocie umowy, o którym mowa w § 1 ust. 1, Zamawiający uprawniony jest do niepodpisania protokołu odbioru i przesłania Wykonawcy reklamacji. Wykonawca zobowiązany jest odpowiedzieć w formie pisemnej na reklamację w terminie do 3 dni od daty jej otrzymania. Brak odpowiedzi Wykonawcy we wskazanym terminie oznacza przyjęcie reklamacji.
+Przyjęcie reklamacji oznacza pisemną akceptację wszystkich wyszczególnionych w niej uwag wskazanych przez Zamawiającego, jak również dostarczenie do siedziby Zamawiającego przedmiotu umowy wolnego od wad w terminie do 7 dni od daty przyjęcia reklamacji.
+Brak przyjęcia reklamacji zgodnie z ust. 9, jak również niedostarczenie przedmiotu umowy wolnego od wad w terminie wskazanym w ust. 10, uprawnia Zamawiającego do odstąpienia od niniejszej umowy z przyczyn leżących po stronie Wykonawcy (bez względu na rodzaj wad, nawet jeżeli wady są wynikiem okoliczności, za które Wykonawca nie ponosi odpowiedzialności).
+Oświadczenie o odstąpieniu od umowy w przypadku naruszenia ust.11 Zamawiający może złożyć w terminie 15 dni od powstania przyczyny odstąpienia.
+§ 5
+Wykonawca zapewni gwarancję producenta/ów oraz wsparcie techniczne producenta/ów przez okres minimum: 60 miesięcy na laptopy (wraz z gwarancją minimum 36 miesięcy na baterie), 36 miesięcy na monitory i 36 miesięcy na stacje dokujące.
+Okres gwarancji producenta/ów liczony będzie od daty podpisania Protokołu Odbioru, o którym mowa w § 2 ust. 3.
+Wykonawca zobowiązuje się do wykonania naprawy gwarancyjnej przedmiotu umowy u Zamawiającego w terminie do …… dni roboczych (zgodnie z ofertą), liczonych od następnego dnia roboczego po wysłaniu przez Zamawiającego zgłoszenia gwarancyjnego za pomocą kanałów zgłoszeń określonych w ust. 3.
+Przez kanały zgłoszeń w rozumieniu niniejszej umowy uważa się:
+W przypadku Zamawiającego:
+konto poczty elektronicznej udostępnione przez Zamawiającego pod adresem: ………
+numer telefonu kontaktowego: ……… udostępniony przez Zamawiającego.
+W przypadku Wykonawcy:
+konto poczty elektronicznej udostępnione przez Wykonawcę pod adresem: ………
+numer telefonu kontaktowego: ……….. udostępniony przez Wykonawcę.
+Jeżeli w czasie, o którym mowa w ust. 1, ujawnią się takie wady lub usterki przedmiotu niniejszej umowy, których Wykonawca nie jest w stanie usunąć, Wykonawca zobowiązuje się do dostarczenia w terminie do 3 dni roboczych, liczonych od następnego dnia roboczego po wysłaniu przez Zamawiającego zgłoszenia gwarancyjnego za pomocą kanałów zgłoszeń określonych w ust. 3, nowego sprzętu wolnego od wad lub usterek o parametrach nie gorszych niż dostarczony w ramach tej umowy.
+W przypadku wady lub usterki dysków twardych w okresie gwarancji, Wykonawca zobowiązuje się do wymiany gwarancyjnej uszkodzonych dysków na nowe o co najmniej takich samych parametrach technicznych w terminie, o którym mowa w ust. 2. Każdorazowo w przypadku wymiany urządzenia lub sprzętu lub podzespołów, dyski pozostają u Zamawiającego.
+Każdorazowa naprawa gwarancyjna musi być uzgodniona z Zamawiającym w zakresie m.in.: terminu, godziny, miejsca i osoby serwisującej oraz zakresu prac. Taka naprawa musi odbywać się wyłącznie w obecności pracownika Zamawiającego. Po wykonanej naprawie gwarancyjnej Wykonawca sporządzi protokół z wykonanych prac, który zostanie przekazany do zatwierdzenia i podpisania przez pracownika Zamawiającego. Podpisanie tego protokołu oznacza prawidłową naprawę gwarancyjną przedmiotu umowy i zamknięcie zgłoszenia gwarancyjnego.
+Serwis sprzętu komputerowego (tj. laptopy) musi być realizowany przez Wykonawcę lub Producenta lub Autoryzowanego Partnera Serwisowego Producenta.
+Autoryzowany Partner Serwisowy musi posiadać status autoryzowanego partnera serwisowego Producenta sprzętu komputerowego zaoferowanego w ofercie.
+Okres rękojmi jest równy okresowi gwarancji, o której mowa w ust 1, i będzie liczony tak jak dla okresu gwarancji tj. od daty podpisania Protokołu Odbioru, o którym mowa w § 2 ust. 3.
+Wykonawca jest odpowiedzialny względem Zamawiającego z tytułu rękojmi za wady, jeżeli przedmiot umowy ma wady zmniejszające jego wartość lub użyteczność ze względu na cel oznaczony w niniejszej umowie, lub wynikający z okoliczności lub przeznaczenia, niezgodne z parametrami ustalonymi w Specyfikacji Warunków Zamówienia i w złożonej przez Wykonawcę ofercie.
+Wykonawca odpowiada z tytułu rękojmi również wtedy, gdy przedmiot umowy, nie ma właściwości, o których istnieniu zapewnił Zamawiającego, gdy został on wydany w stanie niezupełnym, jak również, gdy majątkowe prawa autorskie do przedmiotu umowy, lub ewentualne prawa własności przemysłowej, należą do osoby trzeciej lub są obciążone prawem osoby trzeciej.
+Wykonawca nie może zwolnić się od odpowiedzialności z tytułu rękojmi za wady przedmiotu umowy, wskazując, że wada powstała na skutek wykonania w/w przedmiotu umowy według wskazówek Zamawiającego, chyba że wykaże, iż zakwestionował te wskazówki i uprzedził pisemnie Zamawiającego o przewidywanych skutkach zastosowania tych wskazówek.
+W przypadku stwierdzenia wad przedmiotu umowy, Zamawiający będzie uprawniony do żądania bezpłatnego usunięcia wady przez Wykonawcę lub wymiany przedmiotu umowy na wolny od wad. O zauważonych wadach Zamawiający powiadomi Wykonawcę najpóźniej w terminie 5 dni roboczych od daty stwierdzenia wad.
+Wykonawca jest zobowiązany z tytułu rękojmi, do usunięcia wad w terminie wskazanym przez Zamawiającego, nie dłuższym jednak niż do 7 dni roboczych od daty doręczenia zawiadomienia o wykryciu wad.
+Przez czas, zwany dalej oknem czasowym, w którym wszystkie usługi gwarancyjne powinny być dostępne, rozumie się dni robocze (od poniedziałku do piątku za wyjątkiem dni ustawowo wolnych od pracy, w godzinach: od 8.00 do 16.00). W przypadku zgłoszenia gwarancyjnego poza oknem czasowym, czas w którym wszystkie usługi gwarancyjne są dostępne jest liczony od następnego dnia roboczego. Przez zgłoszenie gwarancyjne rozumie się – zgłoszenie Zamawiającego dotyczące zidentyfikowanej wady lub usterki przedmiotu umowy.
+§ 6
+Wykonawca odpowiada za niewykonanie lub nienależyte wykonanie umowy.
+W przypadku niedotrzymania terminu dostarczenia całości przedmiotu niniejszej umowy, o którym mowa w § 4 ust. 1, niedostarczenia lub dostarczenia przedmiotu niniejszej umowy nienadającego się do odbioru ze względu na stwierdzone wady lub/i usterki, Zamawiającemu będzie przysługiwać prawo naliczania kar umownych za każdy dzień roboczy zwłoki, w wysokości 0,4% wynagrodzenia brutto, o którym mowa w § 2 ust. 1 do dnia roboczego odbioru przedmiotu umowy, maksymalnie do 10 dni roboczych. Kara będzie naliczana od dnia roboczego następnego od daty upływu terminu, o którym mowa w § 4 ust. 1.
+W przypadku niedotrzymania terminu naprawy gwarancyjnej lub braku wymiany przedmiotu umowy na nowy w terminach określonych w § 5 ust. 2 i ust. 4, Zamawiający będzie naliczał karę umowną za każdy dzień zwłoki w wysokości 0,1 % wynagrodzenia brutto, o którym mowa w § 2 ust. 1, maksymalnie do 10 dni roboczych.
+Zamawiający odstąpi od niniejszej umowy w całości lub w części w terminie 15 dni w przypadku:
+zwłoki w przekazaniu całości przedmiotu niniejszej umowy przez Wykonawcę przekraczającego 7 dni roboczych w stosunku do terminu określonego w § 4 ust. 1,
+określonym w § 4 ust. 11 niniejszej umowy,
+gdy Wykonawca przekroczy powyżej 10 dni roboczych termin określony w § 5 ust. 2,
+gdy Wykonawca przekroczy powyżej 10 dni roboczych termin określony w § 5 ust. 4
+Wykonawca zapłaci Zamawiającemu karę umowną za odstąpienie od niniejszej umowy z przyczyn wskazanych w ust. 4 w wysokości 20 % wynagrodzenia brutto, o którym mowa w § 2 ust.1 w terminie 14 dni od daty otrzymania przez Wykonawcę wezwania do zapłaty.
+Naliczone kary umowne, podlegać będą potrąceniu z kwoty faktur przedstawionych do zapłaty przez Wykonawcę lub w przypadku braku takiej możliwości płatne będą w terminie 14 dni od daty otrzymania przez Wykonawcę wezwania do zapłaty.
+Kara umowna, o której mowa w ust. 2 jest płatna w terminie 14 dni od daty otrzymania wezwania do zapłaty od Zamawiającego.
+Łączna wysokość kar umownych nie może przekroczyć 35% wynagrodzenia brutto, o którym mowa w § 2 ust.1.
+§ 7
+Wykonawca może powierzyć podwykonawcom wykonanie części przedmiotu niniejszej umowy. W przypadku powierzenia wykonania części przedmiotu niniejszej umowy podwykonawcom, za ich działania lub zaniechania Wykonawca odpowiada jak za własne działania lub zaniechania.
+Wykonawca obowiązany jest poinformować pisemnie Zamawiającego w terminie 5 dni roboczych od dnia zawarcia umowy o podwykonawstwo, o powierzeniu wykonania, przedmiotu niniejszej umowy podwykonawcy jak i o zapisach wiążących strony umowy z podaniem wszelkich informacji mających wpływ na realizacje niniejszej umowy.
+W przypadku, gdy na skutek nienależytego wykonywania niniejszej umowy przez Wykonawcę osoby trzecie zgłoszą jakiekolwiek roszczenia w związku z doznanymi szkodami Wykonawca zobowiązuje się do podjęcia na swój koszt i ryzyko wszelkich działań prawnych zapewniających należytą ochronę Zamawiającego przed takimi roszczeniami osób trzecich. W szczególności Wykonawca zobowiązuje się zastąpić Zamawiającego czy też w przypadku braku takiej możliwości przystąpić po stronie Zamawiającego do wszelkich postępowań toczących się przeciwko Zamawiającemu. Wykonawca zobowiązuje się także zrekompensować Zamawiającemu wszelkie koszty, jakie Zamawiający poniesie lub jakie będzie zobowiązany ponieść w związku z dochodzeniem roszczenia, jakie osoba trzecia zgłosi w związku z tym, że Wykonawca nienależycie wykonywał niniejszą umowę.
+Zamawiający może odstąpić od umowy w terminie 30 dni roboczych od dnia powzięcia wiadomości o zaistnieniu istotnej zmiany okoliczności powodującej, że wykonanie umowy nie leży w interesie publicznym, czego nie można było przewidzieć w chwili zawarcia umowy, lub dalsze wykonywanie umowy może zagrozić podstawowemu interesowi bezpieczeństwa państwa lub bezpieczeństwu publicznemu. W takim przypadku, Wykonawca może żądać wyłącznie wynagrodzenia należnego z tytułu wykonania części niniejszej umowy.
+§ 8
+Wykonawca oświadcza że:
+zapoznał się z obowiązkiem informacyjnym wynikającym z art. 13 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z 27.04.2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) zwanego dalej RODO, przekazanym przez Zamawiającego. Treść klauzuli informacyjnej stanowi załącznik nr 6 do niniejszej umowy.
+wypełni w imieniu Zamawiającego obowiązki informacyjne przewidziane w art. 14 RODO wobec osób fizycznych, od których dane osobowe bezpośrednio lub pośrednio pozyska w celu zawarcia i realizacji umowy. Stosowna klauzula stanowi załącznik nr 7 do niniejszej umowy.
+§ 9
+Wykonawca zobowiązuje się do bezwzględnego zachowania w poufności wszelkich informacji uzyskanych w związku z wykonywaniem niniejszej umowy, a także po zakończeniu jej realizacji.
+Wykonawca zobowiąże swoich pracowników i będzie od nich wymagał bezwzględnego zachowania w poufności wszelkich informacji uzyskanych w związku z wykonywaniem umowy, zarówno w trakcie jej obowiązywania, jak również po jej wygaśnięciu.
+Obowiązek ten, o którym mowa w ust. 1 i 2 niniejszego paragrafu, nie dotyczy informacji publicznej w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (tj. Dz. U. 2022.902) oraz sytuacji, gdy konieczność ujawnienia takich informacji wynika z decyzji administracyjnej, orzeczenia sądu lub obowiązujących przepisów prawa.
+Wykonawca oświadcza, że pracownicy skierowani przez niego do wykonania niniejszej umowy zobowiązani są do podpisania przed przystąpieniem do realizacji niniejszej umowy i przekazania Zamawiającemu oświadczenia o poufności, którego treść znajduje się w Załączniku nr 4 do niniejszej umowy.
+Wykonawca zobowiązany jest do sporządzenia i przekazania Zamawiającemu listy pracowników, skierowanych przez niego do wykonania umowy – Załącznik nr 5 do umowy. W przypadku zmiany pracowników Wykonawcy skierowanych do wykonania umowy Wykonawca zobowiązany jest do zaktualizowania listy pracowników oraz przekazania jej do Zamawiającego.
+W przypadku naruszenia przez Wykonawcę zapisów niniejszego paragrafu, Zamawiający może naliczyć Wykonawcy karę umowną w wysokości 2% wynagrodzenia brutto, o którym mowa w  § 2 ust.1 niniejszej umowy, za każdy przypadek naruszenia. Kara jest płatna w terminie 14 dni od daty otrzymania przez Wykonawcę pisemnego wezwania do zapłaty.
+§ 10
+W sprawach nieuregulowanych niniejszą umową mają zastosowanie przepisy ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych oraz ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+Ewentualne spory mogące wyniknąć na tle niniejszej umowy podlegają rozpatrzeniu przez Sąd właściwy dla siedziby Zamawiającego.
+Umowę sporządzono w 2 jednobrzmiących egzemplarzach, z których 1 dla Wykonawcy, a  1 dla Zamawiającego.
+Integralną część umowy stanowią następujące załączniki:
+Załącznik nr 1 – Wykaz oferowanego sprzętu komputerowego
+Załącznik nr 2 – Formularz oferty
+Załącznik nr 3 – Protokół odbioru
+Załącznik nr 4 – Oświadczenie o poufności
+Załącznik nr 5 – Lista pracowników upoważnionych przez Wykonawcę do realizacji Umowy
+Załącznik nr 6 – Klauzula informacyjna z art. 13 RODO.
+Załącznik nr 7 – Klauzula informacyjna z art. 14 RODO.
+Załącznik nr 8 –  Oświadczenie Wykonawcy potwierdzające, że na zaoferowany sprzęt komputerowy zostanie wykupiona gwarancja Producenta sprzętu.
+Załącznik nr 9 – Oświadczenie o akceptacji faktur wystawianych i przesyłanych w formie elektronicznej
+Załącznik nr 10 – Opis przedmiotu zamówienia
+ZAMAWIAJĄCY	WYKONAWCA
+Załącznik nr 3 do wzoru umowy
+PROTOKÓŁ ODBIORU
+Spisany w dniu ............................................w Krakowie, w siedzibie Urzędu Marszałkowskiego przy ul. Racławickiej 56, 30-017 Kraków .
+Przedstawiciele Zamawiającego:
+Przedstawiciel Wykonawcy:
+Przedmiotem odbioru jest:
+Dostawa laptopów, stacji dokujących i monitorów wraz ze wsparciem współfinansowane z ze środków: Unii Europejskiej w ramach programu Fundusze Europejskie dla Małopolski 2021-2027 w ramach Europejskiego Funduszu Rozwoju Regionalnego (EFRR) w ramach projektu pn. „Dostawa i wdrożenie systemu EZD sprzętu serwerowego, licencji i wsparcia dla projektu pn.: „Wdrożenie elektronicznego zarządzania dokumentacją w podmiotach zależnych od Województwa Małopolskiego” w ilości podanej poniżej:
+Konfiguracja I
+Numer seryjny: ...................................................................................
+Numer seryjny: ...................................................................................
+Konfiguracja II
+Numer seryjny: ...................................................................................
+Numer seryjny: ...................................................................................
+Przedmiot odbioru został wykonany w dniu ……………………… w wyniku zamówienia publicznego zakończonego podpisaniem umowy nr  ..................................................... z dnia .............................................................
+Przedstawiciele Zamawiającego stwierdzają co następuje:
+Przedmiot umowy został dostarczony w terminie / po terminie *, wolny od wad.
+Na tym protokół zakończono i podpisano
+Zamawiający	Wykonawca
+* Niepotrzebne skreślić
+Załącznik nr 4 do wzoru umowy
+OŚWIADCZENIE O POUFNOŚCI
+Ja, niżej podpisany
+(imię i nazwisko)
+Pracownik ..........................................................................
+(nazwa Wykonawcy)
+Zobowiązuję się do bezwzględnego zachowania w tajemnicy wszelkich informacji, danych,
+a w szczególności danych osobowych oraz sposobów ich zabezpieczenia, w których posiadanie wejdę w czasie prac realizowanych dla Zamawiającego w ramach realizacji umowy, której przedmiotem jest ………………….. z dnia ………….. o numerze ……….. zarówno w trakcie jej obowiązywania jak i po zakończeniu.
+Kraków, dnia .............................			……………………………..(podpis)
+Załącznik nr 5 do wzoru umowy
+Lista pracowników upoważnionych przez Wykonawcę do realizacji Umowy
+Załącznik nr 6 do wzoru umowy
+KLAUZULA INFORMACYJNA
+Zgodnie z art. 13 ust. 1−2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z 27.04.2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych)  zwanego dalej RODO – informuje się, że:
+I. Administrator danych osobowych
+Administratorem Pana danych osobowych jest Województwo Małopolskie oraz Zarząd Województwa Małopolskiego, z siedzibą w Krakowie, ul. Basztowa 22, 31-156 Kraków, adres do korespondencji ul. Racławicka 56, 30-017 Kraków.
+II. Inspektor Ochrony Danych
+Dane kontaktowe Inspektora Ochrony Danych – adres do korespondencji: Inspektor Ochrony Danych UMWM, Urząd Marszałkowski Województwa Małopolskiego, ul. Racławicka 56, 30-017 Kraków; email: iodo@umwm.malopolska.pl.
+III. Cele przetwarzania danych i  podstawy przetwarzania
+Administrator będzie przetwarzać Pana/Pani dane na podstawie art. 6 ust. 1 lit. b) RODO dla celów związanych z zawarciem i realizacją umowy nr ……….…….…… z dnia ………..……. , której przedmiotem jest „Dostawa laptopów, stacji dokujących i monitorów wraz z oprogramowaniem, licencjami i wsparciem” oraz na podstawie art. 6 ust. 1 lit. c) RODO dla celów związanych z obsługą finansowo – księgową.
+IV. Informacja o wymogu podania danych
+Podanie danych osobowych dla celów zawarcia umowy ma charakter dobrowolny, jednakże podanie ich jest konieczne do zawarcia umowy.
+V. Konsekwencje niepodania danych osobowych
+Konsekwencją niepodania danych osobowych będzie brak możliwości zawarcia i realizacji umowy.
+VI. Okres przechowywania danych
+Pani/Pana dane osobowe będą przechowywane do momentu zakończenia realizacji projektu i jego rozliczenia oraz do momentu zamknięcia i rozliczenia Regionalnego Programu Operacyjnego Województwa Małopolskiego 2014-2020 oraz zakończenia okresu trwałości dla projektu i okresu archiwizacyjnego w zależności od tego, która z tych dat nastąpi później.
+VII. Prawa osób, których dane dotyczą
+Posiada Pani/Pan prawo do korzystania z uprawnień uregulowanych w art. 15-21 RODO.
+VIII. Prawo wniesienia skargi do organu nadzorczego
+Ma Pan/Pani prawo wniesienia skargi do organu nadzorczego, którym w Polsce jest Prezes Urzędu Ochrony Danych Osobowych.
+IX. Odbiorcy danych
+Pani/Pana dane osobowe mogą zostać ujawnione innym podmiotom na podstawie przepisów prawa. Pani/Pana dane osobowe mogą zostać ujawnione podmiotom przetwarzającym, w związku z realizacją umów, w ramach których zostało im powierzone przetwarzanie danych osobowych (np. dostawcom usług IT).
+X.  Informacja dotycząca zautomatyzowanego przetwarzania danych osobowych, w tym profilowania
+Pana dane nie będą przetwarzane w sposób zautomatyzowany, w tym również profilowane.
+Załącznik nr 7 do wzoru umowy
+KLAUZULA INFORMACYJNA
+Zgodnie z art. 14 ust. 1−2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z 27.04.2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych)  zwanego dalej RODO – informuje się, że:
+I. Administrator danych osobowych
+Administratorem Pani/Pana danych osobowych jest Województwo Małopolskie oraz Zarząd Województwa Małopolskiego z siedzibą w Krakowie, ul. Basztowa 22, 31-156 Kraków, adres do korespondencji ul. Racławicka 56, 30-017 Kraków.
+II. Inspektor Ochrony Danych
+Dane kontaktowe Inspektora Ochrony Danych – adres do korespondencji: Inspektor Ochrony Danych UMWM, Urząd Marszałkowski Województwa Małopolskiego, ul. Racławicka 56, 30-017 Kraków; email: iodo@umwm.malopolska.pl.
+III. Cele przetwarzania danych i  podstawy przetwarzania
+Administrator będzie przetwarzać Pani/Pana dane na podstawie art. 6 ust. 1 lit. f) RODO dla celów związanych z realizacją umowy nr……………… z dnia …….., której przedmiotem jest „Dostawa laptopów, stacji dokujących i monitorów wraz z oprogramowaniem, licencjami i wsparciem”
+IV. Kategorie danych osobowych
+Administrator będzie przetwarzać następujące kategorie Pani/Pana danych: ……………………….…………….……(np. imię i nazwisko, stanowisko, numer telefonu, adres e-mail, miejsce pracy …. )
+V. Okres przechowywania danych
+Pani/Pana dane osobowe będą przechowywane do momentu zakończenia realizacji projektu i jego rozliczenia oraz do momentu zamknięcia i rozliczenia Regionalnego Programu Operacyjnego Województwa Małopolskiego 2014-2020 oraz zakończenia okresu trwałości dla projektu i okresu archiwizacyjnego w zależności od tego, która z tych dat nastąpi później.
+VI. Prawa osób, których dane dotyczą
+Posiada Pani/Pan prawo do korzystania z uprawnień uregulowanych w art. 15-21 RODO.
+VII. Prawo wniesienia skargi do organu nadzorczego
+Ma Pani/Pan prawo wniesienia skargi do organu nadzorczego, którym w Polsce jest Prezes Urzędu Ochrony Danych Osobowych.
+VIII. Odbiorcy danych
+Pani/Pana dane osobowe mogą zostać ujawnione innym podmiotom na podstawie przepisów prawa. Pani/Pana dane osobowe mogą zostać ujawnione podmiotom przetwarzającym, w związku z realizacją umów, w ramach których zostało im powierzone przetwarzanie danych osobowych (np. dostawcom usług IT).
+IX. Źródło danych
+Pani/Pana dane osobowe pochodzą od Wykonawcy umowy, której przedmiotem jest dostawa sprzętu komputerowego.
+X.  Informacja dotycząca zautomatyzowanego przetwarzania danych osobowych, w tym profilowania
+Pani/Pana dane nie będą przetwarzane w sposób zautomatyzowany, w tym również profilowane
+Załącznik nr 8 do wzoru umowy
+Oświadczenie Wykonawcy potwierdzające, że na zaoferowane ………………..zostanie wykupiona gwarancja Producenta sprzętu.
+Oświadczamy, że na zaoferowane w naszej ofercie …………… zostanie wykupiona gwarancja Producenta sprzętu na okres ………. miesięcy.
+Okres gwarancji producenta/ów sprzętu liczony będzie od daty podpisania Protokołu Odbioru.
+Serwis gwarancyjny tego sprzętu będzie świadczony w tym okresie przez Wykonawcę lub Producenta lub Autoryzowanego Partnera Serwisowego Producenta*.
+Data i podpis Wykonawcy
+*niepotrzebne skreślić
+Załącznik nr 9 do umowy
+OŚWIADCZENIE O AKCEPTACJI FAKTUR WYSTAWIANYCH I PRZESYŁANYCH
+W FORMIE ELEKTRONICZNEJ
+Dane Dostawcy:
+Nazwa:
+Adres:
+NIP:
+Dane Nabywcy:
+Nazwa:
+Adres:
+NIP:
+Dane Odbiorcy:
+Numer umowy:
+Oświadczenie Nabywcy
+Nabywca w transakcjach przedstawionych w ramach rozliczenia umowy akceptuje wystawianie i przesyłanie przez Dostawcę faktur w formie elektronicznej, na podstawie przepisów ustawy z dnia 11 marca 2004 r o podatku od towarów i usług (t.j. Dz.U. z 2024 r. nr 361 z późn.zm) zwana dalej ustawą o VAT.
+Oświadczenie Dostawcy
+Dostawca w transakcjach przedstawionych w ramach rozliczenia umowy zobowiązuje się do przesyłania faktur w formie elektronicznej od dnia ……………...na następujący adres e-mail: efaktury@umwm.malopolska.pl lub za pośrednictwem platformy E-Puap Urzędu Marszałkowskiego Województwa Małopolskiego na adres skrzynki nr: /947ts6aydy/SkrytkaESP  (niepotrzebne skreślić)
+Dostawca oświadcza, że adresem właściwym z którego będą przesyłane faktury w formie elektronicznej jest adres e-mail: ………………………………………………….
+W przypadku zmiany danych zawartych w tym dokumencie zarówno Nabywca jak i Dostawca są zobowiązani do niezwłocznego przekazania aktualnych danych.
+W przypadku gdy przeszkody techniczne lub formalne uniemożliwiają przesyłanie faktur w formie elektronicznej możliwe jest przesłanie faktury innej formie, w tym w formie papierowej, pod warunkiem poinformowania o tym Nabywcy.
+Wycofanie akceptacji przysyłania faktur w formie elektronicznej może nastąpić w drodze pisemnej lub elektronicznej.
+Nabywca i Dostawca zapoznali się z zasadami przyjmowania faktur w formie elektronicznej przez Urząd Marszałkowski Województwa Małopolskiego, które stanowią Załącznik nr 1 do niniejszego oświadczenia i je akceptują.
+Podpis Nabywcy							Podpis Dostawcy
+Załącznik nr 1 do Oświadczenia
+Zasady przyjmowania faktur w formie elektronicznej przez Urząd Marszałkowski Województwa Małopolskiego
+Niniejsze zasady zostały przygotowane w celu ujednolicenia przyjmowania faktur w formie elektronicznej przez Urząd Marszałkowski Województwa Małopolskiego.
+Podstawą prawną wystawiania i przesyłania faktur w formie elektronicznej jest ustawa z dnia 11 marca 2004 r o podatku od towarów i usług (t.j. Dz.U. z 2024 r. nr 361 z późn. zm.)
+Faktura w formie elektronicznej powinna zostać wystawiona i przesłana w nieedytowalnym formacie elektronicznym np. PDF.
+Faktura w formie elektronicznej powinna zawierać te same elementy co faktura w formie papierowej.
+Faktura w formie elektronicznej tak samo jak faktura papierowa nie wymaga podpisu Dostawcy.
+Faktura w formie elektronicznej, zgodnie z art. 106m i 106n ustawy o VAT może być przesyłana drogą elektroniczną pod warunkiem:
+uprzedniej akceptacji tego sposobu przesyłania faktur przez Nabywcę;
+zapewnienia autentyczności pochodzenia, tj. pewność co do tożsamości dokonującego dostawy towarów lub usługodawcy albo wystawcy faktury;
+zapewnienia integralności treści faktury, tj. uniemożliwienie dokonania zmian danych, które powinna zawierać faktura;
+zapewnienia jej czytelności;
+odpowiedniego ich przechowywania.
+Autentyczność pochodzenia i integralność treści faktury w formie elektronicznej może zostać zapewniona m.in. w przypadku podpisania faktury kwalifikowanym podpisem elektronicznym.
+Autentyczność pochodzenia, integralność treści oraz czytelność faktury można zapewnić za pomocą dowolnych kontroli biznesowych, które ustalają wiarygodną ścieżkę audytu między fakturą a dostawą towarów lub świadczeniem usług.
+Nabywca oświadcza, że adresem właściwym do przesyłania faktur w formie elektronicznej jest adres e-mail: efaktury@umwm.malopolska.pl  lub adres skrytki na platformie E-Puap Urzędu Marszałkowskiego Województwa Małopolskiego nr: /947ts6aydy/SkrytkaESP
+Dostarczanie faktur drogą elektroniczną do Urzędu Marszałkowskiego Województwa Małopolskiego, następuje po otrzymaniu przez Nabywcę oświadczenia o akceptacji faktur wystawianych i przesyłanych w formie elektronicznej.
+Oświadczenie o akceptacji faktur wystawianych i przesyłanych w formie elektronicznej może być złożone równocześnie z zawartą umową jako załącznik lub w trakcie trwania umowy, nie później niż przed złożeniem pierwszej faktury w ramach realizowanych płatności na adres korespondencyjny wskazany w umowie lub w wersji elektronicznej na adres
+e-mail: efaktury@umwm.malopolska.pl lub za pośrednictwem platformy E-Puap Urzędu Marszałkowskiego Województwa Małopolskiego na adres skrzynki nr: /947ts6aydy/SkrytkaESP
+Wskazaną formę składania faktur kontrahent winien stosować konsekwentnie w czasie realizacji umowy niezależnie od liczby wystawianych faktur i dokonanych płatności.
+W nazwie przesyłanego pliku należy wskazać numer umowy zarejestrowanej w GRUiZ wyłączając znaki specjalne.
+Na powyższe adresy należy także przesyłać informacje o zmianie adresu e-mail, na który będą przesyłane faktury w formie elektronicznej, bądź wycofanie akceptacji na przesyłanie faktur w formie elektronicznej.
+Data wpływu faktury w formie elektronicznej do Urzędu Marszałkowskiego Województwa Małopolskiego jest zgodna z datą wpływu dokumentu na adres e-mail: efaktury@umwm.malopolska.pl  lub adres skrytki na platformie E-Puap Urzędu Marszałkowskiego Województwa Małopolskiego nr: /947ts6aydy/SkrytkaESP
+Dostawca traci prawo do przesyłania wystawionych faktur w formie elektronicznej od dnia następującego po doręczeniu oświadczenia o wycofaniu akceptacji na wystawianie i przesyłanie faktur w formie elektronicznej. Od tego momentu wystawione faktury powinny być wysyłane pocztą w formie papierowej lub w postaci ustrukturyzowanej faktury elektronicznej za pośrednictwem Platformy Elektronicznego Fakturowania (PEF).
+W przypadku braku powiadomienia o zmianie adresu e-mail, wszelka korespondencja kierowana na dotychczas obowiązujący e-mail jest uważana za prawidłowo dostarczoną i wywołuje wszelkie skutki prawne.
+Po podpisaniu oświadczenia faktury otrzymane przez Urząd Marszałkowski Województwa Małopolskiego w formie papierowej będą odsyłane za wyjątkiem faktur, co do których poinformowano Nabywcę o wystąpieniu przeszkód technicznych lub formalnych.
+Potwierdzeniem z otrzymania korekty do faktury wystawionej przez Dostawcę w formie elektronicznej, będzie potwierdzenie otrzymania wiadomości elektronicznej za pomocą komunikatu wysłanego z adresu e-mail, na który przesłano korektę do faktury.
