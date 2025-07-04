@@ -1,0 +1,1679 @@
+CERTYFIKOWANY SPRZĘT GRAFICZNY
+Inventor
+Karty i sterowniki wymienione na tej stronie zostały
+przetestowane przez dostawców kart lub zespoły ds. produktu,
+a wyniki zostały zweryﬁkowane przez zespoły ds. produktu
+Autodesk. Podczas testów sprawdza się, czy sprzęt obsługuje
+funkcje produktu. Karty i sterowniki, których nie ma na liście,
+mogą nadal działać z produktem, ale Autodesk nie otrzymał
+jeszcze ani nie zweryﬁkował wyników testu.
+Pytania? Wyślij wiadomość e-mail na adres
+autodesk.certiﬁcation@autodesk.com
+2025
+Windows 11 64-bit
+All
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+AMD
+RadeonRDNA 3.0 Mobile AMD AMD
+Software:Wymagania system owe Przegląd informacji Certyﬁkowany sprzęt graﬁczny
+Certyﬁkowany sprzęt graﬁczny Zaloguj się0PL30.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 1/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+760M PRO Edition
+24.Q2
+AMD
+Radeon
+760MRDNA 3.0 Mobile AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+Radeon
+780MRDNA 3.0 Mobile AMDAMD
+Software:
+PRO Edition
+24.Q2
+AMD
+Radeon
+780MRDNA 3.0 Mobile AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+Radeon
+PRO V710
+MxGPURDNA 3.0 28672 Workstation AMDAMD Radeon
+PRO V710
+MxGPU
+Driver
+AMD
+Radeon
+PRO W5500RDNA 1.0 8192 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon
+PRO W5500RDNA 1.0 8192 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+Radeon
+PRO W5700RDNA 1.0 8176 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon
+PRO W5700RDNA 1.0 8176 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q430.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 2/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+AMD
+Radeon
+PRO W6400RDNA 2.0 4096 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon
+PRO W6400RDNA 2.0 4096 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q2
+AMD
+Radeon
+PRO W6400RDNA 2.0 4096 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+Radeon
+PRO W6600RDNA 2.0 8192 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon
+PRO W6600RDNA 2.0 8192 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+Radeon
+PRO W6800RDNA 2.0 32768 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon
+PRO W6800RDNA 2.0 32768 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+Radeon
+PRO W7500RDNA 3.0 8192 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q430.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 3/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+AMD
+Radeon
+PRO W7500RDNA 3.0 8192 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+Radeon
+PRO W7600RDNA 3.0 8192 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon
+PRO W7600RDNA 3.0 8192 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q2
+AMD
+Radeon
+PRO W7600RDNA 3.0 8192 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+Radeon
+PRO W7700RDNA 3.0 48731 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon
+PRO W7700RDNA 3.0 48731 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+Radeon
+PRO W7800RDNA 3.0 32768 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon
+PRO W7800RDNA 3.0 32768 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+RadeonRDNA 3.0 49152 Workstation AMD AMD Radeon
+Pro Software30.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 4/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+PRO W7900 for
+Enterprise
+23.Q4
+AMD
+Radeon
+PRO W7900RDNA 3.0 49152 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q2
+AMD
+Radeon
+PRO W7900RDNA 3.0 49152 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+Radeon Pro
+V620
+MxGPURDNA 2.0 32768 Workstation AMDAMD GPU
+drivers
+23.10.2.4
+AMD
+Radeon Pro
+VIIGCN 5.1 16384 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon Pro
+VIIGCN 5.1 16384 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+Radeon Pro
+WX 2100GCN 4th
+gen2048 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon Pro
+WX 2100GCN 4th
+gen2048 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q430.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 5/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+AMD
+Radeon Pro
+WX 3100GCN 4th
+gen4096 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon Pro
+WX 3100GCN 4th
+gen4096 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+Radeon Pro
+WX 3200GCN 4th
+gen4096 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon Pro
+WX 3200GCN 4th
+gen4096 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+Radeon Pro
+WX 4100GCN 4th
+gen4096 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon Pro
+WX 4100GCN 4th
+gen4096 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+Radeon Pro
+WX 5100GCN 4th
+gen8192 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon Pro
+WX 5100GCN 4th
+gen8192 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q430.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 6/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+AMD
+Radeon Pro
+WX 7100GCN 4th
+gen8192 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon Pro
+WX 7100GCN 4th
+gen8192 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+Radeon Pro
+WX 8200GCN 5th
+gen8192 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon Pro
+WX 8200GCN 5th
+gen8192 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q4
+AMD
+Radeon Pro
+WX 9100GCN 5th
+gen16368 Workstation AMDAMD Radeon
+Pro Software
+for
+Enterprise
+23.Q4
+AMD
+Radeon Pro
+WX 9100GCN 5th
+gen16368 Workstation AMDAMD
+Software:
+PRO Edition
+24.Q4
+Intel
+Arc(TM)
+A3806144 Workstation INTELIntel® Arc™
+& Iris® Xe
+Graphics -
+Windows
+31.0.101.5333
+Intel
+Arc(TM)
+A3806144 Workstation INTELIntel
+Graphics
+Driver
+32.0.101.6632
+for Intel Arc
+& Iris Xe30.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 7/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+Intel
+Arc(TM)
+A77016384 Workstation INTELIntel® Arc™
+& Iris® Xe
+Graphics -
+Windows
+31.0.101.5333
+Intel
+Arc(TM)
+A77016384 Workstation INTELIntel
+Graphics
+Driver
+32.0.101.6632
+for Intel Arc
+& Iris Xe
+Intel(R)
+Arc(TM)
+Graphics32768 Mobile INTELIntel® Arc™
+& Iris® Xe
+Graphics -
+Windows
+32.0.101.6637
+Intel(R)
+Arc(TM) Pro
+A30
+Graphics4096 Mobile INTELIntel® Arc™
+& Iris® Xe
+Graphics -
+Windows
+32.0.101.6637
+Intel(R)
+Arc(TM) Pro
+A30M
+Graphics4096 Mobile INTELIntel® Arc™
+Pro Graphics
+- Windows
+Driver
+31.0.101.5319
+Intel(R)
+Arc(TM) Pro
+A30M
+Graphics4096 Mobile INTELIntel® Arc™
+Pro Graphics
+- Windows
+Driver
+31.0.101.5978
+Intel(R)
+Arc(TM) Pro
+A30M
+Graphics4096 Mobile INTELIntel® Arc™
+Pro Graphics
+- Windows
+Driver
+32.0.101.6303
+Intel(R)
+Arc(TM) Pro4096 Mobile INTEL Intel® Arc™
+& Iris® Xe
+Graphics -30.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 8/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+A30M
+GraphicsWindows
+32.0.101.6637
+Intel(R)
+Arc(TM) Pro
+A40
+Graphics6144 Workstation INTELIntel® Arc™
+Pro Graphics
+- Windows
+Driver
+31.0.101.5319
+Intel(R)
+Arc(TM) Pro
+A40
+Graphics6144 Workstation INTELIntel® Arc™
+& Iris® Xe
+Graphics -
+Windows
+32.0.101.6637
+Intel(R)
+Arc(TM) Pro
+A40/A50
+Graphics6040 Consumer INTELIntel® Arc™
+Pro Graphics
+- Windows
+Driver
+31.0.101.5978
+Intel(R)
+Arc(TM) Pro
+A40/A50
+Graphics6040 Consumer INTELIntel® Arc™
+Pro Graphics
+- Windows
+Driver
+32.0.101.6303
+Intel(R)
+Arc(TM) Pro
+A50
+Graphics6144 Workstation INTELIntel® Arc™
+Pro Graphics
+- Windows
+Driver
+31.0.101.5319
+Intel(R)
+Arc(TM) Pro
+A50
+Graphics6144 Workstation INTELIntel® Arc™
+& Iris® Xe
+Graphics -
+Windows
+32.0.101.6637
+Intel(R)
+Arc(TM) Pro
+A60
+Graphics12288 Workstation INTELIntel® Arc™
+Pro Graphics
+- Windows
+Driver
+31.0.101.531930.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 9/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+Intel(R)
+Arc(TM) Pro
+A60
+Graphics12288 Workstation INTELIntel® Arc™
+Pro Graphics
+- Windows
+Driver
+31.0.101.5978
+Intel(R)
+Arc(TM) Pro
+A60
+Graphics12288 Workstation INTELIntel® Arc™
+Pro Graphics
+- Windows
+Driver
+32.0.101.6303
+Intel(R)
+Arc(TM) Pro
+A60
+Graphics12288 Workstation INTELIntel® Arc™
+& Iris® Xe
+Graphics -
+Windows
+32.0.101.6637
+Intel(R)
+Arc(TM) Pro
+A60M
+Graphics8192 Workstation INTELIntel® Arc™
+Pro Graphics
+- Windows
+Driver
+31.0.101.5319
+Intel(R)
+Arc(TM) Pro
+A60M
+Graphics8192 Workstation INTELIntel® Arc™
+Pro Graphics
+- Windows
+Driver
+31.0.101.5978
+Intel(R)
+Arc(TM) Pro
+A60M
+Graphics8192 Workstation INTELIntel® Arc™
+Pro Graphics
+- Windows
+Driver
+32.0.101.6303
+Intel(R)
+Arc(TM) Pro
+A60M
+Graphics8192 Workstation INTELIntel® Arc™
+& Iris® Xe
+Graphics -
+Windows
+32.0.101.6637
+NVIDIA
+Quadro
+GP100Pascal 16384 Workstation NVIDIA NVIDIA RTX /
+Quadro
+Desktop And30.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 10/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+GV100Volta 32768 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+K2200MKepler 2048 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+M1200Maxwell 4096 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+M1200Maxwell 4096 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+M2000Maxwell 4096 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+M2000Maxwell 4096 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+M2200Maxwell 4096 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.2330.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 11/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+NVIDIA
+Quadro
+M2200Maxwell 4096 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+M4000Maxwell 8192 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+M4000Maxwell 8192 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+M5000Maxwell 8192 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+M5000Maxwell 8192 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+M5000MMaxwell 8192 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+M5000MMaxwell 8192 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+M500M2048 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.2330.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 12/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+NVIDIA
+Quadro
+M500M2048 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+M6000Maxwell
+2.012288 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+M6000Maxwell
+2.012288 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+P1000Pascal 4096 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+P1000Pascal 4096 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+P2000Pascal 5120 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+P2000Pascal 5120 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+P2200Pascal 5120 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.2330.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 13/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+NVIDIA
+Quadro
+P2200Pascal 5120 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+P3000Pascal 6144 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+P3200Pascal 6084 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+P3200Pascal 6084 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+P400Pascal 2048 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+P400Pascal 2048 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+P4000Pascal 8192 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+P4000Pascal 8192 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.6030.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 14/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+NVIDIA
+Quadro
+P4200Pascal 8192 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+P4200Pascal 8192 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+P500Pascal 2048 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+P5000Pascal 16384 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+P5000Pascal 16384 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+P520Pascal 2048 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+P520Pascal 2048 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+P5200Pascal 16255 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.2330.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 15/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+NVIDIA
+Quadro
+P5200Pascal 16255 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+P600Pascal 2048 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+P600Pascal 2048 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+P6000Pascal 24576 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+P6000Pascal 24576 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+P620Pascal 2048 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+P620Pascal 2048 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro RTX
+3000Turing 8226 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.2330.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 16/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+NVIDIA
+Quadro RTX
+3000Turing 8226 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro RTX
+4000Turing 8192 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro RTX
+4000Turing 8192 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro RTX
+5000Turing 16384 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro RTX
+5000Turing 16384 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro RTX
+6000Turing 24576 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro RTX
+6000Turing 24576 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro RTX
+8000Turing 49152 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.2330.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 17/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+NVIDIA
+Quadro RTX
+8000Turing 49152 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+Quadro
+T1000
+Laptop GPUTuring 3962 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+T1200
+Laptop GPUAmpere 4096 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+Quadro
+T2000
+Laptop GPUTuring 3962 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+1000 Ada
+Generation
+Laptop GPUAda
+Lovelace6144 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+1000 Ada
+Generation
+Laptop GPUAda
+Lovelace6144 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+2000 Ada
+GenerationAda
+Lovelace16384 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 552.22
+NVIDIA RTX
+2000 Ada
+GenerationAda
+Lovelace16384 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+560.7630.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 18/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+NVIDIA RTX
+2000 Ada
+GenerationAda
+Lovelace16384 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+2000 Ada
+Generation
+Laptop GPUAda
+Lovelace8192 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+2000 Ada
+Generation
+Laptop GPUAda
+Lovelace8192 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+2000 Ada
+Generation
+Laptop GPUAda
+Lovelace8192 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+3000 Ada
+Generation
+Laptop GPUAda
+Lovelace8192 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+3000 Ada
+Generation
+Laptop GPUAda
+Lovelace8192 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+3000 Ada
+Generation
+Laptop GPUAda
+Lovelace8192 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+3500 Ada
+Generation
+Laptop GPUAda
+Lovelace12288 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.2330.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 19/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+NVIDIA RTX
+3500 Ada
+Generation
+Laptop GPUAda
+Lovelace12288 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+3500 Ada
+Generation
+Laptop GPUAda
+Lovelace12288 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+4000 Ada
+GenAda
+Lovelace20480 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+4000 Ada
+GenerationAda
+Lovelace20480 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+4000 Ada
+GenerationAda
+Lovelace20480 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+4000 Ada
+Generation
+Laptop GPUAda
+Lovelace12288 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+4000 Ada
+Generation
+Laptop GPUAda
+Lovelace12288 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+4000 Ada
+Generation
+Laptop GPUAda
+Lovelace12288 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+4000 SFFAda
+Lovelace20480 Workstation NVIDIA NVIDIA RTX /
+Quadro
+Desktop And30.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 20/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+Ada
+GenerationNotebook
+Driver 552.22
+NVIDIA RTX
+4500 Ada
+GenerationAda
+Lovelace24567 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+4500 Ada
+GenerationAda
+Lovelace24567 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+4500 Ada
+GenerationAda
+Lovelace24567 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+500 Ada
+Generation
+Laptop GPUAda
+Lovelace4096 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+500 Ada
+Generation
+Laptop GPUAda
+Lovelace4096 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+5000 Ada
+GenAda
+Lovelace32768 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+5000 Ada
+Generation
+Laptop GPUAda
+Lovelace16384 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+5000 Ada
+Generation
+Laptop GPUAda
+Lovelace16384 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+560.7630.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 21/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+NVIDIA RTX
+5000 Ada
+Generation
+Laptop GPUAda
+Lovelace16384 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+6000 Ada
+GenerationAda
+Lovelace49152 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+6000 Ada
+GenerationAda
+Lovelace49152 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+6000 Ada
+GenerationAda
+Lovelace49152 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+A1000Ada
+Lovelace8192 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+A1000Ada
+Lovelace8192 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+A1000 6GB
+Laptop GPUAmpere 6144 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+A1000
+Laptop GPUAmpere 6114 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+A1000Ampere 6114 Mobile NVIDIA NVIDIA RTX
+Driver30.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 22/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+Laptop GPU Release
+560.76
+NVIDIA RTX
+A1000
+Laptop GPUAmpere 6114 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+A2000Ampere 12288 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+A2000Ampere 12288 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+A2000Ampere 12288 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+A2000 8GB
+Laptop GPUAmpere 8192 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+A2000 8GB
+Laptop GPUAmpere 8192 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+A2000 8GB
+Laptop GPUAmpere 8192 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+A2000
+Laptop GPUAmpere 6144 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.2330.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 23/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+NVIDIA RTX
+A2000
+Laptop GPUAmpere 6144 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+A2000
+Laptop GPUAmpere 6144 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+A3000 12GB
+Laptop GPUAmpere 12288 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+A3000 12GB
+Laptop GPUAmpere 12288 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+A3000 12GB
+Laptop GPUAmpere 12288 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+A3000
+Laptop GPUAmpere 6114 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+A3000
+Laptop GPUAmpere 6114 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+A400Ada
+Lovelace4096 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+A400Ada
+Lovelace4096 Workstation NVIDIA NVIDIA RTX
+Driver30.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 24/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+Release
+572.60
+NVIDIA RTX
+A4000Ampere 16384 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+A4000Ampere 16384 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+A4000Ampere 16384 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+A4000
+Laptop GPUAmpere 8192 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+A4000
+Laptop GPUAmpere 8192 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+A4500Ampere 20480 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+A4500Ampere 20480 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+A4500Ampere 20480 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.6030.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 25/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+NVIDIA RTX
+A4500
+Laptop GPUAmpere 16384 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+A4500
+Laptop GPUAmpere 16384 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+A500
+Laptop GPUAmpere 4096 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+A500
+Laptop GPUAmpere 4096 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+A500
+Laptop GPUAmpere 4096 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+A5000Ampere 24576 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+A5000Ampere 24576 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+A5000Ampere 24576 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.6030.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 26/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+NVIDIA RTX
+A5000
+Laptop GPUAmpere 16384 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+A5000
+Laptop GPUAmpere 16384 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+A5500Ampere 24576 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+A5500Ampere 24576 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+A5500Ampere 24576 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+A5500
+Laptop GPUAmpere 16384 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA RTX
+A5500
+Laptop GPUAmpere 16384 Mobile NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+A6000Ampere 49152 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA RTX
+A6000Ampere 49152 Workstation NVIDIA NVIDIA RTX
+Driver30.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 27/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+Release
+560.76
+NVIDIA RTX
+A6000Ampere 49152 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+PRO(TM)
+6000
+Blackwell
+Max-Q
+Workstation
+EditionBlackwell 98304 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA RTX
+PRO(TM)
+6000
+Blackwell
+Workstation
+EditionBlackwell 98304 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+T1000 4GBTuring 4096 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+T1000 4GBTuring 4096 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA
+T1000 4GBTuring 4096 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+T1000 8GBTuring 8192 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.2330.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 28/30
+Card GenerationMemory
+(MB)Type ManufacturerDriver Name Driver
+NVIDIA
+T400Turing 2048 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+T400Turing 2048 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+560.76
+NVIDIA
+T400Turing 2048 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+NVIDIA
+T500
+Laptop GPUAmpere 2048 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+T550
+Laptop GPUTuring 4096 Mobile NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+T600Turing 4096 Workstation NVIDIANVIDIA RTX /
+Quadro
+Desktop And
+Notebook
+Driver 551.23
+NVIDIA
+T600Turing 4096 Workstation NVIDIANVIDIA RTX
+Driver
+Release
+572.60
+Potrzebujesz pomocy? Zapytaj asystenta Autodesk30.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 29/30
+Asystent może pomoc Ci w znalezieniu odpowiedzi lub
+skontaktowaniu się z agentem.Jaki masz poziom pomocy
+technicznej?
+Różne plany subskrypcji
+zapewniają różne kategorie
+pomocy technicznej. Poznaj
+poziom pomocy technicznej
+powiązany z Twoim planem.
+Wyświetl poziomy pomocy
+technicznej
+Autodesk
+Przegląd ﬁrmy (angielski)
+Kariera (angielski)
+Relacje inwestorskie
+(angielski)
+Informacje prasowe
+(angielski)
+Różnorodność i poczucie
+przynależności (angielski)
+LA28 Games (angielski)Autodesk Foundation
+(angielski)
+Zrównoważony rozwój
+(angielski)
+Kontakt z nami
+Studenci i wykładowcy
+(angielski)
+Afﬁliate Program
+(angielski)
+Autodesk Research Możliwości zakupu
+Zobacz wszystkie produkty
+Zakup w Autodesk
+Opcje odnowienia
+Znajdź partnera
+Sprzedaż i zwrot pieniędzy
+Wybierz plan subskrypcji
+Licencje czasowe z FlexWsparcie
+Zarządzanie kontem
+Pobierz i zainstaluj
+oprogramowanie
+Stan produktu Autodesk
+(angielski)
+Pomoc edukacyjna
+(angielski)
+Skontaktuj się z działem
+pomocy technicznej
+Zasady ochrony prywatności | Preferencje dotyczące plików cookie | Zgłaszanie przypadków nieprzestrzegania zasad licencjonowania
+| Warunki użytkowania | Informacje prawne (angielski) | © 2025 Autodesk Inc. All rights reserved   | Impressum
+Zapytaj asystenta30.05.2025, 09:25 Inventor | Certyfikowany sprzęt graficzny | Pomoc techniczna Autodesk
+https://www.autodesk.com/pl/support/system-requirements/certified-graphics-hardware/inventor 30/30

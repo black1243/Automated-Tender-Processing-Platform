@@ -1,0 +1,80 @@
+Załącznik nr 2.4 do SWZ
+Opis przedmiotu zamówienia
+Zakup i dostawa fabrycznie nowego sprzętu komputerowego, oprogramowania, akcesoriów i wyposażenia pracowni CKZ do zajęć praktycznych
+Część 4: Sprzęt komputerowy wraz z wyposażeniem przeznaczony dla zawodów mechanicznych
+Tabela 4.1 Mobilna stacja graficzna dla branży mechanicznej – 12 sztuk
+Przez zapis „system równoważny” Zamawiający rozumie:
+Wszystkie niżej wymienione funkcjonalności nie mogą być realizowane
+z zastosowaniem wszelkiego rodzaju emulacji i wirtualizacji oraz dodatkowych nakładek programowych;
+System operacyjny dla komputerów stacjonarnych z graficznym interfejsem użytkownika;
+System operacyjny ma pozwalać na uruchomienie i pracę z aplikacjami użytkowanymi przez Zamawiającego, w szczególności: Autodesk Inventor 2025, Siemens SinuTrain for SINUMERIK Operate;
+System ma udostępniać interfejs graficzny umożliwiający obsługę przy pomocy klawiatury i myszy;
+Możliwość dokonywania bezpłatnych aktualizacji i poprawek w ramach wersji systemu operacyjnego poprzez Internet, mechanizmem udostępnianym przez
+producenta systemu z możliwością wyboru instalowanych poprawek oraz mechanizmem sprawdzającym, które z poprawek są potrzebne;
+Możliwość dokonywania aktualizacji i poprawek systemu poprzez mechanizm zarządzany przez administratora systemu Zamawiającego;
+Wbudowana zapora internetowa (firewall) dla ochrony połączeń internetowych;
+Zintegrowana z systemem konsola do zarządzania ustawieniami zapory
+i regułami IP v4 i v6;
+Wbudowane mechanizmy ochrony antywirusowej i przeciw złośliwemu oprogramowaniu z zapewnionymi bezpłatnymi aktualizacjami;
+Wsparcie dla powszechnie używanych urządzeń peryferyjnych;
+Funkcjonalność automatycznej zmiany domyślnej drukarki w zależności od sieci, do której podłączony jest komputer;
+Możliwość zarządzania stacją roboczą poprzez polityki grupowe (przez politykę Zamawiający rozumie zestaw reguł definiujących lub ograniczających funkcjonalność systemu lub aplikacji);
+Rozbudowane, definiowalne polityki bezpieczeństwa – polityki dla systemu operacyjnego i dla wskazanych aplikacji;
+Możliwość zdalnej automatycznej instalacji, konfiguracji, administrowania oraz aktualizowania systemu, zgodnie z określonymi uprawnieniami poprzez polityki grupowe;
+Zabezpieczony hasłem dostęp do systemu;
+Praca systemu w trybie ochrony kont użytkowników;
+Zintegrowany z systemem moduł wyszukiwania informacji (plików różnego typu, tekstów, metadanych) dostępny z kilku poziomów: poziom menu, poziom otwartego okna systemu operacyjnego, system wyszukiwania oparty na konfigurowalnym przez użytkownika module indeksacji zasobów lokalnych;
+Mechanizmy logowania do domeny w oparciu o najmniej: login i hasło;
+Mechanizmy wieloelementowego uwierzytelniania;
+Wbudowane narzędzia służące do administracji, do wykonywania kopii zapasowych polityk i ich odtwarzania oraz generowania raportów z ustawień polityk;
+Wsparcie dla środowisk Java i .NET Framework 4.x – możliwość uruchomienia aplikacji działających we wskazanych środowiskach;
+Zdalna pomoc i współdzielenie aplikacji – możliwość zdalnego przejęcia sesji zalogowanego użytkownika celem rozwiązania problemu z komputerem;
+Rozwiązanie służące do automatycznego zbudowania obrazu systemu wraz
+z aplikacjami. Obraz systemu służyć ma do automatycznego upowszechnienia systemu operacyjnego inicjowanego i wykonywanego w całości poprzez sieć komputerową. Oprogramowanie ma umożliwiać wdrożenie nowego obrazu poprzez zdalną instalację;
+Transakcyjny system plików pozwalający na stosowanie przydziałów na dysku dla użytkowników oraz zapewniający niezawodność i pozwalający tworzyć kopie zapasowe;
+Możliwość przywracania obrazu plików systemowych do uprzednio zapisanej postaci;
+Identyfikacja sieci komputerowych, do których jest podłączony system operacyjny, zapamiętywanie ustawień i przypisywanie do min. 3 kategorii bezpieczeństwa (z predefiniowanymi odpowiednio do kategorii ustawieniami zapory sieciowej, udostępniania plików itp.);
+Możliwość blokowania lub dopuszczania dowolnych urządzeń peryferyjnych za pomocą polityk grupowych (np. przy użyciu numerów identyfikacyjnych sprzętu);
+Mechanizm szyfrowania dysków wewnętrznych i zewnętrznych, z możliwością szyfrowania ograniczonego do danych użytkownika;
+Wbudowane w system narzędzie do szyfrowania partycji systemowych komputera;
+Wbudowane w system narzędzie do szyfrowania dysków przenośnych, z możliwością centralnego zarządzania poprzez polityki grupowe, pozwalające na wymuszenie szyfrowania dysków przenośnych;
+Możliwość tworzenia i przechowywania kopii zapasowych kluczy, odzyskiwania do szyfrowania partycji w usługach katalogowych;
+Możliwość instalowania dodatkowych języków interfejsu systemu operacyjnego oraz możliwość zmiany języka bez konieczności reinstalacji systemu;
+Dostarczony sprzęt musi być nowy, nieużywany, wyprodukowany nie wcześniej niż 6 miesięcy przed dostawą i na dzień złożenia oferty musi być w stałej ofercie producenta.
+Dostarczony sprzęt na dzień dostawy musi mieć pełne wsparcie techniczne producenta, tj. co najmniej stronę internetową producenta sprzętu w języku polskim lub angielskim zawierającą takie elementy jak sterowniki, oprogramowanie oraz instrukcje dla dostarczonego sprzętu.
+Sprzęt dostarczony do Zamawiającego musi być sprzedany poprzez legalny kanał dystrybucji producenta sprzętu na rynek polski. Zamawiający ma prawo zweryfikować czy Wykonawca pozyskał sprzęt poprzez legalny kanał dystrybucji producenta sprzętu. W tym celu Wykonawca ma obowiązek na żądanie Zamawiającego udostępnić kontakt do lokalnego biura dystrybutora sprzętu w Polsce lub wskazać inną możliwość oficjalnej weryfikacji sprzętu u jego producenta.
+Zamawiający ma prawo zweryfikować legalność dostarczonego systemu operacyjnego.
+Zamawiający nie dopuszcza jakiejkolwiek ingerencji poza producentem w dostarczony sprzęt przed dostawą do Zamawiającego.
+Dostarczony sprzęt musi być dostarczony do Zamawiającego w oryginalnych opakowaniach producenta sprzętu z nienaruszonymi plombami transportowymi w przeciwnym razie zamawiający odmówi przyjęcia sprzętu.
+W celu potwierdzenia zgodności przedmiotu zamówienia z ofertą Zamawiający zastrzega sobie prawo do rozpakowania jednego opakowania, uruchomienia przedmiotu umowy i weryfikacji dostawy w obecności przedstawiciela Dostawcy. W przypadku rozbieżności Zamawiający nie odbierze dostawy.
+Miejsce dostawy zamówienia: Centrum Kształcenia Zawodowego, ul. Gen. Hallera 6, 41-709 Ruda Śląska – 12 sztuk
+Zestaw akcesoriów do pracy z komputerem przenośnym – 1 zestaw
+Przedmiotem zamówienia jest zakup zestawu akcesoriów składającego się z bezprzewodowej myszy wraz z ochronnych etui oraz podkładki pod mysz.
+Bezprzewodowa mysz powinna posiadać minimum 5 przycisków (w tym przynajmniej 4 programowalne), optyczny czujnik o rozdzielczości minimum 7000 DPI oraz wbudowany akumulator o pojemności minimum 1000 mAH.
+Etui ochronne powinno być dopasowane, do kształtu myszy, z zewnątrz zabezpieczone twardym, odpornym na zarysowania materiałem, w środku wyłożone miękką, antywstrząsową pianką, zamykane na suwak.
+Podkładka pod mysz wyposażona w antypoślizgową podstawę silikonową.
+Okres gwarancji na zestaw akcesoriów wynosi minimum 12 miesięcy.
+Dostarczony sprzęt musi być nowy, nieużywany, wyprodukowany nie wcześniej niż 6 miesięcy przed dostawą i na dzień złożenia oferty musi być w stałej ofercie producenta.
+Dostarczony sprzęt na dzień dostawy musi mieć pełne wsparcie techniczne producenta, tj. co najmniej stronę internetową producenta sprzętu w języku polskim lub angielskim zawierającą takie elementy jak sterowniki, oprogramowanie oraz instrukcje dla dostarczonego sprzętu.
+Sprzęt dostarczony do Zamawiającego musi być sprzedany poprzez legalny kanał dystrybucji producenta sprzętu na rynek polski. Zamawiający ma prawo zweryfikować czy Wykonawca pozyskał sprzęt poprzez legalny kanał dystrybucji producenta sprzętu. W tym celu Wykonawca ma obowiązek na żądanie Zamawiającego udostępnić kontakt do lokalnego biura dystrybutora sprzętu w Polsce lub wskazać inną możliwość oficjalnej weryfikacji sprzętu u jego producenta.
+Zamawiający nie dopuszcza jakiejkolwiek ingerencji poza producentem w dostarczony sprzęt przed dostawą do Zamawiającego.
+Dostarczony sprzęt musi być dostarczony do Zamawiającego w oryginalnych opakowaniach producenta sprzętu z nienaruszonymi plombami transportowymi w przeciwnym razie zamawiający odmówi przyjęcia sprzętu.
+W celu potwierdzenia zgodności przedmiotu zamówienia z ofertą Zamawiający zastrzega sobie prawo do rozpakowania jednego opakowania, uruchomienia przedmiotu umowy i weryfikacji dostawy w obecności przedstawiciela Dostawcy. W przypadku rozbieżności Zamawiający nie odbierze dostawy.
+Sprzęt jest kompatybilny i w sposób niezakłócony współdziała z systemem operacyjnym Microsoft Windows 11.
+Miejsce dostawy zamówienia: Centrum Kształcenia Zawodowego, ul. Gen. Hallera 6, 41-709 Ruda Śląska – 1 zestaw
+Zestaw akcesoriów do pracy w programach CAD – 11 zestawów
+Przedmiotem zamówienia jest zakup zestawu akcesoriów do pracy w programach CAD składający się z myszy 3D wraz z ochronnych etui, bezprzewodowej myszy wraz z ochronnych etui oraz podkładki pod mysz.
+Mysz 3D powinna posiadać czujnik umożliwiający łatwą i intuicyjną nawigację 3D, minimum 25 programowalnych przycisków, kolorowy wyświetlacz LCD pokazujący komendy przypisane do przycisków funkcyjnych oraz pełnowymiarową, miękko powlekaną podpórkę pod rękę.
+Bezprzewodowa mysz powinna posiadać minimum 5 przycisków (w tym przynajmniej 4 programowalne), optyczny czujnik o rozdzielczości minimum 7000 DPI oraz wbudowany akumulator o pojemności minimum 1000 mAH.
+Etui ochronne powinno być dopasowane, do kształtu myszy, z zewnątrz zabezpieczone twardym, odpornym na zarysowania materiałem, w środku wyłożone miękką, antywstrząsową pianką, zamykane na suwak.
+Podkładka pod mysz wyposażona w antypoślizgową podstawę silikonową.
+Okres gwarancji na zestaw akcesoriów wynosi minimum 12 miesięcy.
+Dostarczony sprzęt musi być nowy, nieużywany, wyprodukowany nie wcześniej niż 6 miesięcy przed dostawą i na dzień złożenia oferty musi być w stałej ofercie producenta.
+Dostarczony sprzęt na dzień dostawy musi mieć pełne wsparcie techniczne producenta, tj. co najmniej stronę internetową producenta sprzętu w języku polskim lub angielskim zawierającą takie elementy jak sterowniki, oprogramowanie oraz instrukcje dla dostarczonego sprzętu.
+Sprzęt dostarczony do Zamawiającego musi być sprzedany poprzez legalny kanał dystrybucji producenta sprzętu na rynek polski. Zamawiający ma prawo zweryfikować czy Wykonawca pozyskał sprzęt poprzez legalny kanał dystrybucji producenta sprzętu. W tym celu Wykonawca ma obowiązek na żądanie Zamawiającego udostępnić kontakt do lokalnego biura dystrybutora sprzętu w Polsce lub wskazać inną możliwość oficjalnej weryfikacji sprzętu u jego producenta.
+Zamawiający nie dopuszcza jakiejkolwiek ingerencji poza producentem w dostarczony sprzęt przed dostawą do Zamawiającego.
+Dostarczony sprzęt musi być dostarczony do Zamawiającego w oryginalnych opakowaniach producenta sprzętu z nienaruszonymi plombami transportowymi w przeciwnym razie zamawiający odmówi przyjęcia sprzętu.
+W celu potwierdzenia zgodności przedmiotu zamówienia z ofertą Zamawiający zastrzega sobie prawo do rozpakowania jednego opakowania, uruchomienia przedmiotu umowy i weryfikacji dostawy w obecności przedstawiciela Dostawcy. W przypadku rozbieżności Zamawiający nie odbierze dostawy.
+Sprzęt jest kompatybilny i w sposób niezakłócony współdziała z systemem operacyjnym Microsoft Windows 11.
+Miejsce dostawy zamówienia: Centrum Kształcenia Zawodowego, ul. Gen. Hallera 6, 41-709 Ruda Śląska – 11 zestawów
+Tam, gdzie w zapisach Specyfikacji Warunków Zamówienia lub innych dokumentach zamówienia został wskazany znak towarowy (marka), producent, dostawca, patent, pochodzenie, źródło lub szczególny proces, który charakteryzuje produkty lub usługi dostarczone przez konkretnego Wykonawcę lub nastąpiło wskazanie norm, europejskich ocen technicznych, wspólnych specyfikacji technicznych lub innych odniesień, o których mowa w art. 101 ust.1 pkt 2 lub ust. 3 ustawy, Zamawiający zgodnie z art. 99 ust. 5 ustawy dopuszcza złożenie oferty równoważnej lub zgodnie z art. 101 ust. 4 ustawy zaoferowanie rozwiązań „równoważnych” w stosunku do wskazanych w dokumentacji przetargowej pod warunkiem, że zapewnią uzyskanie parametrów technicznych nie gorszych od założonych w dokumentacji przetargowej

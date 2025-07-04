@@ -1,0 +1,61 @@
+Załącznik nr 1.7 do SWZ
+Formularz oferty
+Oferta złożona do postępowania o udzielenie zamówienia publicznego w trybie przetargu nieograniczonego na zadanie o nazwie: Zakup i dostawa fabrycznie nowego sprzętu komputerowego, oprogramowania, akcesoriów i wyposażenia pracowni Centrum Kształcenia Zawodowego do realizacji zajęć praktycznych (11 części)
+Część 7: Sprzęt serwerowy wraz z wyposażeniem i oprogramowaniem
+Dane dotyczące Wykonawcy:
+Nazwa(firma) Wykonawcy:
+Adres Wykonawcy:
+Numer REGON:
+Numer NIP:
+Numer telefonu:
+Adres e-mail służący do kontaktu z Zamawiającym:
+Uwaga. Powyższe dane (numer telefonu oraz adres e-mail służący do kontaktu z Zamawiającym) podaję dobrowolnie, w celu usprawnienia kontaktu z Zamawiającym w zakresie prowadzonego postępowania.
+Uwaga. W przypadku Wykonawców składających ofertę wspólne należy wskazać wszystkich Wykonawców występujących wspólnie lub zaznaczyć, iż wskazany podmiot (Pełnomocnik/Lider) występuje w imieniu wszystkich podmiotów składających ofertę wspólnie.
+Cena ofertowa zamówienia (podana cyfrowo):
+Brutto: ........................ PLN, w tym: 23% podatku VAT, w tym:
+Tabela 1: Cena ofertowa zamówienia.
+Tabela 2a: Serwer z systemem operacyjnym, dyskami, oprzyrządowaniem oraz licencjami dostępowymi
+Tabela 2b: UPS
+Tabela 3a: Serwer z systemem operacyjnym, dyskami, oprzyrządowaniem oraz licencjami dostępowymi
+* - zaznaczyć właściwe
+Tabela 3b: UPS
+* - zaznaczyć właściwe
+Ust. 4.1-4.3 należy wypełnić o ile wybór oferty prowadziłby do powstania u Zamawiającego obowiązku podatkowego zgodnie z przepisami o podatku od towarów i usług. W przeciwnym wypadku pozostawić niewypełnione.
+(wypełnić jeśli dotyczy) Wybór oferty prowadzić będzie do powstania u Zamawiającego obowiązku podatkowego w zakresie następujących towarów lub usług:
+(wypełnić, jeśli wypełniono ust. 4.1.) Wartość wyżej wymienionych towarów lub usług bez kwoty podatku wynosi:
+(wypełnić, jeśli wypełniono ust. 4.1.) Stawka podatku od towarów i usług, która zgodnie z wiedzą Wykonawcy będzie miała zastosowanie:
+Kryteria pozacenowe odnoszące się do przedmiotu zamówienia:
+Okres udzielonej gwarancji w trybie on-site lub door to door:
+[ ] 12 miesięcy
+(w przypadku zaznaczenia tej opcji Wykonawca otrzyma 0 pkt)
+[ ] 24 miesiące
+(w przypadku zaznaczenia tej opcji Wykonawca otrzyma 3 pkt)
+[ ] 36 miesięcy
+(w przypadku zaznaczenia tej opcji Wykonawca otrzyma 6 pkt)
+[ ] 48 miesięcy
+(w przypadku zaznaczenia tej opcji Wykonawca otrzyma 9 pkt)
+Uwaga. W przypadku braku zaznaczenia przyjmuje się okres udzielonej gwarancji wynoszący 12 miesięcy i brak przyznanych punktów
+w przedmiotowym kryterium.
+Uwaga. Należy podać gwarancję na cały przedmiot zamówienia (wszystkie jego elementy), a w przypadku zróżnicowania okresów gwarancji (różne okresy gwarancji odnoszące się do różnych sprzętów), Zamawiający przyjmie najkrótszy czas gwarancji dla danego sprzętu.
+Deklaruję czas reakcji serwisu wynoszący:
+[ ] do 5 dni
+(w przypadku zaznaczenia tej opcji Wykonawca otrzyma 9 pkt)
+[ ] do 10 dni
+(w przypadku zaznaczenia tej opcji Wykonawca otrzyma 6 pkt)
+[ ] do 15 dni
+(w przypadku zaznaczenia tej opcji Wykonawca otrzyma 3 pkt)
+[ ] do 20 dni
+(w przypadku zaznaczenia tej opcji Wykonawca otrzyma 0 pkt)
+Uwaga. W przypadku braku wypełnienia przyjmuje się maksymalny czas reakcji serwisu wynoszący do 20 dni i brak przyznanych punktów w przedmiotowym kryterium.
+Rodzaj przedsiębiorstwa jakim jest Wykonawca (proszę zaznaczyć właściwą opcję):
+[ ] Mikroprzedsiębiorstwo
+[ ] Małe przedsiębiorstwo
+[ ] Średnie przedsiębiorstwo
+[ ] Jednoosobowa działalność gospodarcza
+[ ] Osoba fizyczna nie prowadząca działalności gospodarczej
+[ ] Inne (proszę wpisać jakie): ...
+Uwaga. Mikroprzedsiębiorstwo – przedsiębiorstwo, które zatrudnia mniej niż 10 osób i którego roczny obrót lub roczna suma bilansowa nie przekracza 2 milionów euro.
+Małe przedsiębiorstwo – przedsiębiorstwo, które zatrudnia mniej niż 50 osób i którego roczny obrót lub roczna suma bilansowa nie przekracza 10 milionów euro.
+Średnie przedsiębiorstwo – przedsiębiorstwo, które nie jest mikroprzedsiębiorstwem ani małym przedsiębiorstwem i które zatrudnia mniej niż 250 osób i którego roczny obrót nie przekracza 50 milionów euro lub roczna suma bilansowa nie przekracza 43 milionów euro.
+Niniejszym oświadczam, że:
+oświadczam, że wypełniłem obowiązki informacyjne przewidziane w art. 13 lub art. 14 RODO wobec osób fizycznych, od których dane osobowe bezpośrednio lub pośrednio pozyskałem w celu ubiegania się o udzielenie zamówienia publicznego w niniejszym postępowaniu.

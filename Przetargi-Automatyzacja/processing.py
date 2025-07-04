@@ -10,29 +10,99 @@ from ai_utils import get_summary_from_ai
 from logger_utils import log_action
 import py7zr
 
-def extract_all_zips(folder):
-    # Always extract all zip/7z files found anywhere in the folder tree into the root folder
+# Try to import rarfile - make it optional
+try:
+    import rarfile
+    RARFILE_AVAILABLE = True
+except ImportError:
+    RARFILE_AVAILABLE = False
+    print("Warning: rarfile module not available. RAR extraction will be skipped.")
+
+def extract_all_archives(folder):
+    # Always extract all archive files found anywhere in the folder tree into the root folder
     while True:
         found_archives = False
         for path in list(folder.rglob("*")):
             if path.is_file():
                 try:
-                    if zipfile.is_zipfile(path):
-                        print(f"Unzipping ZIP: {path} into {folder}")
+                    # Check for ZIP files - but exclude Office documents
+                    if zipfile.is_zipfile(path) and not path.suffix.lower() in ['.docx', '.xlsx', '.pptx', '.dotx', '.xlsm', '.pptm', '.doc', '.xls', '.ppt']:
+                        print(f"Extracting ZIP: {path} into {folder}")
                         with zipfile.ZipFile(path, 'r') as zip_ref:
                             zip_ref.extractall(folder)
                         path.unlink()
                         found_archives = True
+                    # Check for 7Z files
                     elif path.suffix.lower() == '.7z':
-                        print(f"Unzipping 7Z: {path} into {folder}")
+                        print(f"Extracting 7Z: {path} into {folder}")
                         with py7zr.SevenZipFile(path, mode='r') as archive:
                             archive.extractall(path=folder)
                         path.unlink()
                         found_archives = True
+                    # Check for RAR files
+                    elif RARFILE_AVAILABLE and path.suffix.lower() in ['.rar', '.r01', '.r02', '.r03', '.r04', '.r05']:
+                        try:
+                            print(f"Extracting RAR: {path} into {folder}")
+                            with rarfile.RarFile(path, 'r') as rar_ref:
+                                rar_ref.extractall(folder)
+                            path.unlink()
+                            found_archives = True
+                        except Exception as rar_error:
+                            print(f"RAR extraction failed for {path}: {rar_error}")
+                            print("This may be due to missing unrar tool. Install with: sudo apt install unrar")
+                    # Check for other archive extensions that might be ZIP files
+                    # BUT exclude Office documents (docx, xlsx, pptx) as they are ZIP-based but should not be extracted
+                    elif path.suffix.lower() in ['.zip', '.jar', '.war', '.ear'] and not path.suffix.lower() in ['.docx', '.xlsx', '.pptx', '.dotx', '.xlsm', '.pptm']:
+                        try:
+                            if zipfile.is_zipfile(path):
+                                print(f"Extracting ZIP-like archive: {path} into {folder}")
+                                with zipfile.ZipFile(path, 'r') as zip_ref:
+                                    zip_ref.extractall(folder)
+                                path.unlink()
+                                found_archives = True
+                        except:
+                            pass
                 except Exception as e:
                     print(f"Błąd rozpakowywania {path}: {e}")
         if not found_archives:
             break
+    
+    # Flatten the folder structure - move all files from subdirectories to the root
+    flatten_folder_structure(folder)
+
+def flatten_folder_structure(folder):
+    # Move all files from subdirectories to the root folder
+    for path in list(folder.rglob("*")):
+        if path.is_file() and path.parent != folder:
+            # Skip files in the special _cleaned_txt directory
+            if '_cleaned_txt' in path.parts:
+                continue
+            try:
+                # Generate a unique filename to avoid conflicts
+                target_path = folder / path.name
+                counter = 1
+                while target_path.exists():
+                    name_parts = path.name.rsplit('.', 1)
+                    if len(name_parts) == 2:
+                        target_path = folder / f"{name_parts[0]}_{counter}.{name_parts[1]}"
+                    else:
+                        target_path = folder / f"{path.name}_{counter}"
+                    counter += 1
+                
+                print(f"Moving {path} to {target_path}")
+                path.rename(target_path)
+            except Exception as e:
+                print(f"Błąd przenoszenia {path}: {e}")
+    
+    # Remove empty directories (except _cleaned_txt)
+    for path in list(folder.rglob("*")):
+        if path.is_dir() and path != folder and '_cleaned_txt' not in path.parts:
+            try:
+                if not any(path.iterdir()):
+                    print(f"Removing empty directory: {path}")
+                    path.rmdir()
+            except Exception as e:
+                print(f"Błąd usuwania katalogu {path}: {e}")
 
 def process_tenders(input_excel_file, email_date_prefix=None, output_dir=None):
     if output_dir is None:
@@ -141,7 +211,7 @@ def process_tenders(input_excel_file, email_date_prefix=None, output_dir=None):
                         zip_ref.extractall(tender_folder)
                 except Exception as e:
                     pass
-            extract_all_zips(tender_folder)
+            extract_all_archives(tender_folder)
         log_action('generating_summary', {'row_index': row_index, 'tender_folder': str(tender_folder)})
         # Only include .txt files from the _cleaned_txt subfolder
         cleaned_txt_folder = tender_folder / '_cleaned_txt'

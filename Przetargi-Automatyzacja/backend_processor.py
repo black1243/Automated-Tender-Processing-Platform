@@ -4,12 +4,13 @@ from pathlib import Path
 from datetime import datetime, timedelta, date
 from gmail_utils import fetch_and_prepare_excel_from_gmail, has_unread_emails
 from config import find_excel_file, OUTPUT_DIR
-from processing import process_tenders
+from processing import process_tenders, extract_all_archives
 from file_cleaner import convert_and_clean_output_files
 import threading
 import time
 import shutil
 from logger_utils import log_action
+import zipfile
 
 LOG_FILE = Path('logs.json')
 
@@ -331,6 +332,8 @@ def process_tenders_with_logging(input_excel_file, email_date_prefix=None, outpu
                     file_path.unlink()
                 except Exception as e:
                     log_action('extract_zip_error', {'date': email_date_prefix, 'row_index': row_index, 'file_path': str(file_path), 'error': str(e)})
+            # Extract all nested archives (ZIP, 7Z, RAR) recursively
+            extract_all_archives(tender_folder)
             # Optionally, log all files in tender_folder after extraction
             for extracted in tender_folder.iterdir():
                 if extracted.is_file() and extracted.suffix.lower() in ['.pdf', '.docx', '.doc', '.txt']:

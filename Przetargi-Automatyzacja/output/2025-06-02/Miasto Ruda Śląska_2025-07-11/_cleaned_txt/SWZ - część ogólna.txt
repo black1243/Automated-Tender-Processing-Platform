@@ -1,0 +1,556 @@
+Miasto Ruda Śląska
+41-709 Ruda Śląska, Plac Jana Pawła II 6
+tel. 32/244 90 94
+NIP: 641-10-05-769
+Regon (Miasto Ruda Śląska): 276255424
+Regon (Urząd Miasta Ruda Śląska): 000515840
+Specyfikacja Warunków Zamówienia dla zamówienia o nazwie:
+Zakup i dostawa fabrycznie nowego sprzętu komputerowego, oprogramowania, akcesoriów i wyposażenia pracowni Centrum Kształcenia Zawodowego do realizacji zajęć praktycznych (11 części)
+Nr sprawy: AP.271.30.2025
+Zawartość specyfikacji:
+Postanowienia SWZ, część ogólna – rozdziały od I do XXXIV
+Załącznik nr 1.1-1.11 – Formularz ofertowy (części 1-11)
+Załączniki nr 2.1-2.11 – Opis przedmiotu zamówienia (części 1-11)
+Załącznik nr 3.1-3.11 – Projektowane postanowienia umowy, które zostaną wprowadzone do treści umowy w prawie zamówienia publicznego (części 1-11)
+Załącznik nr 4 - Formularz Jednolitego Europejskiego Dokumentu Zamówienia (dokument w postaci elektronicznej)
+Załącznik nr 5 - Wzór oświadczenia Wykonawcy o braku podstaw wykluczenia zgodnie z art. 5K Rozporządzenia Rady (UE) nr 833/2014, dodanym Rozporządzeniem Rady (UE) 2022/576 z dnia 08.04.2022r. w sprawie zmiany rozporządzenia (UE) nr 833/2014 dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (z późn. zm.)
+Załącznik 6.1 - Testy PassMark – zestawienie wydajności procesorów
+Załącznik 6.2 - Testy PassMark – zestawienie wydajności kart graficznych
+Załącznik 6.3 - Lista certyfikowanego sprzętu – Autodesk Inventor 2025
+SWZ zatwierdzona przez:
+Jan Lomania - Dyrektor Centrum Kształcenia Zawodowego, 30 maja 2025r.
+(data i podpis osoby upoważnionej do przygotowania postępowania o udzielenie zamówienia w szczególności  opisu przedmiotu zamówienia i oszacowania wartości zamówienia)
+Piotr Płonka – Zastępca Naczelnika Wydziału Oświaty, 30 maja 2025r.
+(data i podpis Kierownika Zamawiającego lub osoby upoważnionej)Postanowienia Specyfikacji Warunków Zamówienia (SWZ)
+Informacja ogólna: w treści SWZ przyjęto następującą numerację:
+rozdziały - np. Rozdział I
+ustępy - np. Rozdział II ust. 1 lub Rozdział V ust. 1.1. lub Rozdział XI ust. 3.4.1.
+punkty - np. Rozdział VI ust. 1 pkt 1) i pkt 2)
+litery – np. Rozdział XI ust. 2.1. pkt 1) lit. a).
+Wyjaśnienia skrótów:
+ad. - dotyczy
+art. – artykuł
+oC – stopnie Celcjusza
+CKZ – Centrum Kształcenia Zawodowego
+cm – centymetr/centymetry/centymetrów
+CPV – oznaczenie kodu Wspólnego Słownika Zamówień
+Dz.U. – Dziennik Ustaw
+Dz.Urz.UE – Dziennik Urzędowy Unii Europejskiej
+FESL – Fundusze Europejskie dla Śląskiego
+itp. – i tym podobne
+JEDZ (ESPD) – Jednolity Europejski Dokument Zamówienia (European Single Procurement Document)
+j/w – jak wyżej
+g – gram/gramy/gramów
+godz. - godzin
+KIO – Krajowa Izba Odwoławcza
+lok. – lokal
+lit. – litera
+Lp. – liczba porządkowa
+max. – maksimum/maksymalny
+m-cy – miesięcy
+min. – minimum/minimalny
+m.in. – między innymi
+mm – milimetr/milimetry/milimetrów
+MŚP – małe i średnie przedsiębiorstwa
+NBP – Narodowy Bank Polski
+np. – na przykład
+nr – numer
+pkt – punkt/punkty/punktu/punktów
+pl. - plac
+PLN – polski złoty
+poz. – pozycja
+r. – rok
+RODO – Rozporządzenie o Ochronie Danych Osobowych
+rozdz. – rozdział
+S.A. – Spółka Akcyjna
+Sp. z o.o. – Spółka z ograniczoną odpowiedzialnością
+str. – strona
+szt. – sztuk/sztuka/sztuki
+SWZ – Specyfikacja Warunków Zamówienia
+tj. – to jest
+tzw. – tak zwane
+ul. – ulica (ulicy)
+ul. Gen. Hallera – ulica Generała Józefa Hallera w Rudzie Śląskiej
+ul. Ks. Tunkla – ulica Księdza Ludwika Tunkla w Rudzie Śląskiej
+ust. – ustęp
+UE – Unia Europejska
+ustawa PZP – ustawa Prawo zamówień publicznych
+wew. - wewnętrzny
+wg – według
+ww. – wyżej wymienionych
+z późn. zm. – z późniejszymi zmianami
+Rozdział I
+Zamawiający (nazwa i adres oraz inne dane teleinformatyczne)
+Miasto Ruda Śląska
+z siedzibą organu zarządzającego przy Placu Jana Pawła II nr 6;
+41-709 Ruda Śląska
+zwany dalej „Zamawiającym”:
+nr telefonu: 32/244 90 94 (Wydział Zamówień Publicznych)
+adres poczty elektronicznej
+strona internetowa prowadzonego postępowania oraz na której będą zamieszczane zmiany i wyjaśnienia treści SWZ oraz inne dokumenty zamówienia bezpośrednio związane z postępowaniem: bezpośredni link do postępowania
+Ponadto Zamawiający informuje, iż na stronie internetowej Biuletynu Informacji Publicznej Urzędu Miasta Ruda znajduje się przekierowanie do Platformy przetargowej Zamawiającego.
+Rozdział II
+Tryb udzielenia zamówienia
+Postępowanie prowadzone jest w trybie przetargu nieograniczonego, zgodnie z ustawą z dnia 11 września 2019r. Prawo zamówień publicznych (tekst jednolity Dz. U. z 2024r. poz. 1320) zwaną w dalszej części ustawą. W sprawach nieuregulowanych zapisami niniejszej SWZ, stosuje się przepisy wspomnianej ustawy wraz z aktami wykonawczymi do tej ustawy.
+Postępowanie zostanie przeprowadzone w procedurze tzw. odwróconej, tj. z zastosowaniem art. 139 ust. 1 ustawy.
+Postępowanie prowadzone jest dla wartości zamówienia równej lub przekraczającej progi unijne.
+Rozdział III
+Opis przedmiotu zamówienia
+Nazwa zamówienia:
+Zakup i dostawa fabrycznie nowego sprzętu komputerowego, oprogramowania, akcesoriów i wyposażenia pracowni Centrum Kształcenia Zawodowego do realizacji zajęć praktycznych (11 części).
+Przedmiot zamówienia obejmuje zakup i dostawę m.in.: Drukarek 3D wraz z wyposażeniem, urządzeń wielofunkcyjnych wraz z wyposażeniem, urządzeń do projekcji wraz z wyposażeniem i montażem, sprzętu komputerowego wraz z wyposażeniem przeznaczonego dla zawodów mechanicznych, mebli (szaf metalowych na laptopy), sprzętu komputerowego wraz z wyposażeniem i oprogramowaniem dla osób niepełnosprawnych, sprzętu serwerowego wraz z wyposażeniem i oprogramowaniem, oprogramowania dla branży mechanicznej, oprogramowania symulacyjnego dla branży elektroniczno-mechatronicznej, oprogramowania dla zawodów mechatronicznych i elektronicznych oraz sprzętu komputerowego, sieciowego, drukarek i oprogramowania wraz z wyposażeniem.
+Przedmiot zamówienia należy dostarczyć pod wskazane poniżej adresy:
+Centrum Kształcenia Zawodowego w Rudzie Śląskiej
+ul. Generała Józefa Hallera 6; 41-709 Ruda Śląska
+ul. Księdza Ludwika Tunkla 149A; 41-707 Ruda Śląska
+ul. Planty Kowalskiego 6; 41-709 Ruda Śląska
+Szczegółowy opis przedmiotu zamówienia zawiera opis przedmiotu zamówienia (załączniki nr 2.1 – 2.11 do SWZ).
+Nazwa/y i kod/y Wspólnego Słownika Zamówień: (CPV):
+Część 1: 		30236000-2: Różny sprzęt komputerowy;
+30232100-5: Drukarki i plotery;
+Część 2: 		30236000-2: Różny sprzęt komputerowy;
+30232100-5: Drukarki i plotery;
+Część 3: 		38652100-1: Projektory;
+38653400-1: Ekrany projekcyjne;
+32322000-6: Urządzenia multimedialne;
+38652200-2: Powiększalniki;
+Część 4: 		30236000-2: Różny sprzęt komputerowy;
+30213100-6: Komputery przenośne;
+30237410-6: Myszka komputerowa;
+Część 5: 		39134000-0: Meble komputerowe;
+Część 6: 		30236000-2: Różny sprzęt komputerowy;
+30237460-1: Klawiatury komputerowe;
+38652200-2: Powiększalniki;
+30141200-1: Kalkulatory biurkowe;
+30216110-0: Skanery komputerowe;
+33180000-5: Wsparcie czynnościowe;
+48700000-5: Pakiety oprogramowania użytkowego;
+Część 7: 		30236000-2: Różny sprzęt komputerowy;
+48820000-2: Serwery;
+48620000-0: Systemy operacyjne;
+30234000-8: Nośniki do przechowywania;
+35100000-5: Urządzenia awaryjne i zabezpieczające;
+Część 8: 	48323000-8: Pakiety oprogramowania do produkcji wspomaganej komputerowo (CAM);
+Część 9: 		48100000-9: Przemysłowe specyficzne pakiety oprogramowania;
+Część 10: 	48100000-9: Przemysłowe specyficzne pakiety oprogramowania;
+Część 11: 	30236000-2: Różny sprzęt komputerowy;
+30213300-8: Komputer biurkowy;
+30231300-0: Monitory ekranowe;
+30213100-6: Komputery przenośne;
+30237450-8: Tablety graficzne;
+30234000-8: Nośniki do przechowywania;
+32342412-3: Głośniki;
+38651000-3: Aparaty fotograficzne;
+32413100-2:Routery sieciowe;
+48310000-4: Pakiety oprogramowania do tworzenia dokumentów;
+30232110-8: Drukarki laserowe;
+Przedmiotowe środki dowodowe:
+Zamawiający nie wymaga złożenia przedmiotowych środków dowodowych w przedmiotowym postępowaniu.
+Przedmiot zamówienia został tak skonstruowany, aby zamówiony sprzęt był dostępny dla wszystkich osób, w tym również dostosowany do zidentyfikowanych potrzeb osób z niepełnosprawnościami. Przykładowe elementy zawarte w SWZ odzwierciedlające wymagania w zakresie dostępności dla osób niepełnosprawnych:
+Czytnik zawartości ekranu, który odczytuje na głos tekst na ekranie i opisuje zdarzenia;
+Narzędzie powiększające ekran;
+Funkcja powodująca zwiększenie kontrastu kolorów między pierwszym planem a tłem na ekranie;
+Zmiana rozmiaru tekstu, aplikacji i innych elementów;
+Różnicowanie natężenia dźwięku;
+Sterowanie komputerem za pomocą dostępu głosowego;
+Tworzenie tekstu za pomocą głosu;
+Możliwość zmiany ustawień wyświetlania obrazu do indywidualnych potrzeb użytkownika;
+Technologia redukująca migotanie i emisję światła niebieskiego.
+Rozdział IV
+Informacja na temat części zamówienia
+i możliwości składania ofert częściowych
+Zamawiający dopuszcza możliwość składania ofert częściowych, na jedną lub więcej wybranych części. Przedmiot zamówienia został podzielony na następujące części:
+Część 1: Drukarki 3D wraz z wyposażeniem;
+Część 2: Urządzenia wielofunkcyjne wraz z wyposażeniem;
+Część 3: Urządzenia do projekcji wraz z wyposażeniem i montażem;
+Część 4: Sprzęt komputerowy wraz z wyposażeniem przeznaczony do zawodów mechanicznych;
+Część 5: Meble;
+Część 6: Sprzęt komputerowy, wyposażenie i oprogramowanie dla osób niepełnosprawnych;
+Część 7: Sprzęt serwerowy wraz z wyposażeniem i oprogramowaniem;
+Część 8: Oprogramowanie dla branży mechanicznej;
+Część 9: Oprogramowanie symulacyjne dla branży elektryczno-mechatronicznej;
+Część 10: Oprogramowanie dla zawodów mechatronicznych i elektronicznych;
+Część 11: Sprzęt komputerowy, sieciowy, drukarki i oprogramowanie wraz z wyposażeniem;
+Wybór oferty najkorzystniejszej nastąpi oddzielnie dla każdej części zamówienia.
+Rozdział V
+Informacja na temat możliwości składania ofert wariantowych
+Zamawiający nie dopuszcza możliwości złożenia oferty wariantowej.
+Rozdział VI
+Informacja na temat przewidywanego zamówienia polegającego na powtórzeniu podobnych dostaw
+Zamawiający nie przewiduje udzielenia zamówienia polegającego na powtórzeniu podobnych dostaw, o których mowa w art. 214 ust.1 pkt 8 ustawy.
+Rozdział VII
+Maksymalna liczba wykonawców, z którymi Zamawiający zawrze umowę ramową
+Przedmiotowe postępowanie nie jest prowadzone w celu zawarcia umowy ramowej.
+Rozdział VIII
+Termin wykonania zamówienia
+Zamówienie należy zrealizować w terminie do 90 dni od daty zawarcia umowy, jednak nie wcześniej niż po zakończeniu remontów w pracowniach. Planowany termin zakończenia remontów: 30 września 2025r. (dotyczy wszystkich części).
+Rozdział IX
+Projektowane postanowienia umowy w sprawie zamówienia publicznego, które zostaną wprowadzone do treści tej umowy
+Projektowane postanowienia umowy w sprawie zamówienia publicznego, które zostaną wprowadzone do treści tej umowy, zawierają załączniki nr 3.1-3.11 do SWZ.
+Zamawiający przewiduje możliwość zmian postanowień zawartej umowy (tzw. zmiany kontraktowe w oparciu o art. 455 ust. 1 pkt 1 ustawy) w stosunku do treści oferty, na podstawie której dokonano wyboru Wykonawcy, zgodnie z warunkami zawartymi w załącznikach nr 3.1-3.11 do SWZ.
+Zmiana umowy może także nastąpić w przypadkach, o których mowa w art. 455 ust. 1 pkt 2-4 oraz ust. 2 ustawy.
+Przed zawarciem umowy należy dopełnić formalności, które zostały wskazane w Rozdziale XXIX SWZ.
+Rozdział X
+Opis sposobu obliczenia ceny
+Wykonawca poda cenę ofertową na formularzach oferty, zgodnie z załącznikami nr 1.1 – 1.11 do SWZ.
+Podana cena ofertowa musi zawierać wszystkie koszty związane z realizacją zamówienia, wynikające z opisu przedmiotu zamówienia (załączniki nr 2.1 – 2.11 do SWZ) – cena ryczałtowa. Cena ta będzie stała i nie może się zmienić, za wyjątkiem przypadków opisanych w projektowanych postanowieniach umowy w sprawie zamówienia publicznego, które zostaną wprowadzone do treści tej umowy (załącznik nr 3 do SWZ), lub jeżeli wynika to z przepisów prawa.
+Cenę oferty należy podać w następujący sposób:
+Zgodnie z wyszczególnieniem zawartym w formularzu ofertowym, z uwzględnieniem stawki VAT w wysokości 23%.
+Cena ofertowa musi być podana w złotych polskich (PLN), cyfrowo (do drugiego miejsca po przecinku).
+Wykonawca, składając ofertę (na formularzu oferty, zgodnie z załącznikiem nr 1 do SWZ) informuje Zamawiającego, że wybór jego oferty będzie prowadził do powstania u Zamawiającego obowiązku podatkowego, wskazując:
+nazwę (rodzaj) towaru lub usługi, których dostawa lub świadczenie będą prowadziły do powstania obowiązku podatkowego;
+wartość towaru lub usługi objętego obowiązkiem podatkowym Zamawiającego, bez kwoty podatku;
+stawkę podatku od towarów i usług, która zgodnie z wiedzą Wykonawcy, będzie miała zastosowanie.
+Rozdział XI
+Informacja na temat możliwości rozliczania się w walutach obcych
+Zamawiający będzie rozliczał się z Wykonawcą wyłącznie w walucie polskiej (PLN).
+Rozdział XII
+Informacja o środkach komunikacji elektronicznej, przy pomocy których Zamawiający będzie komunikował się z Wykonawcami
+Z zastrzeżeniem postanowień zawartych w rozdziale XVI SWZ oraz w ust. 2 i w ust. 4 niniejszego rozdziału SWZ, komunikacja między Zamawiającym a Wykonawcami może się odbywać wyłącznie przy użyciu środków komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002r. o świadczeniu usług drogą elektroniczną (tekst jednolity Dz.U. z 2024r. poz. 1513 z późn. zm.), tj.:
+pocztą elektroniczną na adres Zamawiającego oraz na adres lub adresy e-mail podane przez Wykonawców w formularzu oferty, lub innych dokumentach przekazanych Zamawiającemu.
+poprzez Platformę przetargową.
+Ofertę składa się pod rygorem nieważności w formie elektronicznej (oznacza to postać elektroniczną opatrzoną kwalifikowanym podpisem elektronicznym),
+- wyłącznie poprzez Platformę przetargową.
+Zamawiający lub Wykonawca przekazując oświadczenia, wnioski, zawiadomienia oraz informacje przy użyciu środków komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002r. o świadczeniu usług drogą elektroniczną, mogą zażądać od drugiej strony niezwłocznego potwierdzenia ich otrzymania.
+Komunikacja ustna dopuszczalna jest wyłącznie w odniesieniu do informacji, które nie są istotne, w szczególności nie dotyczą ogłoszenia o zamówieniu lub dokumentów zamówienia, ofert, o ile jej treść jest udokumentowana (wymagana jest pisemna notatka z ustnej rozmowy).
+Niezwłocznie po otwarciu złożonych ofert, Zamawiający zamieści na Platformie przetargowej informacje dotyczące:
+nazwach albo imionach i nazwiskach oraz siedzibach lub miejscach prowadzonej działalności gospodarczej albo miejscach zamieszkania Wykonawców, których oferty zostały otwarte;
+cenach zawartych w ofertach.
+Informację o wyborze oferty najkorzystniejszej lub o unieważnieniu postępowania Zamawiający zamieści na Platformie przetargowej.
+Przyjmuje się, że dokument wysłany przy użyciu Platformy przetargowej został doręczony Wykonawcy w sposób umożliwiający zapoznanie się z jego treścią, w dniu jego przekazania na Platformę przetargową.
+Rozdział XIII
+Informacje o wymaganiach technicznych i organizacyjnych sporządzania, wysyłania i odbierania korespondencji elektronicznej
+Wykonawca zamierzający złożyć ofertę (wyłącznie poprzez Platformę przetargową) – zobowiązany jest zapoznać się z instrukcjami użytkowników Platformy przetargowej oraz zaakceptować regulamin korzystania z Platformy przetargowej.
+Złożenie oferty poprzez Platformę przetargową oznacza akceptację regulaminu, o którym mowa w ust. 1 niniejszego rozdziału SWZ.
+Wymagania techniczne związane z korzystaniem z Platformy przetargowej – wskazane są na stronie internetowej Platformy przetargowej.
+Wsparcia technicznego w zakresie działania Platformy przetargowej udziela jej dostawca, tj. Logintrade S.A., ul. Legnicka 57 D lok. B/J, 53-680 Wrocław; nr telefonu 71/787 35 34, adres poczty elektronicznej (od poniedziałku do piątku, w dni robocze w godzinach 800-1600).
+Sposób złożenia oferty za pośrednictwem Platformy przetargowej oraz potwierdzenia złożenia oferty, został opisany w Instrukcjach użytkowników Platformy przetargowej.
+Oferty, oświadczenia, o których mowa w art. 125 ust. 1 ustawy, podmiotowe środki dowodowe, przedmiotowe środki dowodowe, pełnomocnictwo, sporządza się w postaci elektronicznej, w formatach danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005r. o informatyzacji działalności podmiotów realizujących zadania publiczne (tekst jednolity Dz.U. z 2024r. poz. 1557 z późn. zm.), z zastrzeżeniem formatów, o których mowa w art. 66 ust. 1 ustawy, z uwzględnieniem rodzaju przekazywanych danych.
+Zamawiający informuje, iż w przypadku przesyłania przez Wykonawcę dokumentów elektronicznych skompresowanych (w tym oferty przetargowej), dopuszczone są formaty danych wskazane w Rozporządzeniu Rady Ministrów z dnia 21 maja 2024r. w  sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów teleinformatycznych (tekst jednolity Dz.U. z 2024r., poz. 773) – z zastrzeżeniem, iż Zamawiający dopuszcza także przesyłanie dokumentów elektronicznych (w tym oferty przetargowej) skompresowanych formatem .rar.
+Uwaga. Przesłanie pliku w formacie .rar poprzez Platformę przetargową jest możliwe tylko po uprzednim jego skompresowaniu do innego formatu wskazanego w Rozporządzeniu o którym mowa w ust. 7 (np. .zip).
+Informacje, oświadczenia lub dokumenty, inne niż określone w ust. 6 niniejszego rozdziału SWZ, przekazywane w postępowaniu o udzielenie zamówienia, sporządza się w postaci elektronicznej, w formatach danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005r. o informatyzacji działalności podmiotów realizujących zadania publiczne lub jako tekst wpisany bezpośrednio do wiadomości przekazywanej przy użyciu środków komunikacji elektronicznej, wskazanych przez Zamawiającego w niniejszej SWZ.
+W przypadku gdy dokumenty elektroniczne w postępowaniu o udzielenie zamówienia, przekazywane przy użyciu środków komunikacji elektronicznej, zawierają informacje stanowiące tajemnicę przedsiębiorstwa w rozumieniu przepisów ustawy z dnia 16 kwietnia 1993r. o zwalczaniu nieuczciwej konkurencji (tekst jednolity Dz.U. z 2022r. poz. 1233), Wykonawca, w celu utrzymania w poufności tych informacji, przekazuje je w wydzielonym i odpowiednio oznaczonym pliku.
+Podmiotowe środki dowodowe, przedmiotowe środki dowodowe oraz inne dokumenty lub oświadczenia, sporządzone w języku obcym przekazuje się wraz z tłumaczeniem na język polski.
+W przypadku gdy podmiotowe środki dowodowe, przedmiotowe środki dowodowe, inne dokumenty, w tym dokumenty potwierdzające umocowanie do reprezentowania odpowiednio Wykonawcy, Wykonawców wspólnie ubiegających się o udzielenie zamówienia publicznego, lub podwykonawcy niebędącego podmiotem udostępniającym zasoby na takich zasadach, zwane dalej „dokumentami potwierdzającymi umocowanie do reprezentowania”, zostały wystawione przez upoważnione podmioty inne niż Wykonawca, Wykonawca wspólnie ubiegający się o udzielenie zamówienia, podmiot udostępniający zasoby lub podwykonawca, zwane dalej „upoważnionymi podmiotami”, jako dokument elektroniczny, przekazuje się ten dokument.
+W przypadku gdy podmiotowe środki dowodowe, przedmiotowe środki dowodowe, inne dokumenty, w tym dokumenty potwierdzające umocowanie do reprezentowania, zostały wystawione przez upoważnione podmioty jako dokument w postaci papierowej, przekazuje się cyfrowe odwzorowanie tego dokumentu opatrzone kwalifikowanym podpisem elektronicznym, poświadczające zgodność cyfrowego odwzorowania z dokumentem w postaci papierowej.
+Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o którym mowa w ust. 11.1. niniejszego rozdziału SWZ, dokonuje w przypadku:
+podmiotowych środków dowodowych oraz dokumentów potwierdzających umocowanie do reprezentowania – odpowiednio Wykonawca, Wykonawcy wspólnie ubiegający się o udzielenie zamówienia, podmiot udostępniający zasoby lub podwykonawca, w zakresie podmiotowych środków dowodowych lub dokumentów potwierdzających umocowanie do reprezentowania, które każdego z nich dotyczą;
+przedmiotowych środków dowodowych – odpowiednio Wykonawca lub Wykonawcy wspólnie ubiegający się o udzielenie zamówienia;
+innych dokumentów – odpowiednio Wykonawca lub Wykonawcy wspólnie ubiegający się o udzielenie zamówienia, w zakresie dokumentów, które każdego z nich dotyczą.
+Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o którym mowa w ust. 11.1. niniejszego rozdziału SWZ, może dokonać również notariusz.
+Przez cyfrowe odwzorowanie, o którym mowa wyżej, należy rozumieć dokument elektroniczny będący kopią elektroniczną treści zapisanej w postaci papierowej, umożliwiający zapoznanie się z tą treścią i jej zrozumienie, bez konieczności bezpośredniego dostępu do oryginału.
+Podmiotowe środki dowodowe, przedmiotowe środki dowodowe, niewystawione przez upoważnione podmioty, oraz pełnomocnictwo przekazuje się w postaci elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym.
+W przypadku gdy podmiotowe środki dowodowe, w tym oświadczenie, o którym mowa w art. 117 ust. 4 ustawy, przedmiotowe środki dowodowe, niewystawione przez upoważnione podmioty lub pełnomocnictwo, zostały sporządzone jako dokument w postaci papierowej i opatrzone własnoręcznym podpisem, przekazuje się cyfrowe odwzorowanie tego dokumentu opatrzone kwalifikowanym podpisem elektronicznym, poświadczającym zgodność cyfrowego odwzorowania z dokumentem w postaci papierowej.
+Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o którym mowa w ust. 12.1. niniejszego rozdziału SWZ, dokonuje w przypadku:
+podmiotowych środków dowodowych – odpowiednio Wykonawca, Wykonawca wspólnie ubiegający się o udzielenie zamówienia, podmiot udostępniający zasoby lub podwykonawca, w zakresie podmiotowych środków dowodowych, które każdego z nich dotyczą;
+przedmiotowego środka dowodowego, oświadczenia, o którym mowa w art. 117 ust. 4 ustawy lub zobowiązania podmiotu udostępniającego zasoby – odpowiednio Wykonawca lub Wykonawca wspólnie ubiegający się o udzielenie zamówienia;
+pełnomocnictwa – mocodawca.
+Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o którym mowa w ust. 12.1. niniejszego rozdziału SWZ, może dokonać również notariusz.
+W przypadku przekazywania w postępowaniu dokumentu elektronicznego w formacie poddającym dane kompresji, opatrzenie pliku zawierającego skompresowane dokumenty kwalifikowanym podpisem elektronicznym, jest równoznaczne z opatrzeniem wszystkich dokumentów zawartych w tym pliku kwalifikowanym podpisem elektronicznym.
+Dokumenty elektroniczne w postępowaniu spełniają łącznie następujące wymagania:
+są utrwalone w sposób umożliwiający ich wielokrotne odczytanie, zapisanie i powielenie, a także przekazanie przy użyciu środków komunikacji elektronicznej lub na informatycznym nośniku danych;
+umożliwiają prezentację treści w postaci elektronicznej, w szczególności przez wyświetlenie tej treści na monitorze ekranowym;
+umożliwiają prezentację treści w postaci papierowej, w szczególności za pomocą wydruku;
+zawierają dane w układzie niepozostawiającym wątpliwości co do treści i kontekstu zapisanych informacji.
+Zgodnie z § 12 Rozporządzenia Prezesa Rady Ministrów z dnia 30 grudnia 2020r. w sprawie sposobu sporządzania i przekazywania informacji oraz wymagań technicznych dla dokumentów elektronicznych oraz środków komunikacji elektronicznej w postępowaniu o udzielenie zamówienia publicznego lub w konkursie (Dz.U. z 2020r. poz. 2452):
+„Środki komunikacji elektronicznej w postępowaniu lub konkursie służące do odbioru dokumentów elektronicznych zawierających oświadczenia, o których mowa w art. 125 ust. 1 ustawy, podmiotowe środki dowodowe, w tym oświadczenie, o którym mowa w art. 117 ust. 4 ustawy, oraz zobowiązanie podmiotu udostępniającego zasoby, przedmiotowe środki dowodowe, pełnomocnictwo, dokumenty, o których mowa w art. 94 ust. 2 ustawy, oraz informacje, oświadczenia lub dokumenty, inne niż określone w §11 ust. 1, umożliwiają identyfikację podmiotów przekazujących te dokumenty elektroniczne oraz ustalenie dokładnego czasu i daty ich odbioru.”
+Rozdział XIV
+Opis sposobu udzielania wyjaśnień dotyczących
+Specyfikacji Warunków Zamówienia
+Treść SWZ wraz z załącznikami zamieszczona jest na Platformie przetargowej.
+Wykonawca może zwrócić się do Zamawiającego z wnioskiem o wyjaśnienie treści SWZ.
+Zamawiający niezwłocznie udzieli wyjaśnień, jednakże nie później niż na 6 dni przed upływem terminu składania ofert, o ile wniosek o wyjaśnienie SWZ wpłynie do Zamawiającego nie później niż na 14 dni przed upływem terminu składania ofert.
+Wszelkie wyjaśnienia, modyfikacje treści SWZ oraz inne informacje związane z niniejszym postępowaniem, Zamawiający będzie zamieszczał wyłącznie na Platformie przetargowej, w wierszu oznaczonym tytułem oraz znakiem sprawy niniejszego postępowania.
+W uzasadnionych przypadkach Zamawiający może przed upływem terminu składania ofert zmienić treść SWZ. Każda wprowadzona przez Zamawiającego zmiana staje się w takim przypadku częścią SWZ. Dokonaną zmianę treści SWZ Zamawiający udostępnia na Platformie przetargowej.
+Zamawiający oświadcza, iż nie zamierza zwoływać zebrania Wykonawców w celu wyjaśnienia treści SWZ.
+Rozdział XV
+Osoby ze strony Zamawiającego uprawnione do komunikowania się z Wykonawcami
+Zamawiający wyznacza następującą osobę do komunikowania się z Wykonawcami, w sprawach dotyczących niniejszego postępowania: Tomasz Wieczorek – Wydział Zamówień Publicznych.
+Rozdział XVI
+Opis sposobu przygotowania oferty
+Ofertę należy sporządzić na formularzu oferty lub według takiego samego schematu, stanowiącego załączniki nr 1.1 – 1.11 do SWZ. Ofertę należy złożyć pod rygorem nieważności - wyłącznie za pośrednictwem Platformy przetargowej - w formie elektronicznej (w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym).
+Oferta wraz z załącznikami musi być złożona za pośrednictwem Platformy przetargowej. Zamawiający zaleca, aby oferta została utworzona w formacie .pdf oraz podpisana wewnętrznym kwalifikowanym podpisem elektronicznym. W przypadku zastosowania podpisu zewnętrznego należy pamiętać o obowiązku dołączenia do pliku stanowiącego ofertę także pliku podpisującego, który generuje się automatycznie podczas złożenia podpisu.
+Wraz z ofertą należy złożyć:
+Oświadczenie, o którym mowa w art. 125 ust. 1 ustawy, o niepodleganiu wykluczeniu z postępowania, w zakresie wskazanym w rozdziale XIX SWZ, składanym na formularzu Jednolitego Europejskiego Dokumentu Zamówienia (w skrócie JEDZ), sporządzonym zgodnie ze wzorem standardowego formularza określonego w rozporządzeniu wykonawczym Komisji (UE) 2016/7 z dnia 5 stycznia 2016r. ustanawiającym standardowy formularz jednolitego europejskiego dokumentu zamówienia (Dz.Urz.UE L 3 z 06.01.2016r., str. 16). Oświadczenie stanowi dowód potwierdzający brak podstaw wykluczenia na dzień składania ofert, tymczasowo zastępujący wymagane przez Zamawiającego podmiotowe środki dowodowe, wskazane w SWZ. Oświadczenie składa się, pod rygorem nieważności, w formie elektronicznej (w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym).
+Instrukcja wypełniania formularza Jednolitego Europejskiego Dokumentu Zamówienia (JEDZ) zgodnego ze wzorem stanowiącym załącznik do rozporządzenia wykonawczego Komisji (UE) 2016/7 z dnia 5 stycznia 2016r. ustanawiającego formularz Jednolitego Europejskiego Dokumentu Zamówień:
+JEDZ należy złożyć wraz z ofertą (zaleca się złożenie JEDZ w wyodrębnionym pliku) – w formie elektronicznej (w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym),
+w przypadku, gdy Wykonawcy składają ofertę wspólną, w rozumieniu art. 58 ustawy, należy przedstawić odrębny JEDZ zawierający informacje wymagane w częściach II–III dla każdego z biorących udział Wykonawców – każdy z wyodrębnionych JEDZ-ów zaleca się złożyć w odrębnych plikach – jako załączniki do oferty,
+w części II JEDZ:
+- sekcja B (Informacje na temat przedstawicieli Wykonawcy): Zamawiający nie wymaga podania daty i miejsca urodzenia osoby upoważnionej do reprezentowania Wykonawcy na potrzeby niniejszego postępowania o udzielenie zamówienia,
+w celu wstępnego potwierdzenia braku podstaw wykluczenia (ust. 2 rozdziału XIX SWZ), w części III JEDZ należy wypełnić sekcje A, B, C (w zakresie: porozumienia z innymi wykonawcami mające na celu zakłócenie konkurencji; bezpośrednie lub pośrednie zaangażowanie w przygotowanie przedmiotowego postępowania o udzielenie zamówienia) oraz sekcję D [sekcja D odnosi się do podstawy wykluczenia zawartej w art. 108 ust.1 pkt 1 lit. c w zakresie skazania za przestępstwo, o którym mowa w art. 47 ustawy o sporcie oraz innych przestępstw wymienionych w art. 108 ust. 1 pkt 1 lit. c ustawy, w art. 108 ust. 1 pkt 1 lit. g i lit. h i pkt 2 (w zakresie lit. g i h) ustawy i art. 108 ust. 1 pkt 4 ustawy, a także w art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (tekst jednolity Dz.U. z 2025r., poz. 514)],
+ze względu na brak określenia warunków udziału w postępowaniu – części IV JEDZ nie wypełniać.
+części V JEDZ nie wypełniać,
+wersja elektroniczna JEDZ zamieszczona jest w folderze dotyczącym przedmiotowego postępowania. JEDZ należy zapisać, a następnie zaimportować na stronie internetowej.
+Zamawiający informuje, iż Wykonawca może skorzystać z pliku JEDZ espd-reguest załączonego na stronie internetowej prowadzonego postępowania jako załącznik do SWZ lub stworzyć nowy.
+Wykonawca może skorzystać z linku do narzędzia wypełniania JEDZ.
+Po zaznaczeniu pola „Jestem wykonawcą” wykonawca ma możliwość:
+zaimportowania otrzymanego formularza JEDZ/ESPD, tj. formularza przygotowanego przez zamawiającego dla danego postępowania lub stworzenie nowego.
+Formularz przygotowany przez zamawiającego zawiera tylko pola wskazane przez zamawiającego. W przypadku gdy wykonawca korzysta z możliwości samodzielnego utworzenia nowego formularza JEDZ/ESPD, aktywne są wszystkie pola formularza. Należy je wypełnić w zakresie stosownym do wymagań określonych przez zamawiającego w przedmiotowym postępowaniu.
+Na stronie internetowejznajduje się instrukcja wypełniania JEDZ/ESPD.
+Ponadto Zamawiający informuje, iż formularz JEDZ stanowi załącznik do Rozporządzenia wykonawczego Komisji (UE) 2016/7 z dnia 5 stycznia 2016r. ustanawiającego standardowy formularz jednolitego europejskiego dokumentu zamówień (przyjęte w powyższej instrukcji Zamawiającego numeracje punktów w poszczególnych sekcjach wynikają z powyższego Rozporządzenia). Zamawiający dopuszcza złożenie wspomnianego oświadczenia zgodnie z załącznikiem do Rozporządzenia.
+Elektroniczna wersja dokumentu została zamieszczona na Platformie przetargowej pod adresem
+Oświadczenie Wykonawcy o braku podstaw wykluczenia z postępowania zgodnie z art. 5K Rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (z późn. zm.).
+Pełnomocnictwo ustanowione do reprezentowania Wykonawcy/Wykonawców ubiegającego/ubiegających się o udzielenie zamówienia publicznego.
+Pełnomocnictwo przekazuje się w postaci elektronicznej i opatruje kwalifikowanym podpisem elektronicznym. W przypadku, gdy pełnomocnictwo zostało wystawione w postaci papierowej i opatrzone własnoręcznym podpisem, przekazuje się cyfrowe odwzorowanie tego dokumentu, opatrzone kwalifikowanym podpisem elektronicznym, poświadczającym zgodność cyfrowego odwzorowania z dokumentem w postaci papierowej. Poświadczenia zgodności cyfrowego odwzorowania z pełnomocnictwem w postaci papierowej, może dokonać mocodawca lub notariusz.
+Spis wszystkich załączonych dokumentów (spis treści) – zalecane, niewymagane.
+Każdy Wykonawca na daną część może złożyć tylko jedną ofertę. Ofertę należy sporządzić zgodnie z wymaganiami SWZ.
+Oferta musi być sporządzona pod rygorem nieważności w formie elektronicznej (w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym), w języku polskim.
+Podmiotowe środki dowodowe, przedmiotowe środki dowodowe oraz inne dokumenty lub oświadczenia, sporządzone w języku obcym przekazuje się wraz z tłumaczeniem na język polski.
+Oferta musi być podpisana przez osobę/osoby upoważnioną/upoważnione do reprezentowania Wykonawcy.
+Upoważnienie (pełnomocnictwo) do podpisania oferty, do poświadczania dokumentów za zgodność z oryginałem należy dołączyć do oferty zgodnie z ust. 3.3. niniejszego rozdziału SWZ, o ile nie wynika ono z dokumentów rejestrowych Wykonawcy, jeżeli Zamawiający może je uzyskać za pomocą bezpłatnych i ogólnodostępnych baz danych.
+W przypadku, gdy w opatrzonej kwalifikowanym podpisem elektronicznym, ofercie lub oświadczeniu Wykonawcy, zostały naniesione zmiany, oferta/oświadczenie Wykonawcy muszą być ponownie podpisane kwalifikowanym podpisem elektronicznym, przez Wykonawcę lub osobę/osoby upoważnioną/upoważnione do reprezentowania Wykonawcy/Wykonawców wspólnie ubiegających się o udzielenie zamówienia publicznego.
+Wykonawca może wycofać złożoną przez siebie ofertę. Sposób wycofania oferty został opisany w instrukcjach użytkownika, o których mowa w ust. 1, ust. 3 i ust. 5. rozdziału XIII SWZ – Informacje o wymaganiach technicznych i organizacyjnych sporządzania, wysyłania i odbierania korespondencji elektronicznej.
+Protokół postępowania o udzielenie zamówienia wraz z załącznikami, w tym oferta Wykonawcy wraz z załącznikami, są jawne, z wyjątkiem informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, jeżeli Wykonawca wraz z przekazaniem takich informacji zastrzegł, że nie mogą być one udostępniane oraz wykazał, że zastrzeżone informacje stanowią tajemnicę przedsiębiorstwa. Wykonawca nie może zastrzec informacji, o których mowa w art. 222 ust. 5 ustawy.
+W przypadku, gdy Wykonawca nie wykaże, że zastrzeżone informacje stanowią tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993r. o zwalczaniu nieuczciwej konkurencji (tekst jednolity Dz.U. z 2022r. poz. 1233) Zamawiający uzna zastrzeżenie tajemnicy za bezskuteczne, o czym poinformuje Wykonawcę.
+Informacje stanowiące tajemnicę przedsiębiorstwa powinny być zgrupowane i stanowić oddzielną część oferty - odrębny plik lub pliki elektroniczne. Plik (pliki) należy opatrzyć dopiskiem „tajemnica przedsiębiorstwa” lub innym (nazwa pliku powinna jednoznacznie wskazywać, iż dane w nim zawarte stanowią tajemnicę przedsiębiorstwa).
+Protokół postępowania wraz z załącznikami, w tym oferty wraz z załącznikami, udostępnia się na wniosek.
+Rozdział XVII
+Informacja na temat wspólnego ubiegania się Wykonawców o udzielenie zamówienia
+Wykonawcy mogą wspólnie ubiegać się o udzielenie zamówienia.
+Wykonawcy wspólnie ubiegający się o udzielenie zamówienia, ustanawiają pełnomocnika do reprezentowania ich w postępowaniu o udzielenie zamówienia albo reprezentowania w postępowaniu i zawarcia umowy w sprawie zamówienia publicznego – nie dotyczy spółki cywilnej, o ile upoważnienie/pełnomocnictwo do występowania w imieniu tej spółki wynika z dołączonej do oferty umowy spółki.
+Wykonawcy wspólnie ubiegający się o udzielenie zamówienia, zobowiązani się złożyć wraz z ofertą stosowne pełnomocnictwo – zgodnie z ust. 3.3. rozdz. XVI SWZ – nie dotyczy spółki cywilnej, o ile upoważnienie/pełnomocnictwo do występowania w imieniu tej spółki wynika z dołączonej do oferty umowy spółki.
+Uwaga: Pełnomocnictwo, o którym mowa powyżej może wynikać albo z dokumentu pod taką samą nazwą albo z umowy Wykonawców wspólnie ubiegających się o udzielenie zamówienia.
+Oferta musi być podpisana w taki sposób, by prawnie zobowiązywała wszystkich Wykonawców występujących wspólnie (przez każdego z Wykonawców lub upoważnionego pełnomocnika).
+W przypadku wspólnego ubiegania się o udzielenie zamówienia przez Wykonawców oświadczenie, o którym mowa w art. 125 ustawy (ust. 3.1. rozdziału XVI SWZ) składa każdy z Wykonawców wspólnie ubiegających się o zamówienie. Oświadczenie to potwierdza brak podstaw wykluczenia - każdy z Wykonawców wspólnie ubiegających się o udzielenie zamówienia nie może podlegać wykluczeniu z postępowania w oparciu o wskazane w SWZ podstawy wykluczenia.
+Wszelka korespondencja prowadzona będzie wyłącznie z podmiotem występującym jako pełnomocnik Wykonawców wspólnie ubiegających się o udzielenie zamówienia.
+Rozdział XVIII
+Informacja na temat podwykonawców
+Wykonawca może powierzyć wykonanie części zamówienia podwykonawcy.
+Zamawiający żąda, aby przed przystąpieniem do wykonania zamówienia Wykonawca podał nazwy, dane kontaktowe oraz przedstawicieli, podwykonawców zaangażowanych w wykonanie zamówienia (jeżeli są już znani). Wykonawca zobowiązany jest do zawiadomienia Zamawiającego o wszelkich zmianach w odniesieniu do informacji, o których mowa w zdaniu pierwszym, w trakcie realizacji zamówienia, a także przekazuje wymagane informacje na temat nowych podwykonawców, którym w późniejszym okresie zamierza powierzyć realizację zamówienia.
+Powierzenie wykonania części zamówienia podwykonawcom nie zwalnia Wykonawcy z odpowiedzialności za należyte wykonanie tego zamówienia.
+Rozdział XIX
+Podstawy (przesłanki) wykluczenia z postępowania, warunki udziału w postępowaniu, wykaz podmiotowych środków dowodowych
+O udzielenie zamówienia mogą się ubiegać Wykonawcy, którzy nie podlegają wykluczeniu.
+Podstawy wykluczenia:
+Zamawiający wykluczy z postępowania Wykonawcę w przypadkach, o których mowa w art. 108 ust. 1 pkt 1-6 ustawy (obligatoryjne przesłanki wykluczenia).
+Zamawiający nie przewiduje fakultatywnych podstaw wykluczenia, o których mowa w art. 109 ust. 1 ustawy.
+Z postępowania o udzielenie zamówienia wyklucza się Wykonawcę w przypadkach, o których mowa w art. 7 ust. 1 ustawy z dnia 13 kwietnia 2022r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (tekst jednolity Dz.U. 2025r., poz. 514).
+Do Wykonawcy podlegającego wykluczeniu w tym zakresie, stosuje się art. 7 ust. 3 wspomnianej ustawy.
+Wykluczeniu z postępowania podlegają Wykonawcy, zgodnie z art. 5k Rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie, dodanym Rozporządzeniem Rady (UE) 2022/576 z dnia 8 kwietnia 2022r. w sprawie zmiany rozporządzenia (UE) nr 833/2014 dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. UE nr L 111 z 8.04.2022r. str. 1), z późn. zm.
+Warunki udziału w postępowaniu, określone przez Zamawiającego spośród warunków, o których mowa w art. 112 ust. 2 ustawy:
+Zamawiający nie określa warunków udziału w postępowaniu.
+Wykaz podmiotowych środków dowodowych
+Wykonawca, którego oferta zostanie najwyżej oceniona (przed wyborem najkorzystniejszej oferty), w celu wykazania braku podstaw (przesłanek) wykluczenia z postępowania wskazanych w SWZ, na podstawie art. 126 ust. 1 ustawy zostanie wezwany do złożenia następujących podmiotowych środków dowodowych (aktualnych na dzień ich złożenia):
+informacji z Krajowego Rejestru Karnego w zakresie określonym:
+w art. 108 ust. 1 pkt 1 i 2 ustawy,
+w art. 108 ust. 1 pkt 4 ustawy,
+- wystawionej nie wcześniej niż 6 miesięcy przed jej złożeniem;
+oświadczenia Wykonawcy, w zakresie art. 108 ust. 1 pkt 5 ustawy, o braku przynależności do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007r. o ochronie konkurencji i konsumentów (tekst jednolity Dz.U. z 2024r. poz. 1616), z innym Wykonawcą, który złożył odrębną ofertę, ofertę częściową lub wniosek o dopuszczenie do udziału w postępowaniu, albo oświadczenia o przynależności do tej samej grupy kapitałowej wraz z dokumentami lub informacjami potwierdzającymi przygotowanie oferty, oferty częściowej lub wniosku o dopuszczenie do udziału w postępowaniu niezależnie od innego Wykonawcy należącego do tej samej grupy kapitałowej.
+oświadczenia wykonawcy o aktualności informacji zawartych w oświadczeniu, o którym mowa w art. 125 ust. 1 ustawy, w zakresie podstaw wykluczenia z postępowania wskazanych przez zamawiającego, o których mowa w:
+art. 108 ust. 1 pkt 3 ustawy,
+art. 108 ust. 1 pkt 4 ustawy, dotyczących orzeczenia zakazu ubiegania się o zamówienie publiczne tytułem środka zapobiegawczego,
+art. 108 ust. 1 pkt 5 ustawy, dotyczących zawarcia z innymi wykonawcami porozumienia mającego na celu zakłócenie konkurencji,
+art. 108 ust. 1 pkt 6 ustawy.
+Uwaga: W przypadku wspólnego ubiegania się o zamówienie przez Wykonawców, oświadczenia i dokumenty w zakresie ust. 4.1 składa każdy z Wykonawców wspólnie ubiegających się o zamówienie.
+Dokumenty podmiotowe Wykonawcy mającego siedzibę lub miejsce zamieszkania poza RP.
+Jeżeli Wykonawca ma siedzibę lub miejsce zamieszkania poza granicami Rzeczypospolitej Polskiej, zamiast:
+informacji z Krajowego Rejestru Karnego, w zakresie określonym w art. 108 ust. 1 pkt 1, 2 i 4 ustawy - składa informację z odpowiedniego rejestru, takiego jak rejestr sądowy, albo, w przypadku braku takiego rejestru, inny równoważny dokument wydany przez właściwy organ sądowy lub administracyjny kraju, w którym wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dotyczy informacja albo dokument;
+Dokument, o którym mowa w ust. 5.1. pkt 1, powinien być wystawiony nie wcześniej niż 6 miesięcy przed jego złożeniem.
+Jeżeli w kraju, w którym Wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dokument dotyczy, nie wydaje się dokumentów, o których mowa w ust. 5.1. lub gdy dokumenty te nie odnoszą się do wszystkich przypadków, o których mowa w art. 108 ust. 1 pkt 1, 2 i 4 ustawy, zastępuje się je odpowiednio w całości lub w części dokumentem zawierającym odpowiednio oświadczenie wykonawcy, ze wskazaniem osoby albo osób uprawnionych do jego reprezentacji, lub oświadczenie osoby, której dokument miał dotyczyć, złożone pod przysięgą, lub, jeżeli w kraju, w którym Wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dokument dotyczy, nie ma przepisów o oświadczeniu pod przysięgą, złożone przed organem sądowym lub administracyjnym, notariuszem, organem samorządu zawodowego lub gospodarczego, właściwym ze względu na siedzibę lub miejsce zamieszkania wykonawcy lub miejsce zamieszkania osoby, której dokument miał dotyczyć. Przepis ust 5.2. stosuje się.
+Rozdział XX
+Korzystanie przez Wykonawcę z zasobów innych podmiotów w celu potwierdzenia spełniania warunków udziału w postępowaniu
+Nie dotyczy, z uwagi na brak określenia warunków udziału w postępowaniu przez Zamawiającego.
+Rozdział XXI
+Procedura sanacyjna - samooczyszczenie
+Wykonawca nie podlega wykluczeniu w okolicznościach określonych w art. 108 ust. 1 pkt 1, 2 i 5, jeżeli udowodni Zamawiającemu, że spełnił łącznie następujące przesłanki:
+naprawił lub zobowiązał się do naprawienia szkody wyrządzonej przestępstwem, wykroczeniem lub swoim nieprawidłowym postępowaniem, w tym poprzez zadośćuczynienie pieniężne;
+wyczerpująco wyjaśnił fakty i okoliczności związane z przestępstwem, wykroczeniem lub swoim nieprawidłowym postępowaniem oraz spowodowanymi przez nie szkodami, aktywnie współpracując odpowiednio z właściwymi organami, w tym organami ścigania, lub zamawiającym;
+podjął konkretne środki techniczne, organizacyjne i kadrowe, odpowiednie dla zapobiegania dalszym przestępstwom, wykroczeniom lub nieprawidłowemu postępowaniu, w szczególności:
+zerwał wszelkie powiązania z osobami lub podmiotami odpowiedzialnymi za nieprawidłowe postępowanie Wykonawcy,
+zreorganizował personel,
+wdrożył system sprawozdawczości i kontroli,
+utworzył struktury audytu wewnętrznego do monitorowania przestrzegania przepisów, wewnętrznych regulacji lub standardów,
+wprowadził wewnętrzne regulacje dotyczące odpowiedzialności i odszkodowań za nieprzestrzeganie przepisów, wewnętrznych regulacji lub standardów.
+Zamawiający ocenia, czy podjęte przez Wykonawcę czynności, o których mowa w ust. 1 niniejszego rozdziału SWZ, są wystarczające do wykazania jego rzetelności, uwzględniając wagę i szczególne okoliczności czynu Wykonawcy. Jeżeli podjęte przez Wykonawcę czynności, o których mowa w ust. 1 niniejszego rozdziału SWZ, nie są wystarczające do wykazania jego rzetelności, Zamawiający wykluczy Wykonawcę.
+Rozdział XXII
+Wymagania dotyczące wadium
+Zamawiający nie wymaga wniesienia wadium w niniejszym postępowaniu.
+Rozdział XXIII
+Sposób oraz termin składania ofert
+Ofertę należy złożyć za pośrednictwem Platformy przetargowej - bezpośredni link do postępowania
+nie później niż do dnia 7 lipca 2025r. do godziny 1100,00.
+Uwaga: Za datę i godzinę złożenia oferty rozumie się datę i godzinę jej wpływu na Platformę przetargową, tj. datę i godzinę złożenia oferty wyświetloną na koncie Zamawiającego.
+W przypadku otrzymania przez Zamawiającego oferty po terminie podanym w ust. 1 niniejszego rozdziału SWZ, oferta zostanie odrzucona.
+Rozdział XXIV
+Termin związania ofertą
+Termin związania ofertą upływa w dniu 3 października 2025r. (89 dni).
+Rozdział XXV
+Termin otwarcia ofert, czynności związane z otwarciem ofert
+Otwarcie ofert nastąpi w dniu 7 lipca 2025r. o godzinie 1130, na komputerze Zamawiającego, po odszyfrowaniu i pobraniu z Platformy przetargowej złożonych ofert, w pokoju 401.
+Zamawiający nie przewiduje publicznej sesji otwarcia ofert w siedzibie Zamawiającego.
+Najpóźniej przed otwarciem ofert, Zamawiający udostępni na Platformie przetargowej informację o kwocie, jaką zamierza przeznaczyć na sfinansowanie niniejszego zamówienia (kwota brutto, wraz z podatkiem VAT).
+W przypadku wystąpienia problemów technicznych związanych z prawidłowym działaniem Platformy przetargowej, powodujących w szczególności brak możliwości przeprowadzenia procedury otwarcia ofert w wyznaczonym terminie lub publikacji na stronie internetowej prowadzonego postępowania jakichkolwiek dokumentów lub informacji wyjaśniających, Zamawiający informuje, iż stosowny komunikat zostanie opublikowany na stronie Biuletynu Informacji Publicznej Zamawiającego, w zakładce „Zamówienia publiczne” oraz w folderze bezpośrednio odnoszącym się do przedmiotowego postępowania.
+Niezwłocznie po otwarciu ofert Zamawiający udostępni na Platformie przetargowej informacje o:
+nazwach albo imionach i nazwiskach oraz siedzibach lub miejscach prowadzonej działalności gospodarczej albo miejscach zamieszkania wykonawców, których oferty zostały otwarte;
+cenach zawartych w ofertach.
+Rozdział XXVI
+Informacje o trybie oceny ofert
+Zgodnie z art. 223 ust. 1 ustawy, w toku dokonywania oceny złożonych ofert Zamawiający może żądać od Wykonawców wyjaśnień dotyczących treści złożonych ofert oraz przedmiotowych środków dowodowych lub innych składanych dokumentów lub oświadczeń.
+Zamawiający poprawi w ofercie omyłki wskazane w art. 223 ust. 2 ustawy, niezwłocznie zawiadamiając o tym Wykonawcę, którego oferta zostanie poprawiona.
+Zamawiający odrzuci złożoną ofertę, w przypadku wystąpienia przynajmniej jednej z okoliczności, o których mowa w art. 226 ust. 1 ustawy.
+W przypadku, gdy nie zostanie złożona żadna oferta niepodlegająca odrzuceniu, postępowanie zostanie unieważnione. Zamawiający unieważni postępowanie także w innych przypadkach, określonych w ustawie.
+Zgodnie z art. 126 ust. 1 ustawy, Zamawiający przed wyborem najkorzystniejszej oferty wezwie Wykonawcę, którego oferta została najwyżej oceniona, do złożenia w wyznaczonym, nie krótszym niż 10 dni, terminie aktualnych na dzień złożenia podmiotowych środków dowodowych (zgodnie z ust. 4.1 rozdziału XIX SWZ).
+Zamawiający przyzna zamówienie Wykonawcy, który złoży ofertę niepodlegającą odrzuceniu, i która zostanie najwyżej oceniona (uzyska największą liczbę punktów przyznanych według kryteriów wyboru oferty określonych w niniejszej SWZ).
+Zamawiający powiadomi o wyniku postępowania przesyłając zawiadomienie wszystkim Wykonawcom, którzy złożyli oferty oraz poprzez zamieszczenie stosownej informacji na Platformie przetargowej. Zawiadomienie o rozstrzygnięciu postępowania będzie zawierało informacje, o których mowa w art. 253 ustawy.
+Rozdział XXVII
+Opis kryteriów oceny ofert, wraz z podaniem wag tych kryteriów i sposobu oceny ofert
+Przy wyborze oferty najkorzystniejszej, Zamawiający będzie się kierował następującymi kryteriami:
+Dotyczy części zamówienia nr: 1, 2, 3, 7
+cena ofertowa: 82 pkt
+okres udzielonej gwarancji na przedmiot zamówienia: 9 pkt
+czas reakcji i tryb serwisu: 9 pkt.
+Każdy z Wykonawców w ww. kryteriów otrzyma odpowiedną ilość punktów, wyliczoną w następujący sposób:
+ad. a) cena ofertowa IP1 – maksymalnie 82 pkt – wg następującego wzoru:
+gdzie poszczególne litery oznaczają:
+IP1 – liczba punktów w kryterium „cena ofertowa”,
+CN – cena ofertowa najniższa spośród wszystkich rozpatrywanych i nieodrzuconych ofert,
+CB – cena ofertowa oferty badanej (przeliczanej),
+Zc – znaczenie (waga) kryterium „cena ofertowa” wyrażone w punktach – 82 pkt
+Uwaga. Przy obliczaniu punktów w kryterium cena ofertowa, Zamawiający zastosuje zaokrąglenie do dwóch miejsc po przecinku według zasady, że trzecia cyfra po przecinku od 5 w górę powoduje zaokrąglenie drugiej cyfry po przecinku w górę o 1. Jeśli trzecia cyfra po przecinku jest mniejsza niż 5, to druga cyfra po przecinku nie ulega zmianie.
+Uwaga. Jeżeli zostanie złożona oferta, której wybór prowadziłby do powstania u Zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004r. o podatku od towarów i usług (tekst jednolity Dz.U. z 2024r. poz. 361 z późn. zm.), dla celów zastosowania kryterium ceny Zamawiający dolicza do przedstawionej w tej ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć.
+ad. b) okres udzielonej gwarancji na przedmiot zamówienia (IP2) – maksymalnie 9 pkt (gwarancja Wykonawcy).
+Zamawiający wymaga udzielenia minimum 12 miesięcy gwarancji w trybie on-site lub door to door na cały przedmiot zamówienia. Za każde kolejne 12 miesięcy udzielonej gwarancji w jednym z ww. trybów, powyżej wymaganego okresu, Wykonawca otrzyma 3 punkty, maksymalnie 9 punktów za 48 miesięcy i więcej okresu gwarancji.
+Uwaga. Należy podać gwarancję na cały przedmiot zamówienia (wszystkie jego elementy), a w przypadku zróżnicowania okresów gwarancji (różne okresy gwarancji odnoszące się do różnych elementów), Zamawiający przyjmie najkrótszy czas gwarancji, podany przez Wykonawcę.
+ad. c) czas reakcji serwisu (IP3) – maksymalnie 9 pkt.
+Nieprzekraczalny maksymalny czas reakcji serwisu (określenie zakresu awarii i zadeklarowanie terminu w jakim Wykonawca dokona naprawy w okresie udzielonej gwarancji) wynosi 20 dni roboczych. Punkty zostaną przyznane na podstawie deklaracji Wykonawcy wyrażonej w formularzu ofertowym, według zasady:
+czas reakcji serwisu do 5 dni roboczych od zgłoszenia problemu
+– 9 pkt;
+czas reakcji serwisu do 10 dni roboczych od zgłoszenia problemu
+– 6 pkt;
+czas reakcji serwisu do 15 dni roboczych od zgłoszenia problemu
+– 3 pkt;
+czas reakcji serwisu do 20 dni roboczych od zgłoszenia problemu
+– 0 pkt.
+W ramach wszystkich wskazanych i opisanych kryteriów, Wykonawca otrzyma końcową (łączną) ilość punktów wyliczoną w następujący sposób:
+KIP = IP1 + IP2 + IP3
+gdzie poszczególne symbole oznaczają:
+KIP – końcowa ilość punktów,
+IP1 – ilość punktów uzyskanych w kryterium: cena ofertowa,
+IP2 – ilość punktów uzyskanych w kryterium: okres udzielonej gwarancji na przedmiot zamówienia,
+IP3 – ilość punktów uzyskanych w kryterium: czas reakcji i tryb serwisu.
+Za ofertę najkorzystniejszą będzie uznana oferta, która nie podlega odrzuceniu i przy uwzględnieniu powyższych kryteriów otrzyma najwyższą punktację.
+Jeżeli nie można wybrać najkorzystniejszej oferty z uwagi na to, że dwie lub więcej ofert przedstawia taki sam bilans ceny i innych kryteriów oceny ofert, Zamawiający wybiera spośród tych ofert ofertę, która otrzymała najwyższą ocenę w kryterium o najwyższej wadze.
+Jeżeli oferty otrzymały taką samą ocenę w kryterium o najwyższej wadze, Zamawiający wybiera ofertę z najniższą ceną.
+Jeżeli nie można dokonać wyboru oferty w sposób, o którym mowa w ust. 5.1. niniejszego rozdziału SWZ, Zamawiający wzywa Wykonawców, którzy złożyli te oferty, do złożenia w terminie określonym przez Zamawiającego ofert dodatkowych zawierających nową cenę.
+Dotyczy części zamówienia nr: 4, 5, 6, 11
+cena ofertowa: 91 pkt
+okres udzielonej gwarancji na przedmiot zamówienia: 9 pkt.
+Każdy z Wykonawców w ww. kryteriów otrzyma odpowiedną ilość punktów, wyliczoną w następujący sposób:
+ad. a) cena ofertowa IP1 – maksymalnie 91 pkt – wg następującego wzoru:
+gdzie poszczególne litery oznaczają:
+IP1 – liczba punktów w kryterium „cena ofertowa”,
+CN – cena ofertowa najniższa spośród wszystkich rozpatrywanych i nieodrzuconych ofert,
+CB – cena ofertowa oferty badanej (przeliczanej),
+Zc – znaczenie (waga) kryterium „cena ofertowa” wyrażone w punktach – 91 pkt
+Uwaga. Przy obliczaniu punktów w kryterium cena ofertowa, Zamawiający zastosuje zaokrąglenie do dwóch miejsc po przecinku według zasady, że trzecia cyfra po przecinku od 5 w górę powoduje zaokrąglenie drugiej cyfry po przecinku w górę o 1. Jeśli trzecia cyfra po przecinku jest mniejsza niż 5, to druga cyfra po przecinku nie ulega zmianie.
+Uwaga. Jeżeli zostanie złożona oferta, której wybór prowadziłby do powstania u Zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004r. o podatku od towarów i usług (tekst jednolity Dz.U. z 2024r. poz. 361 z późn. zm.), dla celów zastosowania kryterium ceny Zamawiający dolicza do przedstawionej w tej ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć.
+ad. b) okres udzielonej gwarancji na przedmiot zamówienia (IP2) – maksymalnie 9 pkt (gwarancja Wykonawcy).
+Zamawiający wymaga udzielenia minimum 12 miesięcy gwarancji w trybie on-site lub door to door na cały przedmiot zamówienia. Za każde kolejne 12 miesięcy udzielonej gwarancji w jednym z ww. trybów, powyżej wymaganego okresu, Wykonawca otrzyma 3 punkty, maksymalnie 9 punktów za 48 miesięcy i więcej okresu gwarancji.
+Uwaga. Należy podać gwarancję na cały przedmiot zamówienia (wszystkie jego elementy), a w przypadku zróżnicowania okresów gwarancji (różne okresy gwarancji odnoszące się do różnych elementów), Zamawiający przyjmie najkrótszy czas gwarancji, podany przez Wykonawcę.
+W ramach wszystkich wskazanych i opisanych kryteriów, Wykonawca otrzyma końcową (łączną) ilość punktów wyliczoną w następujący sposób:
+KIP = IP1 + IP2
+gdzie poszczególne symbole oznaczają:
+KIP – końcowa ilość punktów,
+IP1 – ilość punktów uzyskanych w kryterium: cena ofertowa,
+IP2 – ilość punktów uzyskanych w kryterium: okres udzielonej gwarancji na przedmiot zamówienia.
+Za ofertę najkorzystniejszą będzie uznana oferta, która nie podlega odrzuceniu i przy uwzględnieniu powyższych kryteriów otrzyma najwyższą punktację.
+Jeżeli nie można wybrać najkorzystniejszej oferty z uwagi na to, że dwie lub więcej ofert przedstawia taki sam bilans ceny i innych kryteriów oceny ofert, Zamawiający wybiera spośród tych ofert ofertę, która otrzymała najwyższą ocenę w kryterium o najwyższej wadze.
+Jeżeli oferty otrzymały taką samą ocenę w kryterium o najwyższej wadze, Zamawiający wybiera ofertę z najniższą ceną.
+Jeżeli nie można dokonać wyboru oferty w sposób, o którym mowa w ust. 5.1. niniejszego rozdziału SWZ, Zamawiający wzywa Wykonawców, którzy złożyli te oferty, do złożenia w terminie określonym przez Zamawiającego ofert dodatkowych zawierających nową cenę.
+Dotyczy części zamówienia nr: 8, 9, 10
+cena ofertowa: 100 pkt.
+Każdy z Wykonawców w ww. kryteriów otrzyma odpowiedną ilość punktów, wyliczoną w następujący sposób:
+ad. a) cena ofertowa IP1 – maksymalnie 100 pkt – wg następującego wzoru:
+gdzie poszczególne litery oznaczają:
+IP1 – liczba punktów w kryterium „cena ofertowa”,
+CN – cena ofertowa najniższa spośród wszystkich rozpatrywanych i nieodrzuconych ofert,
+CB – cena ofertowa oferty badanej (przeliczanej),
+Zc – znaczenie (waga) kryterium „cena ofertowa” wyrażone w punktach – 100 pkt
+Uwaga. Przy obliczaniu punktów w kryterium cena ofertowa, Zamawiający zastosuje zaokrąglenie do dwóch miejsc po przecinku według zasady, że trzecia cyfra po przecinku od 5 w górę powoduje zaokrąglenie drugiej cyfry po przecinku w górę o 1. Jeśli trzecia cyfra po przecinku jest mniejsza niż 5, to druga cyfra po przecinku nie ulega zmianie.
+Uwaga. Jeżeli zostanie złożona oferta, której wybór prowadziłby do powstania u Zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004r. o podatku od towarów i usług (tekst jednolity Dz.U. z 2024r. poz. 361 z późn. zm.), dla celów zastosowania kryterium ceny Zamawiający dolicza do przedstawionej w tej ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć.
+Jeżeli w postępowaniu o udzielenie zamówienia, w którym jedynym kryterium oceny ofert jest cena, nie można dokonać wyboru najkorzystniejszej oferty ze względu na to, że zostały złożone oferty o takiej samej cenie, Zamawiający wzywa Wykonawców, którzy złożyli te oferty, do złożenia w terminie określonym przez Zamawiającego ofert dodatkowych zawierających nową cenę.
+(dotyczy części 1-11) Z uwagi na fakt, iż wymagania jakościowe o których mowa w art. 246 ust. 2 ustawy zostały wskazane w opisie przedmiotu zamówienia stanowiącym załączniki nr 2.1 – 2.11 do niniejszej SWZ Zamawiający jest uprawniony do zastosowania kryterium ceny o wadze przekraczającej 60%. Dokumenty opisujące przedmiot zamówienia są na tyle precyzyjne, że bez względu na fakt, kto będzie wykonawcą przedmiotu zamówienia jedyną różnicą będą zaoferowane ceny (tzn. przedmiot zamówienia jest zestandaryzowany, niezależnie od tego, który z Wykonawców go wykona).
+Rozdział XXVIII
+Informacje na temat aukcji elektronicznej
+Zamawiający nie przewiduje w niniejszym postępowaniu przeprowadzenia aukcji elektronicznej.
+Rozdział XXIX
+Informacje o formalnościach, jakie muszą zostać dopełnione po wyborze oferty w celu zawarcia umowy
+w sprawie zamówienia publicznego
+Umowa w sprawie zamówienia publicznego może zostać zawarta wyłącznie z Wykonawcą, którego oferta zostanie wybrana jako najkorzystniejsza, po upływie terminów określonych w art. 264 ustawy.
+W przypadku wniesienia odwołania, z zastrzeżeniem wyjątków przewidzianych w ustawie, Zamawiający nie może zawrzeć umowy do czasu ogłoszenia przez Krajową Izbę Odwoławczą (zwanej dalej KIO lub Izbą) wyroku lub postanowienia kończącego postępowanie odwoławcze.
+Po wyborze najkorzystniejszej oferty, w celu zawarcia umowy w sprawie zamówienia publicznego, Wykonawca zobowiązany będzie do:
+złożenia dokumentu pełnomocnictwa dla osoby zawierającej umowę w imieniu Wykonawcy, o ile upoważnienie do reprezentowania Wykonawcy nie wynika z dokumentów rejestrowych Wykonawcy, jeżeli Zamawiający może je uzyskać za pomocą bezpłatnych i ogólnodostępnych baz danych, lub dokument pełnomocnictwa nie został wcześniej złożony w trakcie postępowania o udzielenie zamówienia,
+w przypadku dokonania wyboru najkorzystniejszej oferty złożonej przez Wykonawców wspólnie ubiegających się o udzielenie zamówienia, złożenia umowy regulującej współpracę tych podmiotów (np. umowa konsorcjum, umowa spółki cywilnej),
+złożenia innych oświadczeń lub dokumentów, które  należy złożyć przed zawarciem umowy, a które wynikają z projektowanych postanowień umowy w sprawie zamówienia publicznego, które zostaną wprowadzone do treści tej umowy.
+Zadanie jest współfinansowane ze środków Unii Europejskiej w ramach projektu „Czas na nowoczesne technologie – modernizacja pracowni w Centrum Kształcenia Zawodowego w Rudzie Śląskiej – etap II” w ramach programu Fundusze Europejskie dla Śląskiego 2021-2027 (Fundusz na Rzecz Sprawiedliwej Transformacji) dla Działania: FESL.10.14 – Infrastruktura kształcenia zawodowego nr projektu: FESL.10.14-IŻ.01-06C1/23.
+Zamawiający przewiduje unieważnienie postępowania zgodnie z art. 257 ustawy, tj. jeśli środki publiczne, które zamierzał przeznaczyć na sfinansowanie zamówienia nie zostaną mu przyznane.
+Osobą uprawnioną ze strony Zamawiającego do ustalania szczegółów związanych z podpisaniem umowy po wyborze najkorzystniejszej oferty będzie Pan Jan Górny – Centrum Kształcenia Zawodowego.
+Rozdział XXX
+Informacje dotyczące zabezpieczenia należytego wykonania umowy
+Zamawiający nie wymaga wniesienia zabezpieczenia należytego wykonania umowy.
+Rozdział XXXI
+Pouczenie o środkach ochrony prawnej przysługujących Wykonawcy
+Zasady, terminy oraz sposób korzystania ze środków ochrony prawnej szczegółowo regulują przepisy działu IX ustawy – Środki ochrony prawnej (art. 505 – 590 ustawy).
+Środki ochrony prawnej przysługują Wykonawcy oraz innemu podmiotowi, jeżeli ma lub miał interes w uzyskaniu zamówienia oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez zamawiającego przepisów ustawy.
+Środki ochrony prawnej wobec ogłoszenia wszczynającego postępowanie o udzielenie zamówienia oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę, o której mowa w art. 469 pkt 15, oraz Rzecznikowi Małych i Średnich Przedsiębiorców.
+Odwołanie przysługuje na:
+niezgodną z przepisami ustawy czynność zamawiającego, podjętą w postępowaniu o udzielenie zamówienia, o zawarcie umowy ramowej, dynamicznym systemie zakupów, systemie kwalifikowania wykonawców lub konkursie, w tym na projektowane postanowienie umowy;
+zaniechanie czynności w postępowaniu o udzielenie zamówienia, o zawarcie umowy ramowej, dynamicznym systemie zakupów, systemie kwalifikowania wykonawców lub konkursie, do której zamawiający był obowiązany na podstawie ustawy;
+zaniechanie przeprowadzenia postępowania o udzielenie zamówienia lub zorganizowania konkursu na podstawie ustawy, mimo że zamawiający był do tego obowiązany.
+Odwołanie wnosi się do Prezesa Izby.
+Pisma w postępowaniu odwoławczym wnosi się w formie pisemnej albo w formie elektronicznej albo w postaci elektronicznej, z tym że odwołanie i przystąpienie do postępowania odwoławczego, wniesione w postaci elektronicznej, wymagają opatrzenia podpisem zaufanym.
+Odwołujący przekazuje zamawiającemu odwołanie wniesione w formie elektronicznej albo postaci elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu.
+Zgodnie z art. 515 ustawy, odwołanie wnosi się:
+„1. Odwołanie wnosi się:
+w przypadku zamówień, których wartość jest równa albo przekracza progi unijne, w terminie:
+10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej,
+15 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w lit. a;
+w przypadku zamówień, których wartość jest mniejsza niż progi unijne, w terminie:
+5 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej,
+10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana w sposób inny niż określony w lit. a.
+Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub konkurs lub wobec treści dokumentów zamówienia wnosi się w terminie:
+10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej, w przypadku zamówień, których wartość jest równa albo przekracza progi unijne;
+5 dni od dnia zamieszczenia ogłoszenia w Biuletynie Zamówień Publicznych lub dokumentów zamówienia na stronie internetowej, w przypadku zamówień, których wartość jest mniejsza niż progi unijne.
+Odwołanie w przypadkach innych niż określone w ust. 1 i 2 wnosi się w terminie:
+10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia, w przypadku zamówień, których wartość jest równa albo przekracza progi unijne;
+5 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia, w przypadku zamówień, których wartość jest mniejsza niż progi unijne.
+Jeżeli zamawiający nie opublikował ogłoszenia o zamiarze zawarcia umowy lub mimo takiego obowiązku nie przesłał wykonawcy zawiadomienia o wyborze najkorzystniejszej oferty lub nie zaprosił wykonawcy do złożenia oferty w ramach dynamicznego systemu zakupów lub umowy ramowej, odwołanie wnosi się nie później niż w terminie:
+15 dni od dnia zamieszczenia w Biuletynie Zamówień Publicznych ogłoszenia o wyniku postępowania albo 30 dni od dnia publikacji w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia, a w przypadku udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki – ogłoszenia o wyniku postępowania albo ogłoszenia o udzieleniu zamówienia, zawierającego uzasadnienie udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki;
+6 miesięcy od dnia zawarcia umowy, jeżeli zamawiający:
+nie opublikował w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia albo
+opublikował w Dzienniku Urzędowym Unii Europejskiej ogłoszenie o udzieleniu zamówienia, które nie zawiera uzasadnienia udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki;
+miesiąca od dnia zawarcia umowy, jeżeli zamawiający:
+nie zamieścił w Biuletynie Zamówień Publicznych ogłoszenia o wyniku postępowania albo
+zamieścił w Biuletynie Zamówień Publicznych ogłoszenie o wyniku postępowania, które nie zawiera uzasadnienia udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki.”
+Na orzeczenie Izby oraz postanowienie Prezesa Izby, o którym mowa w art. 519 ust. 1 ustawy, stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do sądu. Skargę wnosi się do Sądu Okręgowego w Warszawie – sądu zamówień publicznych, zwanego „sądem zamówień publicznych”.
+Skargę wnosi się za pośrednictwem Prezesa Izby, w terminie 14 dni od dnia doręczenia orzeczenia Izby lub postanowienia Prezesa Izby, o którym mowa w art. 519 ust. 1, przesyłając jednocześnie jej odpis przeciwnikowi skargi. Złożenie skargi w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012r. – Prawo pocztowe albo wysłanie na adres do doręczeń elektronicznych, o których mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020r. o doręczeniach elektronicznych, jest równoznaczne z jej wniesieniem.
+Od wyroku sądu lub postanowienia kończącego postępowanie w sprawie przysługuje skarga kasacyjna do Sądu Najwyższego.
+Rozdział XXXII
+Informacja w sprawie zwrotu kosztów w postępowaniu
+Koszty udziału w postępowaniu, a w szczególności koszty sporządzenia oferty, pokrywa Wykonawca. Zamawiający nie przewiduje zwrotu kosztów udziału w postępowaniu (za wyjątkiem zaistnienia okoliczności, o której mowa w art. 261 ustawy).
+Rozdział XXXIII
+Informacja dotycząca ochrony danych osobowych (RODO)
+Zgodnie z art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1), dalej „RODO”, informuję, że:
+administratorem Pani/Pana danych osobowych jest: Prezydent Miasta Ruda Śląska z siedzibą władz w Urzędzie Miasta Ruda Śląska, Plac Jana Pawła II 6, 41-709 Ruda Śląska;
+Administrator wyznaczył Inspektora Ochrony Danych, z którym może się Pani/Pan skontaktować w sprawach związanych z ochroną danych osobowych w następujący sposób:
+pod adresem poczty elektronicznej
+w postaci papierowej na adres siedziby Administratora;
+Pani/Pana dane osobowe przetwarzane będą na podstawie art. 6 ust. 1 lit. c RODO w związku z przepisami ustawy z dnia 11 września 2019r. Prawo zamówień publicznych (tekst jednolity Dz.U. z 2024r. poz. 1320), dalej „ustawa PZP” w celu przeprowadzenia przedmiotowego postępowania o udzielenie zamówienia publicznego oraz jego rozstrzygnięcia, jak również zawarcia umowy w sprawie zamówienia publicznego i jego archiwizacji;
+odbiorcami Pani/Pana danych osobowych będą:
+osoby lub podmioty, którym udostępniona zostanie dokumentacja postępowania w oparciu o art. 18 oraz art. 74 ust. 1 ustawy PZP;
+firma PZP24.pl Sp. z o.o. oraz Logintrade S.A. z siedzibą we Wrocławiu przy ul. Legnickiej 57D. lok. B/J, z którą administrator zawarł umowę na obsługę Platformy Przetargowej, na której prowadzone są postępowania o udzielenie zamówienia publicznego;
+podmiot uprawniony do obsługi doręczeń (Poczta Polska S.A.);
+podmioty, z którymi administrator zawarł umowę na świadczenie usług serwisowych dla użytkowanych w Urzędzie Miasta systemów informatycznych;
+Pani/Pana dane osobowe będą przechowywane jedynie w okresie niezbędnym do spełnienia celu, dla którego zostały zebrane, a następnie w celach archiwalnych przechowywane będą przez 5 lat, chyba, że przepisy szczególne będą stanowić inaczej;
+obowiązek podania przez Panią/Pana danych osobowych bezpośrednio Pani/Pana dotyczących jest wymogiem ustawowym określonym w przepisach ustawy PZP, związanym z udziałem w postępowaniu o udzielenie zamówienia publicznego; konsekwencje niepodania określonych danych wynikają z ustawy PZP;
+posiada Pani/Pan:
+na podstawie art. 16 RODO prawo do sprostowania Pani/Pana danych osobowych z zastrzeżeniem, iż skorzystanie przez osobę, której dane osobowe dotyczą, z uprawnienia do sprostowania lub uzupełnienia, o którym mowa w art. 16 RODO, nie może skutkować zmianą wyniku postępowania o udzielenie zamówienia ani zmianą postanowień umowy w sprawie zamówienia publicznego w zakresie niezgodnym z ustawą PZP;
+na podstawie art. 18 RODO prawo żądania od administratora ograniczenia przetwarzania danych osobowych z zastrzeżeniem, iż w postępowaniu o udzielenie zamówienia zgłoszenie żądania ograniczenia przetwarzania, o którym mowa w art. 18 ust. 1 RODO, nie ogranicza przetwarzania danych osobowych do czasu zakończenia tego postępowania;
+prawo do wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych, gdy uzna Pani/Pan, że przetwarzanie danych osobowych Pani/Pana narusza przepisy RODO;
+nie przysługuje Pani/Panu:
+w związku z art. 17 ust. 3 lit. b, d lub e RODO prawo do usunięcia danych osobowych;
+prawo do przenoszenia danych osobowych, o którym mowa w art. 20 RODO;
+na podstawie art. 21 RODO prawo sprzeciwu, wobec przetwarzania danych osobowych, gdyż podstawą prawną przetwarzania Pani/Pana danych osobowych jest art. 6 ust. 1 lit. c RODO.
+Rozdział XXXIV
+Informacja dotycząca sygnalistów
+Realizując obowiązek wynikający z art. 24 ust. 6 ustawy z dnia 14 czerwca 2024r. o ochronie sygnalistów (Dz.U. z 2024r. poz. 928) Zamawiający informuje, iż w Urzędzie Miasta Ruda Śląska przyjęta została procedura wewnętrznych zgłoszeń informacji o naruszeniach prawa i podejmowania działań następczych. Treść procedury dostępna jest na stronie Biuletynu Informacji Publicznej Urzędu Miasta Ruda Śląska
