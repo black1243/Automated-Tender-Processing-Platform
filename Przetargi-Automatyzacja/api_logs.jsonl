@@ -1165,3 +1165,452 @@
 {"timestamp": "2025-07-04T13:56:56.737789", "endpoint": "/api/przetarg/2025-06-02_Miasto Ruda Śląska_2025-07-11/files", "method": "GET", "params": {}, "status": 200, "error": null}
 {"timestamp": "2025-07-04T13:56:56.740380", "endpoint": "/api/tenders/navigation/2025-06-02_Miasto Ruda Śląska_2025-07-11", "method": "GET", "params": {}, "status": 200, "error": null}
 {"timestamp": "2025-07-04T13:58:43.401514", "endpoint": "/api/przetarg/2025-06-02_Miasto Ruda Śląska_2025-07-11/file/SWZ - zał 2.1 Opis przedmiotu zamówienia.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T14:03:25.707812", "endpoint": "/api/przetarg/2025-07-02_Zespół Szkół Nr 2 im. Eugeniusza Kwiatkowskiego w Dębicy_2025-07-10/file/SWZ - zał 2.1 Opis przedmiotu zamówienia.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T14:03:25.709019", "endpoint": "/api/przetarg/2025-07-02_Zespół Szkół Nr 2 im. Eugeniusza Kwiatkowskiego w Dębicy_2025-07-10/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T14:03:25.708774", "endpoint": "/api/przetarg/2025-07-02_Zespół Szkół Nr 2 im. Eugeniusza Kwiatkowskiego w Dębicy_2025-07-10/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T14:03:25.709642", "endpoint": "/api/tenders/navigation/2025-07-02_Zespół Szkół Nr 2 im. Eugeniusza Kwiatkowskiego w Dębicy_2025-07-10", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T14:03:26.905388", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T14:03:26.923182", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T14:03:27.156891", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T14:03:27.487084", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T14:04:21.281331", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T14:04:21.281057", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T14:04:21.281747", "endpoint": "/api/tenders/navigation/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T14:04:21.528219", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T14:04:21.606779", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T14:04:21.607247", "endpoint": "/api/tenders/navigation/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T14:05:34.103838", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/link", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T18:03:08.438527", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T18:03:08.489755", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T18:03:08.699341", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T18:03:08.709434", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T18:15:24.295749", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T18:15:24.296382", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T18:15:24.597315", "endpoint": "/api/tenders/navigation/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T18:15:24.610612", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T18:15:24.613712", "endpoint": "/api/tenders/navigation/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T18:15:24.613143", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T19:03:08.633912", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T19:03:08.960286", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T20:03:08.660242", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T20:03:08.996254", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T21:03:08.639368", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T21:03:08.961417", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T22:03:08.636479", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T22:03:08.959327", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T22:43:37.531288", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T22:43:37.574771", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T22:43:37.790331", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T22:43:37.800090", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T22:43:44.269376", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T22:43:44.271215", "endpoint": "/api/tenders/navigation/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T22:43:44.271945", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T22:43:44.530574", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T22:43:44.576116", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T22:43:44.580511", "endpoint": "/api/tenders/navigation/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T22:43:44.824635", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/link", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-04T22:44:32.095332", "endpoint": "/api/przetarg/2025-06-26_UNIWERSYTET IGNATIANUM W KRAKOWIE_2025-07-04/link", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-13T21:28:42.629176", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-13T21:28:42.705538", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-13T21:28:42.888652", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-13T21:28:42.897951", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:33:06.173586", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:33:06.218622", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:33:06.420765", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:33:06.732626", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:33:21.069382", "endpoint": "/api/tenders/navigation/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:33:21.068952", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:33:21.070469", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:33:21.323518", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:33:21.385465", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:33:21.385987", "endpoint": "/api/tenders/navigation/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:22.998244", "endpoint": "/api/przetarg/2025-06-26_ORLEN_2025-07-14/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:23.003806", "endpoint": "/api/tenders/navigation/2025-06-26_ORLEN_2025-07-14", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:23.004111", "endpoint": "/api/przetarg/2025-06-26_ORLEN_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:25.590024", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:25.898938", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:25.899778", "endpoint": "/api/tenders/navigation/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:26.695801", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:26.964577", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:27.027980", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:27.278075", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:28.158565", "endpoint": "/api/przetarg/2025-06-26_ORLEN_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:41.607637", "endpoint": "/api/przetarg/2025-07-02_Powiat Mikołowski reprezentowany przez Zarząd Powiatu_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:44.014908", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:47.353547", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:47.355806", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:47.356367", "endpoint": "/api/tenders/navigation/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:47.599276", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:47.661291", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:47.665636", "endpoint": "/api/tenders/navigation/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:56.755767", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:56.757942", "endpoint": "/api/przetarg/2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14", "method": "DELETE", "params": {"przetarg_id": "2025-07-03_GMINA GŁOGÓW MAŁOPOLSKI_2025-07-14"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:56.768740", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:57.088547", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:57.089762", "endpoint": "/api/przetarg/2025-06-26_ORLEN_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:34:57.338140", "endpoint": "/api/przetarg/2025-06-26_ORLEN_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:35:14.589260", "endpoint": "/api/tenders/2025-06-26/ORLEN_2025-07-14", "method": "OPTIONS", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:35:14.894093", "endpoint": "/api/tenders/2025-06-26/ORLEN_2025-07-14", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:35:14.894468", "endpoint": "/api/tenders/2025-06-26/ORLEN_2025-07-14", "method": "DELETE", "params": {"date": "2025-06-26", "tender": "ORLEN_2025-07-14"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:35:14.904921", "endpoint": "/api/przetarg/2025-07-02_Powiat Mikołowski reprezentowany przez Zarząd Powiatu_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:36:01.157325", "endpoint": "/", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:36:01.157557", "endpoint": "/", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-07-14T12:36:01.535431", "endpoint": "/favicon.ico", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:36:01.535598", "endpoint": "/favicon.ico", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-07-14T12:36:16.883507", "endpoint": "/", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:36:16.883704", "endpoint": "/", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-07-14T12:36:17.197167", "endpoint": "/favicon.ico", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T12:36:17.197300", "endpoint": "/favicon.ico", "method": "GET", "params": {}, "status": 404, "error": "Not found"}
+{"timestamp": "2025-07-14T13:34:57.243105", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T13:34:57.576358", "endpoint": "/api/przetarg/2025-07-02_Powiat Mikołowski reprezentowany przez Zarząd Powiatu_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:12:30.900961", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:12:31.233747", "endpoint": "/api/przetarg/2025-07-02_Powiat Mikołowski reprezentowany przez Zarząd Powiatu_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:12:57.783165", "endpoint": "/api/przetarg/2025-07-02_Powiat Mikołowski reprezentowany przez Zarząd Powiatu_2025-07-14/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:12:58.107462", "endpoint": "/api/tenders/navigation/2025-07-02_Powiat Mikołowski reprezentowany przez Zarząd Powiatu_2025-07-14", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:12:58.108117", "endpoint": "/api/przetarg/2025-07-02_Powiat Mikołowski reprezentowany przez Zarząd Powiatu_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:12:58.108806", "endpoint": "/api/przetarg/2025-07-02_Powiat Mikołowski reprezentowany przez Zarząd Powiatu_2025-07-14/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:12:58.438461", "endpoint": "/api/przetarg/2025-07-02_Powiat Mikołowski reprezentowany przez Zarząd Powiatu_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:12:58.438746", "endpoint": "/api/tenders/navigation/2025-07-02_Powiat Mikołowski reprezentowany przez Zarząd Powiatu_2025-07-14", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:13:12.404097", "endpoint": "/api/przetarg/2025-07-02_Powiat Mikołowski reprezentowany przez Zarząd Powiatu_2025-07-14", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:13:12.409948", "endpoint": "/api/przetarg/2025-07-02_Powiat Mikołowski reprezentowany przez Zarząd Powiatu_2025-07-14", "method": "DELETE", "params": {"przetarg_id": "2025-07-02_Powiat Mikołowski reprezentowany przez Zarząd Powiatu_2025-07-14"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:13:12.429050", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:13:12.654558", "endpoint": "/api/przetarg/2025-06-12_Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:13:12.747834", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:13:12.759774", "endpoint": "/api/przetarg/2025-06-12_Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:13:15.724953", "endpoint": "/api/przetarg/2025-06-12_Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie_2025-07-14/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:13:15.726726", "endpoint": "/api/tenders/navigation/2025-06-12_Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie_2025-07-14", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:13:15.728029", "endpoint": "/api/przetarg/2025-06-12_Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:13:15.975606", "endpoint": "/api/przetarg/2025-06-12_Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie_2025-07-14/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:13:16.040506", "endpoint": "/api/przetarg/2025-06-12_Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T14:13:16.047784", "endpoint": "/api/tenders/navigation/2025-06-12_Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie_2025-07-14", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:13.579598", "endpoint": "/api/przetarg/2025-06-12_Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie_2025-07-14", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:13.581764", "endpoint": "/api/przetarg/2025-06-12_Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie_2025-07-14", "method": "DELETE", "params": {"przetarg_id": "2025-06-12_Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie_2025-07-14"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:13.910020", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:13.925347", "endpoint": "/api/przetarg/2025-06-30_Województwo Małopolskie Urząd Marszałkowski_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:14.179332", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:14.511477", "endpoint": "/api/przetarg/2025-06-30_Województwo Małopolskie Urząd Marszałkowski_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:21.670471", "endpoint": "/api/przetarg/2025-06-30_Województwo Małopolskie Urząd Marszałkowski_2025-07-14/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:21.980009", "endpoint": "/api/tenders/navigation/2025-06-30_Województwo Małopolskie Urząd Marszałkowski_2025-07-14", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:21.980366", "endpoint": "/api/przetarg/2025-06-30_Województwo Małopolskie Urząd Marszałkowski_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:21.985857", "endpoint": "/api/przetarg/2025-06-30_Województwo Małopolskie Urząd Marszałkowski_2025-07-14/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:22.310188", "endpoint": "/api/przetarg/2025-06-30_Województwo Małopolskie Urząd Marszałkowski_2025-07-14/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:22.312247", "endpoint": "/api/tenders/navigation/2025-06-30_Województwo Małopolskie Urząd Marszałkowski_2025-07-14", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:27.352711", "endpoint": "/api/przetarg/2025-06-30_Województwo Małopolskie Urząd Marszałkowski_2025-07-14", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:27.355045", "endpoint": "/api/przetarg/2025-06-30_Województwo Małopolskie Urząd Marszałkowski_2025-07-14", "method": "DELETE", "params": {"przetarg_id": "2025-06-30_Województwo Małopolskie Urząd Marszałkowski_2025-07-14"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:27.369984", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:27.606678", "endpoint": "/api/przetarg/2025-07-09_OŚRODEK POMOCY SPOŁECZNEJ W GLIWICACH_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:27.684043", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:27.695565", "endpoint": "/api/przetarg/2025-07-09_OŚRODEK POMOCY SPOŁECZNEJ W GLIWICACH_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:28.205517", "endpoint": "/api/przetarg/2025-07-09_OŚRODEK POMOCY SPOŁECZNEJ W GLIWICACH_2025-07-16/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:28.208194", "endpoint": "/api/tenders/navigation/2025-07-09_OŚRODEK POMOCY SPOŁECZNEJ W GLIWICACH_2025-07-16", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:28.208715", "endpoint": "/api/przetarg/2025-07-09_OŚRODEK POMOCY SPOŁECZNEJ W GLIWICACH_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:28.473304", "endpoint": "/api/przetarg/2025-07-09_OŚRODEK POMOCY SPOŁECZNEJ W GLIWICACH_2025-07-16/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:28.520503", "endpoint": "/api/przetarg/2025-07-09_OŚRODEK POMOCY SPOŁECZNEJ W GLIWICACH_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T18:59:28.524461", "endpoint": "/api/tenders/navigation/2025-07-09_OŚRODEK POMOCY SPOŁECZNEJ W GLIWICACH_2025-07-16", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:00:10.558717", "endpoint": "/api/przetarg/2025-07-09_OŚRODEK POMOCY SPOŁECZNEJ W GLIWICACH_2025-07-16", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:00:10.565449", "endpoint": "/api/przetarg/2025-07-09_OŚRODEK POMOCY SPOŁECZNEJ W GLIWICACH_2025-07-16", "method": "DELETE", "params": {"przetarg_id": "2025-07-09_OŚRODEK POMOCY SPOŁECZNEJ W GLIWICACH_2025-07-16"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:00:10.891185", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:00:11.157422", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:00:11.221857", "endpoint": "/api/przetarg/2025-06-11_Komenda Wojewódzka Policji w Krakowie_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:00:11.490436", "endpoint": "/api/przetarg/2025-06-11_Komenda Wojewódzka Policji w Krakowie_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:21:45.355991", "endpoint": "/api/przetarg/2025-06-11_Komenda Wojewódzka Policji w Krakowie_2025-07-16/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:21:45.357960", "endpoint": "/api/przetarg/2025-06-11_Komenda Wojewódzka Policji w Krakowie_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:21:45.359004", "endpoint": "/api/tenders/navigation/2025-06-11_Komenda Wojewódzka Policji w Krakowie_2025-07-16", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:21:45.625556", "endpoint": "/api/przetarg/2025-06-11_Komenda Wojewódzka Policji w Krakowie_2025-07-16/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:21:45.674520", "endpoint": "/api/tenders/navigation/2025-06-11_Komenda Wojewódzka Policji w Krakowie_2025-07-16", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:21:45.675060", "endpoint": "/api/przetarg/2025-06-11_Komenda Wojewódzka Policji w Krakowie_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:27:36.121055", "endpoint": "/api/przetarg/2025-06-11_Komenda Wojewódzka Policji w Krakowie_2025-07-16", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:27:36.121965", "endpoint": "/api/przetarg/2025-06-11_Komenda Wojewódzka Policji w Krakowie_2025-07-16", "method": "DELETE", "params": {"przetarg_id": "2025-06-11_Komenda Wojewódzka Policji w Krakowie_2025-07-16"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:27:36.449044", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:27:36.464063", "endpoint": "/api/przetarg/2025-06-11_Uniwersytet Rzeszowski_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:27:36.714939", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:27:37.035277", "endpoint": "/api/przetarg/2025-06-11_Uniwersytet Rzeszowski_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:28:29.310769", "endpoint": "/api/tenders/2025-06-11/Uniwersytet Rzeszowski_2025-07-16", "method": "OPTIONS", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:28:29.625227", "endpoint": "/api/tenders/2025-06-11/Uniwersytet Rzeszowski_2025-07-16", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:28:29.627626", "endpoint": "/api/tenders/2025-06-11/Uniwersytet Rzeszowski_2025-07-16", "method": "DELETE", "params": {"date": "2025-06-11", "tender": "Uniwersytet Rzeszowski_2025-07-16"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:28:29.639287", "endpoint": "/api/przetarg/2025-07-10_Powiatowy Urząd Pracy w Starachowicach_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:10.966223", "endpoint": "/api/tenders/navigation/2025-07-10_Powiatowy Urząd Pracy w Starachowicach_2025-07-16", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:10.965926", "endpoint": "/api/przetarg/2025-07-10_Powiatowy Urząd Pracy w Starachowicach_2025-07-16/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:10.966838", "endpoint": "/api/przetarg/2025-07-10_Powiatowy Urząd Pracy w Starachowicach_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:11.232038", "endpoint": "/api/przetarg/2025-07-10_Powiatowy Urząd Pracy w Starachowicach_2025-07-16/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:11.295575", "endpoint": "/api/przetarg/2025-07-10_Powiatowy Urząd Pracy w Starachowicach_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:11.296548", "endpoint": "/api/tenders/navigation/2025-07-10_Powiatowy Urząd Pracy w Starachowicach_2025-07-16", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:27.803898", "endpoint": "/api/przetarg/2025-07-10_Powiatowy Urząd Pracy w Starachowicach_2025-07-16", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:27.805392", "endpoint": "/api/przetarg/2025-07-10_Powiatowy Urząd Pracy w Starachowicach_2025-07-16", "method": "DELETE", "params": {"przetarg_id": "2025-07-10_Powiatowy Urząd Pracy w Starachowicach_2025-07-16"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:27.821585", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:28.138765", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:28.143015", "endpoint": "/api/przetarg/2025-07-10_Komenda Wojewódzka Państwowej Straży Pożarnej w Rzeszowie Oddział Komenda Powiatowa Państwowej Straży Pożarnej w Kolbuszowej_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:28.408592", "endpoint": "/api/przetarg/2025-07-10_Komenda Wojewódzka Państwowej Straży Pożarnej w Rzeszowie Oddział Komenda Powiatowa Państwowej Straży Pożarnej w Kolbuszowej_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:43.371978", "endpoint": "/api/przetarg/2025-07-10_Komenda Wojewódzka Państwowej Straży Pożarnej w Rzeszowie Oddział Komenda Powiatowa Państwowej Straży Pożarnej w Kolbuszowej_2025-07-16/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:43.694407", "endpoint": "/api/tenders/navigation/2025-07-10_Komenda Wojewódzka Państwowej Straży Pożarnej w Rzeszowie Oddział Komenda Powiatowa Państwowej Straży Pożarnej w Kolbuszowej_2025-07-16", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:43.695088", "endpoint": "/api/przetarg/2025-07-10_Komenda Wojewódzka Państwowej Straży Pożarnej w Rzeszowie Oddział Komenda Powiatowa Państwowej Straży Pożarnej w Kolbuszowej_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:43.695519", "endpoint": "/api/przetarg/2025-07-10_Komenda Wojewódzka Państwowej Straży Pożarnej w Rzeszowie Oddział Komenda Powiatowa Państwowej Straży Pożarnej w Kolbuszowej_2025-07-16/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:44.024056", "endpoint": "/api/tenders/navigation/2025-07-10_Komenda Wojewódzka Państwowej Straży Pożarnej w Rzeszowie Oddział Komenda Powiatowa Państwowej Straży Pożarnej w Kolbuszowej_2025-07-16", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:44.024552", "endpoint": "/api/przetarg/2025-07-10_Komenda Wojewódzka Państwowej Straży Pożarnej w Rzeszowie Oddział Komenda Powiatowa Państwowej Straży Pożarnej w Kolbuszowej_2025-07-16/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:45.812753", "endpoint": "/api/przetarg/2025-07-10_Komenda Wojewódzka Państwowej Straży Pożarnej w Rzeszowie Oddział Komenda Powiatowa Państwowej Straży Pożarnej w Kolbuszowej_2025-07-16/link", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:56.882452", "endpoint": "/api/przetarg/2025-07-10_Komenda Wojewódzka Państwowej Straży Pożarnej w Rzeszowie Oddział Komenda Powiatowa Państwowej Straży Pożarnej w Kolbuszowej_2025-07-16", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:56.883789", "endpoint": "/api/przetarg/2025-07-10_Komenda Wojewódzka Państwowej Straży Pożarnej w Rzeszowie Oddział Komenda Powiatowa Państwowej Straży Pożarnej w Kolbuszowej_2025-07-16", "method": "DELETE", "params": {"przetarg_id": "2025-07-10_Komenda Wojewódzka Państwowej Straży Pożarnej w Rzeszowie Oddział Komenda Powiatowa Państwowej Straży Pożarnej w Kolbuszowej_2025-07-16"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:57.224785", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:57.478355", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:57.558489", "endpoint": "/api/przetarg/2025-07-11_Urząd Miasta w Mszanie Dolnej_2025-07-17/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:29:57.824878", "endpoint": "/api/przetarg/2025-07-11_Urząd Miasta w Mszanie Dolnej_2025-07-17/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:30:01.273889", "endpoint": "/api/przetarg/2025-07-11_Urząd Miasta w Mszanie Dolnej_2025-07-17/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:30:01.596562", "endpoint": "/api/tenders/navigation/2025-07-11_Urząd Miasta w Mszanie Dolnej_2025-07-17", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:30:01.597629", "endpoint": "/api/przetarg/2025-07-11_Urząd Miasta w Mszanie Dolnej_2025-07-17/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:30:01.598189", "endpoint": "/api/przetarg/2025-07-11_Urząd Miasta w Mszanie Dolnej_2025-07-17/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:30:01.916432", "endpoint": "/api/przetarg/2025-07-11_Urząd Miasta w Mszanie Dolnej_2025-07-17/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:30:01.916879", "endpoint": "/api/tenders/navigation/2025-07-11_Urząd Miasta w Mszanie Dolnej_2025-07-17", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:32:55.998220", "endpoint": "/api/przetarg/2025-07-11_Urząd Miasta w Mszanie Dolnej_2025-07-17/link", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:35:42.170508", "endpoint": "/api/przetarg/2025-07-11_Urząd Miasta w Mszanie Dolnej_2025-07-17", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:35:42.172532", "endpoint": "/api/przetarg/2025-07-11_Urząd Miasta w Mszanie Dolnej_2025-07-17", "method": "DELETE", "params": {"przetarg_id": "2025-07-11_Urząd Miasta w Mszanie Dolnej_2025-07-17"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:35:42.502616", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:35:42.516493", "endpoint": "/api/przetarg/2025-07-11_Powiatowy Urząd Pracy w Stalowej Woli_2025-07-17/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:35:42.769025", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:35:43.100178", "endpoint": "/api/przetarg/2025-07-11_Powiatowy Urząd Pracy w Stalowej Woli_2025-07-17/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:35:52.737374", "endpoint": "/api/tenders/2025-07-11/Powiatowy Urząd Pracy w Stalowej Woli_2025-07-17", "method": "OPTIONS", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:35:53.054466", "endpoint": "/api/tenders/2025-07-11/Powiatowy Urząd Pracy w Stalowej Woli_2025-07-17", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:35:53.057425", "endpoint": "/api/tenders/2025-07-11/Powiatowy Urząd Pracy w Stalowej Woli_2025-07-17", "method": "DELETE", "params": {"date": "2025-07-11", "tender": "Powiatowy Urząd Pracy w Stalowej Woli_2025-07-17"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:35:53.066826", "endpoint": "/api/przetarg/2025-07-11_Progresja S.A_2025-07-17/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:03.191269", "endpoint": "/api/przetarg/2025-07-11_Progresja S.A_2025-07-17/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:03.191990", "endpoint": "/api/tenders/navigation/2025-07-11_Progresja S.A_2025-07-17", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:03.192407", "endpoint": "/api/przetarg/2025-07-11_Progresja S.A_2025-07-17/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:03.442661", "endpoint": "/api/przetarg/2025-07-11_Progresja S.A_2025-07-17/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:03.506511", "endpoint": "/api/przetarg/2025-07-11_Progresja S.A_2025-07-17/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:03.511016", "endpoint": "/api/tenders/navigation/2025-07-11_Progresja S.A_2025-07-17", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:15.608719", "endpoint": "/api/przetarg/2025-07-11_Progresja S.A_2025-07-17", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:15.610156", "endpoint": "/api/przetarg/2025-07-11_Progresja S.A_2025-07-17", "method": "DELETE", "params": {"przetarg_id": "2025-07-11_Progresja S.A_2025-07-17"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:15.627573", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:15.946497", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:15.950618", "endpoint": "/api/przetarg/2025-06-17_Uniwersytet Jana Długosza w Częstochowie_2025-07-18/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:16.219042", "endpoint": "/api/przetarg/2025-06-17_Uniwersytet Jana Długosza w Częstochowie_2025-07-18/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:21.644237", "endpoint": "/api/przetarg/2025-06-17_Uniwersytet Jana Długosza w Częstochowie_2025-07-18/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:21.968917", "endpoint": "/api/przetarg/2025-06-17_Uniwersytet Jana Długosza w Częstochowie_2025-07-18/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:21.968503", "endpoint": "/api/tenders/navigation/2025-06-17_Uniwersytet Jana Długosza w Częstochowie_2025-07-18", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:21.969197", "endpoint": "/api/przetarg/2025-06-17_Uniwersytet Jana Długosza w Częstochowie_2025-07-18/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:22.285968", "endpoint": "/api/przetarg/2025-06-17_Uniwersytet Jana Długosza w Częstochowie_2025-07-18/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:22.286431", "endpoint": "/api/tenders/navigation/2025-06-17_Uniwersytet Jana Długosza w Częstochowie_2025-07-18", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:36:52.125966", "endpoint": "/api/przetarg/2025-06-17_Uniwersytet Jana Długosza w Częstochowie_2025-07-18/file/2025_ojs112_00381437_pl_ts_zp.26.1.23.2025_ogloszenie_o_zamowieniu.txt", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:37:49.432334", "endpoint": "/api/przetarg/2025-06-17_Uniwersytet Jana Długosza w Częstochowie_2025-07-18", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:37:49.433462", "endpoint": "/api/przetarg/2025-06-17_Uniwersytet Jana Długosza w Częstochowie_2025-07-18", "method": "DELETE", "params": {"przetarg_id": "2025-06-17_Uniwersytet Jana Długosza w Częstochowie_2025-07-18"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:37:49.774532", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:37:50.029164", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:37:50.111402", "endpoint": "/api/przetarg/2025-07-10_SZPITAL SPECJALISTYCZNY IM. LUDWIKA RYDYGIERA W KRAKOWIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ_2025-07-18/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:37:50.363987", "endpoint": "/api/przetarg/2025-07-10_SZPITAL SPECJALISTYCZNY IM. LUDWIKA RYDYGIERA W KRAKOWIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ_2025-07-18/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:38:22.378468", "endpoint": "/api/przetarg/2025-07-10_SZPITAL SPECJALISTYCZNY IM. LUDWIKA RYDYGIERA W KRAKOWIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ_2025-07-18/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:38:22.701548", "endpoint": "/api/tenders/navigation/2025-07-10_SZPITAL SPECJALISTYCZNY IM. LUDWIKA RYDYGIERA W KRAKOWIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ_2025-07-18", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:38:22.705473", "endpoint": "/api/przetarg/2025-07-10_SZPITAL SPECJALISTYCZNY IM. LUDWIKA RYDYGIERA W KRAKOWIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ_2025-07-18/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:38:22.707172", "endpoint": "/api/przetarg/2025-07-10_SZPITAL SPECJALISTYCZNY IM. LUDWIKA RYDYGIERA W KRAKOWIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ_2025-07-18/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:38:23.018795", "endpoint": "/api/tenders/navigation/2025-07-10_SZPITAL SPECJALISTYCZNY IM. LUDWIKA RYDYGIERA W KRAKOWIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ_2025-07-18", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:38:23.022961", "endpoint": "/api/przetarg/2025-07-10_SZPITAL SPECJALISTYCZNY IM. LUDWIKA RYDYGIERA W KRAKOWIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ_2025-07-18/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:38:52.592376", "endpoint": "/api/przetarg/2025-07-10_SZPITAL SPECJALISTYCZNY IM. LUDWIKA RYDYGIERA W KRAKOWIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ_2025-07-18", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:38:52.594286", "endpoint": "/api/przetarg/2025-07-10_SZPITAL SPECJALISTYCZNY IM. LUDWIKA RYDYGIERA W KRAKOWIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ_2025-07-18", "method": "DELETE", "params": {"przetarg_id": "2025-07-10_SZPITAL SPECJALISTYCZNY IM. LUDWIKA RYDYGIERA W KRAKOWIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ_2025-07-18"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:38:52.937537", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:38:52.950126", "endpoint": "/api/przetarg/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-21/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:38:53.189435", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:38:53.509920", "endpoint": "/api/przetarg/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-21/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:06.303311", "endpoint": "/api/przetarg/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-21/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:06.617460", "endpoint": "/api/przetarg/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-21/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:06.618161", "endpoint": "/api/przetarg/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-21/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:06.617167", "endpoint": "/api/tenders/navigation/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-21", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:06.933652", "endpoint": "/api/tenders/navigation/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-21", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:06.933287", "endpoint": "/api/przetarg/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-21/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:23.878514", "endpoint": "/api/przetarg/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-21", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:23.880522", "endpoint": "/api/przetarg/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-21", "method": "DELETE", "params": {"przetarg_id": "2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-21"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:23.896162", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:24.135668", "endpoint": "/api/przetarg/2025-07-11_Centrum Kultury Podgórza_2025-07-21/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:24.213642", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:24.224046", "endpoint": "/api/przetarg/2025-07-11_Centrum Kultury Podgórza_2025-07-21/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:29.078780", "endpoint": "/api/przetarg/2025-07-11_Centrum Kultury Podgórza_2025-07-21/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:29.080075", "endpoint": "/api/tenders/navigation/2025-07-11_Centrum Kultury Podgórza_2025-07-21", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:29.080323", "endpoint": "/api/przetarg/2025-07-11_Centrum Kultury Podgórza_2025-07-21/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:29.331006", "endpoint": "/api/przetarg/2025-07-11_Centrum Kultury Podgórza_2025-07-21/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:29.395172", "endpoint": "/api/tenders/navigation/2025-07-11_Centrum Kultury Podgórza_2025-07-21", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:39:29.395446", "endpoint": "/api/przetarg/2025-07-11_Centrum Kultury Podgórza_2025-07-21/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:06.481137", "endpoint": "/api/przetarg/2025-07-11_Centrum Kultury Podgórza_2025-07-21", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:06.482812", "endpoint": "/api/przetarg/2025-07-11_Centrum Kultury Podgórza_2025-07-21", "method": "DELETE", "params": {"przetarg_id": "2025-07-11_Centrum Kultury Podgórza_2025-07-21"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:06.812713", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:06.824880", "endpoint": "/api/przetarg/2025-07-11_GMINA JEJKOWICE_2025-07-21/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:07.079611", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:07.410232", "endpoint": "/api/przetarg/2025-07-11_GMINA JEJKOWICE_2025-07-21/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:19.533212", "endpoint": "/api/przetarg/2025-07-11_GMINA JEJKOWICE_2025-07-21/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:19.851138", "endpoint": "/api/tenders/navigation/2025-07-11_GMINA JEJKOWICE_2025-07-21", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:19.852519", "endpoint": "/api/przetarg/2025-07-11_GMINA JEJKOWICE_2025-07-21/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:19.853012", "endpoint": "/api/przetarg/2025-07-11_GMINA JEJKOWICE_2025-07-21/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:20.165616", "endpoint": "/api/tenders/navigation/2025-07-11_GMINA JEJKOWICE_2025-07-21", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:20.170058", "endpoint": "/api/przetarg/2025-07-11_GMINA JEJKOWICE_2025-07-21/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:53.957019", "endpoint": "/api/przetarg/2025-07-11_GMINA JEJKOWICE_2025-07-21", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:53.960158", "endpoint": "/api/przetarg/2025-07-11_GMINA JEJKOWICE_2025-07-21", "method": "DELETE", "params": {"przetarg_id": "2025-07-11_GMINA JEJKOWICE_2025-07-21"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:53.976012", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:54.230311", "endpoint": "/api/przetarg/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-22/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:54.292480", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:41:54.301163", "endpoint": "/api/przetarg/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-22/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:42:15.029982", "endpoint": "/api/przetarg/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-22/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:42:15.030448", "endpoint": "/api/tenders/navigation/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-22", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:42:15.029700", "endpoint": "/api/przetarg/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-22/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:42:15.299928", "endpoint": "/api/przetarg/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-22/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:42:15.347812", "endpoint": "/api/tenders/navigation/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-22", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:42:15.348217", "endpoint": "/api/przetarg/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-22/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:43:09.953816", "endpoint": "/api/przetarg/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-22", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:43:09.955284", "endpoint": "/api/przetarg/2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-22", "method": "DELETE", "params": {"przetarg_id": "2025-07-11_Zespół Szkół Poligraficzno - Mechanicznych im. Armii Krajowej w Katowicach_2025-07-22"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:43:10.287367", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:43:10.554467", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:43:10.618865", "endpoint": "/api/przetarg/2025-06-24_Śląski Urząd Wojewódzki w Katowicach_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:43:10.871588", "endpoint": "/api/przetarg/2025-06-24_Śląski Urząd Wojewódzki w Katowicach_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:43:20.991244", "endpoint": "/api/przetarg/2025-06-24_Śląski Urząd Wojewódzki w Katowicach_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:43:21.315989", "endpoint": "/api/tenders/navigation/2025-06-24_Śląski Urząd Wojewódzki w Katowicach_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:43:21.317585", "endpoint": "/api/przetarg/2025-06-24_Śląski Urząd Wojewódzki w Katowicach_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:43:21.318929", "endpoint": "/api/przetarg/2025-06-24_Śląski Urząd Wojewódzki w Katowicach_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:43:21.635299", "endpoint": "/api/tenders/navigation/2025-06-24_Śląski Urząd Wojewódzki w Katowicach_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:43:21.638989", "endpoint": "/api/przetarg/2025-06-24_Śląski Urząd Wojewódzki w Katowicach_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:44:19.400551", "endpoint": "/api/przetarg/2025-06-24_Śląski Urząd Wojewódzki w Katowicach_2025-07-29", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:44:19.402680", "endpoint": "/api/przetarg/2025-06-24_Śląski Urząd Wojewódzki w Katowicach_2025-07-29", "method": "DELETE", "params": {"przetarg_id": "2025-06-24_Śląski Urząd Wojewódzki w Katowicach_2025-07-29"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:44:19.731090", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:44:19.740065", "endpoint": "/api/przetarg/2025-06-26_GMINA BYTOM_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:44:19.998373", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:44:20.316937", "endpoint": "/api/przetarg/2025-06-26_GMINA BYTOM_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:44:39.282083", "endpoint": "/api/przetarg/2025-06-26_GMINA BYTOM_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:44:39.595194", "endpoint": "/api/tenders/navigation/2025-06-26_GMINA BYTOM_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:44:39.595571", "endpoint": "/api/przetarg/2025-06-26_GMINA BYTOM_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:44:39.600411", "endpoint": "/api/przetarg/2025-06-26_GMINA BYTOM_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:44:39.926621", "endpoint": "/api/tenders/navigation/2025-06-26_GMINA BYTOM_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:44:39.927264", "endpoint": "/api/przetarg/2025-06-26_GMINA BYTOM_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:45:55.495754", "endpoint": "/api/przetarg/2025-06-26_GMINA BYTOM_2025-07-29", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:45:55.500255", "endpoint": "/api/przetarg/2025-06-26_GMINA BYTOM_2025-07-29", "method": "DELETE", "params": {"przetarg_id": "2025-06-26_GMINA BYTOM_2025-07-29"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:45:55.839482", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:45:55.850657", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:45:56.093335", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:45:56.425465", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:46:32.542493", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:46:32.857840", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:46:32.857556", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:46:32.858438", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:46:33.187436", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:46:33.187852", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T19:49:31.979094", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/link", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:22.321533", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:22.589419", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:22.653982", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:22.907904", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:24.601011", "endpoint": "/api/przetarg/2025-06-30_Powiat Sanocki_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:27.925062", "endpoint": "/api/przetarg/2025-06-30_Powiat Sanocki_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:27.925827", "endpoint": "/api/tenders/navigation/2025-06-30_Powiat Sanocki_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:27.926442", "endpoint": "/api/przetarg/2025-06-30_Powiat Sanocki_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:28.179939", "endpoint": "/api/przetarg/2025-06-30_Powiat Sanocki_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:28.242753", "endpoint": "/api/przetarg/2025-06-30_Powiat Sanocki_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:28.244128", "endpoint": "/api/tenders/navigation/2025-06-30_Powiat Sanocki_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:54.211212", "endpoint": "/api/przetarg/2025-06-30_Powiat Sanocki_2025-07-29", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:54.213996", "endpoint": "/api/przetarg/2025-06-30_Powiat Sanocki_2025-07-29", "method": "DELETE", "params": {"przetarg_id": "2025-06-30_Powiat Sanocki_2025-07-29"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:54.235222", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:54.561308", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:54.563035", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:54.833225", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:55.450430", "endpoint": "/api/przetarg/2025-07-02_Powiat Sanocki_2025-08-01/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:57.634760", "endpoint": "/api/przetarg/2025-07-02_Powiat Sanocki_2025-08-01/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:57.636808", "endpoint": "/api/tenders/navigation/2025-07-02_Powiat Sanocki_2025-08-01", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:57.637382", "endpoint": "/api/przetarg/2025-07-02_Powiat Sanocki_2025-08-01/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:57.903058", "endpoint": "/api/przetarg/2025-07-02_Powiat Sanocki_2025-08-01/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:57.950648", "endpoint": "/api/przetarg/2025-07-02_Powiat Sanocki_2025-08-01/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:10:57.954489", "endpoint": "/api/tenders/navigation/2025-07-02_Powiat Sanocki_2025-08-01", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:11:04.849495", "endpoint": "/api/przetarg/2025-07-02_Powiat Sanocki_2025-08-01/link", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:11:28.345451", "endpoint": "/api/przetarg/2025-07-02_Powiat Sanocki_2025-08-01", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:11:28.346536", "endpoint": "/api/przetarg/2025-07-02_Powiat Sanocki_2025-08-01", "method": "DELETE", "params": {"przetarg_id": "2025-07-02_Powiat Sanocki_2025-08-01"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:11:28.677381", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:11:28.686268", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:11:28.947675", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:11:29.281237", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:11:29.896225", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:11:31.867911", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:11:31.868726", "endpoint": "/api/tenders/navigation/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:11:31.869003", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:11:32.133694", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:11:32.196313", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:11:32.196790", "endpoint": "/api/tenders/navigation/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:11:47.482252", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/link", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:18:23.403829", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:18:23.404755", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:18:23.405215", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:32:05.629748", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:32:05.629472", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:32:05.630437", "endpoint": "/api/tenders/navigation/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:32:12.376046", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/link", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:49:49.605009", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:49:49.876399", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:49:49.924438", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:49:50.191741", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:49:52.654393", "endpoint": "/api/przetarg/2025-06-27_Centrum Medyczne KOL-MED samodzielny publiczny zakład opieki zdrowotnej w Tarnowie_2025-08-05/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:49:54.735074", "endpoint": "/api/tenders/navigation/2025-06-27_Centrum Medyczne KOL-MED samodzielny publiczny zakład opieki zdrowotnej w Tarnowie_2025-08-05", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:49:54.735995", "endpoint": "/api/przetarg/2025-06-27_Centrum Medyczne KOL-MED samodzielny publiczny zakład opieki zdrowotnej w Tarnowie_2025-08-05/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:49:54.735740", "endpoint": "/api/przetarg/2025-06-27_Centrum Medyczne KOL-MED samodzielny publiczny zakład opieki zdrowotnej w Tarnowie_2025-08-05/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:49:55.001906", "endpoint": "/api/przetarg/2025-06-27_Centrum Medyczne KOL-MED samodzielny publiczny zakład opieki zdrowotnej w Tarnowie_2025-08-05/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:49:55.065659", "endpoint": "/api/przetarg/2025-06-27_Centrum Medyczne KOL-MED samodzielny publiczny zakład opieki zdrowotnej w Tarnowie_2025-08-05/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:49:55.066996", "endpoint": "/api/tenders/navigation/2025-06-27_Centrum Medyczne KOL-MED samodzielny publiczny zakład opieki zdrowotnej w Tarnowie_2025-08-05", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:50:01.771846", "endpoint": "/api/przetarg/2025-06-27_Centrum Medyczne KOL-MED samodzielny publiczny zakład opieki zdrowotnej w Tarnowie_2025-08-05", "method": "DELETE", "params": null, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:50:01.774979", "endpoint": "/api/przetarg/2025-06-27_Centrum Medyczne KOL-MED samodzielny publiczny zakład opieki zdrowotnej w Tarnowie_2025-08-05", "method": "DELETE", "params": {"przetarg_id": "2025-06-27_Centrum Medyczne KOL-MED samodzielny publiczny zakład opieki zdrowotnej w Tarnowie_2025-08-05"}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:50:01.790263", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:50:02.109792", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:50:02.111098", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:50:02.379255", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T20:50:02.936817", "endpoint": "/api/przetarg/2025-06-30_Uniwersytet Jana Kochanowskiego w Kielcach_2025-08-05/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T21:50:02.898169", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T21:50:03.231273", "endpoint": "/api/przetarg/2025-06-30_Uniwersytet Jana Kochanowskiego w Kielcach_2025-08-05/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T22:50:02.135376", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T22:50:02.467672", "endpoint": "/api/przetarg/2025-06-30_Uniwersytet Jana Kochanowskiego w Kielcach_2025-08-05/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T23:50:02.472593", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-14T23:50:02.806812", "endpoint": "/api/przetarg/2025-06-30_Uniwersytet Jana Kochanowskiego w Kielcach_2025-08-05/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T14:12:58.408324", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T14:12:58.459366", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T14:12:58.656293", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T14:12:58.675384", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T14:13:09.007751", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T14:13:09.020012", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T14:13:09.262371", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T14:13:09.272254", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T14:49:33.745510", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T14:49:33.746747", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T14:49:33.747180", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T14:49:34.021247", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T14:49:34.089166", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T14:49:34.089461", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T14:49:34.655200", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/link", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T18:25:18.272964", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T18:25:18.319230", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T18:25:18.535847", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T18:25:18.543656", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T19:11:09.838879", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T19:11:09.838421", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T19:11:10.176279", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T19:11:10.178353", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T19:11:10.178711", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T19:11:10.196966", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T20:38:58.144839", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T20:38:58.194308", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T20:38:58.409267", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T20:38:58.559873", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T20:39:11.960883", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T20:39:11.961413", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T21:38:58.703926", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-15T21:38:59.043849", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T09:33:09.682224", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T09:33:09.732041", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T09:33:09.948267", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T09:33:09.959566", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T15:15:14.057668", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T15:15:14.120389", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T15:15:14.301974", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T15:15:14.333150", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T15:15:18.340716", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T15:31:25.095142", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T15:31:25.095609", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T15:31:25.095397", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T15:31:25.349940", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T15:31:25.417988", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T15:31:25.418436", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T16:15:18.629818", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T16:15:18.967570", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T16:41:02.046752", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T16:41:02.047295", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T16:41:02.047498", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T16:41:02.290673", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T16:41:02.354192", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T16:41:02.358856", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-16T16:41:07.537799", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/link", "method": "GET", "params": {}, "status": 200, "error": null}

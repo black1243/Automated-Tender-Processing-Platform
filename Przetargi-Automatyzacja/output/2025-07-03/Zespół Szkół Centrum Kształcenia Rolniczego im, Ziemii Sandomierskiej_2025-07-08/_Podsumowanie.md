@@ -1,17 +1,17 @@
 ## SPECYFIKACJA PRODUKTÓW
 
-Dostawa i montaż sprzętu elektronicznego (komputerowego):
-*   Zestawy komputerowe PC z monitorami LCD i osprzętem: klawiatura + mysz, okablowanie
+Przedmiotem zamówienia jest dostawa i montaż sprzętu elektronicznego (komputerowego):
+
+*   Zestawy komputerowe PC z monitorami LCD i osprzętem (klawiatura + mysz, okablowanie)
 *   Serwer
 *   Stacja robocza
 *   Macierze dyskowe NAS
 *   Urządzenia podtrzymujące UPS
 *   Drukarki (wielofunkcyjne) kolorowe laserowe A3
-*   Oprogramowania: systemy operacyjne, pakiety oprogramowania biurowego, oprogramowanie sterujące
+*   Oprogramowanie: systemy operacyjne, pakiety oprogramowania biurowego, oprogramowanie sterujące
 
-Wycena w oparciu o parametry techniczne (lub sprzęt równoważny). Nie dopuszcza się stosowania sprzętu i oprogramowania o niższych parametrach.
+**Kody CPV:**
 
-Kody CPV:
 *   31710000-6: Sprzęt elektroniczny
 *   30200000-1: Urządzenia komputerowe
 *   30213000-5: Komputery osobiste
@@ -19,47 +19,48 @@ Kody CPV:
 *   30232110-8: Drukarki laserowe
 *   48700000-5: Pakiety oprogramowania użytkowego
 
+Nie dopuszcza się stosowania do wyceny sprzętu i oprogramowania o niższych parametrach niż wskazane.
+
+Szczegółowe warunki zamówienia (w tym ilości i parametry techniczne) będą zawarte w późniejszym opisie przedmiotu zamówienia (SWZ).
+
 ## WYKLUCZENIA
 
-[BRAK INFORMACJI W DOKUMENTACH]
+\[BRAK INFORMACJI W DOKUMENTACH]
 
 ## WARUNKI SPECJALNE
 
-*   Zamawiający może uzyskać pisemne zwolnienie organu prowadzącego od płatności podatku VAT dla pozycji wskazanych kolorem czerwonym - wycena tych pozycji ze stawką VAT 0%.
-*   Przy wycenianiu oferty na platformie zakupowej ON dla całości zamówienia zastosować parametr "różna stawka VAT".
-*   Zamawiający umożliwia, ale nie wymaga, przeprowadzenie wizji lokalnej miejsca realizacji zamówienia.
+*   Zamawiający może uzyskać pisemne zwolnienie organu prowadzącego od płatności podatku VAT dla wskazanych kolorem czerwonym pozycji.
+*   Przy wycenianiu oferty na platformie zakupowej ON dla całości zamówienia zastosować parametr "Różna stawka VAT".
+*   Zamawiający umożliwia, ale nie wymaga przeprowadzenie przez składających wycenę wizji lokalnej miejsca realizacji zamówienia.
 
 ## PODSUMOWANIE
 
 *   **Warunki udziału w przetargu:**
-    *   Oferent musi posiadać niezbędną wiedzę i doświadczenie do wykonania powierzonego zadania.
+    *   Oferent powinien posiadać niezbędną wiedzę i doświadczenie do wykonania powierzonego zadania.
 *   **Wartość przetargu i warunki płatności:**
-    *   Wycena obejmuje cenę netto, wysokość podatku VAT i cenę brutto za całość zadania.
-    *   Zamawiający może uzyskać zwolnienie z VAT dla określonych pozycji.
+    *   Cena netto za całość zadania: do wpisania przez oferenta.
+    *   Wysokość podatku VAT w % i zł: do wpisania przez oferenta.
+    *   Cena brutto za całość zadania: do wpisania przez oferenta.
+    *   Warunki płatności będą zawarte w późniejszym SWZ.
 *   **Kluczowe terminy:**
     *   Czas wykonania dostawy: do 14 dni od podpisania umowy z wybranym Wykonawcą.
-    *   Ważność wyceny: Należy wpisać ilość dni.
-    *   Roboty budowlane na rok 2025.
-    *   Program finansowany z KPO w latach: 2024-2025.
+    *   Ważność wyceny: do wpisania przez oferenta (ilość dni).
 *   **Krytyczne czynniki sukcesu:**
-    *   Zaoferowanie sprzętu i oprogramowania o parametrach nie niższych niż wymagane.
-    *   Dostawa i montaż w terminie.
-*   **Pozostałe informacje:**
-    *   Miejsce dostawy i montażu: Budynek (obiekt) BCU ZSCKR w Sandomierzu, ul. Mokoszyńska 4.
-    *   Montaż przeprowadzić do gotowych punktów dostępu (okablowania) w miejscach budynku wskazanych przez zamawiającego.
-    *   Szczegółowe warunki zamówienia będą zawarte w późniejszym opisie przedmiotu zamówienia (SWZ).
-    *   Postępowanie prowadzone przez SKARB PAŃSTWA: Zespół Szkół Centrum Kształcenia Rolniczego im. Ziemi Sandomierskiej w Sandomierzu-Mokoszynie.
-    *   Finansowanie: Krajowy Plan Odbudowy (KPO).
+    *   Zgodność oferty ze specyfikacją.
+    *   Dotrzymanie terminu dostawy i montażu.
+*   **Miejsce dostawy i montażu:**
+    *   Budynek (obiekt) BCU ZSCKR w Sandomierzu, ul. Mokoszyńska 4, 27-600 Sandomierz.
+    *   Montaż przeprowadzić do gotowych punktów dostępu (okablowania) w miejscach budynku wskazanych przez zamawiającego
 
--   **UWAGI I WĄTPLIWOŚCI ANALITYKA**
-    *   Brak informacji o warunkach ekonomiczno-finansowych i technicznych udziału w przetargu.
-    *   Brak informacji o wymaganych dokumentach.
-    *   Wartość przetargu nie jest podana (do uzupełnienia przez oferenta).
-    *   Niejasne jest, które pozycje wyceny mogą być objęte zwolnieniem z VAT. `[WYMAGA WYJAŚNIENIA]` - "wskazane kolorem czerwonym pozycje"
-    *   Należy sprawdzić w SWZ szczegółowe wymagania dotyczące parametrów technicznych sprzętu i oprogramowania.
-    *   Należy samodzielnie zweryfikować aktualność i poprawność danych z ogłoszenia, ponieważ materiały pochodzą ze strony internetowej i dostawca nie ponosi odpowiedzialności za zmiany.
+* **UWAGI I WĄTPLIWOŚCI ANALITYKA:**
 
--   **Lista przeanalizowanych plików:**
+    *   Jest to oferta wyceny, a nie pełne ogłoszenie przetargowe. Brak szczegółowych informacji na temat warunków udziału, kryteriów oceny ofert oraz ostatecznej wartości przetargu. Informacje te zostaną zawarte w Specyfikacji Warunków Zamówienia (SWZ), która zostanie opublikowana w późniejszym terminie.
+    *   Należy zwrócić uwagę na możliwość zwolnienia z VAT dla niektórych pozycji oraz na konieczność zastosowania parametru "Różna stawka VAT" na platformie zakupowej ON.
+    *   Dokument "uwaga.txt" wskazuje na potencjalną nieaktualność materiałów i konieczność weryfikacji z oficjalnym źródłem.
+    *   Link "link.txt" prowadzi do ogłoszenia przetargowego, które należy zweryfikować pod kątem aktualności i szczegółów.
+    *   W związku z brakiem pełnych danych, ostateczna ocena oferty powinna być przeprowadzona po opublikowaniu SWZ.
+
+*   **Lista przeanalizowanych plików:**
     *   oferta_wyceny_bcu_komp_elektr_vii_25.txt
     *   uwaga.txt
     *   link.txt

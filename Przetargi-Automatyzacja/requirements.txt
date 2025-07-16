@@ -13,3 +13,4 @@ py7zr
 rarfile
 # json is built-in, but all other dependencies are listed for backend processing
 streamlit 
+xlrd 

@@ -1,0 +1,734 @@
+Zamawiający:    POLITECHNIKA ŚWIĘTOKRZYSKA
+AL.TYSIĄCLECIA PAŃSTWA POLSKIEGO NR 7
+25-314 Kielce
+woj. świętokrzyskie
+tel. 413424 270
+Poczta elektroniczna dzp@tu.kielce.pl
+adres strony internetowej: www.bip.tu.kielce.pl
+adres strony internetowej prowadzonego postępowania na której udostępnianie będą zmiany i wyjaśnienia treści
+SWZ oraz inne dokumenty bezpośrednio związane z postępowaniem o udzielenie zamówienia oraz za pomocą
+której odbywać się będzi e komunikacja Zamawiającego z Wykonawcami:
+https://tu -kielce.logintrade.net/rejestracja/ustawowe.html
+SPECYFIKACJA WARUNKÓW ZAMÓWIENIA
+(SWZ)
+w postępowaniu o udzielenie zamówienia publicznego prowadzonym w trybie przetargu
+nieograniczonego  na dostawę sprzętu komputerowego  i oprogramowania  dla Politechniki
+Świętokrzyskiej  11 części
+Nr sprawy ATZ-281-56/25
+Zatwierdził
+Zastępca Kanclerza ds. Zamówień i Administracji
+mgr Jakub Sokołowski
+I. POSTANOWIENIA OGÓLNE
+1. Wykonawca winien zapoznać się ze specyfikacją warunków zamówienia (SWZ).
+SWZ będzie stanowiła integralną część umowy zawartej w wyniku postępowania.
+2. Oryginał SWZ podpisany przez osobę upoważnioną do wykonywania czynności w imieniu Zamawiającego
+dostępny jest w formie papierowej w siedzibie Zamawiającego.
+3. Oferta i załączniki do oferty pow inny zostać sporządzone przez Wykonawcę według warunków i postanowień
+zawartych w SWZ.
+4. Wykonawca ponosi wszelkie koszty związane z przygotowaniem i złożeniem oferty.
+II. TRYB UDZIELENIA ZAMÓWIENIA
+1. Postępowanie jest prowadzone na podstawie art. 132  ustawy z dnia 11 września 2019 r. Prawo zamówień
+publicznych (t.j. Dz.U. z 202 4 r, poz. 1 320), zwanej dalej Pzp, w trybie przetargu nieograniczonego .
+2. Szacunkowa wartość zamówienia przekracza kwotę określoną w obwieszczeniu  Prezesa Urzędu Zamówień
+Publicz nych wydanym na podstawie art. 3 ust. 2 Pzp.
+3. Zamawiający przewiduje zastosowanie tzw. procedury odwróconej, o której mowa w art. 139 ust. 1 ustawy Pzp,
+tj. Zamawiający najpierw dokona badania i oceny ofert, a następnie dokona kwalifikacji podmiotowej
+Wykon awcy, którego oferta została najwyżej oceniona, w zakresie  braku  podstaw  wykluczenia  oraz
+spełniania  warunków udziału  w postępowaniu.
+4. Zamawiający nie przewiduje udzielenia zaliczek na poczet wykonania zamówienia.
+5. Zamawiający nie przewiduje aukcji el ektronicznej.
+6. Zamawiający nie dopuszcza składania ofert wariantowych.
+7. Zamawiający nie zastrzega możliwości ubiegania się o udzielenie zamówienia wyłącznie przez Wykonawców,
+o których mowa w art. 94 Pzp.
+8. Zamawiający nie przewiduje złożenia oferty w postaci katalogów elektronicznych.
+9. Zamawiający nie prowadzi postępowania w celu zawarcia umowy ramowej.
+10. Zamawiający nie przewiduje udzielenia zamówienia na podstawie art. 214 ust. 1 pkt 7  i 8 ustawy Pzp.
+III. OPIS PRZEDMIOTU ZAMÓWIENIA
+1. Przedmiotem zamówienia jest do stawa  fabrycznie nowego  sprzętu komputerowego  i oprogramow ania dla
+Politechniki Świętokrzyskiej.
+Szczegółowy opis przedmiotu zamówienia został określony w załączniku nr 1 do SWZ.
+2. Nazwy i kody Wspólnego Słownika Zamówień (CPV):
+Część I –  48700000 -5 – Pakiety oprogramowania użytkowego
+Część I I–  30213100 -6 – Komputery przenośne
+Część I II – 48700000 -5 – Pakiety oprogramowania użytkowego
+Część IV – 30231300 -0 – Monitory ekranowe
+Część V – 30213300 -8 – Komputer biurkowy
+Część VI – 48700000 -5 – Pakiety opro gramowania użytkowego
+Część VII – 30231300 -0 – Monitory ekranowe
+Część VII I – 42962000 -7 – Urządzenia drukujące i graficzne
+Część IX  – 42962000 -7 – Urządzenia drukujące i graficzne
+Część X  – 30232110 -8 – Drukarki laserowe
+Część XI  – 42962000 -7 – Urządzenia drukujące i graficzne
+3. Zamawiający dopuszcza realizację przedmiotu zamówienia w częściach.
+4. W ramach zamówienia Wykonawca jest zobowiązany do:
+ dostarczenia urządzeń zgodnych z opisem przedmiotu zamówienia według załącznika nr 1
+ przekazania Zamawiającemu szczegółowych instrukcji obsługi i konserwacji w języku polskim
+dla każdej jednostki dostarczonego sprzętu,
+ przekazania prawa do korzystania z oprogramowania zainstalowanego w urządzeniach
+komputerowych lub dostarczonego wraz z urządzeniem,
+ udzielenia serwisu gwarancyjnego na warunkach co najmniej takich jak w załączniku nr 1 do
+SWZ i załączniku nr 2 do  SWZ ,
+ dostawy wymaganych dokumentów licencyjnych / sublicencyjnych, instrukcji obsługi.
+Ponadto sprzęt powinien być wyposażony we wszystkie ele menty (przyłącza, kable itp.) niezbędne do
+uruchomienia, podłączenia i pracy u Zamawiającego do celu, dla którego przedmiot zamówienia jest zakupywany.
+IV. INFORMACJA O PRZEDMIOTOWYCH ŚRODKACH DOWODOWYCH
+1. Na potwierdzenie, że oferowane dostawy spełniają okreś lone przez Zamawiającego wymagania zawarte
+w załączniku nr 1 do SWZ, Zamawiający wymaga złożenia szczegółowego wykazu oferowanego
+przedmiotu zamówienia  w zakresie części V. Wzór szczegółowego wykazu oferowanego przedmiotu
+zamówienia stanowi załącznik nr 8 do SWZ.
+2. Zamawiający zaakceptuje równoważne przedmiotowe środki dowodowe, jeśli potwierdzają, że oferowane
+dostawy spełniają określone przez Zamawiającego wymagania określon e w załączniku nr 1 do SWZ.
+3. Wykonawca składa przedmiotowe środki dowodowe wraz z ofertą.
+4. Jeżeli Wykonawca nie złoży wraz z ofertą przedmiotowych środków dowodowych lub złożone
+przedmiotowe środki dowodowe są niekompletne, Zamawiający wezwie do ich złożenia  lub uzupełnienia
+w wyznaczonym terminie.
+V. TERMIN I MIEJSCE WYKONANIA ZAMÓWIENIA
+1) Wykonawca zobowiązany jest do realizacji zamówienia w terminie nie dłuższym niż 14 dni od dnia zawarcia
+umowy dot. części  II, IV, V, VII, VIII, IX, X  oraz XI a dla części  I, III, VI w terminie wskazanym w ofercie, nie
+dłuższym niż 14 dni od dnia zawarcia umowy.
+2) Miejsce wykonania zamówienia – Politechnika Świętokrzyska.
+VI. PODSTAWY WYKLUCZENIA
+1. Z postępowania o udzielenie zamówienia Zamawiający wykluczy Wykonawcę , o którym mowa w art. 108
+ust. 1 ustawy PZP
+1) będącego osobą fizyczną, którego prawomocnie skazano za przestępstwo (art.108 ust.1 pkt 1 ustawy Pzp) :
+a) udziału w zorganizowanej grupie przestępczej albo związku mającym na celu popełnienie
+przestępstwa lub przestępstwa skarbowego, o którym mowa w art. 258 Kodeksu karnego;
+b) handlu ludźmi, o którym mowa w art. 189a Kodeksu karnego;
+c) o którym mowa w art. 228 -230a, art. 250a Kodeksu karnego, w art. 46 - 48 ustawy
+z dnia 25 czerwca 2010 r. o sporcie, (Dz. U.  2024.1488  t.j.) lub w art. 54 ust. 1 -4 ustawy z dnia
+12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia
+żywieniowego oraz wyrobów medycznych (Dz. U. 202 4.930 t.j. );
+d) finansowania przestępstwa o charakterze terrorystycznym,  o którym mowa w art. 165a Kodeksu
+karnego, lub przestępstwo udaremniania lub utrudniania stwierdzenia przestępnego pochodzenia
+pieniędzy lub ukrywania ich pochodzenia, o którym mowa w art. 299 Kodeksu karnego;
+e) o charakterze terrorystycznym, o którym mo wa w art. 115 § 20 Kodeksu karnego, lub mające na
+celu popełnienie tego przestępstwa;
+f)   powierzenia wykonywania pracy małoletniemu cudzoziemcowi, o którym mowa w art. 9 ust. 2
+ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cud zoziemcom
+przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej (Dz. U. 2021.1745);
+g) przeciwko obrotowi gospodarczemu, o których mowa w art. 296 -307 Kodeksu karnego,
+przestępstwo oszustwa, o którym mowa w art. 286 Kodeksu karnego, przestę pstwo przeciwko
+wiarygodności dokumentów, o których mowa w art. 270 -277d Kodeksu karnego, lub przestępstwo
+skarbowe;
+h) o którym mowa w art. 9 ust. 1 i 3 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach
+powierzania wykonywania pracy cudzoziemcom prz ebywającym wbrew przepisom na terytorium
+Rzeczypospolitej Polskiej - lub za odpowiedni czyn zabroniony określony w przepisach prawa
+obcego,
+2) jeżeli urzędującego członka jego organu zarządzającego lub nadzorczego, wspólnika spółki w spółce jawnej
+lub partner skiej albo komplementariusza w spółce komandytowej lub komandytowo -akcyjnej lub prokurenta
+prawomocnie skazano za przestępstwo, o którym mowa w pkt 1 (art. 108 ust. 1 pkt 2 ustawy Pzp) ;
+3) wobec którego wydano prawomocny wyrok sądu lub ostateczną decyzję admi nistracyjną o zaleganiu
+z uiszczeniem podatków, opłat lub składek na ubezpieczenie społeczne lub zdrowotne, chyba że Wykonawca
+odpowiednio przed upływem terminu do składania wniosków o dopuszczenie do udziału w postępowaniu albo
+przed upływem terminu skła dania ofert dokonał płatności należnych podatków, opłat lub składek na
+ubezpieczenie społeczne lub zdrowotne wraz z odsetkami lub grzywnami lub zawarł wiążące porozumienie w
+sprawie spłaty tych należności (art. 108 ust. 1 pkt 3 ustawy Pzp) ;
+4) wobec którego p rawomocnie orzeczono zakaz ubiegania się o zamówienia publiczne (art. 108 ust. 1 pkt 4
+ustawy Pzp) ;
+5) jeżeli Zamawiający może stwierdzić, na podstawie wiarygodnych przesłanek, że Wykonawca zawarł z innymi
+Wykonawcami porozumienie mające na celu zakłócenie ko nkurencji, w szczególności jeżeli należąc do tej
+samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów,
+złożyli odrębne oferty, oferty częściowe lub wnioski o dopuszczenie do udziału w postępowaniu, chyba  że
+wykażą, że przygotowali te oferty lub wnioski niezależnie od siebie (art.108 ust.1 pkt 5 ustawy Pzp) ;
+6) jeżeli, w przypadkach, o których mowa w art. 85 ust. 1 Pzp, doszło do zakłócenia konkurencji wynikającego
+z wcześniejszego zaangażowania tego Wykonaw cy lub podmiotu, który należy z Wykonawcą do tej samej
+grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, chyba
+że spowodowane tym zakłócenie konkurencji może być wyeliminowane w inny sposób niż przez wyklu czenie
+Wykonawcy z udziału w postępowaniu o udzielenie zamówienia (art.108 ust.1 pkt 6 ustawy Pzp) ;
+7) Wykonawcę wymienionego w wykazach określonych w rozporządzeniu  765/2006 i rozporządzeniu  269/2014
+albo wpisanego na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka,
+o którym mowa w art. 1 pkt 3 ustawy z dnia 13 kwietnia 2022 r . o szczególnych rozwiązaniach  w zakresie
+przeciwdziałania wspieraniu agresji na Ukrainę  oraz służących ochronie bezpieczeństwa narodowego (Dz.U.
+2025.514 t.j.) ;
+8) Wykonawcę, którego beneficjentem rzeczywistym w rozumieniu ustawy  z dnia 1 marca 2018 r.
+o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. 2025.644 t.j. ) jest osoba wymieniona
+w wykazach określonych w rozporządzeniu  765/2006 i rozporządzeniu  269/2014 albo wpisana na listę lub
+będąca takim beneficjentem rzeczywistym od dnia 24 luteg o 2022 r., o ile została wpisana na listę na podstawie
+decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3 ustawy
+z dnia 13 kwietnia 2022 r. o  szczególnych rozwiązaniach  w zakresie przeciwdziałania wspierani u agresji na
+Ukrainę  oraz służących ochronie bezpieczeństwa narodowego ( Dz.U. 202 5.514 t.j.) );
+9) Wykonawcę, którego jednostką dominującą w rozumieniu art. 3 us t. 1 pkt 37  ustawy z dnia 29 września 1994
+r. o rachunkowości (Dz. U. 2023.120 tj.) jest podmiot wymieniony w wykazach określonych w rozporządzeniu
+765/2006 i rozporządzeniu  269/2014 albo wpisany na listę lub będący taką jednostką dominującą od dnia 24
+lutego 2022 r., o ile został wpisany na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o
+zasto sowaniu środka, o którym mowa w art. 1 pkt 3 ustawy z dnia 13 kwietnia 2022 r. o  szczególnych
+rozwiązaniach  w zakresie przeciwdziałania wspieraniu agresji na Ukrainę  oraz służących ochronie
+bezpieczeństwa narodowego (Dz.U. 202 5.514 t.j.) ;
+10) podlegającego wyk luczeniu z postępowania na podstawie art. 5k rozporządzenia Rady (UE) nr 833/2014 z
+dnia 13 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi
+sytuację na Ukrainie (Dz. Urz. UE nr L 229 z 31.7.2014, str. 1) w brzmieniu nadanym rozporządzeniem Rady
+(UE) 2022/576 w sprawie zmiany rozporządzenia (UE) nr 833/2014 dotyczącego środków ograniczających w
+związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. UE nr L 111 z 8.4.2022, str. 1)
+2. Wykluczenie o którym mowa w ust. 1 pkt. 7, 8, 9 następuje na okres trwania wskazanych okoliczności.
+3. Wykonawca nie podlega wykluczeniu w okolicznościach określonych w ust. 1 pkt 1, 2, 5 jeżeli udowodni
+Zamawiającemu, że spełnił łącznie następujące przesł anki:
+1) naprawił lub zobowiązał się do naprawienia szkody wyrządzonej przestępstwem, wykroczeniem lub swoim
+nieprawidłowym  postępowaniem, w tym poprzez zadośćuczynienie pieniężne;
+2) wyczerpująco wyjaśnił fakty i okoliczności związane z przestępstwem, wy kroczeniem lub swoim
+nieprawidłowym postępowaniem oraz spowodowanymi przez nie szkodami, aktywnie współpracując
+odpowiednio z właściwymi organami, w tym organami ścigania, lub Zamawiającym;
+3) podjął konkretne środki techniczne, organizacyjne i kadrowe, od powiednie dla zapobiegania dalszym
+przestępstwom, wykroczeniom lub nieprawidłowemu postępowaniu, w szczególności:
+a) zerwał wszelkie powiązania z osobami lub podmiotami odpowiedzialnymi za nieprawidłowe
+postępowanie Wykonawcy,
+b) zreorganizował personel,
+c) wdrożył system sprawozdawczości i kontroli,
+d)utworzył struktury audytu wewnętrznego do monitorowania przestrzegania przepisów, wewnętrznych
+regulacji lub standardów,
+e)wprowadził wewnętrzne regulacje dotyczące odpowiedzialności i odszkodowań za nieprzes trzeganie
+przepisów, wewnętrznych regulacji lub standardów.
+4. Zamawiający ocenia, czy podjęte przez Wykonawcę czynności, o których mowa w ust. 3, są wystarczające do
+wykazania jego rzetelności, uwzględniając wagę i szczególne okoliczności czynu Wykonawcy.  Jeżeli podjęte
+przez Wykonawcę czynności, o których mowa w ust. 3, nie są wystarczające do wykazania jego rzetelności,
+Zamawiający wyklucza Wykonawcę.
+VII. WARUNKI WYMAGANE OD WYKONAWCÓW I OPIS SPOSOBU DOKONYWANIA OCENY SPEŁNIENIA
+TYCH WARUNKÓW
+1.  O udzie lenie zamówienia mogą ubiegać się Wykonawcy, którzy nie podlegają wykluczeniu na podstawie art.
+108 ust. 1 Pzp oraz na podstawie art. 5k rozporządzenia Rady (UE) nr 833/2014 w brzmieniu nadanym
+rozporządzeniem Rady (UE) 2022/576 dotyczącego środków ogranic zających w związku z działaniami Rosji
+destabilizującymi sytuację na Ukrainie i art. 7 ust 1 i  2 ustawy z dnia 13 kwietnia 2022 r. o  szczególnych
+rozwiązaniach  w zakresie przeciwdziałania wspieraniu agresji na Ukrainę  oraz służących ochronie
+bezpieczeństw a narodowego (t.j Dz.U. 2024 poz. 507) , a także  spełniają niżej wskazane warunki udziału
+w postępowaniu:
+-  dotyczące zdolności technicznej lub zawodowej, tj. wykażą, iż w okresie ostatnich 3 lat przed upływem terminu
+składania ofert , a jeżeli okres prowadzenia działalności jest krótszy – w tym okresie, zrealizował w sposób należyty
+co najmniej jedną dostawę porównywalną do udzielanego zamówienia o wartości nie niższej niż:
+- część zamówienia nr I - wartość zrealizowanej dostawy nie mniejsza niż:            1 100 ,00 PLN
+- część zamówienia nr II - wartość zrealizowanej dostawy nie mniejsza niż:            1 900,00 PLN
+- część zamówienia nr I II - wartość zrealizowanej dostawy nie mniejsza niż:               350,00 PLN
+- część zamówienia nr IV - wartość zrealizowanej dostawy nie mniejsza niż:            1 900,00 PLN
+- część zamówienia nr V - wartość zrealizowanej dostawy nie mniejsza niż:            4 200,00 PLN
+- część zamówienia nr VI - wartość zrealizowanej dostawy nie mniejsza niż:               350,00 PLN
+- część zamówienia nr VII - wartość zrealizowanej dostawy nie mniejsza niż:               800,00 PLN
+- część zamówienia nr VII I - wartość zrealizowanej dostawy nie mniejsza niż:            1 500,00 PLN
+- część zamówienia  nr IX  - wartość zrealizowanej dostawy nie mniejsza niż:               900,00 PLN
+- część zamówienia nr X  - wartość zrealizowanej dostawy nie mniejsza niż:            1 800,00 PLN
+- część zamówienia nr X I - wartość zrealizowanej dostawy nie mniejsza niż:               650,00 PLN
+2. Wykonawcy mogą wspólnie ubiegać się o udzielenie zamówienia.
+3. Wykonawcy wspólnie ubiegający się o udzielenie zamówienia, ustanawiają pełnomocnika do
+reprezentowania ich w postępowaniu o udzielenie zamówienia albo reprezentowania w p ostępowaniu
+i zawarcia umowy w sprawie zamówienia publicznego. Przepisy dotyczące Wykonawcy stosuje się
+odpowiednio do Wykonawców, wspólnie ubiegających się o udzielenie zamówienia.
+4. Wykonawca może w celu potwierdzenia spełniania warunków udziału w postępowaniu polegać na
+zdolnościach technicznych lub zawodowych, podmiotów udostępniających zasoby, niezależnie od charakteru
+prawnego łączących go z nim stosunków prawnych.
+5. Wykonawca, który polega na zdolnościach podmiotów udostępniających zasoby, składa  wraz z ofertą
+zobowiązanie podmiotu udostępniającego zasoby do oddania mu do dyspozycji niezbędnych zasobów na
+potrzeby realizacji zamówienia lub inny podmiotowy środek dowodowy potwierdzający, że Wykonawca
+realizując zamówienie, będzie dysponował niezbęd nymi zasobami tych podmiotów.
+6. Zobowiązanie podmiotu udostępniającego zasoby, o którym mowa w ust. 4, musi potwierdzać, że stosunek
+łączący Wykonawcę z podmiotami udostępniającymi zasoby gwarantuje rzeczywisty dostęp do tych zasobów
+oraz określać w szczegól ności:
+1) zakres dostępnych wykonawcy zasobów podmiotu udostępniającego zasoby;
+2) sposób i okres udostępnienia Wykonawcy i wykorzystania przez niego zasobów podmiotu
+udostępniającego te zasoby przy wykonywaniu zamówienia.
+7. Zamawiający oceni, czy udostępniane Wy konawcy przez podmioty udostępniające zasoby zdolności
+techniczne lub zawodowe, pozwalają na wykazanie przez Wykonawcę spełniania warunków udziału w
+postępowaniu o których mowa w art. 112 ust. 2 pkt 4 Pzp , a także bada, czy nie zachodzą wobec tego
+podmiotu  podstawy wykluczenia, które zostały przewidziane względem Wykonawcy.
+8. Jeżeli zdolności techniczne lub zawodowe podmiotu udostępniającego zasoby nie potwierdzają spełnienia
+przez Wykonawcę warunków udziału w postępowaniu lub zachodzą wobec tego podmiotu pod stawy
+wykluczenia, Zamawiający żąda, aby Wykonawca w terminie określonym przez Zamawiającego:
+a) zastąpił ten podmiot innym podmiotem lub podmiotami albo
+b) wykazał, że samodzielnie spełnia warunki udziału w postępowaniu
+9. Zamawiający może, na każdym etapie postęp owania, uznać, że Wykonawca nie posiada wymaganych
+zdolności, jeżeli posiadanie przez wykonawcę sprzecznych interesów, w szczególności zaangażowanie
+zasobów technicznych lub zawodowych Wykonawcy w inne przedsięwzięcia gospodarcze Wykonawcy może
+mieć negaty wny wpływ na realizację zamówienia.
+VIII. PODMIOTOWE ŚRODKI DOWODOWE POTWIERDZAJĄCE SPEŁNIANIE WARUNKÓW UDZIAŁU
+W POSTĘPOWANIU I BRAK PODSTAW WYKLUCZENIA ORAZ INNE DOKUMENTY I OŚWIADCZENIA
+WYMAGANE PRZEZ ZAMAWIAJĄCEGO
+1. Wykonawca dołącza do oferty składane j w odpowiedzi na ogłoszenie o zamówieniu:
+1) oświadczenie na formularzu Jednolitego Europejskiego Dokumentu Zamówienia (JEDZ).
+Oświadczenie stanowi dowód potwierdzający brak podstaw wykluczenia, spełnianie warunków udziału w
+postępowaniu na dzień składania ofert, tymczasowo zastępujący wymagane przez Zamawiającego
+podmiotowe środki dowodowe.
+a) W przypadku wspólnego ubiegania się o zamówienie JEDZ składa każdy z Wykonawców wspólnie
+ubiegających się o zamówienie. Oświadczenia te potwierdzają brak podstaw wykluczenia oraz spełnianie
+warunków udziału w postępowaniu w zakresie, w jakim każdy z Wykonawców wykazuje spełnianie
+warunków udzi ału w postępowaniu.
+b) Wykonawca, w przypadku polegania na zdolnościach lub sytuacji podmiotów udostępniających zasoby,
+przedstawia także oświadczenie JEDZ podmiotu udostępniającego zasoby,  potwierdzające brak podstaw
+wykluczenia tego podmiotu oraz odpowiedni o spełnianie warunków udziału w postępowaniu, w zakresie,
+w jakim Wykonawca powołuje się na jego zasoby.
+c) w Części III Sekcji D JEDZ  (inne podstawy wykluczenia, które mogą być przewidziane
+w przepisach krajowych państwa członkowskiego instytucji zamawiającej lub podmiotu zamawiającego )
+Wykonawca oświadcza czy podlega wykluczeniu na podstawie art. 7 ust. 1 ustawy o  szczególnych
+rozwiązaniach  w zakresie przeciwdziałania wspieraniu agresji na Ukrainę  oraz służących ochronie
+bezpieczeństwa narodowego
+2) w celu potwierdzenia, że osoba działająca w imieniu Wykonawcy jest umocowana do jego
+reprezentowania, Zamawiający żąda od Wykonawcy odpisu lub informacji z Krajowego Rejestru
+Sądowego, Centralnej Ewidencji i Informacji o Działalności Gospodarczej, innego w łaściwego rejestru lub
+wskazania danych umożliwiających Zamawiającemu dostęp do tych dokumentów. Wykonawca nie jest
+zobowiązany do złożenia dokumentów, o których mowa powyżej, jeżeli Zamawiający może je uzyskać za
+pomocą bezpłatnych i ogólnodostępnych baz danych, o ile Wykonawca wskazał dane umożliwiające
+dostęp do tych dokumentów.
+3) Pełnomocnictwo – gdy umocowanie osoby składającej ofertę nie wynika z dokumentów rejestrowych,
+Wykonawca, który składa ofertę za pośrednictwem pełnomocnika, powinien dołączyć do oferty dokument
+pełnomocnictwa wraz z zakresem jakie obejmuje.
+4) oświadczenia Wykonawcy/Wykonawcy udostępniającego zasoby/Wykonawcy wspólnie ubiegającego się
+o udzielenie zamówienia dotyczące przesłanek wykluczenia z art. 5k rozporządzenia Rady (UE) nr
+833/2 014 w brzmieniu nadanym rozporządzeniem Rady (UE) 2022/576 dotyczącego środków
+ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie , składane na
+podstawie art. 125 ust. 1 ustawy Pzp – wzór oświadczenia stanowi Załącznik nr 7  do SWZ.
+2. Wykaz podmiotowych środków dowodowych składanych na żądanie Zamawiającego przez
+Wykonawcę , którego oferta została najwyżej oceniona w wyznaczonym terminie, nie krótszym niż 10 dni,
+aktualnych na dzień złożenia:
+1) Informacja z Krajowego Rejestru K arnego  w zakresie:
+a) art. 108 ust. 1 pkt 1  i 2 Pzp;
+b) art. 108 ust. 1 pkt 4  Pzp, dotycząca orzeczenia zakazu ubiegania się o zamówienie publiczne
+tytułem środka karnego,
+- sporządzona nie wcześniej niż 6 miesięcy  przed jej złożeniem.
+2)  Oświadczenie Wykonawcy, w zakresie art. 108 ust. 1 pkt 5  ustawy, o braku przynależności do tej
+samej grupy kapitałowej w rozumieni u ustawy  z dnia 16 lutego 2007 r. o ochronie konkurencji
+i konsumentów (Dz. U.2024. 1616  t.j.), z innym Wykonawcą, który złożył odrębną ofertę, ofertę częściową lub
+wniosek o dopuszcze nie do udziału w postępowaniu, albo oświadczenie o przynależności do tej samej grupy
+kapitałowej wraz z dokumentami lub informacjami potwierdzającymi przygotowanie oferty, oferty częściowej
+lub wniosku o dopuszczenie do udziału w postępowaniu niezależnie o d innego Wykonawcy należącego do
+tej samej grupy kapitałowej . (Załącznik nr 5 do SWZ).
+3) Oświadczenie Wykonawcy o aktualności informacji zawartych w oświadczeniu JEDZ
+w zakresie spełnienia warunków udziału w postępowaniu oraz podstaw wykluczenia z postęp owania
+wskazanych przez Zamawiającego, o których mowa w:  (Załącznik nr 6 do SWZ)
+a) art. 108 ust. 1 pkt 3  Pzp,
+b) art. 108 ust. 1 pkt 4  Pzp, dotyczących orzeczenia zakazu ubiegania się o zamówienie publiczne
+tytułem środka zapobiegawczego,
+c) art. 108 ust. 1 pkt 5  Pzp, dotyczących zawarcia z innymi Wykonawcami porozumienia
+mającego na celu zakłócenie konkurencji,
+d) art. 108 ust. 1 pkt 6  Pzp,
+e) art. 7 ust. 1 ustawy o  szczególnych rozwiązaniach  w zakresie przeciwdziałania wspieraniu
+agresji na Ukrainę  oraz służących ochronie bezpieczeństwa narodowego  (t.j.Dz. U. 2024 r. poz.
+507).
+f) Oświa dczenie Wykonawcy dot. przesłanek wykluczenia na podstawie art. 5k rozporządzenia
+Rady (UE) nr 833/2014 z dnia 13 lipca 2014 r. dotyczącego środków ograniczających w związku
+z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. UE nr L 229 z  31.7.2014, str.
+1) w brzmieniu nadanym rozporządzeniem Rady (UE) 2022/576 w sprawie zmiany
+rozporządzenia (UE) nr 833/2014 dotyczącego środków ograniczających w związku z
+działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. UE nr L 111 z 8.4 .2022, str. 1)
+3. Jeżeli Wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której
+dotyczy informacja albo dokument poza granicami Rzeczypospolitej Polskiej, zamiast informacji z
+Krajowego Rejestru Karnego, o której mowa w ust. 2 pkt 1, składa informację z odpowiedniego rejestru,
+takiego jak rejestr sądowy, albo, w przypadku braku takiego rejestru, inny równoważny dokument wydany
+przez właściwy organ sądowy lub administracyjny kraju, w którym Wykonawca ma siedzibę lub miejsce
+zamieszkania lub miejsce zamieszkania ma osoba, której dokument miał dotyczyć, w zakresie o którym
+mowa w ust. 2 pkt 1. Dokument, o którym mowa powyżej, powinien być wystawiony nie wcześniej niż 6
+miesięcy przed jego złożeniem.
+4. Jeżeli w kraju, w którym Wykona wca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma
+osoba, której dokument dotyczy, nie wydaje się dokumentów, o których mowa w ust. 2 pkt 1, lub gdy
+dokumenty te nie odnoszą się do wszystkich przypadków, o których mowa w art. 108 ust. 1 pkt 1, 2 i 4,
+zastępuje się je odpowiednio w całości lub w części dokumentem zawierającym odpowiednio
+oświadczenie Wykonawcy, ze wskazaniem osoby albo o sób uprawnionych do jego reprezentacji, lub
+oświadczenie osoby, której dokument miał dotyczyć, złożone pod przysięgą, lub, jeżeli w kraju, w którym
+Wykonawca ma siedzibę lub miejsce zamieszkania lub miejsce zamieszkania ma osoba, której dokument
+miał dotyc zyć, nie ma przepisów o oświadczeniu pod przysięgą, złożone przed organem sądowym lub
+administracyjnym, notariuszem, organem samorządu zawodowego lub gospodarczego, właściwym ze
+względu na siedzibę lub miejsce zamieszkania Wykonawcy lub miejsce zamieszkani a osoby, której
+dokument miał dotyczyć.
+5. Zamawiający nie wzywa do złożenia podmiotowych środków dowodowych, jeżeli:
+1) może je uzyskać za pomocą bezpłatnych i ogólnodostępnych baz danych, w szczególności
+rejestrów publicznych w rozumieniu ustawy  z dnia 17 lutego 2005 r. o informatyzacji działalności
+podmiotów realizujących zadania publiczne, o ile Wykonawca wskazał w jednolitym dokumencie
+dane umożliwiające dostęp do tych środków;
+2) podmiotow ym środkiem dowodowym jest oświadczenie, którego treść odpowiada zakresowi
+oświadczenia, o którym mowa w ust. 1
+6. Wykonawca nie jest zobowiązany do złożenia podmiotowych środków dowodowych, które Zamawiający
+posiada, jeżeli Wykonawca wskaże te środki oraz potwierdzi ich prawidłowość i aktualność.
+7. Jeżeli jest to niezbędne do zapewnienia odpowiedniego przebiegu postępowania o udzielenie
+zamówienia, Zamawiający może na każdym etapie postępowania wezwać Wykonawców do złożenia
+wszystkich lub niektórych podmioto wych środków dowodowych aktualnych na dzień ich złożenia.
+IX. SPOSÓB POROZUMIEWANIA SIĘ ORAZ PRZEKAZYWANIA OŚWIADCZEŃ LUB DOKUMENTÓW.
+1. Komunikacja w postępowaniu o udzielenie zamówienia, w tym składanie ofert, wymiana informacji oraz
+przekazywanie dokume ntów lub oświadczeń między Zamawiającym a Wykonawcą odbywa się przy użyciu
+środków komunikacji elektronicznej.
+2. Środkiem komunikacji elektronicznej, przy użyciu których Zamawiający będzie komunikował się z
+Wykonawcami jest Platforma dostępna pod adresem https://tu -kielce.logintrade.net/rejestracja/ustawowe.html .
+3. Oferty oraz oświadczenia JEDZ sporządza się, pod rygorem nieważności, w formie elektronicznej.
+4. Oferty, oświadczenia JEDZ, p odmiotowe środki dowodowe, w tym oświadczenie, o którym mowa w art. 117 ust.
+4 Pzp, oraz zobowiązanie podmiotu udostępniającego zasoby, przedmiotowe środki dowodo we,
+pełnomocnictwo, sporządza się w formie elektronicznej, w formatach danych określonych w przepisach
+wydanych na podstawie art. 18  ustawy z dnia 17 lutego 2005 r. o in formatyzacji działalności podmiotów
+realizujących zadania publiczne (Dz. U.  2024.1557 t.j. ), z uwzględnieniem rodzaju przekazywanych danych.
+5. W przypadku gdy dokumenty elektroniczne w postępowaniu, przekazywane przy użyciu środków komunikacji
+elektronicznej, zawierają informacje stanowiące tajemnicę przedsiębiorstwa w rozumieniu przepisów ustawy
+z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022.1233), Wykonawca, w celu
+utrzymania w poufności tych informacji, przekazuje je w wydzielonym i odpowiednio oznaczonym pliku.
+6. Podmiotowe środki dowodowe, p rzedmiotowe środki dowodowe oraz inne dokumenty lub oświadczenia,
+sporządzone w języku obcym przekazuje się wraz z tłumaczeniem na język polski.
+7. W przypadku gdy podmiotowe środki dowodowe, przedmiotowe środki dowodowe, inne dokumenty, lub
+dokumenty potwierdzające umocowanie do reprezentowania, zostały wystawione przez upoważnione podmioty
+inne niż Wykonawca, Wykonawca wspólnie ubiegający się o udzi elenie zamówienia, podmiot udostępniający
+zasoby lub podwykonawca, jako dokument elektroniczny, przekazuje się ten dokument.
+8. W przypadku gdy podmiotowe środki dowodowe, przedmiotowe środki dowodowe , inne dokumenty, lub
+dokumenty potwierdzające umocowanie d o reprezentowania, zostały wystawione przez upoważnione podmioty
+jako dokument w postaci papierowej, przekazuje się cyfrowe odwzorowanie tego dokumentu opatrzone
+kwalifikowanym podpisem elektronicznym.
+9. Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o którym mowa
+w ust. 8, dokonuje w przypadku:
+1) podmiotowych środków dowodowych oraz dokumentów potwierdzających umocowanie do
+reprezentowania - odpowiednio Wykonawca, Wykonaw ca wspólnie ubiegający się o udzielenie
+zamówienia, podmiot udostępniający zasoby lub podwykonawca, w zakresie podmiotowych środków
+dowodowych lub dokumentów potwierdzających umocowanie do reprezentowania, które każdego z nich
+dotyczą;
+2) przedmiotowych środk ów dowodowych - odpowiednio Wykonawca lub Wykonawca wspólnie ubiegający
+się o udzielenie zamówienia;
+3) innych dokumentów - odpowiednio Wykonawca lub Wykonawca wspólnie ubiegający się o udzielenie
+zamówienia, w zakresie dokumentów, które każdego z nich dotycz ą.
+10. Podmiotowe środki dowodowe, w tym oświadczenie, o którym mowa w art. 117 ust. 4 ustawy, oraz
+zobowiązanie podmiotu udostępniającego zasoby, przedmiotowe środki dowodowe, niewystawione przez
+upoważnione podmioty, oraz pełnomocnictwo przekazuje się w post aci elektronicznej i opatruje się
+kwalifikowanym podpisem elektronicznym.
+11. W przypadku gdy podmiotowe środki dowodowe, w tym oświadczenie, o którym mowa w art. 117 ust. 4 ustawy,
+oraz zobowiązanie podmiotu udostępniającego zasoby, przedmiotowe środki dowodowe, niewystawione przez
+upoważnione podmioty lub pełnomocnictwo, zostały sporządzone jako dokument w postaci papierowej i
+opatrzone własnoręcznym podpisem, przekazuje się cyfrowe odwzorowanie tego dokumentu opatrzone
+kwalifikowanym podpisem elektroni cznym.
+12.  Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o którym mowa w
+ust. 11, dokonuje w przypadku:
+1) podmiotowych środków dowodowych - odpowiednio Wykonawca, Wykonawca wspólnie ubiegający się o
+udzielenie zamówienia, pod miot udostępniający zasoby lub podwykonawca, w zakresie podmiotowych
+środków dowodowych, które każdego z nich dotyczą;
+2) przedmiotowego środka dowodowego, dokumentu, o którym mowa w art. 94 ust. 2 ustawy, oświadczenia,
+o którym mowa w art. 117 ust. 4 ustawy,  lub zobowiązania podmiotu udostępniającego zasoby -
+odpowiednio Wykonawca lub Wykonawca wspólnie ubiegający się o udzielenie zamówienia;
+3) pełnomocnictwa - mocodawca.
+13.  Szczegółowe instrukcje dla Wykonawców dotyczące zadawania pytań do postępowania; składania ofert oraz
+wysyłania korespondencji w prowadzonym postępowaniu dostępne są na Platformie przetargowej pod adresem
+https://tu -kielce.logintrade.net/rejestracja/instrukcje.html
+14.  Wykonawca może zwrócić się do Zamawiającego z wnioskiem o wyjaśnienie treści SWZ. W tym celu należy
+w dolnej części zakładki, dotyczącej przedmiotowego postępowania, kliknąć przycisk: „zadaj pytanie do
+postępowania”.
+Zamawiający jest obowiązany udzielić wyjaśnień niezwłocznie, jednak nie później niż na 6 dni przed
+upływem terminu składania ofert pod warunkiem że wniosek o wyjaśnienie treści SWZ wpłynął do
+Zamawiająceg o nie później niż na 14 dni przed upływem terminu składania ofert.
+Jeżeli Zamawiający nie udzieli wyjaśnień w terminie, o których mowa powyżej, przedłuża termin składania ofert
+o czas niezbędny do zapoznania się wszystkich zainteresowanych wykonawców z wyj aśnieniami niezbędnymi
+do należytego przygotowania i złożenia ofert.
+W przypadku gdy wniosek o wyjaśnienie treści SWZ nie wpłynął w terminie Zamawiający nie ma obowiązku
+udzielania wyjaśnień SWZ oraz obowiązku przedłużenia terminu składania ofert.
+Treść za pytań wraz z wyjaśnieniami Zamawiający udostępnia na stronie internetowej prowadzonego
+postępowania.
+15. Instrukcja złożenia oferty środkiem komunikacji elektronicznej w niniejszym postępowaniu:  Aby móc
+złożyć ofertę w postępowaniu należy zarejestrować konto  na Platformie przetargowej https://tu -
+kielce.logintrade.net/rejestracja/  Pola oznaczone symbolem * (gwiazdki) są kluczowe w procesie rejestracji i ich
+uzupełnienie jest obowiązkowe. Po zarejest rowaniu się na wskazany podczas rejestracji adres mailowy zostaną
+wysłane dane do logowania.
+W celu złożenia oferty do postępowania należy w wybranym postępowaniu zejść na dół strony i wybrać
+opcję: „Zaloguj się, aby złożyć ofertę lub zadać pytanie”. Po z alogowaniu wyświetli się widok
+postępowania.
+Poprzez użycie ikony „Złóż” Wykonawca będzie miał możliwość dodania plików składających się na
+ofertę. Wykonawca posiada możliwość zaznaczenia, czy pliki zawierają informacje niejawne i/lub dane
+osobowe.
+UWAG A: formularz oferty przed jego złożeniem winien być opatrzony kwalifikowanym podpisem
+elektronicznym.
+Po załadowaniu wszystkich plików składanych wraz z formularzem oferty należy kliknąć ikonę „Wyślij”.
+Potwierdzeniem złożenia oferty jest powiadomienie:  oferta została złożona oraz wiadomość e -mail z
+potwierdzeniem złożenia oferty do postępowania.
+16. Przesyłanie dokumentów w odpowiedzi na wezwanie Zamawiającego do wyjaśnień, złożenia, uzupełnienia
+odbywa się na Platformie za pośrednictwem zakładki kores pondencja.
+17. Wymagania sprzętowo - aplikacyjne umożliwiające pracę na platformie:
+- Dopuszczalne przeglądarki internetowe:
+a) Internet Explorer 8, Internet Explorer 9, Internet Explorer 10, Internet Explorer 11,
+b) Google Chrome 31
+c) Mozilla Firefox 26
+d) Opera 18
+- Pozostałe wymagania techniczne:
+a) dostęp do sieci internet;
+b) obsługa przez przeglądarkę protokołu XMLHttpRequest – ajax;
+c) włączona obsługa JavaScript;
+d) zalecana szybkość łącza internetowego powyżej 500 KB/s;
+e) zainstalowany Acrobat Reader;
+f) zainstalowane środowisko uruchomieniowe Java - Java SE Runtime Environment 6 Update 24 lub nowszy.
+W razie wystąpienia jakichkolwiek problemów prosimy o kontakt z działem Helpdesk Logintrade: 71 787 37 27.
+e-mail: helpdesk@logintrade.net
+X. WSKAZANIE OSÓB UPRAWNIONYCH DO POROZUMIEWANIA SIĘ Z WYKONAWCAMI
+Osobami uprawnionymi do bezpośredniego kontaktowania się z  Wykonawcami są:
+Pan mgr inż. Paweł Łukawski
+Pan mgr inż. Aleksandra Rynio
+adres platformy, za pomocą której odbywa się komunikacja Wykonawcy z Zamawiającym:
+https://tu -kielce.logintrade.net/rejestracja/ustawowe.html
+Kontakt z w/w praco wnikami odbywać się będzie w godzinach pracy jednostki tj. od poniedziałku do piątku, w godz.
+800÷1500.
+XI. TERMIN ZWIĄZANIA OFERTĄ
+1. Wykonawca jest związany ofertą do 14.11.2025  r.
+2. W przypadku gdy wybór najkorzystniejszej oferty nie nastąpi przed upływem terminu związania ofertą, o którym
+mowa w ust. 1, Zamawiający przed upływem terminu związania ofertą, zwraca się jednokrotnie do wykonawców
+o wyrażenie zgody na przedłużenie tego ter minu o wskazywany przez niego okres, nie dłuższy niż 60 dni.
+3. Przedłużenie terminu związania ofertą, o którym mowa w ust. 2, wymaga złożenia przez wykonawcę pisemnego
+oświadczenia o wyrażeniu zgody na przedłużenie terminu związania ofertą.
+XII. OPIS SPOSOBU PRZYGOTOWANIA OFERTY
+1. Wykonawca przedłoży tylko jedną ofertę, w której wskazuje te części zamówienia, które chce wykonać. Oferta
+może być złożona w odniesieniu do jednej , kilku lub wszystkich części.
+2. Do oferty, w przypadku oferowania rozwiązań równoważnych lub towarów, urządzeń, materiałów
+równoważnych w stosunku do tych opisanych przez Zamawiającego, musi być dołączony ich opis z
+wykazaniem cech równoważności w stosunku do wymagań opisanych przez Zamawiającego . Postanowienia
+pkt 5 sto suje się odpowiednio.
+3. Oferta winna być sporządzona zgodnie z wymogami SWZ na FORMULARZU OFERTY, stanowiącym
+załącznik nr 2 do SWZ.
+4. Ofertę  sporządza się w języku polskim, w formie elektronicznej lub w postaci elektronicznej opatrzonej
+kwalifikowanym podpis em elektronicznym przez Wykonawcę lub osobę/osoby upoważnione do
+składania w imieniu Wykonawcy oświadczeń woli.
+5. Oferta jak i wszelkie oświadczenia składane wraz z ofertą winny być podpisane przez osoby upoważnione do
+składania w imieniu Wykonawcy oświadcze ń woli kwalifikowalnym podpisem elektronicznym.
+6. Przedmiotowe środki dowodowe oraz dokumenty lub oświadczenia, o których mowa w rozporządzeniu w
+sprawie podmiotowych  środków dowodowych oraz innych dokumentów lub oświadczeń, jakich może żądać
+Zamawiający od Wykonawcy  sporządzone w języku obcym, Wykonawca zobowiązany jest złożyć wraz z
+tłumaczeniem na język polski.
+7. Wykonawca składa ofertę wraz z wymaganymi dokumentami za pośrednictwem Platformy pod adresem
+https://tu -kielce.logintrade.net/rejestracja/ustawowe.html  w sposób określony w pkt IX SWZ.
+Potwierdzeniem prawidłowo złożonej oferty jest powiadomienie: oferta została złożona oraz w iadomość e -
+mail z potwierdzeniem złożenia oferty do postępowania.
+8. Złożenie oferty na nośniku danych lub w innej formie niż przewidziana powyżej jest niedopuszczalne,
+nie stanowi bowiem jej złożenia przy użyciu środków komunikacji elektronicznej.
+9. W sytuacji  kiedy oferta zawiera chronione tajemnice przedsiębiorstwa informacje te mają być zawarte w
+osobnym pliku i zawierać wyraźne zastrzeżenie, że nie mogą być udostępniane. Wykonawca nie może
+zastrzec informacji, o których mowa w art. 222 ust. 5 Pzp.
+10. Wykonawca  może wprowadzić zmiany lub wycofać złożoną przez siebie ofertę przed terminem składania ofert.
+Wykonawca zmiany oferty dokonuje poprzez wycofanie pierwotnej i złożenie nowej zgodnie z wymogami
+specyfikacji.
+XIII. SPOSÓB ORAZ TERMIN SKŁADANIA OFERT
+1. Ofert ę należy złożyć za pośrednictwem Platformy w terminie do 19.08.2025 r. do godz.1200
+2. Zamawiający odrzuci ofertę, jeżeli zostanie złożona po terminie składania ofert wskazanym powyżej.
+XIV. TERMIN OTWARCIA OFERT
+1. Otwarcie ofert nastąpi w dniu 19.08.2025 r. o godz.1300 za pośrednictwem Platformy poprzez odszyfrowanie
+przez Zamawiającego.
+2. Zamawiający, najpóźniej przed otwarciem ofert, udostępni na Platformie, w zakładce prowadzonego
+postępowania, informację o kwocie, jaką zamierza przeznaczyć na sfinansowanie  zamówienia.
+3. Informacje z otwarcia ofert Zamawiający udostępni, niezwłocznie po otwarciu ofert, na Platformie https://tu -
+kielce.logintrade.net/rejestracja/ustawowe.html  w zakładce p rowadzonego postępowania. Informacja
+upubliczniona przez Zamawiającego po otwarciu ofert będzie zawierać:
+a) nazwy albo imiona i nazwiska oraz siedziby lub miejsca prowadzonej działalności gospodarczej albo
+miejsca zamieszkania Wykonawców, których oferty zostały otwarte;
+b) ceny lub koszty zawarte w ofertach.
+XV. OPIS SPOSOBU OBLICZENIA CENY
+1. Wykonawca podaje w ofercie cenę  netto i  brutto za wykonanie tych części, na które składa ofertę.
+2. Cena ta musi zawierać wszystkie koszty związane z realizacją zamów ienia i dostarczeniem zamówienia do
+siedziby Zamawiającego.
+3. Cena nie ulega zmianie w okresie obowiązywania umowy.
+4. Ceny podane w ofertach muszą być wyrażone w walucie polskiej.
+5. Zamawiający będzie prowadził rozliczenia w walucie polskiej.
+6. Cena zamówienia winna być wyliczona przy zastosowaniu obowiązującej w dniu składania oferty stawki
+podatku VAT. W przypadku zmiany ustawowej stawki podatku VAT Wykonawca zobowiązany jest zastosować
+odpowiednią stawkę podatku VAT na dzień składania ofert. P rawidłowe ustalenie podatku VAT należy do
+obowiązków Wykonawcy. Stawka podatku musi być podana zgodnie z przepisami ustawy o podatku od
+towarów i usług oraz podatku akcyzowym. Zamawiający nie uzna za oczywistą omyłkę i nie będzie poprawiał
+błędnie ustalone go podatku VAT. Oferta zawierająca złą stawkę podatku VAT zostanie odrzucona.
+Zamawiający będący uczelnią publiczną, po rozstrzygnięciu postępowania wystąpi w trybie art. 83 ust. 14 pkt.1
+ustawy z dnia 11 marca 2004r. o podatku od towarów i usług (Dz. U. 2 024.361 t.j.), do właściwego organu
+nadzoru o wydanie zgody na zastosowanie 0% stawki VAT. W przypadku uzyskania przedmiotowej zgody
+Zamawiający dokona korekty stawki podatku VAT. Zamawiający zawrze z wybranym Wykonawcą umowę po
+otrzymaniu stanowiska ww. o rganu nadzoru.
+7. Jeżeli została złożona oferta, której wybór prowadziłby do powstania u zamawiającego obowiązku
+podatkowego zgodnie z ustawą  z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. 202 4.361 t.j.),
+dla celów zastosowania kryterium ceny lub kosztu zamawiający dolicza do przedstawionej w tej ofercie ceny
+kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć.
+8. W ofercie, o której mowa w ust. 7, wykonawca ma ob owiązek:
+1) poinformowania zamawiającego, że wybór jego oferty będzie prowadził do powstania u zamawiającego
+obowiązku podatkowego;
+2) wskazania nazwy (rodzaju) towaru lub usługi, których dostawa lub świadczenie będą prowadziły do
+powstania obowiązku podatkowego ;
+3) wskazania wartości towaru lub usługi objętego obowiązkiem podatkowym zamawiającego, bez kwoty
+podatku;
+4) wskazania stawki podatku od towarów i usług, która zgodnie z wiedzą wykonawcy, będzie miała
+zastosowanie.
+XVI. OPIS KRYTERIÓW OCENY OFERT JAKIMI ZAMAW IAJĄCY BĘDZIE SIĘ KIEROWAŁ PRZY WYBORZE
+OFERTY ORAZ SPOSÓB OCENY OFERT
+1. Ocenie podlegają oferty spełniające warunki określone w ustawie Pzp oraz w SWZ. Zamawiający dokona
+oceny ofert według następujących kryteriów:
+Dotyczy części : I I, IV, V, VII, VIII, IX, X, XI :
+a) Cena oferty - z wagą 60%
+Podstawą oceny jest cena oferty przedstawiona przez Oferenta obejmująca wszystkie koszty związane
+z realizacją zamówienia. Ocenie podlega wysokość ceny za wykonanie zamówienia zaoferowana przez
+Oferenta. Ocena o fert, z punktu widzenia tego kryterium, będzie obliczana jako stosunek wartości najniższej
+ceny do wartości z oferty badanej z uwzględnieniem wagi za to kryterium, wg. wzoru:
+Najniższa cena w przetargu
+C =   ---------------------------------- ----------  x 100 x Waga
+Cena badanej oferty
+gdzie:
+C – wartość punktowa za kryterium cena
+b) Czas (naprawy) usuwania awarii - z wagą 20%
+Ocenie podlega zaproponowany w ofercie czas usuwania awarii (naprawy). Czas nie może być dłuższy niż 7 dni
+roboczych od momentu przystąpienia do usuwania awarii. Zamawiający dokona oceny powyższego kryterium
+w następujący sposób:
+a) Czas naprawy do 2 dni roboczych od momentu przystąpienia do usuwania awarii  = 20 pkt
+b) Czas naprawy od 3 do 5 dni roboczych od momentu przystąpienia do usuwania awarii  = 10 pkt
+c) Czas naprawy od 6 do 7 dni roboczych od momentu przystąpienia do usuwani a awarii  = 0 pkt
+Jeżeli Wykonawca wskaże w ofercie dłuższy czas niż 7 dni roboczych lub nie złoży oświadczenia w tym zakresie
+oferta zostanie odrzucona.
+c) Czas (reakcji) przystąpienia do usuwania awarii - z wagą 20%
+Podstawą oceny jest wskazany w oferci e czas przystąpienia do usuwania awarii. Pod pojęciem czas
+przystąpienia do usuwania awarii Zamawiający rozumie czas w jakim Wykonawca podejmie działania w celu
+usunięcia awarii od chwili zgłoszenia w dni robocze (czas przystąpienia nie może być dłuższy ni ż 72h).
+Zamawiający dokona oceny powyższego kryterium w następujący sposób:
+a) Czas przystąpienia do usuwania awarii do 24h od chwili zgłoszenia = 20 pkt
+b) Czas przystąpienia do usuwania awarii pomiędzy 25h, a 72h od chwili zgłoszenia = 0 pkt
+Jeżeli Wyko nawca wskaże w ofercie dłuższy czas niż 72h godziny lub nie złoży oświadczenia w tym zakresie
+oferta zostanie odrzucona.
+Dotyczy części I, III, VI:
+a) Cena oferty - z wagą 60%
+Podstawą oceny jest cena oferty przedstawiona przez Oferenta obejmująca wszystkie koszty związane
+z realizacją zamówienia. Ocenie podlega wysokość ceny za wykonanie zamówienia zaoferowana przez
+Oferenta. Ocena ofert, z punktu widzenia tego kryterium, będz ie obliczana jako stosunek wartości najniższej
+ceny do wartości z oferty badanej z uwzględnieniem wagi za to kryterium, wg. wzoru:
+Najniższa cena w przetargu
+C =   --------------------------------------------  x 100 x Waga
+Cena badanej oferty
+gdzie:
+C – wartość punktowa za kryterium cena
+b) Nośnik – z wagą 35%
+Ocenie podlega dostarczenie przedmiotu zamówienia na zaproponowanym w ofercie nośniku. Zamawiający
+dokona oceny w następujący sposób :
+a) Jeżeli Wykonawca zaoferuje dostarczenie przedmiotu zamówienia na nośniku Pendrive = 35 pkt
+b) Jeżeli Wykonawca zaoferuje dostarczenie przedmiotu zamówienia na nośniku CD/DVD = 15 pkt
+c) Jeżeli Wykonawca nie oferuje dostarczenia przedmiotu zamów ienia na nośniku lub nie złoży oświadczenia
+w tym zakresie = 0 pkt
+c)  Czas dostawy – z wagą 5%
+Ocenie podlega czas w jakim Oferent dostarczy przedmiot zamówienia . Czas nie może być dłuższy niż 14 dni
+od dnia zawarcia umowy. Zamawiający dokona oc eny powyższego kryterium w następujący sposób:
+a) Czas dostawy do 7 dni od dnia zawarcia umowy = 5 pkt
+b) Czas dostawy od 8 do 14 dni od dnia zawarcia umowy = 0 pkt
+Jeżeli Wykonawca wskaże w ofercie czas dostawy dłuższy niż 14 dni od dnia zawarcia umowy l ub nie złoży
+oświadczenia w tym zakresie oferta zostanie odrzucona.
+2. Zamawiający wybiera najkorzystniejszą ofertę w poszczególnych częściach w oparciu o kryteria oceny,
+o których mowa w ust.1. Suma punktów, którą Oferent otrzyma za ww. kryteria stanowi łączną ocenę oferty
+w poszczególnych częściach.
+XVII. FORMALNOŚCI JAKIE POWINNY ZOSTAĆ DOPEŁNIONE PO WYBORZE OFERTY CELEM
+ZAWARCIA UMOWY O REALIZACJĘ ZAMÓWIENIA
+1. Zamawia jący wybiera najkorzystniejszą ofertę w terminie związania ofertą określonym w dokumentach
+zamówienia.
+2. Jeżeli termin związania ofertą upłynął przed wyborem najkorzystniejszej oferty, Zamawiający wzywa
+Wykonawcę, którego oferta otrzymała najwyższą ocenę, do  wyrażenia, w wyznaczonym przez Zamawiającego
+terminie, pisemnej zgody na wybór jego oferty.
+3. W przypadku braku zgody, o której mowa w ust. 2, Zamawiający zwraca się o wyrażenie takiej zgody do
+kolejnego wykonawcy, którego oferta została najwyżej oceniona, chyba że zachodzą przesłanki do
+unieważnienia postępowania.
+4. Niezwłocznie po wyborze najkorzystniejszej oferty Zamawiający informuje równocześnie Wykonawców, którzy
+złożyli oferty,  o:
+1) wyborze najkorzystniejszej oferty, podając nazwę albo imię i nazwisko, siedzibę albo miejsce zamieszkania,
+jeżeli jest miejscem wykonywania działalności Wykonawcy, którego ofertę wybrano, oraz nazwy albo imiona
+i nazwiska, siedziby albo miejsca zamieszkani a, jeżeli są miejscami wykonywania działalności
+Wykonawców, którzy złożyli oferty, a także punktację przyznaną ofertom w każdym kryterium oceny ofert
+i łączną punktację,
+2) Wykonawcach, których oferty zostały odrzucone
+- podając uzasadnienie faktyczne i p rawne.
+5. Zamawiający zamieści informacje o których mowa w ust. 4, na Platformie w zakładce prowadzonego
+postępowania.
+6. Wykonawca, którego oferta została wybrana przystępuje do zawarcia umowy z Zamawiającym na realizację
+zamówienia na warunkach określonych we wzorze umowy stanowiącym załącznik nr  3 do niniejszej
+specyfikacji.
+7. Umowa o realizację zamówienia będzie podpisana na zasadach określonych w art.  264 ust. 1 i 2  Pzp.
+8. Jeżeli Wykonawca, którego oferta została wybrana jako najkorzystniejsza, uchyla się od zawarcia umowy
+w sprawie zamówienia publicznego, Zamawiający może dokonać ponownego badania i oceny ofert spośród
+ofert pozostałych w postępowaniu Wykonawców oraz wybra ć najkorzystniejszą ofertę albo unieważnić
+postępowanie.
+XVIII. PROJEKTOWANE POSTANOWIENIA UMOWY
+1. Wybrany Wykonawca jest zobowiązany do zawarcia umowy w sprawie zamówienia publicznego na
+warunkach określonych w projektowanych postanowieniach umowy. Wzór umowy stanowi Załącznik nr 3 do
+SWZ.
+2. Zakres świadczenia Wykonawcy wynikający z umowy jest tożsamy z jego zobowiązaniem zawartym w ofercie.
+3. Zamawiający przewiduje możliwość zmiany zawartej umowy w zakresie uregulowanym w art. 455 Pzp.
+4. Zamawiający dopuszcza możliwość zmiany postanowień zawartej umowy w zakresie przedmiotu
+zamówienia, w sytuacji gdy urządzenia wchodzące w jego zakres zostaną wycofane z rynku przez
+producenta, a Wykonawca zaproponuje urządzenia o takich samych lub lepszych parametrach  jak wymagane
+w opisie przedmiotu zamówienia bez zmiany ceny . W powyższej sytuacji Wykonawca zobowiązany będzie
+do wykazania za pomocą dostępnych dowodów, że zaoferowane pierwotnie urządzenia nie są dostępne na
+rynku z powodu ich wycofania przez producenta .
+5. Zmiana umowy wymaga dla swej ważności, pod rygorem nieważności, zachowania formy pisemnej.
+XIX. POUCZENIE O ŚRODKACH OCHRONY PRAWNEJ PRZYSŁUGUJĄCYCH W TOKU POSTĘPOWANIA
+O UDZIELENIE ZAMÓWIENIA
+1. Informacje dotyczące środków ochrony prawnej zawarte są w Dziale IX Pzp.
+2. Środki ochrony prawnej przysługują Wykonawcy, uczestnikowi konkursu oraz innemu podmiotowi, jeżeli ma lub
+miał interes w uzyskaniu zamówienia lub nagrody w konkursie oraz poniósł lub  może ponieść szkodę w wyniku
+naruszenia przez Zamawiającego przepisów ustawy Pzp.
+3. Środki ochrony prawnej wobec ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub
+ogłoszenia o konkursie oraz dokumentów zamówienia przysługują również organizacjom wpisanym na listę,
+o której mowa w art. 469 pkt 15 Pzp, oraz Rzecznikowi Małych i Średnich Przedsiębiorców.
+4. Odwołanie przysługuje na:
+1) niezgodną z przepisami ustawy czynność Zamawiającego, podjętą w postępowaniu o udzielenie
+zamówienia, o zawarcie umowy ramowej, dynamicznym systemie zakupów, systemie kwalifikowania
+wykonawców lub konkursie, w tym na projektowane postanowienie umowy;
+2) zanie chanie czynności w postępowaniu o udzielenie zamówienia, o zawarcie umowy ramowej,
+dynamicznym systemie zakupów, systemie kwalifikowania wykonawców lub konkursie, do której
+Zamawiający był obowiązany na podstawie ustawy;
+3) zaniechanie przeprowadzenia postępo wania o udzielenie zamówienia lub zorganizowania konkursu na
+podstawie ustawy, mimo że Zamawiający był do tego obowiązany.
+5. Odwołanie wnosi się do Prezesa Izby.
+6. Odwołujący przekazuje Zamawiającemu odwołanie wniesione w formie elektronicznej albo postaci
+elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem
+terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego
+terminu.
+7. Domniemywa się, że Zamawiający mógł zapo znać się z treścią odwołania przed upływem terminu do jego
+wniesienia, jeżeli przekazanie odpowiednio odwołania albo jego kopii nastąpiło przed upływem terminu do jego
+wniesienia przy użyciu środków komunikacji elektronicznej.
+8. Terminy wniesienia odwołan ia określa art. 515  Pzp.
+XX. KLAUZULA INFORMACYJNA ZAMAWIAJĄCEGO W ZAKRESIE PRZETWARZANIA DANYCH
+OSOBOWYCH:
+Zgodnie z art. 13 i 14 Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z  dnia 27  kwietnia 2016
+r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i  w sprawie swobodnego
+przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o  ochronie danych, dalej
+„RODO”) w  zw. z art. 19 ust. 1 ustawy PZP, Politechnika Świętokrzyska informuje, że :
+1. Administratorem  Pani/Pana danych osobowych jest Politechnika Świętokrzyska, ul. Tysiąclecia Państwa
+Polskiego 7, 25 -314 Kielce, reprezentowany przez Rektora PŚk.
+2. Politechnika Świętokrzyska wyznaczyła Inspektora Ochrony Danych , ul. Tysiąclecia Państwa
+Polskiego 7, 25 -314 Kielce, budynek D, pokój nr 301. Kontakt z Inspektorem możliwy jest przez e -mail:
+iod@tu.kielce.pl  lub pod nr telefonu 41  342 43 67
+3. Pani/Pana dane osobowe przetwarzane bę dą na podstawie art. 6 ust. 1 lit. c) RODO w  celu związanym
+z postępowaniem o udzielenie zamówienia publicznego , nr sprawy ATZ-281-56/25
+4. Podanie przez Panią/Pana danych osobowych jest wymogiem ustawowym określonym w przepisach
+ustawy PZP związanym z udzia łem w postępowaniu o udzielenie zamówienia publicznego.
+5. Konsekwencje niepodania danych osobowych wynikają z ustawy PZP.
+6. Odbiorcami Pani/Pana danych osobowych będą osoby lub podmioty, którym udostępniona zostanie
+dokumentacja postępowania w oparciu o art. 18 oraz art. 74 ust. 3 oraz 4 ustawy PZP, przy czym
+udostepnieniu nie podlegają dane osobowe, o których mowa w art. 9 ust. 1 RODO, zebrane w toku
+postępowania o udzielenie zamówienia.
+7. Pani/Pana dane osobowe będą przechowywane zgodnie z art. 78 ust. 1 ustawy PZP przez okres
+co najmniej 4  lat liczonych od dnia zakończenia postępowania o udzielenie zamówienia publicznego albo
+do upływu terminu możliwości kontroli projektu współfinansowanego lub finansowanego ze środków Unii
+Europejskiej albo jego trwałośc i takie projektu bądź innych umów czy zobowiązań wynikających
+z realizowanych projektów.
+8. Posiada Pani/Pan prawo do:
+a) na podstawie art. 15 RODO prawo dostępu do danych osobowych Pani/Pana dotyczących;
+b) na podstawie art. 16 RODO prawo do sprostowania Pani/Pan a danych osobowych;
+c) na podstawie art. 18 RODO prawo żądania od administratora ograniczenia przetwarzania danych
+osobowych,
+d) prawo do wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych, gdy uzna Pani/Pan,
+że przetwarzanie danych osobowych Pani/Pana  dotyczących narusza przepisy RODO.
+9. Nie przysługuje Pani/Panu prawo do:
+a) prawo do usunięcia danych osobowych w zw. z art. 17 ust. 3 lit. b), d) lub e) RODO,
+b) prawo do przenoszenia danych osobowych, o którym mowa w art. 20 RODO,
+c) prawo sprzeciwu, wobec przetwa rzania danych osobowych, gdyż podstawą prawną przetwarzania
+Pani/Pana danych osobowych jest art. 6 ust. 1 lit. c) w zw. z art. 21 RODO.
+10. Pana/Pani dane osobowe, o których mowa w art. 10 RODO , mogą zostać udostępnione, w celu
+umożliwienia korzystania ze środ ków ochrony prawnej, o których mowa w Dziale IX ustawy PZP, do upływu
+terminu na ich wniesienie.
+11. Zamawiający informuje, że w odniesieniu do Pani/Pana danych osobowych  decyzje nie będą
+podejmowane w sposób zautomatyzowany, stosownie do art. 22 RODO.
+12. W przyp adku gdy wykonanie obowiązków, o których mowa w art. 15 ust. 1 - 3 RODO, celem realizacji
+Pani/Pana uprawnienia wskazanego pkt 8 lit. a) powyżej, wymagałoby niewspółmiernie dużego wysiłku,
+Zamawiający może żądać od Pana/Pani , wskazania dodatkowych informac ji mających na celu
+sprecyzowanie żądania, w szczególności podania nazwy lub daty wszczętego albo zakończonego
+postępowania o udzielenie zamówienia publicznego.
+13. Skorzystanie przez Panią/Pana , z uprawnienia wskazanego pkt 8 lit. b) powyżej, do sprostowania lub
+uzupełnienia danych osobowych, o którym mowa w art. 16 RODO, nie może skutkować zmianą wyniku
+postępowania o udzielenie zamówienia publicznego, ani zmianą postanowień umowy w zakresie
+niezgodnym z ustawą PZP, ani nie może naruszać integralności protoko łu postępowania o udzielenie
+zamówienia publicznego oraz jego załączników.
+14. Skorzystanie przez Panią/Pana , z uprawnienia wskazanego pkt 8 lit. c) powyżej,  polegającym na  żądaniu
+ograniczenia przetwarzania danych, o którym mowa w art. 18 ust. 1 RODO, nie ogr anicza przetwarzania
+danych osobowych do czasu zakończenia postępowania o udzielenie zamówienia publicznego oraz
+również po postępowaniu w  przypadku wystąpienia okoliczności, o których mowa w art. 18 ust. 2 RODO
+(prawo do ograniczenia przetwarzania nie ma zastosowania w odniesieniu do przechowywania, w celu
+zapewnienia korzystania ze środków ochrony prawnej lub w celu ochrony praw innej osoby fizycznej lub
+prawnej, lub z uwagi na ważne względy interesu publicznego Unii Europejskiej lub państwa
+członkowskieg o).
+XXI. POSTANOWIENIA KOŃCOWE
+W sprawach nie objętych niniejszą specyfikacją warunków zamówienia, zastosowanie mają postanowienia
+ustawy z  dnia 11 września 2019 r. Prawo zamówień publicznych (Dz.U. z 2024.1320 t.j.)
+Załączniki:
+Nr 1. Opis przedmiotu zamówienia.
+Nr 2. Formularz oferty.
+Nr 3. Wzór umowy
+Nr 4. Jednolity Europejski dokument Zamówienia (JEDZ)
+Nr 5. Informacja wykonawcy, dotycząca przynależności do grupy kapitałowej.
+Nr 6. Oświadczenie Wykonawcy dotyczące aktualności oświadczeń  złożonych w JEDZ
+Nr 7. Oświadczenie dot. przesłanek wykluczenia na podstawie art. 5k rozporządzenia Rady (UE) 833/2014
+w brzmieniu nadanym rozporządzeniem Rady (UE) 2022/576
+Nr 8. Wzór szczegółowego wykazu oferowanego przedmiotu zamówienia.
