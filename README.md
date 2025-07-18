@@ -5,7 +5,7 @@
 ## What is this project?
 Przetargi-Automatyzacja is a full-stack system for automated collection, extraction, and management of public tender documents. It solves the problem of time-consuming manual review and organization of tenders by providing:
 - Automated document fetching and extraction (PDF, DOCX, ZIP, etc.)
-- AI-powered summary and text analysis
+- AI-powered summary and text analysis (with structured sections)
 - Google Drive/Gmail integration
 - Modern web interface for browsing, reviewing, and editing tenders
 
@@ -22,16 +22,55 @@ Manual tender management is slow, error-prone, and hard to scale. This project a
 
 ---
 
-## 🗺️ Architecture Diagram
+## 🗺️ System Structure & Functionality
+
 ```mermaid
- graph TD
-  A["User (Browser)"] -->|"HTTPS"| B["Frontend (React, Vercel)"]
-  B -->|"REST API"| C["Backend (Flask, Render)"]
-  C -->|"SQL"| D[("PostgreSQL Database")]
-  C -->|"Google API"| E["Google Drive/Gmail"]
-  C -->|"File Storage"| F["output/ directory"]
+graph TD
+  subgraph User Interface
+    A["User (Browser)"]
+    B["Frontend (React)"]
+  end
+  subgraph Backend & Processing
+    C["Flask API"]
+    D["Tender Processing Pipeline"]
+    E["AI Summarization & Section Extraction"]
+    F["Google Drive/Gmail Integration"]
+    G["File/Text Extraction & Cleaning"]
+    H["File Storage (output/)"]
+  end
+  subgraph Data & Storage
+    I["output/ directory"]
+    J["Google Drive"]
+    K["(Planned) PostgreSQL DB"]
+  end
+
+  A -- "Web UI" --> B
+  B -- "REST API" --> C
+  C -- "Trigger processing, serve data" --> D
+  D -- "Extract, clean, organize files" --> G
+  D -- "Fetch from Gmail/Drive" --> F
+  D -- "Invoke AI for summary/sections" --> E
+  E -- "Write structured summary (sections)" --> H
+  G -- "Save cleaned files" --> H
+  F -- "Store/retrieve docs" --> J
+  H -- "Serve files/summaries" --> C
+  C -- "Serve summaries, files, navigation" --> B
+  D -- "(Planned) DB sync" --> K
 ```
-> **Current prototype:** Only the local file storage (`output/ directory`) is used. PostgreSQL and cloud services will be added later.
+
+### Main Functional Sections
+- **Document Fetching**: Automated download from Gmail/Google Drive, manual upload (future)
+- **Extraction & Cleaning**: Convert PDFs/DOCX/ZIP to text, clean and organize into per-tender folders
+- **AI Processing**: Generate structured summaries with clear sections:
+  - SPECYFIKACJA PRODUKTÓW
+  - WYKLUCZENIA
+  - WARUNKI SPECJALNE
+  - PODSUMOWANIE
+  - (Editable) NOTATKI
+- **Web Interface**: Browse tenders, preview files, view/edit summaries by section, AI chat (planned)
+- **Navigation**: Timeline, next/previous tender, search (future)
+- **API**: Serve files, summaries, navigation, and accept edits
+- **(Planned) DB/Cloud**: PostgreSQL, Render/Vercel deployment
 
 ---
 
@@ -74,19 +113,19 @@ The frontend will be available at [http://localhost:3000](http://localhost:3000)
 - [Backend details](Przetargi-Automatyzacja/README.md)
 - [Frontend details](page/README.md)
 
-Next feautures:
+Next features:
 
--postgreSQL integration
--render deploy
--email for tenders preparing for automated sending
--creating company profile
--automated profile matching
--past cyclical tenders for future work with them, for example every 3 years there is new przetarg for same tender
--calendar with future tenders
+- postgreSQL integration
+- render deploy
+- email for tenders preparing for automated sending
+- creating company profile
+- automated profile matching
+- past cyclical tenders for future work with them, for example every 3 years there is new przetarg for same tender
+- calendar with future tenders
 
 Bugs to be fixed:
--optimize row searching
--skip empty rows
+- optimize row searching
+- skip empty rows
 -
 
 ## License
