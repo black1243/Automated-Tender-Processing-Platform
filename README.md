@@ -94,15 +94,15 @@ graph TD
 cd Przetargi-Automatyzacja
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
+pip install -r requirements.txt  # Install backend dependencies
 # Add your .env file and Google API credentials as described in the backend README
 python api.py
 ```
 
 ### 2. Frontend (React)
 ```bash
-cd page
-npm install
+cd page  # Move to the frontend directory
+npm install  # Install frontend dependencies
 npm start
 ```
 The frontend will be available at [http://localhost:3000](http://localhost:3000) and will proxy API requests to the backend at [http://localhost:5000](http://localhost:5000).

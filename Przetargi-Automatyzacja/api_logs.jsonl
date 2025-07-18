@@ -1666,3 +1666,13 @@
 {"timestamp": "2025-07-18T11:16:02.961162", "endpoint": "/api/przetarg/2025-07-09_Starostwo Powiatowe w Krakowie_2025-08-11/files", "method": "GET", "params": {}, "status": 200, "error": null}
 {"timestamp": "2025-07-18T11:16:03.041459", "endpoint": "/api/przetarg/2025-07-09_Starostwo Powiatowe w Krakowie_2025-08-11/summary", "method": "GET", "params": {}, "status": 200, "error": null}
 {"timestamp": "2025-07-18T11:16:03.042318", "endpoint": "/api/tenders/navigation/2025-07-09_Starostwo Powiatowe w Krakowie_2025-08-11", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T12:27:03.176192", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T12:27:03.211443", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T12:27:03.421258", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T12:27:03.428958", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T12:29:59.647581", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T12:29:59.646814", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T12:29:59.647135", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T12:29:59.921543", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T12:29:59.987629", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T12:29:59.987976", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
