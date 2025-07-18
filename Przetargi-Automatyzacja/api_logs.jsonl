@@ -1614,3 +1614,55 @@
 {"timestamp": "2025-07-16T16:41:02.354192", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
 {"timestamp": "2025-07-16T16:41:02.358856", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
 {"timestamp": "2025-07-16T16:41:07.537799", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/link", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T15:46:20.873857", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T15:46:20.911885", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T15:46:21.132886", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T15:46:21.140088", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T16:09:10.761344", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T16:09:10.761057", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T16:09:10.761993", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T16:09:11.024233", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T16:09:11.088686", "endpoint": "/api/tenders/navigation/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T16:09:11.088133", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T16:29:39.099656", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/link", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T16:36:47.269621", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T16:36:47.269982", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T16:36:47.270392", "endpoint": "/api/tenders/navigation/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T16:36:49.289174", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/link", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T20:40:36.141249", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T20:40:36.187914", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T20:40:36.398434", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T20:40:36.406921", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T20:40:39.978098", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T20:40:39.981254", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T20:40:39.982295", "endpoint": "/api/tenders/navigation/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T20:40:40.228290", "endpoint": "/api/tenders/navigation/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T20:40:40.298169", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T20:40:40.301536", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T20:40:41.118788", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T20:40:43.956901", "endpoint": "/api/przetarg/2025-06-30_Uniwersytet Jana Kochanowskiego w Kielcach_2025-08-05/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T21:21:49.485862", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T21:21:49.486905", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T21:21:49.487207", "endpoint": "/api/tenders/navigation/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-17T21:21:50.526914", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/link", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T09:58:55.462370", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T09:58:55.535901", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T09:58:55.722341", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T09:58:55.735183", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T09:59:04.631269", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T09:59:04.631769", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T09:59:04.935553", "endpoint": "/api/tenders/navigation/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T09:59:04.942986", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T09:59:04.943475", "endpoint": "/api/przetarg/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T09:59:05.244476", "endpoint": "/api/tenders/navigation/2025-06-27_Zakład Ubezpieczeń Społecznych_2025-08-04", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T11:15:45.344001", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T11:15:45.600521", "endpoint": "/api/tenders", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T11:15:45.698497", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T11:15:45.971816", "endpoint": "/api/przetarg/2025-06-30_Miasto Bielsko-Biała Urząd Miejski w Bielsku-Białej_2025-07-29/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T11:15:59.210991", "endpoint": "/api/przetarg/2025-07-09_Starostwo Powiatowe w Krakowie_2025-08-11/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T11:16:02.705580", "endpoint": "/api/tenders/navigation/2025-07-09_Starostwo Powiatowe w Krakowie_2025-08-11", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T11:16:02.704581", "endpoint": "/api/przetarg/2025-07-09_Starostwo Powiatowe w Krakowie_2025-08-11/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T11:16:02.705241", "endpoint": "/api/przetarg/2025-07-09_Starostwo Powiatowe w Krakowie_2025-08-11/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T11:16:02.961162", "endpoint": "/api/przetarg/2025-07-09_Starostwo Powiatowe w Krakowie_2025-08-11/files", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T11:16:03.041459", "endpoint": "/api/przetarg/2025-07-09_Starostwo Powiatowe w Krakowie_2025-08-11/summary", "method": "GET", "params": {}, "status": 200, "error": null}
+{"timestamp": "2025-07-18T11:16:03.042318", "endpoint": "/api/tenders/navigation/2025-07-09_Starostwo Powiatowe w Krakowie_2025-08-11", "method": "GET", "params": {}, "status": 200, "error": null}

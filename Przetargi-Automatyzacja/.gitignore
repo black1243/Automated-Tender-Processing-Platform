@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+*.egg-info/
+.DS_Store
+
+# System
+Thumbs.db
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Mac
+*.DS_Store
+
+# Backup
+*.bak
+*.swp
+
+# Output
+output/ 
