@@ -59,7 +59,7 @@ graph TD
   E --> F
   F --> G
   E --> G
-  B -- "(Planned: Automated Fetch)" -->|"Gmail/Drive"| C
+  B -- "(Planned: Automated Fetch: Gmail/Drive)" --> C
 ```
 
 ---
@@ -147,3 +147,4 @@ MIT License
 **Bugs to Fix:**  
 - Optimize row searching  
 - Skip empty rows 
+
