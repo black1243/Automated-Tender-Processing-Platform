@@ -134,11 +134,11 @@ graph TD
 
     subgraph "Stage 3: The Strategy Hub (The Human 'Cockpit')"
         D["Unified Tender Dashboard"]
-        D1["- Tender 360° View & Summary"]
-        D2["- Compliance & Risk Score Report"]
-        D3["- Competitive Intelligence Report"]
-        D4["- Auto-Generated To-Do List"]
-        D5["- Human Review & Edit Interface"]
+        D1["Tender 360 View\n& Summary"]
+        D2["Compliance & Risk\nScore Report"]
+        D3["Competitive Intelligence\nReport"]
+        D4["Auto-Generated\nTo-Do List"]
+        D5["Human Review\n& Edit Interface"]
     end
     
     subgraph "Interactive Tools"
@@ -147,9 +147,9 @@ graph TD
 
     subgraph "Stage 4: Action & Proposal Generation"
         F["Dynamic Proposal Generator"]
-        G["- Drafts Narrative (Exec Summary, etc.)"]
-        G1["- Populates Compliance Forms"]
-        G2["- Generates Costing Sheet / Product Match"]
+        G["Draft Narrative\n(Exec Summary, etc.)"]
+        G1["Populate\nCompliance Forms"]
+        G2["Generate Costing Sheet\n& Product Match"]
         H["Final Human Review & Approval"]
     end
 
@@ -174,7 +174,7 @@ graph TD
     
     C1 --> D1
 
-    D -- "Presents All Data In" --> D1 & D2 & D3 & D4 & D5
+    D --> D1 & D2 & D3 & D4 & D5
 
     E -- "Queries" --> DB1
     E -- "Accessible From" --> D
