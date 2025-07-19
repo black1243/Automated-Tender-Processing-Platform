@@ -120,10 +120,10 @@ graph TD
 
     subgraph "Stage 2: The Core AI Engine (The 'Brain')"
         B["Document Parser & Cleaner\n(PDF, DOCX, ZIP, etc.)"]
-        C1["1. Key Data Extraction\n(Deadlines, Requirements, Entities)"]
-        C2["2. RAG System Indexing\n(All text chunked and stored in Vector DB)"]
-        C3["3. Compliance & Risk Analysis\n(Checks requirements against company profile)"]
-        C4["4. Competitive Intelligence\n(Analyzes against historical data)"]
+        C1["Key Data Extraction\n(Deadlines, Requirements, Entities)"]
+        C2["RAG System Indexing\n(All text chunked and stored in Vector DB)"]
+        C3["Compliance & Risk Analysis\n(Checks requirements against company profile)"]
+        C4["Competitive Intelligence\n(Analyzes against historical data)"]
     end
 
     subgraph "Data & Knowledge Stores"
@@ -174,8 +174,6 @@ graph TD
     
     C1 --> D1
 
-    D1 & D2 & D3 --> D4 & D5
-    
     D -- "Presents All Data In" --> D1 & D2 & D3 & D4 & D5
 
     E -- "Queries" --> DB1
