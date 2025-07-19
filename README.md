@@ -1,132 +1,149 @@
-# Przetargi-Automatyzacja
+# Automated Tender Processing Platform
 
-> **Automated Tender Processing Platform**
+## The Problem
 
-## What is this project?
-Przetargi-Automatyzacja is a full-stack system for automated collection, extraction, and management of public tender documents. It solves the problem of time-consuming manual review and organization of tenders by providing:
-- Automated document fetching and extraction (PDF, DOCX, ZIP, etc.)
-- AI-powered summary and text analysis (with structured sections)
-- Google Drive/Gmail integration
-- Modern web interface for browsing, reviewing, and editing tenders
+Processing public tenders manually is a nightmare: every week, organizations receive dozens of complex documents (PDFs, DOCXs, ZIPs) from various sources. Staff must download, extract, read, and summarize hundreds of pages, then organize everything into folders, track deadlines, and ensure compliance. This process is slow, error-prone, and makes it easy to miss critical details or deadlines—costing time, money, and peace of mind.
 
-## What problem does it solve?
-Manual tender management is slow, error-prone, and hard to scale. This project automates the process, making it faster, more reliable, and accessible from anywhere.
+## The Solution
+
+**Our platform** automates the entire tender workflow. It fetches documents from email or Google Drive(for this project), extracts and cleans their contents, and uses AI to generate structured summaries. With a modern web interface, you can browse, review, and edit tenders in minutes—not hours. No more manual sorting, no more missed deadlines, and no more copy-pasting between files.
 
 ---
 
-## 🚀 Live Demo
-> **Note:** PostgreSQL database, cloud deployment (Render, Vercel), and public demo will be introduced in the future. For now, the prototype works locally using file/folder storage and local servers only.
->
-> - **Frontend (Vercel):** _coming soon_
-> - **Backend (Render):** _coming soon_
+## 🚀 Live Demo / Video
+
+- **Live Demo:** in Preparaion
 
 ---
 
-## 🗺️ System Structure & Functionality
+## ✨ Key Features & Screenshots
+
+- **Automated Document Import**
+  - Fetch tenders from Gmail or Google Drive with one click.
+  - _![Screenshot: Import screen](path/to/import_screenshot.png)_
+- **AI-Powered Summaries**
+  - Instantly generate structured summaries with sections like “Product Specs”, “Exclusions”, “Special Conditions”, and “Summary”.
+  - _![Screenshot: AI summary](path/to/summary_screenshot.png)_
+- **File Navigation & Preview**
+  - Browse all files (PDF, DOCX, TXT) for each tender in a clean sidebar.
+  - _![Screenshot: File list](path/to/filelist_screenshot.png)_
+- **Editable Notes**
+  - Add and save your own notes for each tender, right in the web UI.
+  - _![Screenshot: Notes editor](path/to/notes_screenshot.png)_
+- **Timeline View**
+  - See all upcoming tenders in a timeline, with deadlines and quick navigation.
+  - _![Screenshot: Timeline](path/to/timeline_screenshot.png)_
+- **(Planned) AI Chat**
+  - Chat with an AI about the tender’s requirements and documents. _(Coming soon)_
+- **(Planned) Cloud & Database**
+  - PostgreSQL integration and cloud deployment for team access and reliability.
+
+---
+
+## 🗺️ How It Works
 
 ```mermaid
 graph TD
-  subgraph User Interface
-    A["User (Browser)"]
-    B["Frontend (React)"]
-  end
-  subgraph Backend & Processing
-    C["Flask API"]
-    D["Tender Processing Pipeline"]
-    E["AI Summarization & Section Extraction"]
-    F["Google Drive/Gmail Integration"]
-    G["File/Text Extraction & Cleaning"]
-    H["File Storage (output/)"]
-  end
-  subgraph Data & Storage
-    I["output/ directory"]
-    J["Google Drive"]
-    K["(Planned) PostgreSQL DB"]
-  end
+  A["User"]
+  B["Import Documents\n(Gmail, Google Drive, Manual Upload)"]
+  C["Document Extraction & Cleaning\n(PDF, DOCX, ZIP)"]
+  D["AI-Powered Summary & Section Extraction"]
+  E["Review & Edit in Web UI"]
+  F["Organized Storage\n(Per-Tender Folders)"]
+  G["Export, Share, or Archive"]
 
-  A -- "Web UI" --> B
-  B -- "REST API" --> C
-  C -- "Trigger processing, serve data" --> D
-  D -- "Extract, clean, organize files" --> G
-  D -- "Fetch from Gmail/Drive" --> F
-  D -- "Invoke AI for summary/sections" --> E
-  E -- "Write structured summary (sections)" --> H
-  G -- "Save cleaned files" --> H
-  F -- "Store/retrieve docs" --> J
-  H -- "Serve files/summaries" --> C
-  C -- "Serve summaries, files, navigation" --> B
-  D -- "(Planned) DB sync" --> K
+  A --> B
+  B --> C
+  C --> D
+  D --> E
+  E --> F
+  F --> G
+  E --> G
+  B -- "(Planned: Automated Fetch)" -->|"Gmail/Drive"| C
 ```
-
-### Main Functional Sections
-- **Document Fetching**: Automated download from Gmail/Google Drive, manual upload (future)
-- **Extraction & Cleaning**: Convert PDFs/DOCX/ZIP to text, clean and organize into per-tender folders
-- **AI Processing**: Generate structured summaries with clear sections:
-  - SPECYFIKACJA PRODUKTÓW
-  - WYKLUCZENIA
-  - WARUNKI SPECJALNE
-  - PODSUMOWANIE
-  - (Editable) NOTATKI
-- **Web Interface**: Browse tenders, preview files, view/edit summaries by section, AI chat (planned)
-- **Navigation**: Timeline, next/previous tender, search (future)
-- **API**: Serve files, summaries, navigation, and accept edits
-- **(Planned) DB/Cloud**: PostgreSQL, Render/Vercel deployment
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-in%20progress-lightgrey?style=for-the-badge&logo=postgresql&logoColor=white)
-![Render](https://img.shields.io/badge/Render-in%20progress-lightgrey?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-in%20progress-lightgrey?style=for-the-badge&logo=vercel&logoColor=white)
-
-> **Note:** PostgreSQL, Render, and Vercel are planned for future releases. The current version works locally with file-based storage.
+- **Frontend:** React (with Tailwind CSS)
+- **Backend:** Python (Flask)
+- **AI & NLP:** OpenAI API (or similar, for summaries)
+- **Storage:** Local file system (current), PostgreSQL (planned)
+- **Integrations:** Google Drive, Gmail, (current, fetching tenders data)
+- **Deployment:** Local (current), Vercel/Render (planned)
 
 ---
 
-## 🏁 Local Setup
+## 🧭 My Process & Learnings
 
-### 1. Backend (Python/Flask)
-```bash
-cd Przetargi-Automatyzacja
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt  # Install backend dependencies
-# Add your .env file and Google API credentials as described in the backend README
-python api.py
-```
+I started by identifying the biggest bottleneck: manual data entry and document sorting. To solve this, I prioritized building an automated import and extraction pipeline. The next challenge was generating clear, actionable summaries from messy, unstructured documents—so I integrated AI to extract and organize key sections. One major challenge was handling the wide variety of document formats and inconsistent data; I solved this by building robust extraction and cleaning routines, and by letting users edit and annotate summaries directly in the web interface. Throughout, I focused on making the UI intuitive and the workflow as automated as possible.
+---
 
-### 2. Frontend (React)
-```bash
-cd page  # Move to the frontend directory
-npm install  # Install frontend dependencies
-npm start
-```
-The frontend will be available at [http://localhost:3000](http://localhost:3000) and will proxy API requests to the backend at [http://localhost:5000](http://localhost:5000).
+## ✨ Ideal scenario
+
+The "Outcome-Focused" Narrative
+
+Our vision is to create a "zero-effort" tender processing system that transforms a complex, manual task into a strategic advantage. Imagine a world where your business no longer hunts for opportunities; they are delivered to you. The system proactively identifies and qualifies high-potential tenders perfectly matched to your company's profile. Before you even see it, the platform has already parsed every document, clarified ambiguities with the issuing authority via automated requests, and presented a crystal-clear summary.
+It doesn't just show you the tender; it prepares your victory. The platform instantly generates a draft proposal, complete with matching product suggestions from your catalog and a preliminary cost-benefit analysis. A dynamic to-do list flags the few critical items requiring human expertise, while an intelligent AI chat assistant stands ready to recall any piece of information from thousands of pages of documents instantly. The final step for a human is simple: review, approve, and submit a winning bid with confidence and speed. We're not just automating paperwork, we're engineering wins.
+
+---
+
+The "Intelligent Partner" Narrative
+
+We envision a future where applying for tenders is as simple as having a conversation with an expert partner. Our platform acts as that partner. It begins by curating a list of ideal tenders, saving you from the noise. For each opportunity, it provides a "360-Degree View," highlighting key requirements, flagging missing details, and even auto-generating clarification questions for the tender issuer.
+The core of the experience is an AI-powered "Deal Room." Here, the system suggests optimal product pairings, calculates project costs, and outlines a clear path to submission. A collaborative to-do list ensures every team member knows their task, from verifying product specs to confirming pricing. The backend RAG system eliminates the need for manual document searches—just ask, "What are the specific insurance requirements?" and get an instant, cited answer. The platform culminates in a perfectly prepared, pre-verified application package, turning a week of work into a few hours of strategic review.
+
+Idea 1: The "Competitive Intelligence" Module Concept: 
+
+The system doesn't just analyze the tender; it analyzes the competition. Using historical public tender data, it could predict:
+Likely Bidders: "Companies X and Y have bid on 80% of similar tenders in this region."
+Winning Price Analysis: "Tenders of this type typically win with a bid between $1.2M and $1.4M. Bids over $1.5M have a low success rate."
+Key Success Factors: "Historically, winning bids for this client have emphasized strong post-project support. We recommend highlighting this in your proposal."
+
+Idea 2: The "Automated Compliance & Risk Score"
+Concept: Every tender has dozens of legal, financial, and technical requirements. Your system could automatically generate a "Compliance Score."
+
+It would create a checklist of every single requirement (e.g., "Must have ISO 27001 certification," "Requires a 5-year warranty").
+It would then check against your company's stored profile and documents to see which ones you meet.
+It would output a score (e.g., "95% Compliance") and a clear list of the gaps ("Risk: We do not currently meet the required insurance liability of $5M.").
+## 📸 Screenshots
+
+> _Replace the image paths below with your actual screenshots!_
+
+- ![Import Screen](path/to/import_screenshot.png)
+- ![AI Summary](path/to/summary_screenshot.png)
+- ![File List](path/to/filelist_screenshot.png)
+- ![Notes Editor](path/to/notes_screenshot.png)
+- ![Timeline](path/to/timeline_screenshot.png)
 
 ---
 
 ## 📚 Documentation
-- [Backend details](Przetargi-Automatyzacja/README.md)
-- [Frontend details](page/README.md)
 
-Next features:
+- [Backend details](backend/README.md)
+- [Frontend details](frontend/README.md)
 
-- postgreSQL integration
-- render deploy
-- email for tenders preparing for automated sending
-- creating company profile
-- automated profile matching
-- past cyclical tenders for future work with them, for example every 3 years there is new przetarg for same tender
-- calendar with future tenders
-
-Bugs to be fixed:
-- optimize row searching
-- skip empty rows
--
+---
 
 ## License
-This project is licensed under the MIT License. 
+
+MIT License
+
+---
+
+**Next Steps:**  
+- PostgreSQL integration  
+- Cloud deployment (Render, Vercel)  
+- Automated tender email preparation  
+- Company profile management  
+- Automated profile-to-tender matching  
+- Recurring tender tracking  
+- Calendar integration for deadlines
+- Agents integration
+
+---
+
+**Bugs to Fix:**  
+- Optimize row searching  
+- Skip empty rows 
