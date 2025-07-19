@@ -107,6 +107,89 @@ Concept: Every tender has dozens of legal, financial, and technical requirements
 It would create a checklist of every single requirement (e.g., "Must have ISO 27001 certification," "Requires a 5-year warranty").
 It would then check against your company's stored profile and documents to see which ones you meet.
 It would output a score (e.g., "95% Compliance") and a clear list of the gaps ("Risk: We do not currently meet the required insurance liability of $5M.").
+
+## 🗺️ Vision
+graph TD
+    subgraph "Stage 1: Discovery & Ingestion"
+        A1["Automated Tender Sourcing\n(Public Portals, Email Monitoring)"]
+        A2["Manual Input\n(Gmail, Drive, File Upload)"]
+    end
+
+    subgraph "Stage 2: The Core AI Engine (The 'Brain')"
+        B["Document Parser & Cleaner\n(PDF, DOCX, ZIP, etc.)"]
+        C1["1. Key Data Extraction\n(Deadlines, Requirements, Entities)"]
+        C2["2. RAG System Indexing\n(All text chunked and stored in Vector DB)"]
+        C3["3. Compliance & Risk Analysis\n(Checks requirements against company profile)"]
+        C4["4. Competitive Intelligence\n(Analyzes against historical data)"]
+    end
+
+    subgraph "Data & Knowledge Stores"
+      DB1["Vector Database\n(For RAG System)"]
+      DB2["Company Profile\n(Certs, Capabilities, Products)"]
+      DB3["Historical Tender Database\n(Past Bids, Outcomes, Competitors)"]
+    end
+
+    subgraph "Stage 3: The Strategy Hub (The Human 'Cockpit')"
+        D["Unified Tender Dashboard"]
+        D1["- Tender 360° View & Summary"]
+        D2["- Compliance & Risk Score Report"]
+        D3["- Competitive Intelligence Report"]
+        D4["- Auto-Generated To-Do List"]
+        D5["- Human Review & Edit Interface"]
+    end
+    
+    subgraph "Interactive Tools"
+        E["AI Chat Assistant\n('Ask Your Documents Anything')"]
+    end
+
+    subgraph "Stage 4: Action & Proposal Generation"
+        F["Dynamic Proposal Generator"]
+        G["- Drafts Narrative (Exec Summary, etc.)"]
+        G1["- Populates Compliance Forms"]
+        G2["- Generates Costing Sheet / Product Match"]
+        H["Final Human Review & Approval"]
+    end
+
+    subgraph "Stage 5: Submission & Learning Loop"
+        I["Submission-Ready Package"]
+        J["Track Tender Outcome\n(Won / Lost / Price)"]
+        K["Feedback Loop"]
+    end
+
+    %% --- Connections ---
+    A1 --> B
+    A2 --> B
+    B --> C1 & C2 & C3 & C4
+
+    C2 --> DB1
+    
+    C3 -- "Compares With" --> DB2
+    C3 --> D2
+
+    C4 -- "Compares With" --> DB3
+    C4 --> D3
+    
+    C1 --> D1
+
+    D1 & D2 & D3 --> D4 & D5
+    
+    D -- "Presents All Data In" --> D1 & D2 & D3 & D4 & D5
+
+    E -- "Queries" --> DB1
+    E -- "Accessible From" --> D
+
+    D5 -- "Triggers" --> F
+    DB2 -- "Provides Content For" --> F
+    DB3 -- "Provides Context For" --> F
+
+    F --> G & G1 & G2
+    G & G1 & G2 --> H
+    H --> I
+
+    J -- "Updates" --> K
+    K -- "Enriches" --> DB3
+
+    ---
 ## 📸 Screenshots
 
 > _Replace the image paths below with your actual screenshots!_
