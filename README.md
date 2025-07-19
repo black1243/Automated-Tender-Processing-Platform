@@ -109,6 +109,9 @@ It would then check against your company's stored profile and documents to see w
 It would output a score (e.g., "95% Compliance") and a clear list of the gaps ("Risk: We do not currently meet the required insurance liability of $5M.").
 
 ## 🗺️ Vision
+
+```mermaid
+
 graph TD
     subgraph "Stage 1: Discovery & Ingestion"
         A1["Automated Tender Sourcing\n(Public Portals, Email Monitoring)"]
@@ -188,7 +191,7 @@ graph TD
 
     J -- "Updates" --> K
     K -- "Enriches" --> DB3
-
+```
     ---
 ## 📸 Screenshots
 
