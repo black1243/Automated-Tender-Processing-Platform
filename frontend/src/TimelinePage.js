@@ -359,11 +359,11 @@ export default function TimelinePage() {
             <div className="text-red-400 py-8">{summaryError}</div>
           ) : (
             <SectionDisplay
-              title="Podsumowanie"
+              title="Produkty"
               content={(() => {
                 // Extract only the Podsumowanie section from the summary markdown
                 if (!summary || summary === 'Brak podsumowania') return summary;
-                const regex = /## PODSUMOWANIE\s*([\s\S]*?)(?=\n## |$)/i;
+                const regex = /## SPECYFIKACJA PRODUKTÓW\s*([\s\S]*?)(?=\n## |$)/i;
                 const match = summary.match(regex);
                 return match ? match[1].trim() : summary;
               })()}
