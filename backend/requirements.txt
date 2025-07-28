@@ -7,7 +7,7 @@ google-auth-oauthlib
 requests
 python-dotenv
 PyPDF2
-docx
+python-docx
 bs4
 py7zr
 rarfile
